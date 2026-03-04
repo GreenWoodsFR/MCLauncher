@@ -5,7 +5,18 @@
   "loaderVersion": "47.4.0",
   "releaseDate": "2026-03-04T00:12:39.929Z",
   "changelog": "## Test",
-  "mods": [],
+  "mods": [
+    {
+      "id": "9cf38281-fa7f-4330-986a-a4a960dc50ea",
+      "name": "ad astra forge 1.20.1 1.15.20",
+      "filename": "ad_astra-forge-1.20.1-1.15.20.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.2.0-mods/ad_astra-forge-1.20.1-1.15.20.jar",
+      "sha256": "99e274894af7c3b01622a74775a9960b5857b35951888414e733f8c2ec683f26",
+      "required": true,
+      "side": "both",
+      "version": "1.0.0"
+    }
+  ],
   "configFiles": [
     {
       "path": "configs/ad_astra.jsonc",
