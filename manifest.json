@@ -25,6 +25,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.0"
+    },
+    {
+      "id": "1db29791-d831-4a21-9bb9-a93f6c8bcc42",
+      "name": "resourcefulconfig forge 1.20.1 2.1.3",
+      "filename": "resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.0-mods/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+      "sha256": "c404b9e5cf8595427a72d4ca6ee5730289168762b463f169be3ae5dfe3727ded",
+      "required": true,
+      "side": "both",
+      "version": "1.0.0"
     }
   ],
   "configFiles": [
