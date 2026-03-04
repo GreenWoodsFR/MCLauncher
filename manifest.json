@@ -45,6 +45,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.0"
+    },
+    {
+      "id": "01b42ff4-55ea-4e68-8e5d-cd015ed9526b",
+      "name": "immersive aircraft 1.4.0+1.20.1 forge",
+      "filename": "immersive_aircraft-1.4.0+1.20.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.1-mods/immersive_aircraft-1.4.0%2B1.20.1-forge.jar",
+      "sha256": "45dd68b6707b3eeae0c958d0242b29ec03cdd0d8fc88af20761661ebf3c456cd",
+      "required": true,
+      "side": "both",
+      "version": "1.0.0"
     }
   ],
   "configFiles": [
