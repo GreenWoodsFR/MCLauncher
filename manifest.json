@@ -6,5 +6,11 @@
   "releaseDate": "2026-03-04T00:12:39.929Z",
   "changelog": "## Test",
   "mods": [],
-  "configFiles": []
+  "configFiles": [
+    {
+      "path": "configs/ad_astra.jsonc",
+      "sha256": "52e9c20de34fd2fd4c0410697538922c8a63591da58117c40c88c681e08f7264",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra.jsonc"
+    }
+  ]
 }
