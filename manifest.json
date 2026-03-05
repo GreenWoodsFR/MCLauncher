@@ -3332,6 +3332,11 @@
       "path": "configs/alexsmobs/triops_spawns.json",
       "sha256": "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/triops_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/crow_spawns.json",
+      "sha256": "cace87b5d504be10d1fff107ad14349066ae1c39d5200a7a29bdd5476167d9b8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/crow_spawns.json"
     }
   ]
 }
