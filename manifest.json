@@ -235,6 +235,16 @@
       "required": true,
       "side": "both",
       "version": "all"
+    },
+    {
+      "id": "140dd8cf-d603-442b-a7ae-36ab7be2d61e",
+      "name": "Arsdelight",
+      "filename": "arsdelight-1.1.6.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/arsdelight-1.1.6.jar",
+      "sha256": "c7dece12b06a49f56c046e15c5c85983bbdb2063384964e66c11494771f07d79",
+      "required": true,
+      "side": "both",
+      "version": "1.1.6"
     }
   ],
   "configFiles": []
