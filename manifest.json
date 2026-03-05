@@ -4737,6 +4737,11 @@
       "path": "configs/ftbquests/quests/reward_tables/powah_orb.snbt",
       "sha256": "95d88d9675533df16ccdb056c9ceaf265c1a124d269c1f2314e563572d50096b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_orb.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/uncommon.snbt",
+      "sha256": "9fbca54994a0d80a44773a1df86c54cfd731b282ff5892ee6c2d21b9857ddae1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/uncommon.snbt"
     }
   ]
 }
