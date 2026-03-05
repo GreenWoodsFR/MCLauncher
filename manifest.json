@@ -3552,6 +3552,11 @@
       "path": "configs/alexsmobs/lobster_spawns.json",
       "sha256": "bb0c918e8dbd4d003417a1bcabb38b8433d1f9be95fe6f8feef95d30616b49a7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/lobster_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/tusklin_spawns.json",
+      "sha256": "9ab4772704660c679ea30dff2db2c1272843e00675e2a7e610adcc6486120c3c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/tusklin_spawns.json"
     }
   ]
 }
