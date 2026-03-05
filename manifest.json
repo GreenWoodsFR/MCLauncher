@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/immersive_aircraft.json",
-      "sha256": "7e934f3c7ff3beaeb73d7242b68467fc62b779827c9cd3a79736fe79c93d4aec",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/immersive_aircraft.json"
-    },
-    {
       "path": "configs/inventoryessentials-common.toml",
       "sha256": "4ce24147be991d8010e9b22d2469f4a5a0ac38ae1946fbc72e2dc6e0061c6a07",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/inventoryessentials-common.toml"
