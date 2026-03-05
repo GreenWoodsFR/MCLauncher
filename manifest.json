@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/transition.json",
-      "sha256": "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/transition.json"
-    },
-    {
       "path": "configs/trashcans-common.toml",
       "sha256": "9098a40f3445da4e4e330750079d5629abe4632c211c6f8db11bb0dea829e5d8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/trashcans-common.toml"
