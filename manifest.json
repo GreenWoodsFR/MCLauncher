@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/enchantmenttransfer-common.toml",
-      "sha256": "7416d8a278c94ba928b4f5a3fb9f88f26222c84cf240c44f3843f1746284c817",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/enchantmenttransfer-common.toml"
-    },
-    {
       "path": "configs/enchdesc.json",
       "sha256": "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/enchdesc.json"
