@@ -4637,6 +4637,11 @@
       "path": "configs/ftbquests/quests/chapters/undergarden.snbt",
       "sha256": "592ae73a8880d527947c8099ac4d2a8ec343a542b158c5e8f06bd42cf760ded7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/undergarden.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/knighthood.snbt",
+      "sha256": "acfa1897de25949754682343f924ff49c9635ce4466b6f36fd24625584f7ee41",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/knighthood.snbt"
     }
   ]
 }
