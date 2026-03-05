@@ -1165,6 +1165,16 @@
       "required": true,
       "side": "both",
       "version": "1.2"
+    },
+    {
+      "id": "8c343263-e0ea-497d-8a99-62ab436779fc",
+      "name": "Fantasyfurniture",
+      "filename": "fantasyfurniture-1.20.1-9.0.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/fantasyfurniture-1.20.1-9.0.0.jar",
+      "sha256": "11035b688bb1018a7ebfdaa868ffe6ace87e533b678dcf3b689c15f79fe1af2c",
+      "required": true,
+      "side": "both",
+      "version": "9.0.0"
     }
   ],
   "configFiles": []
