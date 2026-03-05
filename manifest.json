@@ -2370,7 +2370,7 @@
       "id": "522195f8-93e2-4d27-952d-c126f87ba714",
       "name": "Starlight",
       "filename": "starlight-1.1.2+forge.1cda73c.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/starlight-1.1.2%2Bforge.1cda73c.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/starlight-1.1.2_forge.1cda73c.jar",
       "sha256": "e90763c86d362c7cb427dbb70e89985c11a882fdd69ae7d04ac2e23a106eb500",
       "required": true,
       "side": "both",
