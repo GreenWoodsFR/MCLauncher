@@ -4842,6 +4842,11 @@
       "path": "configs/ftbquests/quests/reward_tables/rare_gem_bag.snbt",
       "sha256": "2478f102d65a68d720eaf84fa70c480892a8eabd1f4cb5267c53bd572c0d0ca7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/rare_gem_bag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/mekanism.snbt",
+      "sha256": "6390b8cd6d9add9d824d2535b47636e0ac1f8eea147e38ca4fac9ed8afd4e07c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/mekanism.snbt"
     }
   ]
 }
