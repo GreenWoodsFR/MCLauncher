@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/shouldersurfing-client.toml",
-      "sha256": "0baf3ab1888a9068b326241610c7f8100d2221785d20053715e9b12be53959df",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/shouldersurfing-client.toml"
-    },
-    {
       "path": "configs/simplehats.json",
       "sha256": "ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplehats.json"
