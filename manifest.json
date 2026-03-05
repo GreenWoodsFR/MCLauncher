@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/tide.json",
-      "sha256": "2b259a2bb1f149b92507a95b260b0a04b4eef9a2c6e067dad1b93789c2dd3e11",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/tide.json"
-    },
-    {
       "path": "configs/toastcontrol-common.toml",
       "sha256": "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/toastcontrol-common.toml"
