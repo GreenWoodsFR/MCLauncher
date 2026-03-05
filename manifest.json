@@ -4097,6 +4097,11 @@
       "path": "configs/ars_nouveau/glyph_snare.toml",
       "sha256": "cfae464122aa1f4175a3ec94137f05e1adaa19af3ea70921c5bc000ac97da980",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_snare.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_rune.toml",
+      "sha256": "978214f42431cd238adc4e732695e23beaf46a07b5d50f66ea92de38f3e38458",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_rune.toml"
     }
   ]
 }
