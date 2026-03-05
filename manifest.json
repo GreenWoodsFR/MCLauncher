@@ -4442,6 +4442,11 @@
       "path": "configs/ftbquests/quests/chapters/welcome_to_bmc_forge_1192.snbt",
       "sha256": "8acdb37a5d8638b9143cc2ac76b355b139fffc1474611ad134886fc544f10afe",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/welcome_to_bmc_forge_1192.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/labdaveur.snbt",
+      "sha256": "67bdbe533189737fcc277f70372ff14a4ca73acdb472d3b5ffefaac3485bc810",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/labdaveur.snbt"
     }
   ]
 }
