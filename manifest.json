@@ -6787,6 +6787,11 @@
       "path": "configs/relics.yaml",
       "sha256": "4411078ac8d2107482e0f717576b1d9e1fa6c0938d11135a2541f4d8c2518278",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics.yaml"
+    },
+    {
+      "path": "configs/resourceful-config-web.json",
+      "sha256": "db6127bdfe41466ecf30dbc353ccf94e5787f169e01a782d25eac52bfcbfd960",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/resourceful-config-web.json"
     }
   ]
 }
