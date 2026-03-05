@@ -1,0 +1,877 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "6lboulangerre"
+	group: "18782192B0F905F8"
+	icon: "bakery:baguette"
+	id: "681A07E10F547B62"
+	order_index: 5
+	quest_links: [ ]
+	quests: [
+		{
+			id: "003809F9523182B4"
+			rewards: [
+				{
+					id: "5BA650EAA42B15B4"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 5
+					id: "17ED5EFB44915245"
+					item: "bakery:oat"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "072FE5D0AB2A93D3"
+					item: "bakery:sweet_dough"
+					type: "item"
+				}
+			]
+			size: 2.0d
+			tasks: [{
+				id: "2D09B80DEA241A00"
+				item: "bakery:brick_stove"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["003809F9523182B4"]
+			id: "6E6CD60805669774"
+			rewards: [
+				{
+					id: "5B500049512C8C5D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 5
+					id: "6B660790C54E9006"
+					item: "bakery:oat"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "15DB21010AE22E17"
+				item: "bakery:kitchen_sink"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["003809F9523182B4"]
+			id: "1DF47F56D9925E43"
+			rewards: [
+				{
+					id: "23AA16F967772BC5"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "2E49E2ECDCD30FBF"
+					item: "bakery:dough"
+					type: "item"
+				}
+				{
+					count: 10
+					id: "232B3E009494CEB8"
+					item: "bakery:oat"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2EB14F0A5A348184"
+				item: "bakery:baker_station"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "533314514D239DCE"
+			tasks: [{
+				id: "5023B8003E6D3F5D"
+				item: "bakery:chocolate_cake"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "56C46C48D72AE06C"
+			tasks: [{
+				id: "3CD13A657D63C169"
+				item: "bakery:sweetberry_cake"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "3E16807D8A3E5817"
+			tasks: [{
+				id: "0E10CC004F4584A1"
+				item: "bakery:strawberry_cake"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "5FC06CF91B3BFAE1"
+			tasks: [{
+				id: "09CC68759472E2ED"
+				item: "bakery:chocolate_tart"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "7ACCB522B799CC67"
+			tasks: [{
+				id: "0581D7205218F108"
+				item: "bakery:glowberry_tart"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "78C8B7BF7487D6C7"
+			tasks: [{
+				id: "544F2B8E904EABEE"
+				item: "bakery:apple_pie"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "12520B7FCC2B5628"
+			tasks: [{
+				id: "1736EC808628EC6E"
+				item: "bakery:linzer_tart"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "46134963A3E7CD87"
+			tasks: [{
+				id: "27128C6561DE6A78"
+				item: "bakery:bundt_cake"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "3F1219803CA301CA"
+			tasks: [{
+				id: "218249B581A23CA0"
+				item: "bakery:chocolate_gateau"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["14DDF49CD947A248"]
+			id: "4040ACDBB6CBE08B"
+			tasks: [{
+				id: "6AE652BA8CCDE31E"
+				item: "bakery:pudding"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["46134963A3E7CD87"]
+			id: "22724AD6E0BC579A"
+			tasks: [{
+				id: "4343D222183309A3"
+				item: "bakery:bundt_cake_slice"
+				type: "item"
+			}]
+			x: -4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["3E16807D8A3E5817"]
+			id: "17B647B74EEA68A8"
+			tasks: [{
+				id: "2266E28F3F5D4750"
+				item: "bakery:strawberry_cake_slice"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["533314514D239DCE"]
+			id: "7F846CE715EDA644"
+			tasks: [{
+				id: "6B97C24822223355"
+				item: "bakery:chocolate_cake_slice"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["56C46C48D72AE06C"]
+			id: "28F93AEACA0A19D6"
+			tasks: [{
+				id: "41D82CC0542AFEB0"
+				item: "bakery:sweetberry_cake_slice"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["3F1219803CA301CA"]
+			id: "1318B30C6732F775"
+			tasks: [{
+				id: "52E22CC4CCE969DB"
+				item: "bakery:chocolate_gateau_slice"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["5FC06CF91B3BFAE1"]
+			id: "439C9E29B6368941"
+			tasks: [{
+				id: "61D35CF1C64006D1"
+				item: "bakery:chocolate_tart_slice"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["7ACCB522B799CC67"]
+			id: "714950A513AE53C4"
+			tasks: [{
+				id: "7070D5E36F313E6D"
+				item: "bakery:glowberry_pie_slice"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12520B7FCC2B5628"]
+			id: "6147860F396E56A8"
+			tasks: [{
+				id: "4D2C2D09851E537C"
+				item: "bakery:linzer_tart_slice"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["78C8B7BF7487D6C7"]
+			id: "57759E8690A05658"
+			tasks: [{
+				id: "76418E65F26C8F18"
+				item: "bakery:apple_pie_slice"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["4040ACDBB6CBE08B"]
+			id: "0044FE380F321691"
+			tasks: [{
+				id: "413AB549B903CC92"
+				item: "bakery:pudding_slice"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			id: "0AADD689FD636646"
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "14D24C2792FB95CD"
+				item: "bakery:cake_dough"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -9.0d
+		}
+		{
+			id: "14DDF49CD947A248"
+			size: 2.0d
+			tasks: [{
+				id: "62525A8269333F9E"
+				item: "bakery:jar"
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["14DDF49CD947A248"]
+			id: "55E47A7B1ECB84E3"
+			tasks: [{
+				id: "7D971C23B220E34F"
+				item: "bakery:chocolate_jam"
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["14DDF49CD947A248"]
+			id: "78CFE8BB487D2122"
+			tasks: [{
+				id: "1DE4D958FA81CCF9"
+				item: "bakery:strawberry_jam"
+				type: "item"
+			}]
+			x: 14.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["14DDF49CD947A248"]
+			id: "61F9BB918FE589AC"
+			tasks: [{
+				id: "105F855740562353"
+				item: "bakery:sweetberry_jam"
+				type: "item"
+			}]
+			x: 14.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["14DDF49CD947A248"]
+			id: "6EB2822E07212CA7"
+			tasks: [{
+				id: "1A633A153BE3A43A"
+				item: "bakery:glowberry_jam"
+				type: "item"
+			}]
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["14DDF49CD947A248"]
+			id: "75DB76932152EB2A"
+			tasks: [{
+				id: "7397687EB47A578E"
+				item: "bakery:apple_jam"
+				type: "item"
+			}]
+			x: 12.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["276F10214D643245"]
+			id: "784CDA475230F215"
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "7DB770B2A2EC277C"
+				item: "bakery:dough"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["003809F9523182B4"]
+			id: "60D594B6A04EE18D"
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "52E88C034D4E9779"
+				item: "bakery:sweet_dough"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["003809F9523182B4"]
+			id: "7C2988220CA4E6F3"
+			tasks: [{
+				id: "245D5B4E7A94EAB8"
+				item: {
+					Count: 1
+					id: "bakery:small_cooking_pot"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["003809F9523182B4"]
+			id: "69BAA5F8CF55972E"
+			tasks: [{
+				id: "382BB4588902AC19"
+				item: {
+					Count: 1
+					id: "bakery:rolling_pin"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["003809F9523182B4"]
+			id: "285DE7A611737D48"
+			tasks: [{
+				id: "6F11950D55620E7B"
+				item: {
+					Count: 1
+					id: "bakery:bread_knife"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["003809F9523182B4"]
+			id: "276F10214D643245"
+			size: 2.0d
+			tasks: [{
+				id: "52ABB4BBA5D1BBF5"
+				item: "bakery:yeast"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["784CDA475230F215"]
+			id: "140DB259A9D39A5C"
+			tasks: [{
+				id: "34A7C00A052DA526"
+				item: "bakery:baguette"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["784CDA475230F215"]
+			id: "4F067B8F038AD801"
+			tasks: [{
+				id: "1BC62F756B2B9C1D"
+				item: "bakery:bread"
+				type: "item"
+			}]
+			x: -8.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "5789A07662DFF813"
+			tasks: [{
+				id: "4BF002B92C27F5E8"
+				item: "bakery:braided_bread"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["784CDA475230F215"]
+			id: "33F7FC2C9972D119"
+			tasks: [{
+				id: "11624E756722316A"
+				item: "bakery:toast"
+				type: "item"
+			}]
+			x: -8.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["784CDA475230F215"]
+			id: "75A8673AAF03F157"
+			tasks: [{
+				id: "03AD7FF1B223488E"
+				item: "bakery:crusty_bread"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["784CDA475230F215"]
+			id: "6A459256A3C6D9E8"
+			tasks: [{
+				id: "73387BD206B00808"
+				item: "bakery:bun"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "6745BE5D7E80E0B7"
+			tasks: [{
+				id: "2AE606A0202D16F8"
+				item: "bakery:croissant"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["6A459256A3C6D9E8"]
+			id: "36D38057066C795F"
+			tasks: [{
+				id: "1504C2484DDE69F5"
+				item: "bakery:sandwich"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["33F7FC2C9972D119"]
+			id: "54187BE9A6BDD42F"
+			tasks: [{
+				id: "6A9BB6EE046DD106"
+				item: "bakery:vegetable_sandwich"
+				type: "item"
+			}]
+			x: -9.5d
+			y: 10.5d
+		}
+		{
+			dependencies: ["140DB259A9D39A5C"]
+			id: "382C35C7C6BA83C0"
+			tasks: [{
+				id: "3374BDB2FD27C585"
+				item: "bakery:jam_roll"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 11.5d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "621893394FEA9263"
+			tasks: [{
+				id: "63BBFFAB5780B4A7"
+				item: "bakery:misslilitu_biscuit"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7C2988220CA4E6F3"]
+			id: "1579D01880963E0E"
+			tasks: [{
+				id: "0E4CE46A2EAF9C1F"
+				item: "bakery:chocolate_truffle"
+				type: "item"
+			}]
+			x: -5.5d
+			y: -2.0d
+		}
+		{
+			id: "14B92F6D02BEC57E"
+			size: 2.0d
+			tasks: [{
+				id: "4589251B0A656802"
+				item: "bakery:tray"
+				type: "item"
+			}]
+			x: 8.0d
+			y: -5.0d
+		}
+		{
+			dependencies: ["14B92F6D02BEC57E"]
+			id: "5770CAD969352B22"
+			tasks: [{
+				id: "3FB2AB97382F6F83"
+				item: "bakery:bread_crate"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -5.0d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "3049B04E21F9842D"
+			tasks: [{
+				id: "45F8EAD80D32A669"
+				item: "bakery:chocolate_glazed_cookie"
+				type: "item"
+			}]
+			x: -3.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "0227BCFC4C7D5424"
+			tasks: [{
+				id: "0B9AFFFFEA224ABB"
+				item: "bakery:strawberry_glazed_cookie"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "7F73CFCA70E5A078"
+			tasks: [{
+				id: "734589481075B3C2"
+				item: "bakery:sweetberry_glazed_cookie"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "0FC1739F9D738F6B"
+			tasks: [{
+				id: "350761BFAADBC9D3"
+				item: "bakery:waffle"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["1579D01880963E0E"]
+			id: "26245845EC4E8FCE"
+			tasks: [{
+				id: "1B15445606760640"
+				item: "bakery:chocolate_box"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "08D3624EAF8D66BA"
+			tasks: [{
+				id: "656D4098543BB8AF"
+				item: "bakery:misslilitu_biscuit"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "7F0506D5CD23C426"
+			tasks: [{
+				id: "7DA34F9BB18E831E"
+				item: "bakery:apple_cupcake"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -10.5d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "4AF2B44AEA29C14C"
+			tasks: [{
+				id: "6E08A0AEB773AEF2"
+				item: "bakery:sweetberry_cupcake"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["0AADD689FD636646"]
+			id: "4E69EC136869CABC"
+			tasks: [{
+				id: "60ECF213A4D474F1"
+				item: "bakery:strawberry_cupcake"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -9.0d
+		}
+		{
+			dependencies: ["60D594B6A04EE18D"]
+			id: "7D4385281E409446"
+			tasks: [{
+				id: "0A9863EF42E64FB0"
+				item: "bakery:cornet"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			dependencies: ["1DF47F56D9925E43"]
+			id: "21F1E741AEA412E0"
+			tasks: [{
+				id: "06E47A5FA26D12BF"
+				item: "bakery:brick_counter"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["21F1E741AEA412E0"]
+			id: "75C80E01630094A6"
+			tasks: [
+				{
+					id: "2D4E7FDAF1805B82"
+					item: "bakery:wall_cabinet"
+					type: "item"
+				}
+				{
+					id: "27BDC3AFBA3BB0D8"
+					item: "bakery:cabinet"
+					type: "item"
+				}
+				{
+					id: "6B92CC3F4822B603"
+					item: "bakery:drawer"
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["5F6708D5560AFFAD"]
+			id: "007711D13ABD6068"
+			tasks: [{
+				id: "45CB3E0C39FA08DC"
+				item: "bakery:cake_stand"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["007711D13ABD6068"]
+			id: "5F0556D49788F93C"
+			tasks: [{
+				id: "7D14226E72165FFA"
+				item: "bakery:cake_display"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5F6708D5560AFFAD"]
+			id: "0D0972DB24416B89"
+			tasks: [{
+				id: "1583DC235C15E6BE"
+				item: "bakery:wall_display"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0D0972DB24416B89"]
+			id: "7C1547575B4267B1"
+			tasks: [{
+				id: "3EEB3668C87C1ADE"
+				item: "bakery:cupcake_display"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6E6CD60805669774"]
+			id: "2A7B8D4D0C10E2B7"
+			tasks: [
+				{
+					id: "57C2881985103E3B"
+					item: "bakery:iron_chair"
+					type: "item"
+				}
+				{
+					id: "0B5CC0661512CCF1"
+					item: "bakery:iron_table"
+					type: "item"
+				}
+			]
+			x: -3.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2A7B8D4D0C10E2B7"]
+			id: "23C5DE7F7129316B"
+			tasks: [{
+				id: "31BEC472FA02CA1B"
+				item: "bakery:street_sign"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6E6CD60805669774"]
+			id: "5F6708D5560AFFAD"
+			tasks: [{
+				id: "760AD263349736F3"
+				item: "bakery:breadbox"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			id: "34DC46C8935859DC"
+			size: 2.0d
+			tasks: [{
+				id: "5E994F41C51762C1"
+				item: "bakery:bakery_standard"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 15.0d
+		}
+	]
+	title: " &6Boulanger(ère)"
+}
