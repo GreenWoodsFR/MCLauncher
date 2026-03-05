@@ -5262,6 +5262,11 @@
       "path": "configs/mobtimizations/MobsBlacklist.toml",
       "sha256": "9aac62640f93da076bb56cb9599ab5dca1cc0fdcd70aefb5ca680a90da027be9",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mobtimizations/MobsBlacklist.toml"
+    },
+    {
+      "path": "configs/mobtimizations/features-customization.toml",
+      "sha256": "76dfa266aad5984a159a995ab59355572625e158d1ba077991a14d86f94d9e65",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mobtimizations/features-customization.toml"
     }
   ]
 }
