@@ -4642,6 +4642,11 @@
       "path": "configs/ftbquests/quests/chapters/knighthood.snbt",
       "sha256": "acfa1897de25949754682343f924ff49c9635ce4466b6f36fd24625584f7ee41",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/knighthood.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/enchanteureuse.snbt",
+      "sha256": "9b875b42bc838f0a1cf7c027e922bf111efadf05140a9d34fcc4c0b8b2aeddb4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/enchanteureuse.snbt"
     }
   ]
 }
