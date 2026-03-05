@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/bettergrass.json5",
-      "sha256": "7f2edb6c63c513d0ff5f6b216da7cc1394da4f07c192ceab805bc3ead56cc798",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bettergrass.json5"
-    },
-    {
       "path": "configs/blueprint-client.toml",
       "sha256": "89ef9f568d793018db983b9f944e85876a4cebd408f8f4d2182b3c38fa44ef7e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/blueprint-client.toml"
