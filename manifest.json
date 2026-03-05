@@ -2515,6 +2515,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "81d81415-fb90-408a-ae27-b63f8046282f",
+      "name": "Trashcans",
+      "filename": "trashcans-1.0.18b-forge-mc1.20.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/trashcans-1.0.18b-forge-mc1.20.jar",
+      "sha256": "533c14cfcc5d99e4889d9cdddea2e2ef382febfd5ae5ecb3b0676538a1ccdda4",
+      "required": true,
+      "side": "both",
+      "version": "mc1.20"
     }
   ],
   "configFiles": []
