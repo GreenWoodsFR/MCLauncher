@@ -7027,6 +7027,11 @@
       "path": "configs/vinery.toml",
       "sha256": "fe8acd27cd79406ce57b35ef6c41fe2641faab6ce230e94e17554ca188b77e5f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/vinery.toml"
+    },
+    {
+      "path": "configs/voicechat-client.toml",
+      "sha256": "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/voicechat-client.toml"
     }
   ]
 }
