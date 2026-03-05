@@ -2305,6 +2305,16 @@
       "required": true,
       "side": "both",
       "version": "1.3.5.1505"
+    },
+    {
+      "id": "9301ad1e-035a-42fa-8437-d04e54da7c19",
+      "name": "Sophisticatedstorage",
+      "filename": "sophisticatedstorage-1.20.1-1.4.25.1488.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/sophisticatedstorage-1.20.1-1.4.25.1488.jar",
+      "sha256": "06a796152d724dba6f7aeabc00bf2697c048256b6b32f83e31e415450979a85a",
+      "required": true,
+      "side": "both",
+      "version": "1.4.25.1488"
     }
   ],
   "configFiles": []
