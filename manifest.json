@@ -1345,6 +1345,16 @@
       "required": true,
       "side": "both",
       "version": "7.0.8"
+    },
+    {
+      "id": "1757c8c2-71e2-4410-a7a3-b44b6f191afa",
+      "name": "Majruszs Enchantments",
+      "filename": "majruszs-enchantments-forge-1.20.1-1.10.8.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/majruszs-enchantments-forge-1.20.1-1.10.8.jar",
+      "sha256": "72bee9ecc0e23c40b59b3ee29b620765386ac7a43cb730182850cad261c9367e",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
