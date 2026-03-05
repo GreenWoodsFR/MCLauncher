@@ -1,0 +1,439 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "archeologue"
+	group: "18782192B0F905F8"
+	hide_quest_until_deps_complete: true
+	icon: {
+		Count: 1
+		id: "betterarcheology:iron_brush"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "6B755F01E63D1ADF"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["4324BBC85B578188"]
+			id: "404B26DF84787BA6"
+			rewards: [{
+				id: "2E5EB845086F5AAE"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "71243FE61C06889D"
+				item: {
+					Count: 1
+					id: "minecraft:brush"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["404B26DF84787BA6"]
+			id: "5BBF267FB0933749"
+			rewards: [{
+				id: "367ED1660A3BAB28"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "3EE62B36C8192243"
+				item: {
+					Count: 1
+					id: "betterarcheology:iron_brush"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["5BBF267FB0933749"]
+			id: "498FFE5D3451751A"
+			rewards: [{
+				id: "1FBA986C26016414"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5D7D349C0BCB62AD"
+				item: {
+					Count: 1
+					id: "betterarcheology:diamond_brush"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["498FFE5D3451751A"]
+			id: "17C22F1720727EF3"
+			rewards: [{
+				id: "02001EE69523F9C3"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "56EDB7D9B8D4C866"
+				item: {
+					Count: 1
+					id: "betterarcheology:netherite_brush"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			id: "1803AF52CDE1293B"
+			tasks: [{
+				id: "424E2F7A5BCC21DB"
+				item: "betterarcheology:creeper_fossil_head"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1803AF52CDE1293B"]
+			id: "01D02024DFAA62A6"
+			tasks: [{
+				id: "493F0E2AF0640DA5"
+				item: "betterarcheology:creeper_fossil_body"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["01D02024DFAA62A6"]
+			id: "433F16C2DF827C8E"
+			tasks: [{
+				id: "3735D96D3485AC63"
+				item: "betterarcheology:creeper_fossil"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["034D85D723612877"]
+			id: "51738771089A3005"
+			tasks: [{
+				id: "1B18E94E034863F5"
+				item: "betterarcheology:villager_fossil_body"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.5d
+		}
+		{
+			id: "034D85D723612877"
+			tasks: [{
+				id: "175516AAEA5BA00A"
+				item: "betterarcheology:villager_fossil_head"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			id: "6882606FA0AB9CB2"
+			tasks: [{
+				id: "01FB20DF68478BD3"
+				item: "betterarcheology:chicken_fossil_head"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["51738771089A3005"]
+			id: "24B7ACDDA7BF7334"
+			tasks: [{
+				id: "13CD6784F1CE29DE"
+				item: "betterarcheology:villager_fossil"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["6882606FA0AB9CB2"]
+			id: "47F9D65272BAA586"
+			tasks: [{
+				id: "697CAB0AC3A52FAE"
+				item: "betterarcheology:chicken_fossil_body"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["47F9D65272BAA586"]
+			id: "58697EE4FE90805F"
+			tasks: [{
+				id: "6A7D96AF3C0EE5E4"
+				item: "betterarcheology:chicken_fossil"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			id: "775D2A12C1793730"
+			tasks: [{
+				id: "12DDCB84892C8930"
+				item: "betterarcheology:ocelot_fossil_head"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["775D2A12C1793730"]
+			id: "16CC6A3A326996C7"
+			tasks: [{
+				id: "23BF2D9335D985E0"
+				item: "betterarcheology:ocelot_fossil_body"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["16CC6A3A326996C7"]
+			id: "4779E30D278EE573"
+			tasks: [{
+				id: "38A4FEBD3EF4710A"
+				item: "betterarcheology:ocelot_fossil"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "2452B2B5C62FC2BE"
+			tasks: [{
+				id: "756B4926D579FA12"
+				item: "betterarcheology:wolf_fossil_head"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2452B2B5C62FC2BE"]
+			id: "796AF9708F80CDE6"
+			tasks: [{
+				id: "4E8C254A50262FB1"
+				item: "betterarcheology:wolf_fossil_body"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["796AF9708F80CDE6"]
+			id: "3B7CAABE83636E3A"
+			tasks: [{
+				id: "31541C90D0B10233"
+				item: "betterarcheology:wolf_fossil"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.5d
+		}
+		{
+			id: "559E795084DF6EAF"
+			tasks: [{
+				id: "36822F8C523BF317"
+				item: "betterarcheology:sheep_fossil_head"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["559E795084DF6EAF"]
+			id: "4EB44B767B07FB97"
+			tasks: [{
+				id: "0FAA02CEC788A4DE"
+				item: "betterarcheology:sheep_fossil_body"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["4EB44B767B07FB97"]
+			id: "41A109D9EA12CAE8"
+			tasks: [{
+				id: "40D473D34A3C86CB"
+				item: "betterarcheology:sheep_fossil"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 8.5d
+		}
+		{
+			id: "4DF67FDB70F2D6F1"
+			tasks: [{
+				id: "5425E931B6E3F249"
+				item: "betterarcheology:guardian_fossil_head"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["4DF67FDB70F2D6F1"]
+			id: "48E778D2C20573C2"
+			tasks: [{
+				id: "09448D3E74F1B61D"
+				item: "betterarcheology:guardian_fossil_body"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["48E778D2C20573C2"]
+			id: "18DC42EEE19A5E1C"
+			tasks: [{
+				id: "15967F7D5CA1F53C"
+				item: "betterarcheology:guardian_fossil"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			icon_scale: 1.5d
+			id: "4324BBC85B578188"
+			rewards: [
+				{
+					id: "6728EB571D4F12BF"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "47F450057E62984C"
+					item: {
+						Count: 1
+						id: "minecraft:brush"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "5A8BD4E07A6C0BB2"
+				item: "betterarcheology:archeology_table"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			id: "7DB5BDA35D8B27E1"
+			rewards: [{
+				id: "2BEA96CD7800BE5B"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "60D95A488C256EBE"
+				item: {
+					Count: 1
+					id: "betterarcheology:torrent_totem"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 14.0d
+		}
+		{
+			id: "07EF05FC8BC84EAF"
+			rewards: [{
+				id: "6263C4CFDA11CD2F"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "622DA2F445D62981"
+				item: {
+					Count: 1
+					id: "betterarcheology:soul_totem"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.5d
+			y: 14.0d
+		}
+		{
+			id: "77E4BF7AD2F7747E"
+			rewards: [{
+				id: "57625929ED95F11E"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "23A64893CAAE4A13"
+				item: "betterarcheology:growth_totem"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 14.0d
+		}
+		{
+			id: "109CCCB7C93BDB4A"
+			rewards: [{
+				id: "65ED386CFFCCE2F7"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "42E578B0F4757F90"
+				item: "betterarcheology:radiance_totem"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 14.0d
+		}
+	]
+	title: " &6Archeologue"
+}

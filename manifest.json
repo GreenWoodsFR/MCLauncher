@@ -4522,6 +4522,11 @@
       "path": "configs/ftbquests/quests/chapters/to_the_end.snbt",
       "sha256": "8b14e71d04addeb1bb4045df9e738af67cb658d73bc676b2db0c7ccdb17ac1a1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/to_the_end.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/archeologue.snbt",
+      "sha256": "ed1c3f96023a4229d2a88fc06df111c4bc4b933b2b1cb6e4fe26ba39579d6e04",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/archeologue.snbt"
     }
   ]
 }
