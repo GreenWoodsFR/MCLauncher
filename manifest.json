@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/patchouli-client.toml",
-      "sha256": "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/patchouli-client.toml"
-    },
-    {
       "path": "configs/piggyback.toml",
       "sha256": "194ada47b209c03eb48329db2058c478b478e9eb59ee3a2277d2dabaf1d1de0a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/piggyback.toml"
