@@ -4462,6 +4462,11 @@
       "path": "configs/ftbquests/quests/chapters/decoration.snbt",
       "sha256": "a7c1d856294a2ec2ae3fca75a39248ea0869af1747f2c0e22eb2edb4a6c1d086",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/decoration.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/l2e3fr37h.snbt",
+      "sha256": "01acdb317489efbe7dca035cf6578345179a2e42cbd04d3abbee7ef5a6d61d30",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l2e3fr37h.snbt"
     }
   ]
 }
