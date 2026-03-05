@@ -1,0 +1,301 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "flncampagne_principale"
+	group: ""
+	icon: {
+		Count: 1
+		id: "ftbquests:custom_icon"
+		tag: {
+			Icon: "stalwart_dungeons:textures/ancient_fire_particle.png"
+		}
+	}
+	id: "13A3822964BD31BB"
+	images: [
+		{
+			height: 1.5d
+			image: "minecraft:block/nether_portal"
+			rotation: 0.0d
+			width: 1.5d
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			height: 4.0d
+			image: "alexsmobs:textures/entity/void_worm/portal/portal_idle_2.png"
+			rotation: 0.0d
+			width: 4.0d
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			height: 3.0d
+			image: "supplementaries:textures/map_marker/twilight_portal.png"
+			rotation: 0.0d
+			width: 3.0d
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			height: 1.0d
+			image: "aether:block/miscellaneous/aether_portal"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "aether:item/miscellaneous/aether_portal_frame_inside"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "cataclysm:textures/entity/leviathan/portal/abyss_portal_grow_7.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -4.5d
+		}
+		{
+			height: 1.0d
+			image: "undergarden:block/undergarden_portal"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "twilightforest:block/portal_barrier"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "alexsmobs:textures/advancement_background.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.0d
+			y: -6.0d
+		}
+		{
+			height: 1.0d
+			image: "deeperdarker:block/otherside_portal"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "stalwart_dungeons:textures/ancient_fire_particle.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "apotheosis:textures/advancements/bg/apoth.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.0d
+			y: -5.5d
+		}
+		{
+			height: 1.0d
+			image: "quark:textures/attribute/attack_range.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "quark:textures/attribute/attack_damage.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -3.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/accept.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "ftbteams:textures/add.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.0d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "quark:textures/attribute/swim_speed.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -2.5d
+		}
+		{
+			height: 1.0d
+			image: "quark:textures/attribute/attack_speed.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -10.0d
+			y: -1.0d
+		}
+		{
+			height: 1.0d
+			image: "supplementaries:block/cannon_target"
+			rotation: 0.0d
+			width: 1.0d
+			x: -11.5d
+			y: -1.0d
+		}
+	]
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "minecraft:diamond_ore"
+			id: "3126F492CE75846B"
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				id: "0516EE33421F9E72"
+				item: "minecraft:diamond"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "supplementaries:textures/map_marker/nether_portal.png"
+				}
+			}
+			id: "3A8EB3E3D85CFCD8"
+			shape: "octagon"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "692496CDCFA9D819"
+				type: "dimension"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "6528EFA75D786A96"
+			tasks: [{
+				id: "08F2841949C58B29"
+				item: {
+					Count: 1
+					id: "minecraft:diamond_pickaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "minecraft:textures/entity/end_portal.png"
+				}
+			}
+			id: "1A8D510A577D6D98"
+			tasks: [{
+				dimension: "minecraft:the_end"
+				id: "431E4277D02D86DE"
+				type: "dimension"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			id: "2BF38184315BCFCD"
+			shape: "octagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				icon: "twilightforest:twilight_portal_miniature_structure"
+				id: "40B79E2CD67F2624"
+				type: "dimension"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			id: "1998AAAD88C0662F"
+			tasks: [{
+				dimension: "aether:the_aether"
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "supplementaries:textures/map_marker/aether_portal.png"
+					}
+				}
+				id: "5C00F70EAB0B8F76"
+				type: "dimension"
+			}]
+			x: 8.5d
+			y: 0.0d
+		}
+		{
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "the_bumblezone:item/bumble_bee_chestplate_1"
+				}
+			}
+			id: "5C9313B45898CB3A"
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				id: "106ED33931FC6633"
+				type: "dimension"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "2A0B500690B8D90D"
+			tasks: [{
+				dimension: "aquatica:eternal_deep"
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "deeperdarker:item/heart_of_the_deep"
+					}
+				}
+				id: "4EE73236B182169A"
+				type: "dimension"
+			}]
+			x: 11.5d
+			y: 0.0d
+		}
+	]
+	title: " &4&l&nCampagne Principale"
+}

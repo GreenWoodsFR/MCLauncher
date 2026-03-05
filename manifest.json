@@ -4487,6 +4487,11 @@
       "path": "configs/ftbquests/quests/chapters/6lboulangerre.snbt",
       "sha256": "e71af2a0d9734df51fa398531eae5a6b5089642343c652fcdda42f933c025b88",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/6lboulangerre.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/flncampagne_principale.snbt",
+      "sha256": "1042396ad61803371f70a262a242a357453c7309e59b76a60e6f99778f229377",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/flncampagne_principale.snbt"
     }
   ]
 }
