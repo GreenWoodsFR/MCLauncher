@@ -355,6 +355,16 @@
       "required": true,
       "side": "both",
       "version": "0.4.2.25"
+    },
+    {
+      "id": "de30e910-9d71-45af-a05d-0018abb924c9",
+      "name": "Betterarcheology",
+      "filename": "betterarcheology-1.2.1-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/betterarcheology-1.2.1-1.20.1.jar",
+      "sha256": "4180f72ec4b69690ec160ac50e48c087f0fe7c98681dcd1f70d82ed5cbfeec9e",
+      "required": true,
+      "side": "both",
+      "version": "1.2.1"
     }
   ],
   "configFiles": []
