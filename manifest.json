@@ -6062,6 +6062,11 @@
       "path": "configs/comicsbubbleschat-client.toml",
       "sha256": "aaea689a5d50759ab7024bb15ef253b78cea7694f7b146538fc30f293f267c32",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/comicsbubbleschat-client.toml"
+    },
+    {
+      "path": "configs/configapi-client.cfg",
+      "sha256": "14e1e1b3f37969610c80777f3e2c6d4cd351757257f709ed6bb0e92a6822a403",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/configapi-client.cfg"
     }
   ]
 }
