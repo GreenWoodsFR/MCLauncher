@@ -1655,6 +1655,16 @@
       "required": true,
       "side": "both",
       "version": "?"
+    },
+    {
+      "id": "7e76272f-0a29-45f5-98eb-c5ab2a2ae300",
+      "name": "OctoLib",
+      "filename": "OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/OctoLib-FORGE-0.5.0.1%2B1.20.1.jar",
+      "sha256": "5bb146c691f2c5054752f006a61aab6335ecb1cd9718a9643733de5367971047",
+      "required": true,
+      "side": "both",
+      "version": "0.5.0.1"
     }
   ],
   "configFiles": []
