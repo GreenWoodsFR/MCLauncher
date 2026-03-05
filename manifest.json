@@ -4602,6 +4602,11 @@
       "path": "configs/ftbquests/quests/chapters/twilight_forest.snbt",
       "sha256": "df6967b8b64fa0efab378bab4a361e6876bd337e72697c5d500a207657c1f7e0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/twilight_forest.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/4mars.snbt",
+      "sha256": "dbd4fc8759db462b602949dad521bf1b13cf3dd2176309c72aebc54c5411dd09",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/4mars.snbt"
     }
   ]
 }
