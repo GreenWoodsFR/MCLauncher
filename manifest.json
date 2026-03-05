@@ -2555,6 +2555,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.24"
+    },
+    {
+      "id": "0931954e-e949-42d9-971d-613e39291929",
+      "name": "VillagersPlus 3.1 (FORGE) For 1.20.1",
+      "filename": "VillagersPlus_3.1_(FORGE)_for_1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/VillagersPlus_3.1_.FORGE._for_1.20.1.jar",
+      "sha256": "100d350afe85e7238dc9728da36f9167f4d94748b72dee778f75601346393691",
+      "required": true,
+      "side": "both",
+      "version": "?"
     }
   ],
   "configFiles": []
