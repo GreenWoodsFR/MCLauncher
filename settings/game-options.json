@@ -12,11 +12,11 @@
   },
   "servers": [
     {
-      "name": "Hypixel",
-      "ip": "hypixel.net"
+      "name": "GreenWoods Vanilla",
+      "ip": "craft.greenwoods.garden"
     },
     {
-      "name": "GreenWoods",
+      "name": "GreenWoods Modded",
       "ip": "modded.greenwoods.garden"
     }
   ]
