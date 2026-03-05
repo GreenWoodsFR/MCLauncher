@@ -3717,6 +3717,11 @@
       "path": "configs/alexsmobs/mungus_spawns.json",
       "sha256": "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/mungus_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/blue_jay_spawns.json",
+      "sha256": "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/blue_jay_spawns.json"
     }
   ]
 }
