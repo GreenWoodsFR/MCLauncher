@@ -3967,6 +3967,11 @@
       "path": "configs/ars_nouveau/glyph_harm.toml",
       "sha256": "eedfd9803434311271c4a35d5be371f0f77ee7ddf3362e0f0a3752351e9717dc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_harm.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_redstone_signal.toml",
+      "sha256": "c8e6f726b377cef6d69cc00540c6aecc694eb151f49cc7be1971681b7762800e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_redstone_signal.toml"
     }
   ]
 }
