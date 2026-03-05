@@ -2795,6 +2795,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "86269232-a3f5-4df9-8937-93234553fa12",
+      "name": "Hole Filler Mod",
+      "filename": "hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/hole_filler_mod-1.2.8_mc-1.20.1_forge.jar",
+      "sha256": "4853477702d25c3e7b53957cf76e09675232690e0246177a77d8ebb750835bb9",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1_forge"
     }
   ],
   "configFiles": []
