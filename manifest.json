@@ -4127,6 +4127,11 @@
       "path": "configs/ars_nouveau/glyph_gust.toml",
       "sha256": "fcbadd937327eb9ea9545d2251d34b744f37f7156cf3a85dbd7a10899258e1f5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_gust.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_linger.toml",
+      "sha256": "54c3fe8c776d11071278d112fc1266c2d2aa1d4e9254adeb3980d4e45cfd6017",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_linger.toml"
     }
   ]
 }
