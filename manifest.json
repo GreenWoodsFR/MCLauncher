@@ -7052,6 +7052,11 @@
       "path": "configs/watut-server.toml",
       "sha256": "690202e25181bb7ab70d0cd61cf05fa84d45117764dc3bf3498457dc13309c65",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-server.toml"
+    },
+    {
+      "path": "configs/waystones-common.toml",
+      "sha256": "4cf1d13d8827bcdce75acadb1f3ea24732fd6fa6575ec8a261a37b21c481674d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/waystones-common.toml"
     }
   ]
 }
