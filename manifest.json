@@ -7022,6 +7022,11 @@
       "path": "configs/veinmining-server.toml",
       "sha256": "2b45944c73685e6a1d7fa19866e4541c1ebffc9ad763aef1c45d76aaf9744e00",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/veinmining-server.toml"
+    },
+    {
+      "path": "configs/vinery.toml",
+      "sha256": "fe8acd27cd79406ce57b35ef6c41fe2641faab6ce230e94e17554ca188b77e5f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/vinery.toml"
     }
   ]
 }
