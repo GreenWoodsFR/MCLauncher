@@ -6902,6 +6902,11 @@
       "path": "configs/soulbound-common.toml",
       "sha256": "288c97a95c4f8feb29173622d6fdc0497c9df2482af79d5e9e1d0f974e64f137",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/soulbound-common.toml"
+    },
+    {
+      "path": "configs/soulsweapons.json",
+      "sha256": "2a244e200a4f996161fb022255273da51227aedbb8e42f31ba7734638863c061",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/soulsweapons.json"
     }
   ]
 }
