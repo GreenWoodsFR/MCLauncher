@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/bosses_of_mass_destruction.json5",
-      "sha256": "a4522dbaee6d5d4532a3b55906a2a2740424be53ec215c70fbb8931165e81121",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bosses_of_mass_destruction.json5"
-    },
-    {
       "path": "configs/Butchery.toml",
       "sha256": "4d89dd7faea0e7e15f6176dcc5da1486aed28d86ce746ca537ed8491dc643d54",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Butchery.toml"
