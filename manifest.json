@@ -4982,6 +4982,11 @@
       "path": "configs/ftbquests/quests/reward_tables/common_gem_bag.snbt",
       "sha256": "ee574183c15e68cf56b1cbdf50832b4aa9c72e134a8dc592c2a481b9db84d767",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/common_gem_bag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/atm9_books.snbt",
+      "sha256": "53e20adb61690fc1c3edd9ea23e84b5f9102001bee39e72f9845e825f5188494",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/atm9_books.snbt"
     }
   ]
 }
