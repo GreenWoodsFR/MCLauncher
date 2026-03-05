@@ -5082,6 +5082,11 @@
       "path": "configs/ftbquests/quests/reward_tables/ThermalLootBag.snbt",
       "sha256": "1ffede4c020f9b4bc24a9d0eeb93e8e0b1f253982041b904cac7609aee0c4681",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/ThermalLootBag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/Tier5_SeedBag.snbt",
+      "sha256": "10634bfb710387437f9d748eb7c6ddef50fabf122ec7e3f36b151417e56b5e25",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/Tier5_SeedBag.snbt"
     }
   ]
 }
