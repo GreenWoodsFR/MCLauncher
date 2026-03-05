@@ -7997,6 +7997,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl",
       "sha256": "b1134d2f21aa74fbd9a73677566018e11a36961362bff28d78843b240e12491c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/water.glsl",
+      "sha256": "e031b0a147dea43b98f39462c6bd53c77daca1792935f0f05a05dfb0ea19eaea",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/water.glsl"
     }
   ]
 }
