@@ -4947,6 +4947,11 @@
       "path": "configs/ftbquests/quests/reward_tables/rare_mana_loot.snbt",
       "sha256": "f96c367cdc23468617e83fe0f46e89c0af9cb304a2fcc9308c1f93ba27b0011b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/rare_mana_loot.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/gt_ev_basic_rewards.snbt",
+      "sha256": "0291882a36d003b2256e7967f6746fe3fc6b2fa69eed5aba00472d1ac0070c0d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_ev_basic_rewards.snbt"
     }
   ]
 }
