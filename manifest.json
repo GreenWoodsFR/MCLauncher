@@ -4597,6 +4597,11 @@
       "path": "configs/ftbquests/quests/chapters/sorcierre.snbt",
       "sha256": "d76233a68830f38f44a35a1241f01c09bd2500372fe9688fa6c15760be38f97a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/sorcierre.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/twilight_forest.snbt",
+      "sha256": "df6967b8b64fa0efab378bab4a361e6876bd337e72697c5d500a207657c1f7e0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/twilight_forest.snbt"
     }
   ]
 }
