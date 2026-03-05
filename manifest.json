@@ -7482,6 +7482,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/antialiasing/fxaa.glsl",
       "sha256": "2cd61ba1c00fbd7a997a69ed6d48e3ded158f8ae31ccb1248cdd883ea7ec1bd1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/antialiasing/fxaa.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/uniforms.glsl",
+      "sha256": "f2dad027f4f65025af400ce2162735ca48af2d508b95ab8e612d37fedddbe8b2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/uniforms.glsl"
     }
   ]
 }
