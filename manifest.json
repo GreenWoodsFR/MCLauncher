@@ -3612,6 +3612,11 @@
       "path": "configs/alexsmobs/roadrunner_spawns.json",
       "sha256": "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/roadrunner_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/orca_spawns.json",
+      "sha256": "2e62ae273c3488a294068e5ed737dbf08791f4758cd3659308824d7bf4ece377",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/orca_spawns.json"
     }
   ]
 }
