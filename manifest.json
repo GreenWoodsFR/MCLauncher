@@ -370,7 +370,7 @@
       "id": "ad953efc-d864-46f6-8de5-33cf4503ee9b",
       "name": "Bettercombat",
       "filename": "bettercombat-forge-1.9.0+1.20.1.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/bettercombat-forge-1.9.0%2B1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/bettercombat-forge-1.9.0_1.20.1.jar",
       "sha256": "49c69dccf2c641246b4e3deca81ebac21f0ee119e81fc713b838b8e33569eea1",
       "required": true,
       "side": "both",
