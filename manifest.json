@@ -2085,6 +2085,16 @@
       "required": true,
       "side": "both",
       "version": "3.0.5"
+    },
+    {
+      "id": "5549b16a-ec15-4a6c-a674-abae01c3a6e4",
+      "name": "Rustic Engineer",
+      "filename": "rustic_engineer-1.1.4-forge-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/rustic_engineer-1.1.4-forge-1.20.1.jar",
+      "sha256": "bd8034b3135c87d26ab3477d4231f9fbd64a747574f2427611052eefe23b26df",
+      "required": true,
+      "side": "both",
+      "version": "1.1.4"
     }
   ],
   "configFiles": []
