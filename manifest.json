@@ -4612,6 +4612,11 @@
       "path": "configs/ftbquests/quests/chapters/netherite_advanced.snbt",
       "sha256": "da61caf588f2f2db2ee9072073403396abfc0765833fa7a32f394b8689f8601e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/netherite_advanced.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/marchande.snbt",
+      "sha256": "6ff6d3c8350774d3120daf2a2edb05422e4154041049fa297915d6b7526f9ae1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/marchande.snbt"
     }
   ]
 }

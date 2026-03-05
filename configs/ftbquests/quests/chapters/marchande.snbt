@@ -1,0 +1,219 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "marchande"
+	group: "18782192B0F905F8"
+	hide_quest_until_deps_complete: true
+	icon: "plushies:wandering_trader_plushie"
+	id: "41431895E05A8F25"
+	order_index: 17
+	quest_links: [ ]
+	quests: [
+		{
+			id: "45862555D6B8D642"
+			rewards: [
+				{
+					count: 16
+					id: "7AB90927C5C03B6F"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "6E610313C2E8DC42"
+					type: "xp"
+					xp: 100
+				}
+			]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "602F3690A0CD8B74"
+				item: "easy_villagers:trader"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["45862555D6B8D642"]
+			id: "0E27BF8D10A0BF09"
+			rewards: [
+				{
+					id: "2ED718A8A3887B90"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 32
+					id: "1716BE60F2073094"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4C2B941861442E6E"
+				item: "easy_villagers:auto_trader"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["45862555D6B8D642"]
+			id: "51CC72EDACA8C9FD"
+			rewards: [
+				{
+					count: 16
+					id: "4012B576F6771A90"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "447617FA81963F92"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "0B15BE22B1276286"
+				item: "easy_villagers:farmer"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["45862555D6B8D642"]
+			id: "3D8D56C3B4650C79"
+			rewards: [
+				{
+					count: 16
+					id: "67376C04AC09773C"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "7C8BA22D7C1ED28A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "40413D52A69845C6"
+				item: "easy_villagers:breeder"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["3D8D56C3B4650C79"]
+			id: "735D1E32B954785B"
+			rewards: [
+				{
+					id: "2798E80541AA7754"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 16
+					id: "2EF578E0C8E2AD44"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "29540DD3E682E23A"
+				item: "easy_villagers:incubator"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["51CC72EDACA8C9FD"]
+			id: "160E439059BC4A52"
+			rewards: [
+				{
+					count: 16
+					id: "6DDA641A44B6C874"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "37A4B20C394313E4"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			tasks: [{
+				id: "73D7A02BA3312805"
+				item: "easy_villagers:converter"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["45862555D6B8D642"]
+			id: "26F4C58C635E1F26"
+			rewards: [
+				{
+					id: "256526ABDF35D48A"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "115BA98E17A751A9"
+					item: "minecraft:raw_iron_block"
+					type: "item"
+				}
+				{
+					count: 16
+					id: "2894DBE32028D774"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "54D7A248BB144764"
+				item: "easy_villagers:iron_farm"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["26F4C58C635E1F26"]
+			id: "6ACB17C6879D9814"
+			rewards: [
+				{
+					count: 16
+					id: "6E59B4098D7212EF"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "2D4951446099DC36"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 5
+					id: "5F199AF7721CB581"
+					item: "minecraft:raw_gold_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "463C0684BFD5C3B5"
+				item: "easy_piglins:barterer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+	]
+	title: " &fMarchand(e)"
+}
