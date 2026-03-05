@@ -3992,6 +3992,11 @@
       "path": "configs/ars_nouveau/glyph_glide.toml",
       "sha256": "1147e5a83ddfca838ca50fea3a866fb5ab5f4294f16b030495d2e29050396e2b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_glide.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_summon_wolves.toml",
+      "sha256": "c6d0a464799d05dc8b746e977f94772fa30ea1586e97ae5c30375144176d370d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_summon_wolves.toml"
     }
   ]
 }
