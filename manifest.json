@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/lootr-common.toml",
-      "sha256": "8608b427ee774c20c04cdcd9044269bacd87d74c28497ca6c784a25286d4200f",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lootr-common.toml"
-    },
-    {
       "path": "configs/lunar-common.toml",
       "sha256": "977abb09cb83e224cde27a9f2927b8e94a348fd4fcfc42e611a5f4b4bc4f0371",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lunar-common.toml"
