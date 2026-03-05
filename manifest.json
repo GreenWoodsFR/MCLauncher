@@ -6862,6 +6862,11 @@
       "path": "configs/snowyspirit-client.toml",
       "sha256": "4bda1a7c7502f04c769978d18739ca1351d0aa26c1a7ede6c07ba7abd0428d38",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/snowyspirit-client.toml"
+    },
+    {
+      "path": "configs/snowyspirit-common.toml",
+      "sha256": "faa1bfa48578bf46b3bec93857cf782cfd10599bd87c5ac4f3bc287e38ccf6f2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/snowyspirit-common.toml"
     }
   ]
 }
