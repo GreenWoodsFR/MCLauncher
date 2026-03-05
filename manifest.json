@@ -4942,6 +4942,11 @@
       "path": "configs/ftbquests/quests/reward_tables/end_quest.snbt",
       "sha256": "9693992d5f2c4e08b699ae1c58c1207f6d6c15df4db3225ebca75e8ebbf314e2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/end_quest.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/rare_mana_loot.snbt",
+      "sha256": "f96c367cdc23468617e83fe0f46e89c0af9cb304a2fcc9308c1f93ba27b0011b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/rare_mana_loot.snbt"
     }
   ]
 }
