@@ -3292,6 +3292,11 @@
       "path": "configs/alexsmobs/maned_wolf_spawns.json",
       "sha256": "8483d96341369b430ff2ebfebd7562b0c58c40b96be541cc88189fc696606a0d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/maned_wolf_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/hammerhead_shark_spawns.json",
+      "sha256": "a5eeb1a3843a12ef4fde1d8a3a5f13161034457c0901d3f938aa71a20e6712f3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/hammerhead_shark_spawns.json"
     }
   ]
 }
