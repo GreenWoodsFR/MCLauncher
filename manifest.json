@@ -4912,6 +4912,11 @@
       "path": "configs/ftbquests/quests/reward_tables/epic_gem_bag.snbt",
       "sha256": "c696bd3a7a333340f4fbbd3d68c71f11714c49d8ce68eb968ddd6cab29d1b82a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/epic_gem_bag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/de_basic_3.snbt",
+      "sha256": "44ccad78be5ef37f5169efcc85b11a7d540f611b3739839d8c0507fac5e210db",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/de_basic_3.snbt"
     }
   ]
 }
