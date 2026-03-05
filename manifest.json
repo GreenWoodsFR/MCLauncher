@@ -3225,6 +3225,16 @@
       "required": true,
       "side": "both",
       "version": "Fix"
+    },
+    {
+      "id": "a568c6c2-cd60-4d9f-9215-b1621b8cc878",
+      "name": "Lootjs",
+      "filename": "lootjs-forge-1.20.1-2.13.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/lootjs-forge-1.20.1-2.13.1.jar",
+      "sha256": "c1672330605a691b8a91b3a4d252f2d3a280f252874f1fc5fdd7cad07d13b719",
+      "required": true,
+      "side": "both",
+      "version": "2.13.1"
     }
   ],
   "configFiles": []
