@@ -1600,7 +1600,7 @@
       "id": "a3368dff-025a-4234-962e-279a4bf58ce0",
       "name": "Naturalist",
       "filename": "naturalist-5.0pre2+forge-1.20.1.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/naturalist-5.0pre2%2Bforge-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/naturalist-5.0pre2_forge-1.20.1.jar",
       "sha256": "2bdf7df54d5d0287016aa0f4228e426be74ce83a4ef30c7107d3010056a1d4d2",
       "required": true,
       "side": "both",
