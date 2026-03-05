@@ -3657,6 +3657,11 @@
       "path": "configs/alexsmobs/crocodile_spawns.json",
       "sha256": "a73d36d1b5dd75eb20f6143193b991e942f4ef4cef725835b66ec01197d7074f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/crocodile_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/gazelle_spawns.json",
+      "sha256": "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/gazelle_spawns.json"
     }
   ]
 }
