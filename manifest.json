@@ -5342,6 +5342,11 @@
       "path": "configs/paxi/resourcepacks/Excalibur_V1.20.zip",
       "sha256": "ccf01766c56ad287071c795452ebdb6a33bf35a74f098d5191475cd479292d49",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/Excalibur_V1.20.zip"
+    },
+    {
+      "path": "configs/paxi/resourcepacks/Excalibur_Supplementaries_0.2.1_1.20.1.zip",
+      "sha256": "2d01616ec0b9c0bed0b4a3eaacd236cde828f43a682044a04eff16a1cf7f2d7d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/Excalibur_Supplementaries_0.2.1_1.20.1.zip"
     }
   ]
 }
