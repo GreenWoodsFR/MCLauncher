@@ -3272,6 +3272,11 @@
       "path": "configs/alexscaves_biome_generation/primordial_caves.json",
       "sha256": "f0e2da7cf5d77abef1bd270cb7c288e3f57c001005fe41e11d545d948b06474d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves_biome_generation/primordial_caves.json"
+    },
+    {
+      "path": "configs/alexscaves_biome_generation/toxic_caves.json",
+      "sha256": "d6d7d5becfd20cca48dabcb838021694740bd874fba80a259b05d37bcc720a43",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves_biome_generation/toxic_caves.json"
     }
   ]
 }
