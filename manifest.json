@@ -3727,6 +3727,11 @@
       "path": "configs/alexsmobs/crimson_mosquito_spawns.json",
       "sha256": "104fa9ce71421c5023abba88ce382957828b22341b44c2d03b3300b760482c9d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/crimson_mosquito_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/skreecher.json",
+      "sha256": "f812e719afb24421c6853dacf4d1f66864305e335cfdf6193613d7c408ecab30",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/skreecher.json"
     }
   ]
 }
