@@ -1,0 +1,1399 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "l4boucherre"
+	group: "18782192B0F905F8"
+	icon: "mynethersdelight:hoglin_hide"
+	id: "54FE05663B24757C"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5971CCFEDEBD06E1"
+			tasks: [{
+				id: "12B6EE92F525198B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:salmon"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.5d
+		}
+		{
+			id: "39FC7AFBAFEE3954"
+			tasks: [{
+				id: "685116882BF3B222"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:cod"
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "47113099AAE7D2F2"
+			tasks: [{
+				id: "1249BEEDAE678513"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:colored_squid"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			id: "7A1C25C40EE833B2"
+			tasks: [{
+				id: "7A9DBDA7D133410A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:turtle_corpse_item"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			id: "7F1E1FC12CDE0FD3"
+			tasks: [{
+				id: "23DF86ACB2F0C3EA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:puffercorpse"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.5d
+		}
+		{
+			id: "64B6063A70CD037D"
+			tasks: [{
+				id: "2BA6C7F80488E558"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:orange_frog"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.0d
+		}
+		{
+			id: "59147A86A385F886"
+			tasks: [{
+				id: "07874DDF972974D4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:gray_frog"
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "26B9DA023A06A15F"
+			tasks: [{
+				id: "027FC196A730976A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:frog"
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.0d
+		}
+		{
+			id: "5E8FD3EF9D6F6A5E"
+			tasks: [{
+				id: "3AE37BC716305097"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:dolphincorpseitem"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 6.5d
+		}
+		{
+			id: "4766E51E44FBC09E"
+			tasks: [{
+				id: "545A5A2CB5A5FE32"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:lucyaxolotlcarcass"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.0d
+		}
+		{
+			id: "22ECEBFA9627435D"
+			tasks: [{
+				id: "12A8C86BB8C4E244"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:goldaxolotlcarcass"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 8.5d
+		}
+		{
+			id: "48EE031135134792"
+			tasks: [{
+				id: "75605993544C6E7E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:cyanaxolotlcarcass"
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 8.5d
+		}
+		{
+			id: "6933765586E37315"
+			tasks: [{
+				id: "1F5B488215DE9CA8"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:blueaxolotlcarcass"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 9.0d
+		}
+		{
+			id: "37C3C2DA6DFAC861"
+			tasks: [{
+				id: "0E8A430DEFB61A1C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:wildaxolotlcarcass"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 10.0d
+		}
+		{
+			id: "0375C3CB9B0CEE01"
+			tasks: [{
+				id: "7D50D654CD31E290"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:guardiancarcass"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 12.0d
+		}
+		{
+			id: "3013AFB6B879B336"
+			tasks: [{
+				id: "6421BD8BC68F8C59"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:elderguardiancorpse"
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 14.0d
+		}
+		{
+			id: "05A00998AB3A7CC6"
+			tasks: [{
+				id: "0457712B297FDB0C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:pig_corpse_item"
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: -1.0d
+		}
+		{
+			id: "4F8B0F63BF2A130A"
+			tasks: [{
+				id: "4A689256AF261C02"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:cowcorpseitem"
+				}
+				type: "item"
+			}]
+			x: -11.0d
+			y: -1.0d
+		}
+		{
+			id: "306F432014CDC39A"
+			tasks: [{
+				id: "0AE47A29C2285F90"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:chicken_corpse_item"
+				}
+				type: "item"
+			}]
+			x: -12.0d
+			y: -1.0d
+		}
+		{
+			id: "50D793E8C99F6565"
+			tasks: [{
+				id: "48EAB80C8A390166"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:rabbit_corpse_item"
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: 0.5d
+		}
+		{
+			id: "2125680DB1A736F6"
+			tasks: [{
+				id: "706F7D9898B91DD1"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:goat_corpse_item"
+				}
+				type: "item"
+			}]
+			x: -10.5d
+			y: 0.5d
+		}
+		{
+			id: "07103C4A203FE9DB"
+			tasks: [{
+				id: "50B6FAB7434DCECA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:foxcorpseitem"
+				}
+				type: "item"
+			}]
+			x: -11.0d
+			y: 7.0d
+		}
+		{
+			id: "0C02B87636B5D562"
+			tasks: [{
+				id: "4CCC5A9D7141552B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:snowyfoxcarcassitem"
+				}
+				type: "item"
+			}]
+			x: -11.0d
+			y: 8.5d
+		}
+		{
+			id: "7D321BC466C155D2"
+			tasks: [{
+				id: "725B66D9570F739B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:horsecarcasscreamyritem"
+				}
+				type: "item"
+			}]
+			x: -11.0d
+			y: 2.0d
+		}
+		{
+			id: "68F09E1C2F0273B0"
+			tasks: [{
+				id: "2CCAC2B59AB8F691"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:horsecarcassgrayritem"
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: 2.5d
+		}
+		{
+			id: "146BBD441F17F706"
+			tasks: [{
+				id: "134A31AAEF4D0A3C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:horsecarcassbrownritem"
+				}
+				type: "item"
+			}]
+			x: -12.0d
+			y: 2.5d
+		}
+		{
+			id: "6CA815168234047B"
+			tasks: [{
+				id: "736089E4243A395A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:horsecarcasschestnutritem"
+				}
+				type: "item"
+			}]
+			x: -11.0d
+			y: 3.0d
+		}
+		{
+			id: "400C188322FBAD48"
+			tasks: [{
+				id: "3EBA4E272697EFBB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:horsecarcassdarkbrownritem"
+				}
+				type: "item"
+			}]
+			x: -12.0d
+			y: 3.5d
+		}
+		{
+			id: "0EBDD0DC9369783B"
+			tasks: [{
+				id: "29894813F0C6E2DA"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:horsecarcassblackritem"
+				}
+				type: "item"
+			}]
+			x: -10.0d
+			y: 3.5d
+		}
+		{
+			id: "37BF7245E4F9C2CB"
+			tasks: [{
+				id: "7F1E578E8833EE63"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:horsecarcasswhiteritem"
+				}
+				type: "item"
+			}]
+			x: -11.0d
+			y: 4.0d
+		}
+		{
+			id: "7E146F54F2362624"
+			tasks: [{
+				id: "62A446A467BFB35E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:panda"
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 8.0d
+		}
+		{
+			id: "594D06E592796249"
+			tasks: [{
+				id: "364F9B7ECF2D69AD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:polarbear_corpse_item"
+				}
+				type: "item"
+			}]
+			x: -6.5d
+			y: 8.0d
+		}
+		{
+			id: "0A5453FECCB9A940"
+			tasks: [{
+				id: "4C561B554CB33D51"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:camelcarcassitem"
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 7.0d
+		}
+		{
+			id: "097949AD079F8A7D"
+			tasks: [{
+				id: "3E778971EDEAD7BE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:ocelotcarcass"
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 1.5d
+		}
+		{
+			id: "0F6A9F1B827105BA"
+			tasks: [{
+				id: "7C5670C77C5A730F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:persiancat"
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 2.5d
+		}
+		{
+			id: "0AA29410794DC89B"
+			tasks: [{
+				id: "41E7923E71E3EAE5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:ragdollcat"
+				}
+				type: "item"
+			}]
+			x: -14.5d
+			y: 3.0d
+		}
+		{
+			id: "2A553076E5C3576D"
+			tasks: [{
+				id: "3B80715C2FA66679"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:redcat"
+				}
+				type: "item"
+			}]
+			x: -16.5d
+			y: 3.0d
+		}
+		{
+			id: "130A4887A3672A34"
+			tasks: [{
+				id: "10C2886C5F7B94E0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:siamesecat"
+				}
+				type: "item"
+			}]
+			x: -16.5d
+			y: 4.0d
+		}
+		{
+			id: "1F647F6D8D0C5078"
+			tasks: [{
+				id: "30E820ABBC15394A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:tabbycat"
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 3.5d
+		}
+		{
+			id: "0EDA9052A8DBDBD1"
+			tasks: [{
+				id: "3CF20B830500BF95"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:whitecat"
+				}
+				type: "item"
+			}]
+			x: -14.5d
+			y: 4.0d
+		}
+		{
+			id: "263A0039AA93C8B6"
+			tasks: [{
+				id: "3AA3C9C986BAA54C"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:calicocat"
+				}
+				type: "item"
+			}]
+			x: -14.5d
+			y: 5.0d
+		}
+		{
+			id: "5B2E06B24AA93F57"
+			tasks: [{
+				id: "0ACFA00AE65DD7E5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:calicocat"
+				}
+				type: "item"
+			}]
+			x: -16.5d
+			y: 5.0d
+		}
+		{
+			id: "02672E8886073A03"
+			tasks: [{
+				id: "334ED35E7A1BA890"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:blackcat"
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 4.5d
+		}
+		{
+			id: "3F6031F5A542AB6D"
+			tasks: [{
+				id: "3F6C99D0BE2F594F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:britishshorthaircat"
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 5.5d
+		}
+		{
+			id: "7B66453D073885B9"
+			tasks: [{
+				id: "7423884C46B70ADB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:allblackcat"
+				}
+				type: "item"
+			}]
+			x: -15.5d
+			y: 6.5d
+		}
+		{
+			id: "3D09C44308E48A89"
+			tasks: [{
+				id: "23D801AC931F66FC"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:mulecarcass"
+				}
+				type: "item"
+			}]
+			x: -11.0d
+			y: 5.0d
+		}
+		{
+			id: "160EE58CCC3BB0F4"
+			tasks: [{
+				id: "4327F4345EEF1C1B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:white_llama"
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 1.5d
+		}
+		{
+			id: "481910B3DBD30E10"
+			tasks: [{
+				id: "6B2E89218B95FE15"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:gray_llama"
+				}
+				type: "item"
+			}]
+			x: -8.0d
+			y: 2.0d
+		}
+		{
+			id: "11C6CB48647D7C89"
+			tasks: [{
+				id: "759F55644B331FAF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:creamy_llama"
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.0d
+		}
+		{
+			id: "6D19066B0E72C04F"
+			tasks: [{
+				id: "781183D464507D14"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:brown_llama"
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 2.5d
+		}
+		{
+			id: "767A607068ABB7EC"
+			tasks: [{
+				id: "5203A097546D01ED"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:sniffercarcass"
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 5.5d
+		}
+		{
+			id: "65C4BE936E799F6B"
+			tasks: [{
+				id: "7923880E7FA4FA49"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:bat_corpse_item"
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 4.0d
+		}
+		{
+			id: "778F2740A7CA2F57"
+			tasks: [{
+				id: "39D5F09589B002F5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:red_mooshroom"
+				}
+				type: "item"
+			}]
+			x: -11.5d
+			y: -2.5d
+		}
+		{
+			id: "44B1E73F415055F2"
+			tasks: [{
+				id: "2F489F3EB069EA58"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:brownmooshroom"
+				}
+				type: "item"
+			}]
+			x: -10.5d
+			y: -2.5d
+		}
+		{
+			id: "10D64B6A02C1DAEE"
+			tasks: [{
+				id: "715BB8CCA609D475"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:skeletoncorpse"
+				}
+				type: "item"
+			}]
+			x: -22.5d
+			y: -1.0d
+		}
+		{
+			id: "37166968D337CC34"
+			tasks: [{
+				id: "2373F9882D43E947"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:zombiecorpse"
+				}
+				type: "item"
+			}]
+			x: -23.5d
+			y: -1.0d
+		}
+		{
+			id: "0994CA1F7A10E76E"
+			tasks: [{
+				id: "76085C585CA3365B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:creepercarcass"
+				}
+				type: "item"
+			}]
+			x: -23.0d
+			y: -2.0d
+		}
+		{
+			id: "4CC3D9E46935284D"
+			tasks: [{
+				id: "14CD7EEF921CE437"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:zombievillagercorpse"
+				}
+				type: "item"
+			}]
+			x: -23.5d
+			y: 0.5d
+		}
+		{
+			id: "52113BB082DF3DCF"
+			tasks: [{
+				id: "5745C58F4F586181"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:drownedcorpse"
+				}
+				type: "item"
+			}]
+			x: -23.5d
+			y: 1.5d
+		}
+		{
+			id: "68A5F2529664C115"
+			tasks: [{
+				id: "6B982E8071A2E972"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:huskcorpse"
+				}
+				type: "item"
+			}]
+			x: -23.5d
+			y: 2.5d
+		}
+		{
+			id: "6010AEDD64EFB913"
+			tasks: [{
+				id: "7CB58D7A24E0F003"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:witherskeletoncorpse"
+				}
+				type: "item"
+			}]
+			x: -22.5d
+			y: 0.5d
+		}
+		{
+			id: "46BCC8BBF84ACD69"
+			tasks: [{
+				id: "44C510284836D55D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:endermancarcass"
+				}
+				type: "item"
+			}]
+			x: -23.0d
+			y: -3.5d
+		}
+		{
+			id: "5B936944559F1240"
+			tasks: [{
+				id: "1B3D3B590D9D5B53"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:spidercarcass"
+				}
+				type: "item"
+			}]
+			x: -22.5d
+			y: 1.5d
+		}
+		{
+			id: "5A32FCFE5807E48E"
+			tasks: [{
+				id: "5FCAF487E816A5C0"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:cavespider"
+				}
+				type: "item"
+			}]
+			x: -22.5d
+			y: 2.5d
+		}
+		{
+			id: "07A4DB427DE1B0D9"
+			tasks: [{
+				id: "3430B577376CCB30"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:witchcorpse"
+				}
+				type: "item"
+			}]
+			x: -23.0d
+			y: 4.0d
+		}
+		{
+			id: "3B3B141117828784"
+			tasks: [{
+				id: "0FDE126796192DB7"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:clothed_pillager_corpse"
+				}
+				type: "item"
+			}]
+			x: -23.5d
+			y: 5.5d
+		}
+		{
+			id: "679F395D14EF3F73"
+			tasks: [{
+				id: "3B4CEDFDF4F848BD"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:evokercorpse"
+				}
+				type: "item"
+			}]
+			x: -23.5d
+			y: 6.5d
+		}
+		{
+			id: "693F2211E11016B9"
+			tasks: [{
+				id: "754127304A6BEC31"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:zombiepiglincorpse"
+				}
+				type: "item"
+			}]
+			x: -22.5d
+			y: 5.5d
+		}
+		{
+			id: "076BA6A73D3DD56A"
+			tasks: [{
+				id: "25EDE4289CB4F79B"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:piglincorpse"
+				}
+				type: "item"
+			}]
+			x: -22.5d
+			y: 6.5d
+		}
+		{
+			id: "7EDCBE19D473FAA0"
+			tasks: [{
+				id: "766A277071C53272"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:piglinbrutecarcass"
+				}
+				type: "item"
+			}]
+			x: -22.5d
+			y: 7.5d
+		}
+		{
+			id: "7FC0E93CBCD594C1"
+			tasks: [{
+				id: "7F08ECB6AA1A2A56"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:playercorpseitem"
+				}
+				type: "item"
+			}]
+			x: -23.5d
+			y: 7.5d
+		}
+		{
+			id: "434162B84E5104A3"
+			tasks: [{
+				id: "562380A5F4BB656F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:zoglincarcass"
+				}
+				type: "item"
+			}]
+			x: -23.5d
+			y: 11.0d
+		}
+		{
+			id: "51F338962480DEA2"
+			tasks: [{
+				id: "55C6C490234262DB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:stridercarcass"
+				}
+				type: "item"
+			}]
+			x: -23.0d
+			y: 9.0d
+		}
+		{
+			id: "3C8730C65FDFFCB2"
+			tasks: [{
+				id: "24251CBD73843205"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:hoglincorpseitem"
+				}
+				type: "item"
+			}]
+			x: -22.5d
+			y: 11.0d
+		}
+		{
+			id: "1330BFDFA9F8FE59"
+			tasks: [{
+				id: "5D646796E7354FB3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:phantomcarcass"
+				}
+				type: "item"
+			}]
+			x: -23.0d
+			y: 12.5d
+		}
+		{
+			id: "6EFFF56830F54E81"
+			tasks: [{
+				id: "5D52B025EA599BEE"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:withercorpse"
+				}
+				type: "item"
+			}]
+			x: -23.0d
+			y: 14.5d
+		}
+		{
+			id: "1D0C180313008079"
+			tasks: [{
+				id: "530E8525692D8433"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "butcher:end_dragon_corpse"
+				}
+				type: "item"
+			}]
+			x: -23.0d
+			y: 16.0d
+		}
+	]
+	title: " &4Boucher(ère)"
+}

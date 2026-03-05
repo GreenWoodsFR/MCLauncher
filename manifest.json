@@ -4537,6 +4537,11 @@
       "path": "configs/ftbquests/quests/chapters/dcorateureuse.snbt",
       "sha256": "7258e82063186a12362c8c39a7214da01604c85272b784a161fad7f4c81c1953",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/dcorateureuse.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/l4boucherre.snbt",
+      "sha256": "c228a4a4bda33e414ea54942612f953c0aea91d5c3f7296675fbd0ac9fcdf2ca",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l4boucherre.snbt"
     }
   ]
 }
