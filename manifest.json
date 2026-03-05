@@ -615,6 +615,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.4"
+    },
+    {
+      "id": "276e8531-fc1d-40bb-84ce-64c3d6010124",
+      "name": "Chimes V2.1.1",
+      "filename": "Chimes-v2.1.1-1.20.1-Forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Chimes-v2.1.1-1.20.1-Forge.jar",
+      "sha256": "7c2f03be44170898ba1013c5eb1e9ad1d199efa2d6877bfd396be0c3736fae59",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
