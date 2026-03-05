@@ -2605,6 +2605,16 @@
       "required": true,
       "side": "both",
       "version": "2.6.12"
+    },
+    {
+      "id": "710bbde8-fb83-4ace-acd3-0a4749308f41",
+      "name": "Watut",
+      "filename": "watut-forge-1.20.1-1.2.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/watut-forge-1.20.1-1.2.3.jar",
+      "sha256": "19a7291187e1074dac0ade56f95cdb84936e8563c55afdc0b86c90ea7cd80a9e",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
