@@ -6072,6 +6072,11 @@
       "path": "configs/configapi-common.cfg",
       "sha256": "47b3bc6ae4c5d9acb7180aae1e572cd8094e377f9d66d1d79c85cc5aa6f8dc19",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/configapi-common.cfg"
+    },
+    {
+      "path": "configs/configured-client.toml",
+      "sha256": "0b2537ac36e57824caf66e589bb532f0801b99d02ac08545739af3709bf84e10",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/configured-client.toml"
     }
   ]
 }
