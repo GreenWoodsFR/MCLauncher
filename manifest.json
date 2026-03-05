@@ -7947,6 +7947,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl",
       "sha256": "c213631a1a86ac9df3a5d8b954ca1ba44f67c0e747fde713a58da520812dc2d7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/netherrack.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl",
+      "sha256": "4359c522eabc8efea59945b0d4c52d9a1734c30abb4b73ac1621325b8d464c53",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/rawGoldBlock.glsl"
     }
   ]
 }
