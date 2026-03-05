@@ -3095,6 +3095,16 @@
       "required": true,
       "side": "both",
       "version": "2.4.2"
+    },
+    {
+      "id": "0162a49f-5a81-400f-9658-5e9fdb8caf0d",
+      "name": "LegendaryTooltips",
+      "filename": "LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/LegendaryTooltips-1.20.1-forge-1.4.5.jar",
+      "sha256": "15521ab414b92f60e75bdd49724eb65bb6aa8b3d6f72c157cc261011d58d625e",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
