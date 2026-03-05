@@ -935,6 +935,16 @@
       "required": true,
       "side": "both",
       "version": "2.0.9"
+    },
+    {
+      "id": "f48a75ae-7ad6-4b58-b854-95692091626a",
+      "name": "DustyDecorations 1.20.1Forge V1.12",
+      "filename": "DustyDecorations_1.20.1Forge_V1.12.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/DustyDecorations_1.20.1Forge_V1.12.jar",
+      "sha256": "61944ed5757363e7b4ecdc400762cc6dfdda5cb56a6f2f3eb9ae73671bf8a9e9",
+      "required": true,
+      "side": "both",
+      "version": "?"
     }
   ],
   "configFiles": []
