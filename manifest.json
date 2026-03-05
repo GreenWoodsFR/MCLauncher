@@ -7972,6 +7972,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl",
       "sha256": "53eda3498388c929280007600f2e7bf31911cd59f7d62a9818b4c3873ebea0bc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/others/signText.glsl",
+      "sha256": "a85982c3fa3d1ad1b8e9051f137e6446e8041b5ef1d82fbcbd4cb737e0373415",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/others/signText.glsl"
     }
   ]
 }
