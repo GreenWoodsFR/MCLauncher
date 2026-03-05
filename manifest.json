@@ -3135,6 +3135,16 @@
       "required": true,
       "side": "both",
       "version": "1.1.15"
+    },
+    {
+      "id": "e3a0dc50-3459-4584-bf57-511072818b69",
+      "name": "Letsdo Beachparty",
+      "filename": "letsdo-beachparty-forge-2.0.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/letsdo-beachparty-forge-2.0.3.jar",
+      "sha256": "cd31dab1eb6d88e70697ee0342ebb79f22d9b9f0cb09d4a0b1562ed809178aef",
+      "required": true,
+      "side": "both",
+      "version": "2.0.3"
     }
   ],
   "configFiles": []
