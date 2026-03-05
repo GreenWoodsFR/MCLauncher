@@ -1265,6 +1265,16 @@
       "required": true,
       "side": "both",
       "version": "2001.3.6"
+    },
+    {
+      "id": "2a40ca3c-1349-4093-bb02-4f3de3463e46",
+      "name": "Ftb Library",
+      "filename": "ftb-library-forge-2001.2.12.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/ftb-library-forge-2001.2.12.jar",
+      "sha256": "f09335944fff8ca3ef37a40e0b125ffb6707759ede258c73f9ce9bac61bfbf96",
+      "required": true,
+      "side": "both",
+      "version": "2001.2.12"
     }
   ],
   "configFiles": []
