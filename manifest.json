@@ -5412,6 +5412,11 @@
       "path": "configs/regions_unexplored/ru-common.toml",
       "sha256": "f172a7acb56bb4a3ce23925f1ef85b6441e47f94956c24e4db4c34bf8366745c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/regions_unexplored/ru-common.toml"
+    },
+    {
+      "path": "configs/regions_unexplored/ru-secondary-region.toml",
+      "sha256": "77d4b1625ba1754bc129bc47a98186ad1869e86737867dac98cabd8621ed916f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/regions_unexplored/ru-secondary-region.toml"
     }
   ]
 }
