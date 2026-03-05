@@ -3617,6 +3617,11 @@
       "path": "configs/alexsmobs/orca_spawns.json",
       "sha256": "2e62ae273c3488a294068e5ed737dbf08791f4758cd3659308824d7bf4ece377",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/orca_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/cave_centipede_spawns.json",
+      "sha256": "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/cave_centipede_spawns.json"
     }
   ]
 }
