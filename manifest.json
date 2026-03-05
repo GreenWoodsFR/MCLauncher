@@ -3427,6 +3427,11 @@
       "path": "configs/alexsmobs/elephant_spawns.json",
       "sha256": "cac271d780a6ed65db7b22e6944b6d456805d72b309865d6293ad6aa4f60c3e2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/elephant_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/enderiophage_spawns.json",
+      "sha256": "846748f4f352dead7fae39221d653713b7cbd775eaf10f80e0dea86f4e9ccb9a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/enderiophage_spawns.json"
     }
   ]
 }
