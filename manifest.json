@@ -7912,6 +7912,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl",
       "sha256": "54c9bfc7c861b9406b3ab1f3f85ee237559143dadf922d28e6ac01796638eba5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/pumpkin.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/endStone.glsl",
+      "sha256": "e620fe30fdeed3fd00552d89dd9a21e7158a2bf3dfe0b9e6bafab152fb8a9f10",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/endStone.glsl"
     }
   ]
 }
