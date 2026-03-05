@@ -1335,6 +1335,16 @@
       "required": true,
       "side": "both",
       "version": "0.7.6"
+    },
+    {
+      "id": "f4d60d89-eaab-4a94-ad6f-ca4285e17153",
+      "name": "Majrusz Library",
+      "filename": "majrusz-library-forge-1.20.1-7.0.8.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/majrusz-library-forge-1.20.1-7.0.8.jar",
+      "sha256": "4d58fc2db26343d6b163dbb8f8c98e554ada6fffb634b9896c2d274629090548",
+      "required": true,
+      "side": "both",
+      "version": "7.0.8"
     }
   ],
   "configFiles": []
