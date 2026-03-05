@@ -3597,6 +3597,11 @@
       "path": "configs/alexsmobs/underminer.json",
       "sha256": "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/underminer.json"
+    },
+    {
+      "path": "configs/alexsmobs/skelewag_spawns.json",
+      "sha256": "86aad88d05c283679e85900cab1bf3977d496849005ac068a14e40b93db35aa2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/skelewag_spawns.json"
     }
   ]
 }
