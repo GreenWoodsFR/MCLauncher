@@ -1985,6 +1985,16 @@
       "required": true,
       "side": "both",
       "version": "?"
+    },
+    {
+      "id": "950e8436-5e47-417e-b698-0e96aca3d3c4",
+      "name": "Realmrpg Seadwellers 2.9.9 Forge 1.20.1",
+      "filename": "realmrpg_seadwellers_2.9.9_forge_1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/realmrpg_seadwellers_2.9.9_forge_1.20.1.jar",
+      "sha256": "6cf9dd9c5ba8dfb9644b0598b1b3453fb3b4cefc1ffa3ae676e4be82309d90f5",
+      "required": true,
+      "side": "both",
+      "version": "?"
     }
   ],
   "configFiles": []
