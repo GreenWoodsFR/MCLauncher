@@ -5962,6 +5962,11 @@
       "path": "configs/blueprint-client.toml",
       "sha256": "89ef9f568d793018db983b9f944e85876a4cebd408f8f4d2182b3c38fa44ef7e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/blueprint-client.toml"
+    },
+    {
+      "path": "configs/blueprint-common.toml",
+      "sha256": "468c5e98de57915c1fbc04f24934723184bfaff4d08f666ed8a8b4bdce894a25",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/blueprint-common.toml"
     }
   ]
 }
