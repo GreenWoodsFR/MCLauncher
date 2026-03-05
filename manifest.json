@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/curios-common.toml",
-      "sha256": "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/curios-common.toml"
-    },
-    {
       "path": "configs/defaultoptions-common.toml",
       "sha256": "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/defaultoptions-common.toml"
