@@ -7122,6 +7122,11 @@
       "path": "resourcepacks/Quark Programmer Art.zip",
       "sha256": "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/resourcepacks/Quark Programmer Art.zip"
+    },
+    {
+      "path": "resourcepacks/Super RPG Font.zip",
+      "sha256": "9b3e971b2a115d66dccf4fae025b38709e30b257180d57c18d0b97e6a5543daf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/resourcepacks/Super RPG Font.zip"
     }
   ]
 }
