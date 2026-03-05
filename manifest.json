@@ -215,6 +215,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "b5f97e1d-78f0-48ae-85a4-9fdfbae081ce",
+      "name": "Ars Additions",
+      "filename": "ars_additions-1.20.1-1.6.7.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/ars_additions-1.20.1-1.6.7.jar",
+      "sha256": "35639890eefa1ed6635f83ca16b80aeddaa400f2b2340567499e34667a63b428",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
