@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/easymagic-client.toml",
-      "sha256": "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/easymagic-client.toml"
-    },
-    {
       "path": "configs/ecologics-common.toml",
       "sha256": "7bb311976775a0d5a703fbeabfadc2f27adb0a610f1568f1e8e402f5ff4bd5fb",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ecologics-common.toml"
