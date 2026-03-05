@@ -3422,6 +3422,11 @@
       "path": "configs/alexsmobs/anteater_spawns.json",
       "sha256": "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/anteater_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/elephant_spawns.json",
+      "sha256": "cac271d780a6ed65db7b22e6944b6d456805d72b309865d6293ad6aa4f60c3e2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/elephant_spawns.json"
     }
   ]
 }
