@@ -1440,7 +1440,7 @@
       "id": "eeeab32e-6878-46b9-8c64-adb65c2fde5f",
       "name": "Memoryleakfix",
       "filename": "memoryleakfix-forge-1.17+-1.1.5.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/memoryleakfix-forge-1.17%2B-1.1.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/memoryleakfix-forge-1.17_-1.1.5.jar",
       "sha256": "925c3db4e1d085a43c4d2beaa4eec18367c22abc90c2ce8594b8a129fd3f28dd",
       "required": true,
       "side": "both",
