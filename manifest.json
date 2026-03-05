@@ -8142,6 +8142,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/colors/moonPhaseInfluence.glsl",
       "sha256": "1aee7c444dba3b08cd519d5c179ab7ad6a51c542b00be1616527519cf9e3b5d9",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/colors/moonPhaseInfluence.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/colors/blocklightColors.glsl",
+      "sha256": "3488f47ce3f1207e824db0c9dbcc31b4b6da07afd53ed0873b630d2f6cc7a513",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/colors/blocklightColors.glsl"
     }
   ]
 }
