@@ -6662,6 +6662,11 @@
       "path": "configs/paraglider-player-states.toml",
       "sha256": "93b580c08f192109e2daf8292dc71f35cba356f25df11f3173a6f4c9832a18dc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paraglider-player-states.toml"
+    },
+    {
+      "path": "configs/parcool-client.toml",
+      "sha256": "4e472fb41ba08146e0100fa5326b1f392d6bf60f799db38a63a983a273dc6cf2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/parcool-client.toml"
     }
   ]
 }
