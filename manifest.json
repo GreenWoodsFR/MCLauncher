@@ -2505,6 +2505,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "8fc0c7ae-b77b-45ae-89b4-39f4bfe8adba",
+      "name": "Totw Modded",
+      "filename": "totw_modded-forge-1.20.1-1.0.6.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/totw_modded-forge-1.20.1-1.0.6.jar",
+      "sha256": "d8473b6c3652fd2a3b1dedbed9e128920595157c1914da781cf34136efbba2ff",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
