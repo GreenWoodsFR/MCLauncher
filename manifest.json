@@ -5427,6 +5427,11 @@
       "path": "configs/relics/relics/elytra_booster.yaml",
       "sha256": "21de4aa1b35eb1f6845f78ba0352dc4fd388b79e9ea1279f5c7524fd14282f01",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/elytra_booster.yaml"
+    },
+    {
+      "path": "configs/relics/relics/space_dissector.yaml",
+      "sha256": "95b5c8774dc1effb0aed7feca6f02f6a9212c6a405b8d6d7fdf3a9dbd9125417",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/space_dissector.yaml"
     }
   ]
 }
