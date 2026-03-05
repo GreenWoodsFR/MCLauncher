@@ -7082,6 +7082,11 @@
       "path": "kubejs/client_scripts/example.js",
       "sha256": "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/client_scripts/example.js"
+    },
+    {
+      "path": "kubejs/config/common.properties",
+      "sha256": "637a99bc1206742705253c2ffdb537c569d20f366ac925c83bdd5a33bcfd4ef2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/config/common.properties"
     }
   ]
 }
