@@ -5542,6 +5542,11 @@
       "path": "configs/relics/relics/midnight_robe.yaml",
       "sha256": "2dc72fd64caeb846661359085664b578908658104f5674f21ca6c727659eae65",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/midnight_robe.yaml"
+    },
+    {
+      "path": "configs/relics/relics/horse_flute.yaml",
+      "sha256": "03f0644ebcfbe433139f9aaaf004357c87c249eea7bbd38451984a4f5a59e961",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/horse_flute.yaml"
     }
   ]
 }
