@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/lunar-common.toml",
-      "sha256": "977abb09cb83e224cde27a9f2927b8e94a348fd4fcfc42e611a5f4b4bc4f0371",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lunar-common.toml"
-    },
-    {
       "path": "configs/majruszlibrary.json",
       "sha256": "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/majruszlibrary.json"
