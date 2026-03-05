@@ -8022,6 +8022,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/util/dither.glsl",
       "sha256": "055a73f749a8e3e29186e606c12876bf0a82a276a7c25e26d90f6a8f989aeeb1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/util/dither.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/util/commonFunctions.glsl",
+      "sha256": "bd3acb7340316eb739ac24582777daa442af0459b9f09386c007976ac6ba387f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/util/commonFunctions.glsl"
     }
   ]
 }
