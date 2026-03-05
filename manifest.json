@@ -5052,6 +5052,11 @@
       "path": "configs/ftbquests/quests/reward_tables/de_basic_4.snbt",
       "sha256": "37ea85ee1625005d25febd172e3c48482ea3ca6a5006c476449ce2e2fa2644af",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/de_basic_4.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/powah_basic_loot.snbt",
+      "sha256": "10694e64eb6cbaacfe31f94da467c7f7b7712c3feebaba6b66f64ae5e9bac2e8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_basic_loot.snbt"
     }
   ]
 }
