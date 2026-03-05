@@ -5702,6 +5702,11 @@
       "path": "configs/visuality/config.toml",
       "sha256": "4127fd1edf4e15159bb8365cb8816c5ae0b6108a02d34aa1d964f4e16b7e3275",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/visuality/config.toml"
+    },
+    {
+      "path": "configs/visuality/particle_emitters/entity_hit.json",
+      "sha256": "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/visuality/particle_emitters/entity_hit.json"
     }
   ]
 }
