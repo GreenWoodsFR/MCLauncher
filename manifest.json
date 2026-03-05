@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/herbalbrews.toml",
-      "sha256": "7c4ba324bf4778cd520d4b5ac36a1d475b45265e27f17ff70f8a1d7f53bbebcd",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/herbalbrews.toml"
-    },
-    {
       "path": "configs/highlighter-common.toml",
       "sha256": "22b7f87be30b7e3ce6fa3fe1cb588e8b3eae0bfc9ddc390ad346a1d1bbfebb4b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/highlighter-common.toml"
