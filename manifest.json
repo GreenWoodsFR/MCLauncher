@@ -8217,6 +8217,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world1/composite4.fsh",
       "sha256": "3aa61e7efaf8c712bc702449178d3150e642f07ab826e2dcd27ed3be17a7c0eb",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world1/composite4.fsh"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world1/gbuffers_water.fsh",
+      "sha256": "71686b83f4246dbca13ddffd9edfe3736eae680c84c9d9667c106e4b26a9b55f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world1/gbuffers_water.fsh"
     }
   ]
 }
