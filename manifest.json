@@ -7112,6 +7112,11 @@
       "path": "resourcepacks/Aimz - Tiny Crosshair.zip",
       "sha256": "afa2ac23a71a06d86e647f0feb804033ce06e4cc4d038ffd54459222e5d0dc5c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/resourcepacks/Aimz - Tiny Crosshair.zip"
+    },
+    {
+      "path": "resourcepacks/CaveDweller_SoundOverhaul.zip",
+      "sha256": "1c67b122105fef07d67d4cf1ff3d5ca6526710fb6c2de528b874101810ba2ef8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/resourcepacks/CaveDweller_SoundOverhaul.zip"
     }
   ]
 }
