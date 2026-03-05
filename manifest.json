@@ -5497,6 +5497,11 @@
       "path": "configs/relics/relics/blazing_flask.yaml",
       "sha256": "8af42f810a66263852c16f8749376346080a5fecef9488bb3bc12912c08cc1a4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/blazing_flask.yaml"
+    },
+    {
+      "path": "configs/relics/relics/shadow_glaive.yaml",
+      "sha256": "b2c7ded48d76878f5bf7ea69acca460dd46e7460c942e64facafe2128d171de1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/shadow_glaive.yaml"
     }
   ]
 }
