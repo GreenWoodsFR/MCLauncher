@@ -7612,6 +7612,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/seasonsTime.glsl",
       "sha256": "fb2f1b7278a1ac9e3b6375f9a45231c20aeaff54e279c21985268cd169caddd3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/seasonsTime.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/translucentMaterials.glsl",
+      "sha256": "bdc38b90f3898dfa96a07564da1c0ba2ee4215614886c7b86d2199484f2142d1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/translucentMaterials.glsl"
     }
   ]
 }
