@@ -7677,6 +7677,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/wavingBlocks.glsl",
       "sha256": "5ad9bf5baa21f76b7cae9ed8f47435b4c8e12f4af00ca478255e22995e898ed6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/wavingBlocks.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/pomEffects.glsl",
+      "sha256": "3fe1a6bb86216c74d9e7869ab2fda8f1b13d0d3b4ffbb8fb3900a57bdfdcefdc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/pomEffects.glsl"
     }
   ]
 }
