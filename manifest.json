@@ -4142,6 +4142,11 @@
       "path": "configs/ars_nouveau/glyph_sense_magic.toml",
       "sha256": "2af508f4de3a4138febe5be13074c5dce6374b1829e06338f98a452dc2c0f910",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_sense_magic.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_bounce.toml",
+      "sha256": "30c5c4728ac879e44a34a8c9c2b7b69f756e3d47311a69fc69c539ad59775334",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_bounce.toml"
     }
   ]
 }
