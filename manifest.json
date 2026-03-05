@@ -8002,6 +8002,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/water.glsl",
       "sha256": "e031b0a147dea43b98f39462c6bd53c77daca1792935f0f05a05dfb0ea19eaea",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/water.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/glass.glsl",
+      "sha256": "99fb0f09df37730e369d0a74c26df4d1f2822633aef9e09e4e1fb93df5aaea39",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/glass.glsl"
     }
   ]
 }
