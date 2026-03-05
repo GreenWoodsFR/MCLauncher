@@ -4532,6 +4532,11 @@
       "path": "configs/ftbquests/quests/chapters/oddities.snbt",
       "sha256": "d782da7c8d2434f9996ceab8db9722a922fc8a34dbd1689ad6dbe136755b6307",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/oddities.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/dcorateureuse.snbt",
+      "sha256": "7258e82063186a12362c8c39a7214da01604c85272b784a161fad7f4c81c1953",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/dcorateureuse.snbt"
     }
   ]
 }

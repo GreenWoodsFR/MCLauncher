@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dcorateureuse"
+	group: "18782192B0F905F8"
+	icon: "fantasyfurniture:furniture_station"
+	id: "6AF2B9CDBE209F48"
+	order_index: 2
+	quest_links: [ ]
+	quests: [ ]
+	title: " &cDécorateur(rice)"
+}
