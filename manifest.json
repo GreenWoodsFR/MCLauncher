@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/accessories.json5",
-      "sha256": "d459b76d2a92b8770584a407f8bfc6570cc17923e95c32e23d083fe14505e60d",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/accessories.json5"
-    },
-    {
       "path": "configs/advancednetherite-client.toml",
       "sha256": "228f901e5c0b87acb48dd1f7bfe7c53cf5cc38fa06a59155efb70c59b035dbec",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/advancednetherite-client.toml"
