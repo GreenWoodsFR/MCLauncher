@@ -1830,7 +1830,7 @@
       "id": "0ba4e486-5d29-4975-85a9-f3361780efaf",
       "name": "Player Animation Lib",
       "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/player-animation-lib-forge-1.0.2-rc1_1.20.jar",
       "sha256": "90d9965cb9efdbda29fdc5610be3914cf7008bf5c392ff34f7ab25f96a852691",
       "required": true,
       "side": "both",
