@@ -1245,6 +1245,16 @@
       "required": true,
       "side": "both",
       "version": "all"
+    },
+    {
+      "id": "b4af79bb-ba0d-44dd-8c02-9c2d6d0b817e",
+      "name": "Framework",
+      "filename": "framework-forge-1.20.1-0.8.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/framework-forge-1.20.1-0.8.0.jar",
+      "sha256": "37c267f46d8b8dfa81bae8c9fa9fa6467e456cadecae10722ee91b43437f25a0",
+      "required": true,
+      "side": "both",
+      "version": "0.8.0"
     }
   ],
   "configFiles": []
