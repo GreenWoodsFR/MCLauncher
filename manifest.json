@@ -475,6 +475,16 @@
       "required": true,
       "side": "both",
       "version": "20.2.15"
+    },
+    {
+      "id": "53e182e9-f5ac-4d1d-8cc9-48138d239ac4",
+      "name": "Born In Chaos [Forge]1.20.1 1.7.4",
+      "filename": "born_in_chaos_[Forge]1.20.1_1.7.4.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/born_in_chaos_.Forge.1.20.1_1.7.4.jar",
+      "sha256": "b329be7bdc2dc1800bfa9a7ef72c72791e925e645932b94aa44ba26177b2a483",
+      "required": true,
+      "side": "both",
+      "version": "?"
     }
   ],
   "configFiles": []
