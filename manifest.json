@@ -1235,6 +1235,16 @@
       "required": true,
       "side": "both",
       "version": "mc1.20.1"
+    },
+    {
+      "id": "f355b0fd-3aba-468b-910b-240e2a0dec1a",
+      "name": "Flerovium",
+      "filename": "flerovium-forge-1.20.1-1.2.18-all.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/flerovium-forge-1.20.1-1.2.18-all.jar",
+      "sha256": "12b79b6f4e8129ddbddd61525bb9251add9be737b7c5ec347febc1dec3e463cb",
+      "required": true,
+      "side": "both",
+      "version": "all"
     }
   ],
   "configFiles": []
