@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/barteringstation-client.toml",
-      "sha256": "284ee1c6a5a7bdce7cccb40f818c89f66c51c95d45fc81201c537715c9e5becb",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/barteringstation-client.toml"
-    },
-    {
       "path": "configs/beachparty.toml",
       "sha256": "5c808677268b0abe456c152cdac2be0f664e31a52b47b43c1a504048c42df7ec",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/beachparty.toml"
