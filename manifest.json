@@ -7587,6 +7587,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/fog/waterFog.glsl",
       "sha256": "02d52ce409e70dcf4f674d5eab36584ef27782423387c725298ebed1a916a7e6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/fog/waterFog.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/fog/mainFog.glsl",
+      "sha256": "d25f0c3ca213fca05ec98948c04898322f4b6342059529cc6c7072b0b94a6c7d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/fog/mainFog.glsl"
     }
   ]
 }
