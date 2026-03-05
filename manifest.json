@@ -2985,6 +2985,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "9fc4d465-5a29-4c8a-bbe9-be0c58365b97",
+      "name": "Kotlinforforge",
+      "filename": "kotlinforforge-4.12.0-all.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/kotlinforforge-4.12.0-all.jar",
+      "sha256": "6a66c6a68ec09f8717cdbf06883394f0ee24d7cd826b7134a0f81839e8e720ae",
+      "required": true,
+      "side": "both",
+      "version": "all"
     }
   ],
   "configFiles": []
