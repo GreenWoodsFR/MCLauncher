@@ -2465,6 +2465,16 @@
       "required": true,
       "side": "both",
       "version": "?"
+    },
+    {
+      "id": "fd79dc9e-8e33-4b5a-9bac-0fc5f124cc01",
+      "name": "TheOuterEnd",
+      "filename": "TheOuterEnd-1.0.12.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/TheOuterEnd-1.0.12.jar",
+      "sha256": "0606945b23ee7d5ffcdd387c260d355584c656751387f179413f49ac43569641",
+      "required": true,
+      "side": "both",
+      "version": "1.0.12"
     }
   ],
   "configFiles": []
