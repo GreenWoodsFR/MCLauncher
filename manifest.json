@@ -1375,6 +1375,16 @@
       "required": true,
       "side": "both",
       "version": "mc1.20.1forge"
+    },
+    {
+      "id": "199821ed-393e-472a-9942-016c4793ab7b",
+      "name": "Mcw Doors",
+      "filename": "mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/mcw-doors-1.1.5-mc1.20.1forge.jar",
+      "sha256": "e975bdd5ed1d680e37fb2a6cda4f4eb5c42a837fa24b0cddabe7688df42c10af",
+      "required": true,
+      "side": "both",
+      "version": "mc1.20.1forge"
     }
   ],
   "configFiles": []
