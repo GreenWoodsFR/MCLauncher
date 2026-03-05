@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/betterarcheology-common.toml",
-      "sha256": "b2729a5916c5aac214f67337d1d38ee7767e1e14b7f2dcb7b7371a9509829a96",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/betterarcheology-common.toml"
-    },
-    {
       "path": "configs/betterfpsdist.json",
       "sha256": "7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/betterfpsdist.json"
