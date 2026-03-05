@@ -2005,6 +2005,16 @@
       "required": true,
       "side": "both",
       "version": "1.1.0"
+    },
+    {
+      "id": "2a7c9722-84c2-4e2d-bcc5-267c670150b7",
+      "name": "Redirected",
+      "filename": "redirected-forge-1.0.0-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/redirected-forge-1.0.0-1.20.1.jar",
+      "sha256": "f8968454baec53f196404fc8b01b79bd9749da35c031575babe091f2a7241e88",
+      "required": true,
+      "side": "both",
+      "version": "1.0.0"
     }
   ],
   "configFiles": []
