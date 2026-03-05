@@ -3812,6 +3812,11 @@
       "path": "configs/ars_nouveau/rewind.toml",
       "sha256": "764fe0b016c5d56b0fb58dcb98be0c15830d00a21aab26b76909f7b8ac55bfe5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/rewind.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_launch.toml",
+      "sha256": "dbf57b752c1f4386e95fe17a16b058159f09e84f4a143e513c67ed1d764ac2e7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_launch.toml"
     }
   ]
 }
