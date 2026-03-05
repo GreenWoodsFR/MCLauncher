@@ -7507,6 +7507,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/netherStorm.glsl",
       "sha256": "7a338de0bcb29fd47c88bed5371a12451639a5ae54ea0125e8e2aed0e6a9b2aa",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/netherStorm.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/clouds/mainClouds.glsl",
+      "sha256": "1c143bf38c3d6a4ecadaefdb8436707a3d369fccc30f356af422e58c58d373f7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/clouds/mainClouds.glsl"
     }
   ]
 }
