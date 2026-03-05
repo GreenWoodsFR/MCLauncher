@@ -3337,6 +3337,11 @@
       "path": "configs/alexsmobs/crow_spawns.json",
       "sha256": "cace87b5d504be10d1fff107ad14349066ae1c39d5200a7a29bdd5476167d9b8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/crow_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/bald_eagle_spawns.json",
+      "sha256": "f8b51a798bfa4b51e0ee8fb78c860ca5b2677583db10584792a0e1548f17d396",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/bald_eagle_spawns.json"
     }
   ]
 }
