@@ -5197,6 +5197,11 @@
       "path": "configs/legendarycreatures/json/ender_wisp-spawn.json",
       "sha256": "d49c42731e3424866f3c38160482b881aae81fe9dc17c54f8a7faa98fdf1b804",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarycreatures/json/ender_wisp-spawn.json"
+    },
+    {
+      "path": "configs/legendarycreatures/json/scorpion-spawn.json",
+      "sha256": "d49c42731e3424866f3c38160482b881aae81fe9dc17c54f8a7faa98fdf1b804",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarycreatures/json/scorpion-spawn.json"
     }
   ]
 }
