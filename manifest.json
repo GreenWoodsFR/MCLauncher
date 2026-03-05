@@ -735,6 +735,16 @@
       "required": true,
       "side": "both",
       "version": "2.3.2"
+    },
+    {
+      "id": "0b6005cd-7e08-4f02-a4b5-4b1fbe9a3ec5",
+      "name": "Configured",
+      "filename": "configured-forge-1.20.1-2.2.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/configured-forge-1.20.1-2.2.3.jar",
+      "sha256": "05dceddd57825f911135c929504ef320b75953d05e7dc918dba58a0574e5315f",
+      "required": true,
+      "side": "both",
+      "version": "2.2.3"
     }
   ],
   "configFiles": []
