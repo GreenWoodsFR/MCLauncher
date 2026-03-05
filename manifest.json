@@ -3562,6 +3562,11 @@
       "path": "configs/alexsmobs/stradpole_spawns.json",
       "sha256": "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/stradpole_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/platypus_spawns.json",
+      "sha256": "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/platypus_spawns.json"
     }
   ]
 }
