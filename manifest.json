@@ -1545,6 +1545,16 @@
       "required": true,
       "side": "both",
       "version": "1.3.0.1"
+    },
+    {
+      "id": "6bb167f9-420f-45b0-9da5-55a000612c48",
+      "name": "Morevillagers",
+      "filename": "morevillagers-forge-1.20.1-5.0.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/morevillagers-forge-1.20.1-5.0.0.jar",
+      "sha256": "44b86176f3c9905c4dc2fc9b8b38c31693da7e10ab10b53fd108e985be8f4658",
+      "required": true,
+      "side": "both",
+      "version": "5.0.0"
     }
   ],
   "configFiles": []
