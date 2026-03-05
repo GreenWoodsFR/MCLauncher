@@ -7537,6 +7537,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/bedrockNoise.glsl",
       "sha256": "df746259f915598198ce40d4d8849b508f066dd868214530f32897378148ea1e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/bedrockNoise.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/netherNoise.glsl",
+      "sha256": "bea711f8119c9f9e84eac60e99b4d18925cbb2a5f0ae149778de48f93bbeb89b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/netherNoise.glsl"
     }
   ]
 }
