@@ -345,6 +345,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "56fdf47a-047d-46e3-9a8b-70fdcfb6a7ca",
+      "name": "BetterAdvancements",
+      "filename": "BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/BetterAdvancements-Forge-1.20.1-0.4.2.25.jar",
+      "sha256": "7932d80b8cce7854d0c7b5a42a629a2d2237adb6faec004bf78e4e4920f5f2e0",
+      "required": true,
+      "side": "both",
+      "version": "0.4.2.25"
     }
   ],
   "configFiles": []
