@@ -5697,6 +5697,11 @@
       "path": "configs/villagersplus/villagersplus-3.0-config.json5",
       "sha256": "a32bb4d92535a1aebbfae239b8518cfd265e151b0976b5517c0ce91cee1a24e8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/villagersplus/villagersplus-3.0-config.json5"
+    },
+    {
+      "path": "configs/visuality/config.toml",
+      "sha256": "4127fd1edf4e15159bb8365cb8816c5ae0b6108a02d34aa1d964f4e16b7e3275",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/visuality/config.toml"
     }
   ]
 }
