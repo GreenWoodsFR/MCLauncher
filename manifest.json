@@ -3392,6 +3392,11 @@
       "path": "configs/alexsmobs/raccoon_spawns.json",
       "sha256": "2f353aa8720d03fbdef9d9e4932ecc4435b7923bbc72191fab6f46acb66d3a12",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/raccoon_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/guster_spawns.json",
+      "sha256": "263974f58a4b48df633648246820681745da9f9e16f30fefe6e07f576251dfb1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/guster_spawns.json"
     }
   ]
 }
