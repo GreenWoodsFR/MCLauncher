@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/fantasy_armor-armor_effects.toml",
-      "sha256": "0c323f86f4f1ee682c5ded144a339c23ab4b3b6eaf6992b18c81f999bcfae581",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fantasy_armor-armor_effects.toml"
-    },
-    {
       "path": "configs/fantasy_armor-common.toml",
       "sha256": "7f72070cd79b91ad4e2da2f0ab211247cb25e925fe60db1bcd728758a2250106",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fantasy_armor-common.toml"
