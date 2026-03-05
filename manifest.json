@@ -2205,6 +2205,16 @@
       "required": true,
       "side": "both",
       "version": "1.56.0"
+    },
+    {
+      "id": "0775a977-6cc1-4f0c-b810-d7adedc8b444",
+      "name": "Smallships",
+      "filename": "smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/smallships-forge-1.20.1-2.0.0-b1.4.jar",
+      "sha256": "f79a4dcab3e1c8e4d14467cbfa655f4a16e0f0d0901e8f9bde9e3f5e36735eff",
+      "required": true,
+      "side": "both",
+      "version": "b1.4"
     }
   ],
   "configFiles": []
