@@ -5527,6 +5527,11 @@
       "path": "configs/relics/relics/ice_breaker.yaml",
       "sha256": "ff60615f0d0f7208f04f9b7f2fc07fe350b2a383eb71b3798df722d6105cb1cf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/ice_breaker.yaml"
+    },
+    {
+      "path": "configs/relics/relics/rage_glove.yaml",
+      "sha256": "a882a417d0654ec75f7ad6d69022a0b39de0d1214f58a3e7cf3a479d388e68aa",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/rage_glove.yaml"
     }
   ]
 }
