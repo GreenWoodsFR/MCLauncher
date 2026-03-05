@@ -5567,6 +5567,11 @@
       "path": "configs/sereneseasons/seasons.toml",
       "sha256": "a99d9bf95c4ac420babda5d1fff9e1d51e4d6034f69cc936e62a7f2736f41112",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sereneseasons/seasons.toml"
+    },
+    {
+      "path": "configs/sereneseasons/fertility.toml",
+      "sha256": "c5127ca2ad6134b149b9cfe4761fb52b618d8a90338dfb1e866be1b4ba1f05e6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sereneseasons/fertility.toml"
     }
   ]
 }
