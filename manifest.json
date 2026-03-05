@@ -7017,6 +7017,11 @@
       "path": "configs/veinmining-common.toml",
       "sha256": "7c1961dc0a6ff2bef31f5160d3170c505ece73bbc0ffa44e6e580b8cc73193d4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/veinmining-common.toml"
+    },
+    {
+      "path": "configs/veinmining-server.toml",
+      "sha256": "2b45944c73685e6a1d7fa19866e4541c1ebffc9ad763aef1c45d76aaf9744e00",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/veinmining-server.toml"
     }
   ]
 }
