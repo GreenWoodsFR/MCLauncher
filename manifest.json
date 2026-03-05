@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/orcz_config_0.0.6.json",
-      "sha256": "e746103f223044dfb858bc3d001013ac22b525bf8c873ac63995841d619ae4f7",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/orcz_config_0.0.6.json"
-    },
-    {
       "path": "configs/packetfixer.properties",
       "sha256": "0ec2e2d726755ca22f37188848667042c12fc92ade29ef0adf4b535ad707cc1f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/packetfixer.properties"
