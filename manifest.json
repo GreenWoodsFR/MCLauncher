@@ -8102,6 +8102,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/handSway.glsl",
       "sha256": "f01f277b6afb87f92b1b24e56b163fe153b87f7566deeef213a90632d3d4be8a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/handSway.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/puddleVoxelization.glsl",
+      "sha256": "6d1c2d8836248749914a2f74e6da59f12af8756c2e0eb481c168146146590ea4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/puddleVoxelization.glsl"
     }
   ]
 }
