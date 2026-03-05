@@ -4777,6 +4777,11 @@
       "path": "configs/ftbquests/quests/reward_tables/pnc_basic_tier.snbt",
       "sha256": "f4344a9a12a6695b8e9d75f7cee66cf39ead9a6d15f60cee3dc87d9dd1d5d457",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/pnc_basic_tier.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/powah_mats.snbt",
+      "sha256": "12f7ab0da1a0f836613fc5d85997d2eb367b1066f4868e8c658cd4d90f77f1c9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_mats.snbt"
     }
   ]
 }
