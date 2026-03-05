@@ -4217,6 +4217,11 @@
       "path": "configs/artifacts/relics/novelty_drinking_hat.yaml",
       "sha256": "980f156be2c08ec9ecf6510d1b798883a3c8171cebd7e12db1038c7017c061f7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/novelty_drinking_hat.yaml"
+    },
+    {
+      "path": "configs/artifacts/relics/plastic_drinking_hat.yaml",
+      "sha256": "980f156be2c08ec9ecf6510d1b798883a3c8171cebd7e12db1038c7017c061f7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/plastic_drinking_hat.yaml"
     }
   ]
 }
