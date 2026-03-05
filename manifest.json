@@ -2595,6 +2595,16 @@
       "required": true,
       "side": "both",
       "version": "3.3.2"
+    },
+    {
+      "id": "183287d9-0cd1-4698-89b0-02c259a1cb8b",
+      "name": "Voicechat",
+      "filename": "voicechat-forge-1.20.1-2.6.12.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/voicechat-forge-1.20.1-2.6.12.jar",
+      "sha256": "6bbde6fd3c5db173fd8a741923de1a567c989ac027d7c900db5ef7393ccbf0d3",
+      "required": true,
+      "side": "both",
+      "version": "2.6.12"
     }
   ],
   "configFiles": []
