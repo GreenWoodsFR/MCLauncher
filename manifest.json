@@ -2855,6 +2855,16 @@
       "required": true,
       "side": "both",
       "version": "0.6.0"
+    },
+    {
+      "id": "57487e97-0c3d-4d55-96b4-7ce96c939f6c",
+      "name": "Immersive Paintings",
+      "filename": "immersive_paintings-0.6.10+1.20.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/immersive_paintings-0.6.10_1.20.1-forge.jar",
+      "sha256": "aef434e5f0638d8e0a599b647c8accca4a492066bbd581108a97f0523af95a6b",
+      "required": true,
+      "side": "both",
+      "version": "0.6.10"
     }
   ],
   "configFiles": []
