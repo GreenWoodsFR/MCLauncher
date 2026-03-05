@@ -4792,6 +4792,11 @@
       "path": "configs/ftbquests/quests/reward_tables/elven_loot.snbt",
       "sha256": "f252d966b130891dcac026a47fc5ab1212e9d4d97f101c89f88a77ccb27b9e1d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/elven_loot.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/Tier2_Seed Bag.snbt",
+      "sha256": "bc353fa4ed99a4aaad806d254ea8c98302c47d8172f17f7b7f2d0e3c4d8240b0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/Tier2_Seed Bag.snbt"
     }
   ]
 }
