@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/badoptimizations.txt",
-      "sha256": "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/badoptimizations.txt"
-    },
-    {
       "path": "configs/barteringstation-client.toml",
       "sha256": "284ee1c6a5a7bdce7cccb40f818c89f66c51c95d45fc81201c537715c9e5becb",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/barteringstation-client.toml"
