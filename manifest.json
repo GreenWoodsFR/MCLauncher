@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/citadel-common.toml",
-      "sha256": "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/citadel-common.toml"
-    },
-    {
       "path": "configs/collective.json5",
       "sha256": "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/collective.json5"
