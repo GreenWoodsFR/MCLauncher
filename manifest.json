@@ -9222,6 +9222,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt",
       "sha256": "8ddd823a79e44bad5ef9ddf88611038ec7f68aa42318a5d3f0e4d77b618f0121",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.5.1.zip.txt"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.7.1.zip",
+      "sha256": "24a20634a7832d422d3cd5023be16829f26840e25c69404dd418306ea79f63f0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.7.1.zip"
     }
   ]
 }
