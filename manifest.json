@@ -3677,6 +3677,11 @@
       "path": "configs/alexsmobs/flutter_spawns.json",
       "sha256": "f729be2a0bc7bccc88cde40464f990d6074bfcf52a0d1d6719d8ebcd63c496ff",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/flutter_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/shoebill_spawns.json",
+      "sha256": "0d8683c0a1b8176d4e89f88c4f3b1e6fbf6b269781497a190749904c7323eeec",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/shoebill_spawns.json"
     }
   ]
 }
