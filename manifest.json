@@ -4227,6 +4227,11 @@
       "path": "configs/artifacts/relics/scarf_of_invisibility.yaml",
       "sha256": "da1994d32ba38cd2f73fc2ba2c0c553f61bb97181d9931a853e9a174eb297b89",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/scarf_of_invisibility.yaml"
+    },
+    {
+      "path": "configs/artifacts/relics/lucky_scarf.yaml",
+      "sha256": "db018c88dd5943eec0d100720db1759505939085b8270acad9344879d0d2887e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/lucky_scarf.yaml"
     }
   ]
 }
