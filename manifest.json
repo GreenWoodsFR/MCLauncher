@@ -7557,6 +7557,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/enderStars.glsl",
       "sha256": "34840a4863097250221bfa143468b638459ece571e010ffade6adc4f192baed5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/enderStars.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/endCrystalVortex.glsl",
+      "sha256": "7d0b91126598e85cea707d97f0f5986b5a1c1cc8c8b2780969fac81568fb5cfb",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/endCrystalVortex.glsl"
     }
   ]
 }
