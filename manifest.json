@@ -2145,6 +2145,16 @@
       "required": true,
       "side": "both",
       "version": "v1.1.0"
+    },
+    {
+      "id": "76bf01eb-dee8-4a63-a860-5caab1fb429c",
+      "name": "SereneSeasons",
+      "filename": "SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/SereneSeasons-forge-1.20.1-9.1.0.2.jar",
+      "sha256": "c4f1b6bcbd2c4fd8c54866cc217f455d2e8262e35ac218f8fb628c79bc76ff8e",
+      "required": true,
+      "side": "both",
+      "version": "9.1.0.2"
     }
   ],
   "configFiles": []
