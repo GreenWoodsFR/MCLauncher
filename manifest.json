@@ -4527,6 +4527,11 @@
       "path": "configs/ftbquests/quests/chapters/archeologue.snbt",
       "sha256": "ed1c3f96023a4229d2a88fc06df111c4bc4b933b2b1cb6e4fe26ba39579d6e04",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/archeologue.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/oddities.snbt",
+      "sha256": "d782da7c8d2434f9996ceab8db9722a922fc8a34dbd1689ad6dbe136755b6307",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/oddities.snbt"
     }
   ]
 }
