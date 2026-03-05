@@ -5677,6 +5677,11 @@
       "path": "configs/the_bumblezone/bee_aggression.toml",
       "sha256": "edff4600619b1efb2b6438db1cd684fef4c45006ddc04e2ef33d7ce3b1a7ce47",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/the_bumblezone/bee_aggression.toml"
+    },
+    {
+      "path": "configs/the_bumblezone/worldgen.toml",
+      "sha256": "86eb795daf1747fbb6afd2cb7c6c08be2168f5c387f09551a61d3aa4856b51bc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/the_bumblezone/worldgen.toml"
     }
   ]
 }
