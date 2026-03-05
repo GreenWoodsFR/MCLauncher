@@ -4307,6 +4307,11 @@
       "path": "configs/cataclysm/amethyst_crab_spawns.json",
       "sha256": "f729be2a0bc7bccc88cde40464f990d6074bfcf52a0d1d6719d8ebcd63c496ff",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cataclysm/amethyst_crab_spawns.json"
+    },
+    {
+      "path": "configs/cataclysm/deepling_spawns.json",
+      "sha256": "e4802daebcc713c2e5991703ba9a142462a6023507bfa6fff155868a27bd30b7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cataclysm/deepling_spawns.json"
     }
   ]
 }
