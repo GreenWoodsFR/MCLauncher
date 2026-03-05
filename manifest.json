@@ -3437,6 +3437,11 @@
       "path": "configs/alexsmobs/caiman_spawns.json",
       "sha256": "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/caiman_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/catfish_spawns.json",
+      "sha256": "3c097d29c1f74807815d4c13e3586a76528ac3c104670ce95852bd3b62f9e16e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/catfish_spawns.json"
     }
   ]
 }
