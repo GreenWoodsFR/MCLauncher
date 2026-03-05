@@ -5432,6 +5432,11 @@
       "path": "configs/relics/relics/space_dissector.yaml",
       "sha256": "95b5c8774dc1effb0aed7feca6f02f6a9212c6a405b8d6d7fdf3a9dbd9125417",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/space_dissector.yaml"
+    },
+    {
+      "path": "configs/relics/relics/jellyfish_necklace.yaml",
+      "sha256": "f7d63686df01246598f33725ed7a347a6387653b21cee29882b4424465994744",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/jellyfish_necklace.yaml"
     }
   ]
 }
