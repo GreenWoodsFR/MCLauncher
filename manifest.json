@@ -4892,6 +4892,11 @@
       "path": "configs/ftbquests/quests/reward_tables/pnc_plastic_tier.snbt",
       "sha256": "10a101f8c48cf2526f8742138946115e42c8aff26a757b79d4f3bde7f327ddd2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/pnc_plastic_tier.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/perfect_gem_bag.snbt",
+      "sha256": "62fa2a3149a27d612ae6d927d20e6e531a21770fbcca4da49bf3294902444866",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/perfect_gem_bag.snbt"
     }
   ]
 }
