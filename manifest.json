@@ -7502,6 +7502,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/nightNebula.glsl",
       "sha256": "b81c0c541da260b4eec80720bc046204e09233571709df1380fdc95b8fbcc895",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/nightNebula.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/netherStorm.glsl",
+      "sha256": "7a338de0bcb29fd47c88bed5371a12451639a5ae54ea0125e8e2aed0e6a9b2aa",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/netherStorm.glsl"
     }
   ]
 }
