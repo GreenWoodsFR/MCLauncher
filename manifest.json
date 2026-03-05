@@ -3477,6 +3477,11 @@
       "path": "configs/alexsmobs/leafcutter_anthill_spawns.json",
       "sha256": "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/leafcutter_anthill_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/bunfungus_spawns.json",
+      "sha256": "5d5a9d2039b6df546b788f62cb376cc29312a7115a5553541652aad7259436a6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/bunfungus_spawns.json"
     }
   ]
 }
