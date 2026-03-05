@@ -6232,6 +6232,11 @@
       "path": "configs/enchdesc.json",
       "sha256": "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/enchdesc.json"
+    },
+    {
+      "path": "configs/endermanoverhaul-client.jsonc",
+      "sha256": "5d9315a8ce308b193ca880f5a782879c0f117861b08ccb38baed6d049e29b26a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/endermanoverhaul-client.jsonc"
     }
   ]
 }
