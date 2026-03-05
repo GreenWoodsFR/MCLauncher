@@ -2755,6 +2755,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.3"
+    },
+    {
+      "id": "6cab52df-73f9-42b3-a673-c747ec6d4719",
+      "name": "Handcrafted",
+      "filename": "handcrafted-forge-1.20.1-3.0.6.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/handcrafted-forge-1.20.1-3.0.6.jar",
+      "sha256": "1da3c7c524bfb656bb370757af55f08f1678e8e1cb934e1c4c04aa773ed64a79",
+      "required": true,
+      "side": "both",
+      "version": "3.0.6"
     }
   ],
   "configFiles": []
