@@ -7477,6 +7477,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/antialiasing/jitter.glsl",
       "sha256": "fa88f2b998406f31246203414a29cb50943b0347be24ff6d40b49f4b69af4d7e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/antialiasing/jitter.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/antialiasing/fxaa.glsl",
+      "sha256": "2cd61ba1c00fbd7a997a69ed6d48e3ded158f8ae31ccb1248cdd883ea7ec1bd1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/antialiasing/fxaa.glsl"
     }
   ]
 }
