@@ -5157,6 +5157,11 @@
       "path": "configs/jei/jei-mod-id-format.ini",
       "sha256": "ffd6d561a0a11eb4aaae66b839b1307d07f34dad4fc7fdebb5810d70fcb0c56e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/jei-mod-id-format.ini"
+    },
+    {
+      "path": "configs/jei/ingredient-list-mod-sort-order.ini",
+      "sha256": "596d48f44992ac4050cb7ad46a81cd1475a3605ab7ececee6f9dd27f5a3ceb97",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/ingredient-list-mod-sort-order.ini"
     }
   ]
 }
