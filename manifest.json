@@ -6647,6 +6647,11 @@
       "path": "configs/origins-common.toml",
       "sha256": "2ff8b9f970e8019b281864aaeff233394a18e91292685f841105e3de2056d030",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/origins-common.toml"
+    },
+    {
+      "path": "configs/packetfixer.properties",
+      "sha256": "b1280e7bf5a60117342aa997b67232a1a8115c4fbeb804792b4903ea3682f10f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/packetfixer.properties"
     }
   ]
 }
