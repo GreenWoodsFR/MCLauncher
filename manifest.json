@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/mastersword-common.toml",
-      "sha256": "d2147471f7f663d414bbf4d358dc30cb1b3aabd17ad609e3786306b7570867ea",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mastersword-common.toml"
-    },
-    {
       "path": "configs/mermod-client.toml",
       "sha256": "0559bc4522661cd02c7957cf6364a4b5bacc73eef4a42d99d57fb93303679bf1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mermod-client.toml"
