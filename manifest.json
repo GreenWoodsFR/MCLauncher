@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/embeddium-mixins.properties",
-      "sha256": "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/embeddium-mixins.properties"
-    },
-    {
       "path": "configs/embeddium-options.json",
       "sha256": "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/embeddium-options.json"
