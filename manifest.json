@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/toolbelt-common.toml",
-      "sha256": "b2e66325535b673063f023e6b99d9ba072a202ef3823b0543f446e0730ec62b9",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/toolbelt-common.toml"
-    },
-    {
       "path": "configs/transition.json",
       "sha256": "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/transition.json"
