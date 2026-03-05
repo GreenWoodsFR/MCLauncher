@@ -1465,6 +1465,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "4cf7850c-1fee-49b4-8327-c1ac766b0be8",
+      "name": "MobLassos V8.0.1",
+      "filename": "MobLassos-v8.0.1-1.20.1-Forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/MobLassos-v8.0.1-1.20.1-Forge.jar",
+      "sha256": "c94ce226c2bab2ece2e53a2c4f2bef0868deca29ac8a86e64b291b4fdc12eebf",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
