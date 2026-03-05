@@ -5987,6 +5987,11 @@
       "path": "configs/Butchery.toml",
       "sha256": "4d89dd7faea0e7e15f6176dcc5da1486aed28d86ce746ca537ed8491dc643d54",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Butchery.toml"
+    },
+    {
+      "path": "configs/calio-common.toml",
+      "sha256": "2bd48dad7f48c14b11d2a092bcad062c22d802a0b4ed954907a673b93f3f3295",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/calio-common.toml"
     }
   ]
 }
