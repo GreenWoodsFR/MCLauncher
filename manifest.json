@@ -4822,6 +4822,11 @@
       "path": "configs/ftbquests/quests/reward_tables/75FE7CDF68581EDE.snbt",
       "sha256": "5c58df2e40021cfd0c7873f810c880b9cb0f116308ac7f97d0bad70eaf60a750",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/75FE7CDF68581EDE.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/powah_blazing.snbt",
+      "sha256": "769c9c65f269b9a0ed77a88de400ad53eea5b142e1b00a76d401f0d2f9e9f909",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_blazing.snbt"
     }
   ]
 }
