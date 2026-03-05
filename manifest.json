@@ -5777,6 +5777,11 @@
       "path": "configs/ad_astra.jsonc",
       "sha256": "52e9c20de34fd2fd4c0410697538922c8a63591da58117c40c88c681e08f7264",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra.jsonc"
+    },
+    {
+      "path": "configs/advancednetherite-client.toml",
+      "sha256": "228f901e5c0b87acb48dd1f7bfe7c53cf5cc38fa06a59155efb70c59b035dbec",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/advancednetherite-client.toml"
     }
   ]
 }
