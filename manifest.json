@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/fallingleaves-client.toml",
-      "sha256": "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fallingleaves-client.toml"
-    },
-    {
       "path": "configs/fantasy_armor-armor_attributes.toml",
       "sha256": "c506e01ccf4e53b8b993caad3cb2bcf577370e0d29488dfad551330cff650d8f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fantasy_armor-armor_attributes.toml"
