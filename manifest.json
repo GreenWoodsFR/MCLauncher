@@ -4057,6 +4057,11 @@
       "path": "configs/ars_nouveau/glyph_infuse.toml",
       "sha256": "e67196fd1af79cf7952eeaa60d2a6153f3e76165b66e97fc66958242faa0db1c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_infuse.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_projectile.toml",
+      "sha256": "6cb5b952c5e32b4cd7e2288df16d533c66c113fb3d43bdeb986222d67e959032",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_projectile.toml"
     }
   ]
 }
