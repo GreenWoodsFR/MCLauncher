@@ -5812,6 +5812,11 @@
       "path": "configs/ambientsounds-client.json",
       "sha256": "d002319f21f057d57ab1e6a018877d57e687b2e3cd6a5479164ec66d98cd0f78",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ambientsounds-client.json"
+    },
+    {
+      "path": "configs/amendments-client.toml",
+      "sha256": "44e40ef4b924cf09c2111f3233e7e338f6789515d30ce3c929ce5a810da491d0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/amendments-client.toml"
     }
   ]
 }
