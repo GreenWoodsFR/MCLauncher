@@ -5917,6 +5917,11 @@
       "path": "configs/balm-common.toml",
       "sha256": "76d9b5b7ec7c755c78d7047cb0e0bf5e318bb375a8fcdf3aef3cd335b2a008bf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/balm-common.toml"
+    },
+    {
+      "path": "configs/barteringstation-client.toml",
+      "sha256": "284ee1c6a5a7bdce7cccb40f818c89f66c51c95d45fc81201c537715c9e5becb",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/barteringstation-client.toml"
     }
   ]
 }
