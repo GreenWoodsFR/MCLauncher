@@ -4962,6 +4962,11 @@
       "path": "configs/ftbquests/quests/reward_tables/rs_random_storage_parts.snbt",
       "sha256": "b78cbc40a4ebb67a0694e59b1ed3fb5c49d743bd7d4ca30fa1d85f2f4e3c0426",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/rs_random_storage_parts.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/gt_steam_basic_rewards.snbt",
+      "sha256": "b35bcde3a2e4eeedd21a0c20667f3b0b1ac56c8fa8d746ee116e466642614ce5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_steam_basic_rewards.snbt"
     }
   ]
 }
