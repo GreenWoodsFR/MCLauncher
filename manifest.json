@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/farsight.json",
-      "sha256": "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farsight.json"
-    },
-    {
       "path": "configs/ferritecore-mixin.toml",
       "sha256": "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ferritecore-mixin.toml"
