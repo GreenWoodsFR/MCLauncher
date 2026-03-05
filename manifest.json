@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/chloride-client.json",
-      "sha256": "ed8c75900f5811e00e50f28f736fbe298e1779831fe068c4ca1e6f6dacd8873f",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chloride-client.json"
-    },
-    {
       "path": "configs/citadel-common.toml",
       "sha256": "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/citadel-common.toml"
