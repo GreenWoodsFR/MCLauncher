@@ -4252,6 +4252,11 @@
       "path": "configs/artifacts/common.json5",
       "sha256": "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/common.json5"
+    },
+    {
+      "path": "configs/bettercombat/fallback_compatibility.json",
+      "sha256": "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bettercombat/fallback_compatibility.json"
     }
   ]
 }
