@@ -7982,6 +7982,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/others/trident.glsl",
       "sha256": "ab91396ad6b85eb0cf5db28edfb80f1fe185c3ed6661d531d143d38a33aff546",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/others/trident.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl",
+      "sha256": "72c2d2a168563e449ef928ac03fe78221d70117d4465ff0c167975f809f8d739",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/others/endPortalEffect.glsl"
     }
   ]
 }
