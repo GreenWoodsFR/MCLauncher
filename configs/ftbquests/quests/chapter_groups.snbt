@@ -1,0 +1,9 @@
+{
+	chapter_groups: [
+		{ id: "5BBB507BE497896B", title: "&f&l&nDimensions:" }
+		{ id: "3E96C739BC5C67DE", title: " &f&l&nPlanètes" }
+		{ id: "0C887D22E21FDFB7", title: "&f&l&nArmure / Armes:" }
+		{ id: "18782192B0F905F8", title: "&f&l&nMétiers:" }
+		{ id: "5EC606153AA8CA77", title: "&f&l&nAutres:" }
+	]
+}

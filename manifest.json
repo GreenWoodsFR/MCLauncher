@@ -4402,6 +4402,11 @@
       "path": "configs/fabric/indigo-renderer.properties",
       "sha256": "00ed1fc752d57ce27edf3bb0b9633e11e8cca1821205d92fcd170a3205a1dc15",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fabric/indigo-renderer.properties"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapter_groups.snbt",
+      "sha256": "af4b5778e2af9b1908ff1ecbf0d106ace0d232110531199f31a4b5a8289c7075",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapter_groups.snbt"
     }
   ]
 }
