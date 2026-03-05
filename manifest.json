@@ -6957,6 +6957,11 @@
       "path": "configs/toastcontrol-common.toml",
       "sha256": "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/toastcontrol-common.toml"
+    },
+    {
+      "path": "configs/toolbelt-client.toml",
+      "sha256": "dfe8d07c832c05d517cf5bb50798c7678fc529ed4a4bc41367314abf9b40bc5f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/toolbelt-client.toml"
     }
   ]
 }
