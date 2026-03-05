@@ -5372,6 +5372,11 @@
       "path": "configs/raccompat/relics/acid_walker.yaml",
       "sha256": "f69c9621a3b5a15a971254285f0270fa2cc40338db4ad1c8707dd18a78d8171f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/raccompat/relics/acid_walker.yaml"
+    },
+    {
+      "path": "configs/ramcompat/relics/tendon_lump.yaml",
+      "sha256": "941f8f6e787f983cf2b1a5a38c677a05bb9f3509e3d423e173870b44391120ec",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ramcompat/relics/tendon_lump.yaml"
     }
   ]
 }
