@@ -375,6 +375,16 @@
       "required": true,
       "side": "both",
       "version": "1.9.0"
+    },
+    {
+      "id": "723b983a-2e0c-4b2c-9e6f-e07c6d4dc7fb",
+      "name": "BetterF3",
+      "filename": "BetterF3-7.0.2-Forge-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/BetterF3-7.0.2-Forge-1.20.1.jar",
+      "sha256": "e46ced73bdf78a59573a7188cfbe7256353f21a67eef752dc39b5e5816fc61c0",
+      "required": true,
+      "side": "both",
+      "version": "7.0.2"
     }
   ],
   "configFiles": []
