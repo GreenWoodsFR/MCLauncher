@@ -2875,6 +2875,16 @@
       "required": true,
       "side": "both",
       "version": "8.2.14"
+    },
+    {
+      "id": "d57aa30c-6684-4ddf-baa9-031e9e78d033",
+      "name": "Item Obliterator NeoForge MC1.20.1",
+      "filename": "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+      "sha256": "a0de109d3405fbf4290e10df4f812eadd5125debb16ea7e9d908acbbabcb516b",
+      "required": true,
+      "side": "both",
+      "version": "2.3.1"
     }
   ],
   "configFiles": []
