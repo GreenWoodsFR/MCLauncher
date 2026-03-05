@@ -535,6 +535,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "014d5010-2520-43e1-a899-4563cfb04530",
+      "name": "Cardinal Sins 1.0.3",
+      "filename": "Cardinal Sins 1.0.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Cardinal.Sins.1.0.3.jar",
+      "sha256": "ad4948ce5be941b9503a544c5185dd5edea0c5e4c99b871b49b06e80578b8930",
+      "required": true,
+      "side": "both",
+      "version": "?"
     }
   ],
   "configFiles": []
