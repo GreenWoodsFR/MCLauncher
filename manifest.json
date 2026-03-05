@@ -1765,6 +1765,16 @@
       "required": true,
       "side": "both",
       "version": "4.0"
+    },
+    {
+      "id": "941f7cc5-04d2-41de-b0ad-71b8d58080c7",
+      "name": "Pet Cemetery",
+      "filename": "pet_cemetery-1.20.1-2.0.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/pet_cemetery-1.20.1-2.0.0.jar",
+      "sha256": "a6d619eebc93976af85aef788978ab4f20f2b777e77c9925e348cdc6ebac5d38",
+      "required": true,
+      "side": "both",
+      "version": "2.0.0"
     }
   ],
   "configFiles": []
