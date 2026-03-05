@@ -6017,6 +6017,11 @@
       "path": "configs/charmofundying-server.toml",
       "sha256": "e4c5841a10d5024f4ee31cf46b201233a385aaf9badf314d9ebded3feb12d356",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/charmofundying-server.toml"
+    },
+    {
+      "path": "configs/chat_heads.json5",
+      "sha256": "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chat_heads.json5"
     }
   ]
 }
