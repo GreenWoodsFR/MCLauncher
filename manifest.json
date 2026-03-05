@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/saturn-optimizations.toml",
-      "sha256": "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/saturn-optimizations.toml"
-    },
-    {
       "path": "configs/securitycraft-client.toml",
       "sha256": "d4c6dce4d488153852ae794ba4a7639a5b26553249ff7c58199ace93752df6f0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/securitycraft-client.toml"
