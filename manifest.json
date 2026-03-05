@@ -3722,6 +3722,11 @@
       "path": "configs/alexsmobs/blue_jay_spawns.json",
       "sha256": "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/blue_jay_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/crimson_mosquito_spawns.json",
+      "sha256": "104fa9ce71421c5023abba88ce382957828b22341b44c2d03b3300b760482c9d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/crimson_mosquito_spawns.json"
     }
   ]
 }
