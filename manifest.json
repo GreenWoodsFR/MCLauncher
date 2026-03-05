@@ -5477,6 +5477,11 @@
       "path": "configs/relics/relics/arrow_quiver.yaml",
       "sha256": "524af2f5d9f1a57983936ab75d2042e53d49b657e40114d91b946f3ca78f2bf9",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/arrow_quiver.yaml"
+    },
+    {
+      "path": "configs/relics/relics/hunter_belt.yaml",
+      "sha256": "bc79e132db585506ba69baf0849a6a5aec9e8bd86951f5f5a2fcab28c9ca761e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/hunter_belt.yaml"
     }
   ]
 }
