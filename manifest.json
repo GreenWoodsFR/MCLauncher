@@ -3417,6 +3417,11 @@
       "path": "configs/alexsmobs/frilled_shark_spawns.json",
       "sha256": "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/frilled_shark_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/anteater_spawns.json",
+      "sha256": "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/anteater_spawns.json"
     }
   ]
 }
