@@ -7037,6 +7037,11 @@
       "path": "configs/watut-client.toml",
       "sha256": "f30aba6a74c4656d7284081651de0fbc5281e1da8daf7535dae43543959f7fdf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-client.toml"
+    },
+    {
+      "path": "configs/watut-common.toml",
+      "sha256": "17a113c1bf3c30dca221ee72b7285cf1cee3aea24fd5a48d82c47398e2eaa726",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-common.toml"
     }
   ]
 }
