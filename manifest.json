@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/amendments-client.toml",
-      "sha256": "d3da91b22bb5164c828ea6f1e9827949f04fecb593537a8e90e0e6526d141ada",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/amendments-client.toml"
-    },
-    {
       "path": "configs/amendments-common.toml",
       "sha256": "0d4e08dea3a3e63f939173b208f12495f82be861ffaa0df03c26c1871297787a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/amendments-common.toml"
