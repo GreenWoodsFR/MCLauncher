@@ -3327,6 +3327,11 @@
       "path": "configs/alexsmobs/alligator_snapping_turtle_spawns.json",
       "sha256": "df14afd6e1e96ace0dc8e4c71bc325e3baec8dbeaebf61f682561a70fc145f9d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/alligator_snapping_turtle_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/triops_spawns.json",
+      "sha256": "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/triops_spawns.json"
     }
   ]
 }
