@@ -6707,6 +6707,11 @@
       "path": "configs/pingwheel.server.json",
       "sha256": "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/pingwheel.server.json"
+    },
+    {
+      "path": "configs/polymorph-integrations.toml",
+      "sha256": "f09398fbdb8880a2e2a0f234aa6578dd49ada68fecbe899608841f39c430034a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/polymorph-integrations.toml"
     }
   ]
 }
