@@ -1475,6 +1475,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "fdff1127-0e10-49d6-954c-d87a1b0c60cd",
+      "name": "Mobs Of Mythology",
+      "filename": "mobs_of_mythology-forge-3.0.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/mobs_of_mythology-forge-3.0.1.jar",
+      "sha256": "5f788d44e91a95666f6e6b8ea0a8b8cfb75f755e642772749030dae2342e6ddc",
+      "required": true,
+      "side": "both",
+      "version": "3.0.1"
     }
   ],
   "configFiles": []
