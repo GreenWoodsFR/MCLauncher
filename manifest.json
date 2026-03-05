@@ -775,6 +775,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "48ba2c8f-2543-4972-9da2-779ffec7091d",
+      "name": "Cosmeticarmorreworked",
+      "filename": "cosmeticarmorreworked-1.20.1-v1a.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/cosmeticarmorreworked-1.20.1-v1a.jar",
+      "sha256": "c790e8671625b05ec0aa19272e0ea74ea95619f953e3c6f39a6736af0d386804",
+      "required": true,
+      "side": "both",
+      "version": "v1a"
     }
   ],
   "configFiles": []
