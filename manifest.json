@@ -7097,6 +7097,11 @@
       "path": "kubejs/server_scripts/example.js",
       "sha256": "a19b7c81a150bd965b153ded9c45ee7649eaad9e10d0a5ec1d662e7b15ceadb2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/server_scripts/example.js"
+    },
+    {
+      "path": "kubejs/startup_scripts/example.js",
+      "sha256": "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/startup_scripts/example.js"
     }
   ]
 }
