@@ -3902,6 +3902,11 @@
       "path": "configs/ars_nouveau/glyph_dispel.toml",
       "sha256": "978214f42431cd238adc4e732695e23beaf46a07b5d50f66ea92de38f3e38458",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_dispel.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_fortune.toml",
+      "sha256": "335f371cab1c999bb7ac50a1203fdda843201766d3d5175117d73720d822136e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_fortune.toml"
     }
   ]
 }
