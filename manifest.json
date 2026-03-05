@@ -7517,6 +7517,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl",
       "sha256": "617ec0a910fab067a3dfe579c09a9d70f6f376f24001e438b5c3437197278d12",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/clouds/reimaginedClouds.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/clouds/cloudCoord.glsl",
+      "sha256": "6fef0be81483f804b71f76c08fbf5d2ebc10eea57602592ad5214c9a56654a69",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/clouds/cloudCoord.glsl"
     }
   ]
 }
