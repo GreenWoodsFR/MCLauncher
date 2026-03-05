@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/supplementaries-common.toml",
-      "sha256": "9ed462caa26997b2a2b7918bc4b7f39067b8b382bf888c2141b4321809e36161",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/supplementaries-common.toml"
-    },
-    {
       "path": "configs/terrablender.toml",
       "sha256": "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/terrablender.toml"
