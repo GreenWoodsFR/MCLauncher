@@ -7362,6 +7362,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_apple_end_crystal.glsl",
       "sha256": "0e55f5a53c64751b44b2eeecb8ea3f3b8e227a5546e633cbb0d2e428e32f87cf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_apple_end_crystal.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_shadowdistance_acl.glsl",
+      "sha256": "e991cd46e496e27311a4df7b2526d51431680f89b8bec95311d9d34979ef6860",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_shadowdistance_acl.glsl"
     }
   ]
 }
