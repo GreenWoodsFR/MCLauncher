@@ -1,0 +1,2568 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fantasy_armor"
+	group: "0C887D22E21FDFB7"
+	hide_quest_until_deps_complete: true
+	icon: {
+		Count: 1
+		id: "fantasy_armor:hero_helmet"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4B0EDECF7A74703A"
+	order_index: 6
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3C6A6CC9CAD70832"
+			rewards: [
+				{
+					count: 2
+					id: "0AF37D85C5768398"
+					item: "fantasy_armor:moon_crystal"
+					type: "item"
+				}
+				{
+					id: "58762AFECCB4D121"
+					type: "xp"
+					xp: 300
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "2170E8F0A7B1D637"
+				item: "fantasy_armor:moon_crystal"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "6A8B36144797CD4B"
+			rewards: [{
+				id: "6704E5E955D43B18"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "78329A1E42BCA9E2"
+					item: {
+						Count: 1
+						id: "fantasy_armor:eclipse_soldier_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "42DDA03D2D4B387C"
+					item: {
+						Count: 1
+						id: "fantasy_armor:eclipse_soldier_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "72D02BFB6B42B012"
+					item: {
+						Count: 1
+						id: "fantasy_armor:eclipse_soldier_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "07B65A7E4B5503E8"
+					item: {
+						Count: 1
+						id: "fantasy_armor:eclipse_soldier_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "638D872A87414914"
+			rewards: [{
+				id: "06AA158A2491DE8F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "72AB4A3E868B78AF"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dragonslayer_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "065381ED46028358"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dragonslayer_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "359898CBF9FC23A8"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dragonslayer_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1F918537795DBBC5"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dragonslayer_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "65FBC035F379FDE2"
+			rewards: [{
+				id: "46D0100B3A79DD60"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "4494ED2E14E619F7"
+					item: {
+						Count: 1
+						id: "fantasy_armor:hero_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7F894D87AAD17884"
+					item: {
+						Count: 1
+						id: "fantasy_armor:hero_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4CF8A2FAAE733D1F"
+					item: {
+						Count: 1
+						id: "fantasy_armor:hero_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5E3C7F823F184871"
+					item: {
+						Count: 1
+						id: "fantasy_armor:hero_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "643CC103483891B0"
+			rewards: [{
+				id: "5C99F73A84038B13"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "7416C069C6066C1E"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_horns_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "29CC0105A6AA32BA"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_horns_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7EA8DC3EF6D4DBE6"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_horns_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B18604C6C3E174C"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_horns_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "366AE54BD7F78418"
+			rewards: [{
+				id: "0906EE5B205654B8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "57E439FE3F58DBBA"
+					item: {
+						Count: 1
+						id: "fantasy_armor:thief_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "757FC8860B3D1548"
+					item: {
+						Count: 1
+						id: "fantasy_armor:thief_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3B32EB2ECC7EBC96"
+					item: {
+						Count: 1
+						id: "fantasy_armor:thief_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "539B4ACBD63188DF"
+					item: {
+						Count: 1
+						id: "fantasy_armor:thief_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "11E74087360CB92F"
+			rewards: [{
+				id: "3A790E2BD017F1C2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "3DF92B6C8834C215"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wandering_wizard_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B8E05FCFD9476EC"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wandering_wizard_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5AB6253CA2E78618"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wandering_wizard_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5FF4C88824AB1699"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wandering_wizard_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "77E7DE0C9FCCF50D"
+			rewards: [{
+				id: "0FC503C5861EBA22"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "31F9537E95270D01"
+					item: {
+						Count: 1
+						id: "fantasy_armor:chess_board_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0496A9691C90FDC0"
+					item: {
+						Count: 1
+						id: "fantasy_armor:chess_board_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "03C8AEF9EE85C02B"
+					item: {
+						Count: 1
+						id: "fantasy_armor:chess_board_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0AE7DB5EE5021A96"
+					item: {
+						Count: 1
+						id: "fantasy_armor:chess_board_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "5FF3017C175F28ED"
+			rewards: [{
+				id: "36C89A201E73AD58"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "3314C2D85F9B04C8"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_lord_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3FC773964358229B"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_lord_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F80228FDD200FF0"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_lord_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "52AE23C406E77B0E"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_lord_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "23A083A112044DA2"
+			rewards: [{
+				id: "58AA8A582A348004"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "2A6C21FE36C8CFB2"
+					item: {
+						Count: 1
+						id: "fantasy_armor:sunset_wings_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0DECC1984AFE03AF"
+					item: {
+						Count: 1
+						id: "fantasy_armor:sunset_wings_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FF007BC13CEEC67"
+					item: {
+						Count: 1
+						id: "fantasy_armor:sunset_wings_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "12685AF1C5C41344"
+					item: {
+						Count: 1
+						id: "fantasy_armor:sunset_wings_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "43E40F8C18A75B0F"
+			rewards: [{
+				id: "3A754DDC5007496F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "07A7F373E68F87B2"
+					item: {
+						Count: 1
+						id: "fantasy_armor:fog_guard_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "38D258B6486EE475"
+					item: {
+						Count: 1
+						id: "fantasy_armor:fog_guard_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "55CBE5789897BCAB"
+					item: {
+						Count: 1
+						id: "fantasy_armor:fog_guard_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "147052D296450F0A"
+					item: {
+						Count: 1
+						id: "fantasy_armor:fog_guard_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "16D0DC0E2BC17685"
+			rewards: [{
+				id: "0D0A8DBF40043129"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "6E63789A1DF2FE69"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_cover_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "351AE25F576FA723"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_cover_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B99ADDC002B17C1"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_cover_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6CEC1EA105F4648B"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dark_cover_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "021E6AE34D9813EA"
+			rewards: [{
+				id: "5B637720CEB3AEC0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "241EBD996BF4A8B1"
+					item: {
+						Count: 1
+						id: "fantasy_armor:spark_of_dawn_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "360109E3563393C3"
+					item: {
+						Count: 1
+						id: "fantasy_armor:spark_of_dawn_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "225F32AB3CC72E75"
+					item: {
+						Count: 1
+						id: "fantasy_armor:spark_of_dawn_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5F0295B470F0BB87"
+					item: {
+						Count: 1
+						id: "fantasy_armor:spark_of_dawn_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "42B49E526D117262"
+			rewards: [{
+				id: "02FB95349FDA4AE7"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "5A5857B20977C6BB"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_execution_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "461C9B40D05AEBF9"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_execution_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "53A3A6C14A2BFF52"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_execution_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13E6B6588EE65459"
+					item: {
+						Count: 1
+						id: "fantasy_armor:golden_execution_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "1FEF50A7BA4D771C"
+			rewards: [{
+				id: "0A05151D2FBA2ECC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "6142C2E7C850CE47"
+					item: {
+						Count: 1
+						id: "fantasy_armor:forgotten_trace_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EB4F836C6DF307E"
+					item: {
+						Count: 1
+						id: "fantasy_armor:forgotten_trace_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74EBB9F1A249D912"
+					item: {
+						Count: 1
+						id: "fantasy_armor:forgotten_trace_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11FC3EDD1FE8CE5E"
+					item: {
+						Count: 1
+						id: "fantasy_armor:forgotten_trace_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "17CC04E8F851519E"
+			rewards: [{
+				id: "2E9210DE697C16A3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "0B1EBA83135C5601"
+					item: {
+						Count: 1
+						id: "fantasy_armor:redeemer_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7A02BD72F6B96429"
+					item: {
+						Count: 1
+						id: "fantasy_armor:redeemer_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "24F6778665D69193"
+					item: {
+						Count: 1
+						id: "fantasy_armor:redeemer_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "74D0163D56043459"
+					item: {
+						Count: 1
+						id: "fantasy_armor:redeemer_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "7C4A757ECC6DF011"
+			rewards: [{
+				id: "106C3773D45A38DE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "3862ED4F5DDF60FA"
+					item: {
+						Count: 1
+						id: "fantasy_armor:twinned_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7B00A982B5C754B9"
+					item: {
+						Count: 1
+						id: "fantasy_armor:twinned_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2D5B8BD3857D3996"
+					item: {
+						Count: 1
+						id: "fantasy_armor:twinned_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2DDA9F30E81C27CC"
+					item: {
+						Count: 1
+						id: "fantasy_armor:twinned_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "15C02D9A2C927253"
+			rewards: [{
+				id: "775DC026E3D6FA39"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "1DCB716C520B4F5F"
+					item: {
+						Count: 1
+						id: "fantasy_armor:gilded_hunt_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "11D482F1C12AACD0"
+					item: {
+						Count: 1
+						id: "fantasy_armor:gilded_hunt_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4BBA7CED39B81FF9"
+					item: {
+						Count: 1
+						id: "fantasy_armor:gilded_hunt_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4CA7BAC67DB966FA"
+					item: {
+						Count: 1
+						id: "fantasy_armor:gilded_hunt_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "409BB008719ECA80"
+			rewards: [{
+				id: "5BF7E2FECFD99E7E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "22F6EE0A0C8D9430"
+					item: {
+						Count: 1
+						id: "fantasy_armor:lady_maria_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "46821AC1C5587C7E"
+					item: {
+						Count: 1
+						id: "fantasy_armor:lady_maria_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3286D50C505B7502"
+					item: {
+						Count: 1
+						id: "fantasy_armor:lady_maria_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "37F7C7BACEDDA856"
+					item: {
+						Count: 1
+						id: "fantasy_armor:lady_maria_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "2FE0BFC4EAD1217E"
+			rewards: [{
+				id: "2B806C6409669392"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "44B8CC3AE929E73D"
+					item: {
+						Count: 1
+						id: "fantasy_armor:crucible_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "370A888C4D9139C4"
+					item: {
+						Count: 1
+						id: "fantasy_armor:crucible_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "182E46520D14E73B"
+					item: {
+						Count: 1
+						id: "fantasy_armor:crucible_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4B7E27FDFF3AC91E"
+					item: {
+						Count: 1
+						id: "fantasy_armor:crucible_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "40B8ECA2A6218515"
+			rewards: [{
+				id: "5AAF9A0CAE00B801"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "28A96A5F0400C4BD"
+					item: {
+						Count: 1
+						id: "fantasy_armor:ronin_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5D1551276D1E8D61"
+					item: {
+						Count: 1
+						id: "fantasy_armor:ronin_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7CAD2D706D7B354B"
+					item: {
+						Count: 1
+						id: "fantasy_armor:ronin_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E30F98AD22F3A35"
+					item: {
+						Count: 1
+						id: "fantasy_armor:ronin_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "044ECBE15C7892FB"
+			rewards: [{
+				id: "57946C9D1126E68D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "6EBA1BEC52FC2E62"
+					item: {
+						Count: 1
+						id: "fantasy_armor:evening_ghost_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "58ADF64C19696B1D"
+					item: {
+						Count: 1
+						id: "fantasy_armor:evening_ghost_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "00C29AB7E51B2C08"
+					item: {
+						Count: 1
+						id: "fantasy_armor:evening_ghost_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3A0D80AB26FDCF81"
+					item: {
+						Count: 1
+						id: "fantasy_armor:evening_ghost_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "19317996CD169722"
+			rewards: [{
+				id: "1924B1FC122ACB01"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "04F627BF19A5A779"
+					item: {
+						Count: 1
+						id: "fantasy_armor:malenia_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "324B0CA589ADD704"
+					item: {
+						Count: 1
+						id: "fantasy_armor:malenia_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3BE2AD0298FAED10"
+					item: {
+						Count: 1
+						id: "fantasy_armor:malenia_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6DC74B384D1948D5"
+					item: {
+						Count: 1
+						id: "fantasy_armor:malenia_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "30364273A345BD71"
+			rewards: [{
+				id: "7FF44A411460C898"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "4AC0A34B4404DCF4"
+					item: {
+						Count: 1
+						id: "fantasy_armor:old_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6599D58A85B30F12"
+					item: {
+						Count: 1
+						id: "fantasy_armor:old_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2FA7433802DCD01A"
+					item: {
+						Count: 1
+						id: "fantasy_armor:old_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "30492FA70E45B209"
+					item: {
+						Count: 1
+						id: "fantasy_armor:old_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "6F6B7E4A5BF77EC0"
+			rewards: [{
+				id: "02EC43A1E9A9EB3C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "5E1D925E24BCF683"
+					item: {
+						Count: 1
+						id: "fantasy_armor:silver_knight_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5EB8EA6C14C0C393"
+					item: {
+						Count: 1
+						id: "fantasy_armor:silver_knight_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6A45FA43040E41D2"
+					item: {
+						Count: 1
+						id: "fantasy_armor:silver_knight_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "463FDE57E3328858"
+					item: {
+						Count: 1
+						id: "fantasy_armor:silver_knight_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -3.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "5977DCC01797F790"
+			rewards: [{
+				id: "00DEB1F891BFDDB8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "7A32E53FD66FC0E0"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dead_gladiator_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "496C0C4B8881F4AB"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dead_gladiator_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4FB28EE370895F01"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dead_gladiator_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "77F25A7251A2F529"
+					item: {
+						Count: 1
+						id: "fantasy_armor:dead_gladiator_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "79D8E9039CEFB3AC"
+			rewards: [{
+				id: "1557EE789AEBCCD8"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "0F8B3410E7B462CF"
+					item: {
+						Count: 1
+						id: "fantasy_armor:flesh_of_the_feaster_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7063089DCE83C7B7"
+					item: {
+						Count: 1
+						id: "fantasy_armor:flesh_of_the_feaster_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5A72D99C313EF758"
+					item: {
+						Count: 1
+						id: "fantasy_armor:flesh_of_the_feaster_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "31D65AF7C5B9F2ED"
+					item: {
+						Count: 1
+						id: "fantasy_armor:flesh_of_the_feaster_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["3C6A6CC9CAD70832"]
+			id: "573C7F41C7B0E895"
+			rewards: [{
+				id: "70E578CB5E0A9B35"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "434E0A2C49628211"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wind_worshipper_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "26BDAA76AADDEEAC"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wind_worshipper_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0D0A484BDD0B2FFC"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wind_worshipper_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "749D5586157A895D"
+					item: {
+						Count: 1
+						id: "fantasy_armor:wind_worshipper_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 3.0d
+			y: 9.5d
+		}
+		{
+			id: "6891782DE92F1D66"
+			rewards: [{
+				id: "62F14D520A735A17"
+				type: "xp"
+				xp: 300
+			}]
+			shape: "circle"
+			size: 2.0d
+			tasks: [{
+				id: "25EE15D6302117A5"
+				item: "fantasy_weapons:blazing_stone"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "63112FEB825ECA52"
+			rewards: [{
+				id: "280A7157AB8B8BA1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "441148977FBA4CF2"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_fates_beacon"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "5B540C34543328C9"
+			rewards: [{
+				id: "24882CF238B2CC05"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4123F7D425B230BA"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_dragonslayer_halberd"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "79607D947A43CEF1"
+			rewards: [{
+				id: "3830A8F2998E689B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4479380EFF8A795A"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_eclipse_soldier_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "2F9F86438C8B6478"
+			rewards: [{
+				id: "2AB780321C8DC946"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3B53314C71FB0E22"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_hero_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "27E7BF1CF1DB65E8"
+			rewards: [{
+				id: "308A4F22900C1DD7"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6917391F6AF6D586"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_thief_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 15.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "4599A60AD3919201"
+			rewards: [{
+				id: "39C1C8043D79FFC6"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "13F8DB3DB2D80328"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_golden_horns_battleaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "4BDD81DDFB0716BC"
+			rewards: [{
+				id: "00DA1005FFE66A35"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "41B329F8BC7FBDB1"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_wandering_wizard_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "31A516BBEA8D45BE"
+			rewards: [{
+				id: "413374F4E010E445"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7F680DCAF048CF4B"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_dark_lord_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "6591CAE6525203CA"
+			rewards: [{
+				id: "12D25B540A9967FB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "22A3CED20607566D"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_sunset_wings_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "0A5761F98AE14020"
+			rewards: [{
+				id: "33C12BEBD8D9383E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "238341AD45BA2FD1"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_chess_board_knight_polearm"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "612CE34564B5FAD9"
+			rewards: [{
+				id: "743B5DFAE98E8122"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "455ADD33BFCEEF22"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_hefty_club"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "7D60C915CB448122"
+			rewards: [{
+				id: "6AC418120246F3B3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7835380595E1B15F"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_golden_halberd"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "0BC44F0D2005644F"
+			rewards: [{
+				id: "7792E2E52B283A0C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "029A5C51BC870A1A"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_old_broadsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "7C636A6CF7404191"
+			tasks: [{
+				id: "44DEDA587FA8E4B7"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_old_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "41D05178EABE2FDA"
+			tasks: [{
+				id: "6AD2F15B8093CA96"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_old_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "43D0FC171CF1C2C4"
+			rewards: [{
+				id: "0D9F93AAB6A75640"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5338B0743A2AB588"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_kingslayer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "414FC72573FEDF7F"
+			rewards: [{
+				id: "480BDB6015836068"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "06FFB7A08639AADD"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_cursed_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "7E86011B266F0635"
+			rewards: [{
+				id: "248F6E71283D0832"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7E2820655749229F"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_fury_of_the_storm"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 19.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "574A876DBC452838"
+			rewards: [{
+				id: "3CDBCA2ADD0346DF"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "54EEA6EF26F7B3DC"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_dragons_doom"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "3AA8446EF67528B3"
+			rewards: [{
+				id: "7F730B7D0ECE5297"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0C5415A502B6F83C"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_crimson_reaper"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "6C20A51B20E86945"
+			rewards: [{
+				id: "0D381769C502DFA4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "12694BC10A3F720B"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_sharp_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "3BB096D67745DAD7"
+			rewards: [{
+				id: "3ECC53C4A49A27DC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "33BE7AE8C385D2C7"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_infected_sharp_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "00B8E5B7BDF0F4A3"
+			rewards: [{
+				id: "300EBCEDD04C6027"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3BDB71BB3EE9A069"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_sharp_curved_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 21.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "6430FDB4BD9E5576"
+			rewards: [{
+				id: "343BFFD496B953DE"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "330D9F2558D7A2F0"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_infected_sharp_curved_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "7A4AF96FF72738EB"
+			rewards: [{
+				id: "501C3BE60133E688"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "094EFCB7F40F2507"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_sharp_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "5B259DC994F90040"
+			tasks: [{
+				id: "203F88CF6099815E"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_infected_sharp_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "54844A3124E3BACC"
+			rewards: [{
+				id: "79B38A239AE9285C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "453EDE84C1F0C2BE"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_black_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "29A9B76FD874E71B"
+			rewards: [{
+				id: "30B4324B91B870A9"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "597C1861FC9C68DB"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_rivers_of_blood"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "1CA4EDDE0CC11FA3"
+			rewards: [{
+				id: "31BA13BA91075F85"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1384371A96DA961F"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_wakizashi"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "24C640397D8069DE"
+			rewards: [{
+				id: "54252564B308C16A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2E2059BA91BD927A"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_marai_executioner_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "0B52F2D15EA7D1C5"
+			rewards: [{
+				id: "08FBF724002F3478"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1F61140E9EA05964"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_nagakiba"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "5BCD795EA6525C99"
+			rewards: [{
+				id: "758A364081FF6092"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2D2D136283D8AA21"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_hand_of_malenia"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 24.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "0BF781B0B0E252DB"
+			rewards: [{
+				id: "305C682198889ED6"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6FF6DB5DCBDA003D"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_spider_fang"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "2715BF641D285814"
+			rewards: [{
+				id: "7BBE738C6A20188F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0E7A039790BC9623"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_volcano_flame"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "47BB792579394B2E"
+			tasks: [{
+				id: "4ACD474CC33E1995"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_savage_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "257E9CA83E96DBF9"
+			rewards: [{
+				id: "1653445E3C67C451"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7BBA932B40FABAB6"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_savage_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 25.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "6CF30C8B1882E668"
+			rewards: [{
+				id: "42B43C1BE6515644"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4DADE5456B26D697"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_savage_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "497EDBC1FDE7B7E4"
+			rewards: [{
+				id: "32BE400E17BDE38C"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4C4EF9107E22E24B"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_savage_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "263A185A750D16B7"
+			rewards: [{
+				id: "028B99F93027BCB4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1AE9B589281206C7"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_fog_guard_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "77B4072EC2FD968F"
+			tasks: [{
+				id: "35351E8201DC0B05"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_dark_cover_sword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "113B064C62554036"
+			tasks: [{
+				id: "37B8FA99BFD755FD"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_golden_execution_battleaxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "59E5789A3AF63723"
+			rewards: [{
+				id: "0050070B42CA0B14"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4115383B026478E6"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_forgotten_trace_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 27.0d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "62C72768FFBDBD13"
+			tasks: [{
+				id: "494471E31E1459F5"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_spark_of_dawn_polearm"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "178AEBE02A682AB9"
+			tasks: [{
+				id: "519C21B44BE01DA5"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_marika_hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "199C1790FF4DDC12"
+			tasks: [{
+				id: "5C5FA7E7D517AE18"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_desert_wind"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 28.5d
+		}
+		{
+			dependencies: ["6891782DE92F1D66"]
+			id: "12BA4E24872D4B5D"
+			rewards: [{
+				id: "61CFDCC21AA3E148"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "400C2C0A9D0162D1"
+				item: {
+					Count: 1
+					id: "fantasy_weapons:weapon_phantom_needle"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 30.0d
+		}
+	]
+	title: " &8Fantasy Armor"
+}

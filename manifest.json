@@ -4582,6 +4582,11 @@
       "path": "configs/ftbquests/quests/chapters/flmoon.snbt",
       "sha256": "6632b6566499428eac2da9d711bfc299c1f464cce16a9260edec1874c510a72a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/flmoon.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/fantasy_armor.snbt",
+      "sha256": "11139f69cead5515ec1360e80386f168d6a170ca927f138df4b3e4f9bda39814",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/fantasy_armor.snbt"
     }
   ]
 }
