@@ -4352,6 +4352,11 @@
       "path": "configs/CoroUtil/General.toml",
       "sha256": "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/CoroUtil/General.toml"
+    },
+    {
+      "path": "configs/croptopia/croptopia_v3.conf",
+      "sha256": "d0f5472f5b2f124a8d716dbb3c3e09c6ce14400cf528dd6ceb035e85cf5061c1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/croptopia/croptopia_v3.conf"
     }
   ]
 }
