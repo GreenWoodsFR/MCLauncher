@@ -925,6 +925,16 @@
       "required": true,
       "side": "both",
       "version": "0.0.1"
+    },
+    {
+      "id": "a0650cfa-9774-493f-9f0a-4ada85f3b1b6",
+      "name": "Dummmmmmy",
+      "filename": "dummmmmmy-1.20-2.0.9.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/dummmmmmy-1.20-2.0.9.jar",
+      "sha256": "bfbda7e454cd2cc547578208b3c42a2526a2615b155c76952f6981ba3da0fe89",
+      "required": true,
+      "side": "both",
+      "version": "2.0.9"
     }
   ],
   "configFiles": []
