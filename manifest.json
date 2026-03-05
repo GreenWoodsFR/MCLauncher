@@ -5067,6 +5067,11 @@
       "path": "configs/ftbquests/quests/reward_tables/Tier1_Seed Bag.snbt",
       "sha256": "3e795617829212bdbe7023a73a18902401ef149380328148f01fbe946c641480",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/Tier1_Seed Bag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/gt_iv_basic_rewards.snbt",
+      "sha256": "97fcd35097be34e19c84f07d6edebc204b8c383cedb0dabdf654db42ab7dc9ea",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_iv_basic_rewards.snbt"
     }
   ]
 }
