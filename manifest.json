@@ -7762,6 +7762,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl",
       "sha256": "46af11b179d87315166fea6d5bd9969a368c0c4814cee5890a080f32e84e24a7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/bambooPlanks.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl",
+      "sha256": "e00a16f8f594173e6c486e72233e8be876b3c00f847abe063e1d26d1186f89ba",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl"
     }
   ]
 }
