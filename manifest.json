@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/mermod-client.toml",
-      "sha256": "0559bc4522661cd02c7957cf6364a4b5bacc73eef4a42d99d57fb93303679bf1",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mermod-client.toml"
-    },
-    {
       "path": "configs/midnightlib.json",
       "sha256": "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/midnightlib.json"
