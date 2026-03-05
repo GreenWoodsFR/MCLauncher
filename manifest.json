@@ -6002,6 +6002,11 @@
       "path": "configs/carryon-client.toml",
       "sha256": "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/carryon-client.toml"
+    },
+    {
+      "path": "configs/carryon-common.toml",
+      "sha256": "9c31f7f00ebe4025a6a11ee6257fe672b57866f7ec6206f97656b6cdf095b0b1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/carryon-common.toml"
     }
   ]
 }
