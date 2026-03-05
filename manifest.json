@@ -5127,6 +5127,11 @@
       "path": "configs/jade/jade.json",
       "sha256": "4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jade/jade.json"
+    },
+    {
+      "path": "configs/jei/jei-debug.ini",
+      "sha256": "ee9bb0f0f8465629951fe9a532f3ebe3327671a12d4cc6395860d7f7494b970b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/jei-debug.ini"
     }
   ]
 }
