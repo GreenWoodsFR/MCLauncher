@@ -1,0 +1,147 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "les_ribbits"
+	group: "5EC606153AA8CA77"
+	hide_quest_until_deps_complete: true
+	icon: "ribbits:toadstool"
+	id: "3F5B8EBFC507BD73"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			icon: "butchery:orange_frog_carcass"
+			icon_scale: 1.5d
+			id: "0E87767B23870434"
+			rewards: [
+				{
+					id: "519013C85C61CBAA"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 16
+					id: "75FA954CD04838AB"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+			]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				icon: "plushies:cold_frog_plushie"
+				id: "0C029404E9F1A60F"
+				structure: "ribbits:ribbit_village"
+				title: "Trouver un village de Ribbit !"
+				type: "structure"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0E87767B23870434"]
+			id: "29FE8930D8B628EC"
+			rewards: [
+				{
+					id: "47A2522E7A57923E"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 16
+					id: "0171863CD60641D5"
+					item: "minecraft:amethyst_shard"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7DB4C15E41096287"
+				item: "ribbits:maraca"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0E87767B23870434"]
+			id: "02F30397BF09C673"
+			rewards: [
+				{
+					id: "6586FED12DFF1FD6"
+					type: "xp_levels"
+					xp_levels: 8
+				}
+				{
+					exclude_from_claim_all: true
+					id: "0C37F02FC8CBF3F9"
+					table_id: 3608342425435793425L
+					type: "random"
+				}
+			]
+			tasks: [
+				{
+					id: "6FE6B3E14284E0FB"
+					item: "ribbits:giant_lilypad"
+					type: "item"
+				}
+				{
+					id: "28526A0B792093C8"
+					item: "ribbits:swamp_daisy"
+					type: "item"
+				}
+				{
+					id: "16BADCCCF47CC26A"
+					item: "ribbits:toadstool"
+					type: "item"
+				}
+				{
+					id: "12738D6D08519496"
+					item: "ribbits:umbrella_leaf"
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0E87767B23870434"]
+			id: "1E03617AC6F8DA43"
+			rewards: [{
+				id: "3823E27F7F726891"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				id: "18AA0237E1DA01C5"
+				item: "ribbits:swamp_lantern"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0E87767B23870434"]
+			id: "76BF3FE52E43704C"
+			rewards: [{
+				id: "0E35EB89481B5042"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [
+				{
+					id: "0689B838C83D2993"
+					item: "ribbits:mossy_oak_planks"
+					type: "item"
+				}
+				{
+					id: "3ADEB2D90FCDB303"
+					item: "ribbits:mossy_oak_door"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 0.0d
+		}
+	]
+	title: " &2Les Ribbits"
+}

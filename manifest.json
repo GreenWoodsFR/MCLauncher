@@ -4552,6 +4552,11 @@
       "path": "configs/ftbquests/quests/chapters/the_twilight_forest.snbt",
       "sha256": "156d790847280c1a6889b53f2e4dca2a9c18e75ed1320199be35053115f1e7b3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/the_twilight_forest.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/les_ribbits.snbt",
+      "sha256": "b9983df0d79b4587f5616bd915fd9e32587a9ba82463f3aefd0c007056a36f8f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/les_ribbits.snbt"
     }
   ]
 }
