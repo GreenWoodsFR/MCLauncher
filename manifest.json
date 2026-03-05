@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/blueprint-common.toml",
-      "sha256": "468c5e98de57915c1fbc04f24934723184bfaff4d08f666ed8a8b4bdce894a25",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/blueprint-common.toml"
-    },
-    {
       "path": "configs/bocchium-client.toml",
       "sha256": "370a54a12bcaf2d51c042af862de924e9d89bfb3051337b824171ff3f54ece5b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bocchium-client.toml"
