@@ -4997,6 +4997,11 @@
       "path": "configs/ftbquests/quests/reward_tables/basic_elements.snbt",
       "sha256": "f240f8ecd9e03e1c6dafbcd36e7065d5f69785e8afcf502b53ca88045189c59f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/basic_elements.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/netherite_ingots.snbt",
+      "sha256": "b6db7583433c08ac75d137b88a820677ffea55a243042022fe4e8b976528bb88",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/netherite_ingots.snbt"
     }
   ]
 }
