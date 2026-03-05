@@ -5357,6 +5357,11 @@
       "path": "configs/raccompat/relics/polar_boot.yaml",
       "sha256": "0971321c8ac71ffb7730a677ac85e3b0cffbee723ebc75b592f12af7dd6730cf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/raccompat/relics/polar_boot.yaml"
+    },
+    {
+      "path": "configs/raccompat/relics/vine_ring.yaml",
+      "sha256": "6e9ad6521c66b3c8c5f6fb986a0fe4c6f7a2162efec4901ffb095d6bcd6223ca",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/raccompat/relics/vine_ring.yaml"
     }
   ]
 }
