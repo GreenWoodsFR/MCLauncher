@@ -7992,6 +7992,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl",
       "sha256": "0600105e9b70389782783965dcbdb8307920a83005b3f7f2134a98b6d6d44011",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/stainedGlass.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl",
+      "sha256": "b1134d2f21aa74fbd9a73677566018e11a36961362bff28d78843b240e12491c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/translucents/netherPortal.glsl"
     }
   ]
 }
