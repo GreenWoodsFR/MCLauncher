@@ -3642,6 +3642,11 @@
       "path": "configs/alexsmobs/rocky_roller_spawns.json",
       "sha256": "98dc351abc061685560adc82bd3ffa6e4c87d4faab81e9bb6a9e2a6f07cdb177",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/rocky_roller_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/kangaroo_spawns.json",
+      "sha256": "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/kangaroo_spawns.json"
     }
   ]
 }
