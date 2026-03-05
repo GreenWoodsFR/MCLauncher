@@ -4562,6 +4562,11 @@
       "path": "configs/ftbquests/quests/chapters/l4cuisinierre.snbt",
       "sha256": "faa7e8e4c04aa91d14e15f219cbe62ade6157b2cde77066ec0a1741b08f36837",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l4cuisinierre.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/sabre_laser.snbt",
+      "sha256": "0daef96f7c0156baa2bb4904bb2ecf3a41fd15d38129e44243ebf76a492a333b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/sabre_laser.snbt"
     }
   ]
 }
