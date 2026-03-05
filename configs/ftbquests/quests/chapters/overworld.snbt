@@ -1,0 +1,1423 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "overworld"
+	group: "5BBB507BE497896B"
+	hide_quest_until_deps_complete: true
+	icon: "minecraft:grass_block"
+	id: "1D4E5CDD59FFB7A0"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "3DAB175493B08089"
+			rewards: [{
+				id: "29B13597289089F3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found in Dark Oak Forests"
+			tasks: [{
+				entity: "conjurer_illager:conjurer"
+				icon: {
+					Count: 1
+					id: "conjurer_illager:conjurer_hat"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "10911C878598A90F"
+				title: "Kill the Conjurer"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &8Conjurer"
+			x: 10.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "26EA75D177BC496B"
+			rewards: [
+				{
+					id: "2F1EFCBC72F69624"
+					item: "minecraft:netherite_ingot"
+					type: "item"
+				}
+				{
+					id: "6DA1A2B30558A913"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Raids are started by killing Illager Captains, the same way as normal"
+			tasks: [{
+				advancement: "minecraft:adventure/hero_of_the_village"
+				criterion: ""
+				id: "7362BF4629FAD929"
+				title: "Defend a Village"
+				type: "advancement"
+			}]
+			title: "Defend a Village from a &4Raid"
+			x: 13.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "3EA4CB4D9C90B767"
+			rewards: [{
+				id: "0EF5197E4E7ED8F3"
+				item: "conjurer_illager:throwable_ball"
+				type: "item"
+			}]
+			subtitle: "Found in &eIllusioner Towers&r"
+			tasks: [{
+				entity: "minecraft:illusioner"
+				icon: "illagerinvasion:illusionary_dust"
+				id: "39A27C60C2775BD5"
+				title: "Defeat the &cIllusioner"
+				type: "kill"
+				value: 1L
+			}]
+			x: 11.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "6280E25813EA2805"
+			rewards: [{
+				count: 3
+				id: "020B040C4D079A06"
+				item: "minecraft:emerald"
+				random_bonus: 2
+				type: "item"
+			}]
+			subtitle: "Used to turn a villager into an &dOccultist"
+			tasks: [{
+				id: "3594A94ECDBC14FB"
+				item: "villagersplus:occultist_table"
+				type: "item"
+			}]
+			title: "Craft an &dEnchanted Basin"
+			x: 13.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "32C4134E67E71063"
+			rewards: [{
+				count: 3
+				id: "7DD343C14E49B4ED"
+				item: "minecraft:emerald"
+				random_bonus: 2
+				type: "item"
+			}]
+			subtitle: "Used to turn a villager into a &5Alchemist"
+			tasks: [{
+				id: "72527896BB77CECD"
+				item: "villagersplus:alchemist_table"
+				type: "item"
+			}]
+			title: "Craft an &5Alchemist Table"
+			x: 13.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			icon: "cataclysm:mech_eye"
+			id: "1A118FBA223B14F9"
+			rewards: [{
+				id: "67D6BA05D7B17542"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Found in the &6Ancient Factories&r, in the Overworld Caves. Locate with an &6Eye of Mech"
+			tasks: [{
+				entity: "cataclysm:the_harbinger"
+				icon: "cataclysm:the_harbinger_spawn_egg"
+				id: "6C6A449FB595E875"
+				title: "Defeat the &4Harbringer"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &4Harbringer"
+			x: 11.0d
+			y: 1.0d
+		}
+		{
+			icon: "star_wars_expansion:redwood_log"
+			id: "2574E7CF699D5B45"
+			rewards: [{
+				count: 2
+				id: "0B64280DCDE3B078"
+				item: "minecraft:oak_log"
+				random_bonus: 2
+				type: "item"
+			}]
+			shape: "circle"
+			size: 1.5d
+			subtitle: "Breaking a log with an axe will destroy the entire tree attached. Sneaking while destroying a log will prevent this."
+			tasks: [{
+				id: "0470194500CBE26C"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "minecraft:logs"
+					}
+				}
+				title: "Any #minecraft:logs"
+				type: "item"
+			}]
+			title: "Obtain a &2Wooden Log"
+			x: 13.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			icon: "cataclysm:abyss_eye"
+			id: "0353FDDEA821D925"
+			rewards: [{
+				id: "3118E1F5F18B73C8"
+				item: "cataclysm:ignitium_ingot"
+				type: "item"
+			}]
+			size: 1.0d
+			subtitle: "Found in the &9Sunken City&r, at the seas. Locate with an &9Eye of Abyss"
+			tasks: [{
+				entity: "cataclysm:the_leviathan"
+				icon: "cataclysm:the_baby_leviathan_bucket"
+				id: "0A7A8D8140025392"
+				title: "Defeat &dThe Leviathan"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &dLeviathan"
+			x: 10.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5CEF21E35885E955"]
+			id: "233BA969DA5AA027"
+			rewards: [{
+				id: "4855400530BD87E7"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			subtitle: "Spawns randomly underground in boss rooms."
+			tasks: [{
+				entity: "mowziesmobs:ferrous_wroughtnaut"
+				icon: "mowziesmobs:wrought_helmet"
+				id: "3333928391216A43"
+				title: "Defeat the &7Ferrous Wroughtnaut"
+				type: "kill"
+				value: 1L
+			}]
+			x: 17.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0226F89EEC57C5EC"]
+			id: "5CEF21E35885E955"
+			rewards: [{
+				id: "72B831667F31BD94"
+				item: "friendsandfoes:totem_of_freezing"
+				type: "item"
+			}]
+			subtitle: "Found in &fsnowy&r biomes."
+			tasks: [{
+				entity: "mowziesmobs:frostmaw"
+				icon: {
+					Count: 1
+					id: "mowziesmobs:ice_crystal"
+					tag: {
+						Damage: 0
+					}
+				}
+				id: "648F394BA53947B6"
+				title: "Defeat the &bFrostmaw"
+				type: "kill"
+				value: 1L
+			}]
+			x: 16.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "0226F89EEC57C5EC"
+			rewards: [{
+				id: "78658FFD3CABA528"
+				item: {
+					Count: 1
+					id: "minecraft:enchanted_book"
+					tag: {
+						StoredEnchantments: [{
+							id: "minecraft:unbreaking"
+							lvl: 3s
+						}]
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Found upon his throne in &eSavanna &rbiomes"
+			tasks: [{
+				entity: "mowziesmobs:umvuthi"
+				icon: "mowziesmobs:grant_suns_blessing"
+				id: "2498701E7715A09B"
+				title: "Defeat &eUmvuthi, the Sunbird"
+				type: "kill"
+				value: 1L
+			}]
+			x: 15.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "1FA308C8C319403E"
+			rewards: [{
+				id: "0C267DF448BB3193"
+				item: {
+					Count: 1
+					id: "minecraft:splash_potion"
+					tag: {
+						Potion: "goblintraders:luck"
+					}
+				}
+				type: "item"
+			}]
+			subtitle: "Found by using a brush on Suspicious Sand in the Desert."
+			tasks: [{
+				id: "601A59E76485A542"
+				item: "cataclysm:necklace_of_the_desert"
+				type: "item"
+			}]
+			title: "Dig up a &eNecklace of the Desert"
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1FA308C8C319403E"]
+			id: "3103B2CFCFDB2173"
+			rewards: [
+				{
+					id: "41A7430DB03A2ABB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "52CF5725728C0483"
+					table_id: 327386274853989853L
+					type: "random"
+				}
+			]
+			subtitle: "Found at the bottom of the &cCursed Pyramid&r, which spawns in deserts. Awaken the boss with the &eNecklace of the Desert&r. This boss is &lvery&r difficult and you will need to be properly prepared. Locate with an &eEye of Desert"
+			tasks: [{
+				entity: "cataclysm:ancient_remnant"
+				icon: "cataclysm:remnant_skull"
+				id: "3C1C4CE6E885E8EE"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat an &6Ancient Remnant"
+			x: 12.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "6401C96CA77FEE8E"
+			rewards: [{
+				count: 3
+				id: "5774555674970126"
+				item: "cataclysm:black_steel_ingot"
+				random_bonus: 3
+				type: "item"
+			}]
+			subtitle: "Found in the &1Frosted Prison&7, in the Overworld in Snow Biomes. Locate with an &1Eye of Curse"
+			tasks: [{
+				entity: "cataclysm:maledictus"
+				icon: "cataclysm:cursed_eye"
+				id: "7F2A3471BB0F60A2"
+				title: "Defeat &bMaledictus"
+				type: "kill"
+				value: 1L
+			}]
+			x: 9.0d
+			y: 2.0d
+		}
+		{
+			hide_dependent_lines: true
+			id: "6022D45C2D21B260"
+			rewards: [
+				{
+					id: "30985954238C8768"
+					item: "minecraft:diamond_block"
+					type: "item"
+				}
+				{
+					id: "0E1B0190CB7D9463"
+					type: "xp"
+					xp: 500
+				}
+			]
+			tasks: [{
+				id: "6B688E06B6B8AC4D"
+				item: "minecraft:beacon"
+				type: "item"
+			}]
+			x: 13.0d
+			y: 7.5d
+		}
+		{
+			id: "213E50325B8DF6EE"
+			rewards: [
+				{
+					count: 2
+					id: "4E009D53A05E1C67"
+					item: "minecraft:ender_pearl"
+					type: "item"
+				}
+				{
+					id: "5762AECA89CF09CC"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:enderman"
+				icon: "supplementaries:enderman_head"
+				id: "32BC7C32E11DB8C6"
+				title: "Tuer un Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "3D32EE7CC6AAD430"
+			rewards: [{
+				id: "00E5EEF8B0644ADB"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:badlands_enderman"
+				icon: "endermanoverhaul:badlands_enderman_spawn_egg"
+				id: "13284028081C83B6"
+				title: "Tuer le Badland Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "31F177260C512529"
+			rewards: [{
+				id: "31479ABBDE8F6B04"
+				type: "xp"
+				xp: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:cave_enderman"
+				icon: "endermanoverhaul:cave_enderman_spawn_egg"
+				id: "1E442634D4D74B59"
+				title: "Tuer le Cave Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "7FC348419CA74BFC"
+			tasks: [{
+				entity: "bygonenether:warped_enderman"
+				icon: "bygonenether:warped_enderman_spawn_egg"
+				id: "56CACB52C4C5373F"
+				title: "Tuer le Warped Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "45E7EAB9152D2455"
+			rewards: [{
+				id: "68829A56DB184CF7"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:crimson_forest_enderman"
+				icon: "endermanoverhaul:crimson_forest_enderman_spawn_egg"
+				id: "6AFC008C79709FF3"
+				title: "Tuer le Cimson Forest Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "725343E1A1D4B281"
+			rewards: [{
+				id: "6F88B0AED6C79B7F"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:dark_oak_enderman"
+				icon: "endermanoverhaul:dark_oak_enderman_spawn_egg"
+				id: "4DF82A48EB273F7F"
+				title: "Tuer le Dark Oak Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "40987E903C446C4D"
+			rewards: [{
+				id: "01165186E8369C37"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "endermanoverhaul:desert_enderman_spawn_egg"
+				id: "553F00931362CC90"
+				title: "Tuer le Desert Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "10B0003EAACE6246"
+			rewards: [{
+				id: "67FEE8A2CFF055A1"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:end_enderman"
+				icon: "endermanoverhaul:end_enderman_spawn_egg"
+				id: "0F8E8DC19903B4C5"
+				title: "Tuer le End Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -4.5d
+		}
+		{
+			id: "0CE3EB65D9AD9B1D"
+			rewards: [{
+				id: "26D506AD74BF89C0"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:end_islands_enderman"
+				icon: "endermanoverhaul:end_islands_enderman_spawn_egg"
+				id: "14F39270763FF9D8"
+				title: "Tuer le End Islands Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "658DA87C36796E01"
+			rewards: [{
+				id: "5A32FBCF479BC92E"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:flower_fields_enderman"
+				icon: "endermanoverhaul:flower_fields_enderman_spawn_egg"
+				id: "43CAAF7C323D1FDC"
+				title: "Tuer le Flower Fields Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "3132117258D04D60"
+			rewards: [{
+				id: "11F6B984C58F3825"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:ice_spikes_enderman"
+				icon: "endermanoverhaul:ice_spikes_enderman_spawn_egg"
+				id: "03B9A7069A41B003"
+				title: "Tuer le Ice Spikes Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "11D162FB2FF5416A"
+			rewards: [{
+				id: "20E6145B76ACCE3B"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:mushroom_fields_enderman"
+				icon: "endermanoverhaul:mushroom_fields_enderman_spawn_egg"
+				id: "7204991DEC35BE8C"
+				title: "Tuer le Mushroom Fields Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "4926D2360DE4A6E8"
+			rewards: [{
+				id: "1BB802FC0A3390D8"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:nether_wastes_enderman"
+				icon: "endermanoverhaul:nether_wastes_enderman_spawn_egg"
+				id: "48F8918D81189B3B"
+				title: "Tuer le Nether Wastes Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "2BE202B194D56813"
+			rewards: [{
+				id: "0C54E20B98EF8DD1"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:coral_enderman"
+				icon: "endermanoverhaul:coral_enderman_spawn_egg"
+				id: "364D6BAA8DDE04F0"
+				title: "Tuer le Coral Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "0DA093D6132E0CF3"
+			rewards: [{
+				id: "40A27FD78AA2E7A9"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:savanna_enderman"
+				icon: "endermanoverhaul:savanna_enderman_spawn_egg"
+				id: "1CF360EC984D8AE6"
+				title: "Tuer le Savanna Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "00FB1987F4D15B61"
+			rewards: [{
+				id: "273A41F963E87A32"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:snowy_enderman"
+				icon: "endermanoverhaul:snowy_enderman_spawn_egg"
+				id: "6B22D2FF48926DEF"
+				title: "Tuer le Snowy Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "2D64589D18717558"
+			rewards: [{
+				id: "6FE2D7169B09FB15"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:soulsand_valley_enderman"
+				icon: "endermanoverhaul:soulsand_valley_enderman_spawn_egg"
+				id: "3C33437150ECCFFE"
+				title: "Tuer le Soulsland Valley Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 7.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "10D98FBD3ECDD536"
+			rewards: [{
+				id: "2AD2433C325D67A4"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:swamp_enderman"
+				icon: "endermanoverhaul:swamp_enderman_spawn_egg"
+				id: "4BF295AC2275511B"
+				title: "Tuer le Swamp Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 6.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "48C6E988BEF87C40"
+			rewards: [{
+				id: "27C86AEE7B6B6C6F"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:warped_forest_enderman"
+				icon: "endermanoverhaul:warped_forest_enderman_spawn_egg"
+				id: "4649D28554B8E5DB"
+				title: "Tuer le Warped Forest Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 4.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["213E50325B8DF6EE"]
+			id: "334010A13D12A01B"
+			rewards: [{
+				id: "4A2B2942C608F870"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "endermanoverhaul:windswept_hills_enderman"
+				icon: "endermanoverhaul:windswept_hills_enderman_spawn_egg"
+				id: "7BF1B6F40C1DFD4E"
+				title: "Tuer me Windswept Hills Enderman"
+				type: "kill"
+				value: 1L
+			}]
+			x: 5.0d
+			y: -7.0d
+		}
+		{
+			id: "0CCEFAB2E9AEE0D8"
+			rewards: [
+				{
+					id: "5C4CEDCF97BD485D"
+					type: "xp_levels"
+					xp_levels: 1
+				}
+				{
+					count: 16
+					id: "24A2FC4F169ED2EE"
+					item: "minecraft:gunpowder"
+					type: "item"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: "minecraft:creeper_head"
+				id: "50DAA2BDD6876E61"
+				title: "Tuer un Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 20.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "35E4625A2D1D99CC"
+			rewards: [{
+				id: "60B1822A4DB24ACC"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:jungle_creeper"
+				icon: "creeperoverhaul:jungle_creeper_spawn_egg"
+				id: "4EE20E689C0C88B4"
+				title: "Tuer un Jungle Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 20.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "62D8B846462D9897"
+			rewards: [{
+				id: "4590B08F291607A3"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:bamboo_creeper"
+				icon: "creeperoverhaul:bamboo_creeper_spawn_egg"
+				id: "2EE5106824567178"
+				title: "Tuer le Bamboo Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 21.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "26BD47AB8A56E05E"
+			rewards: [{
+				id: "0798A90CF9830976"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:desert_creeper"
+				icon: "creeperoverhaul:desert_creeper_spawn_egg"
+				id: "24B5FC1190581F09"
+				title: "Tuer un Desert Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 21.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "4FBB0DF7A47802F9"
+			rewards: [{
+				id: "7499E9984A45A242"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:badlands_creeper"
+				icon: "creeperoverhaul:badlands_creeper_spawn_egg"
+				id: "7AE891564E111C09"
+				title: "Tuer un Badlands Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 21.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "546F3A4916C08E15"
+			rewards: [{
+				id: "15FC60D07019EB88"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:hills_creeper"
+				icon: "creeperoverhaul:hills_creeper_spawn_egg"
+				id: "4BA752A87FFAD1BF"
+				title: "Tuer un Hills Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 20.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "35C84CB6201EB274"
+			rewards: [{
+				id: "63E173C6B3F736FD"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:savannah_creeper"
+				icon: "creeperoverhaul:savannah_creeper_spawn_egg"
+				id: "4F31FF47CE35EAB0"
+				title: "Tuer un Savanna Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 19.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "067A0A0D13E82059"
+			rewards: [{
+				id: "47A768435C8EE5C7"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:mushroom_creeper"
+				icon: "creeperoverhaul:mushroom_creeper_spawn_egg"
+				id: "6C3DC4EE3E944FB5"
+				title: "Tuer un Mushroom Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 19.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "3B945831C26A7796"
+			rewards: [{
+				id: "577FF7EA4968F91E"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:swamp_creeper"
+				icon: "creeperoverhaul:swamp_creeper_spawn_egg"
+				id: "6BA3CF22D2F2F288"
+				title: "Tuer un Swamp Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 19.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "042CE8E03C51BCB4"
+			rewards: [{
+				id: "763A6303B067DFA8"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:dripstone_creeper"
+				icon: "creeperoverhaul:dripstone_creeper_spawn_egg"
+				id: "644CBBCA650B5A37"
+				title: "Tuer un Dripstone Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 18.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "27E0F78CA41C7130"
+			rewards: [{
+				id: "3A91DA3C5C97C3FB"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:cave_creeper"
+				icon: "creeperoverhaul:cave_creeper_spawn_egg"
+				id: "638877160962D7A6"
+				title: "Tuer un Cave Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 20.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "113B386BEBF5D164"
+			rewards: [{
+				id: "662D1ABAC167BEA1"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:dark_oak_creeper"
+				icon: "creeperoverhaul:dark_oak_creeper_spawn_egg"
+				id: "70536EC5BAD5F59C"
+				title: "Tuer un Dark Oak Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 22.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "376E35D7F5DAA26B"
+			rewards: [{
+				id: "378DDB6F743D3123"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:spruce_creeper"
+				icon: "creeperoverhaul:spruce_creeper_spawn_egg"
+				id: "40E348D969332940"
+				title: "Tuer un Spruce Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 18.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "258346E530AEF3B3"
+			rewards: [{
+				id: "1142677D7749074F"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:beach_creeper"
+				icon: "creeperoverhaul:beach_creeper_spawn_egg"
+				id: "0CAF87EF74FBCCE8"
+				title: "Tuer un Beach Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 18.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "22D49A8424B39789"
+			rewards: [{
+				id: "3F911EC4CB1A8B2C"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:snowy_creeper"
+				icon: "creeperoverhaul:snowy_creeper_spawn_egg"
+				id: "3F99ED4A1E9A89D9"
+				title: "Tuer un Snowy Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 22.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0CCEFAB2E9AEE0D8"]
+			id: "3EB202FB4B215065"
+			rewards: [{
+				id: "1005D8A5C6A75AD8"
+				type: "xp_levels"
+				xp_levels: 2
+			}]
+			tasks: [{
+				entity: "creeperoverhaul:ocean_creeper"
+				icon: "creeperoverhaul:ocean_creeper_spawn_egg"
+				id: "3083A16CE5EBB3B0"
+				title: "Tuer un Ocean Creeper"
+				type: "kill"
+				value: 1L
+			}]
+			x: 22.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2574E7CF699D5B45"]
+			id: "436BEF135E93D870"
+			rewards: [{
+				id: "3817C2BB100DC779"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "74FB4D3351C3B43F"
+				item: "paraglider:paraglider"
+				type: "item"
+			}]
+			x: 10.5d
+			y: -0.5d
+		}
+		{
+			icon: "minecraft:sculk_sensor"
+			id: "75572A6B35A400C5"
+			rewards: [{
+				id: "686402FF3702624A"
+				item: "minecraft:netherite_scrap"
+				type: "item"
+			}]
+			shape: "diamond"
+			size: 2.0d
+			subtitle: "Found underground in the &aOverworld&r."
+			tasks: [{
+				entity: "minecraft:warden"
+				id: "2EF8FFD08A2D2727"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat a &3Warden"
+			x: 15.5d
+			y: 0.5d
+		}
+		{
+			id: "5C65B48B8C270EBB"
+			tasks: [{
+				id: "5929450A89567471"
+				item: "treasures_of_the_dead:foul_skull"
+				type: "item"
+			}]
+			x: 22.0d
+			y: -3.0d
+		}
+		{
+			id: "571792971E72829E"
+			tasks: [{
+				id: "29CE1E9E53D82A44"
+				item: "treasures_of_the_dead:disgraced_skull"
+				type: "item"
+			}]
+			x: 23.0d
+			y: -3.0d
+		}
+		{
+			id: "336660EF4B459BDD"
+			tasks: [{
+				id: "5893CA95C9ABB924"
+				item: "treasures_of_the_dead:hateful_skull"
+				type: "item"
+			}]
+			x: 24.0d
+			y: -3.0d
+		}
+		{
+			id: "30DBC8A7E80E8085"
+			tasks: [{
+				id: "20BDE84B2EEA8709"
+				item: "treasures_of_the_dead:villainous_skull"
+				type: "item"
+			}]
+			x: 25.0d
+			y: -3.0d
+		}
+		{
+			id: "71A9DF26E2AA0FD2"
+			tasks: [{
+				id: "377EF24A8D6D81B8"
+				item: "treasures_of_the_dead:treasure_chest"
+				type: "item"
+			}]
+			x: 22.5d
+			y: -4.0d
+		}
+		{
+			id: "432E127DA35361E2"
+			tasks: [{
+				id: "41B20318108595EF"
+				item: "treasures_of_the_dead:treasure_key"
+				type: "item"
+			}]
+			x: 24.5d
+			y: -4.0d
+		}
+		{
+			id: "75A949F884E4D133"
+			tasks: [{
+				id: "5BD778A3BABB39A6"
+				item: "sophisticatedbackpacks:copper_backpack"
+				type: "item"
+			}]
+			x: 14.5d
+			y: -3.0d
+		}
+		{
+			id: "7BE641A4DB35E081"
+			tasks: [{
+				id: "3488E1DF878D15FD"
+				item: "sophisticatedbackpacks:iron_backpack"
+				type: "item"
+			}]
+			x: 15.0d
+			y: -4.0d
+		}
+		{
+			id: "508C168A7F16C259"
+			tasks: [{
+				id: "21863C0851F55827"
+				item: "sophisticatedbackpacks:diamond_backpack"
+				type: "item"
+			}]
+			x: 15.5d
+			y: -5.0d
+		}
+		{
+			id: "629EE15F6598C318"
+			tasks: [{
+				id: "2CD8FB8877B803A7"
+				item: "sophisticatedbackpacks:netherite_backpack"
+				type: "item"
+			}]
+			x: 16.0d
+			y: -6.0d
+		}
+		{
+			dependency_requirement: "one_completed"
+			id: "5ED1C2ABB2F83291"
+			tasks: [
+				{
+					id: "3DDF130D60014CAE"
+					item: "sophisticatedbackpacks:backpack"
+					type: "item"
+				}
+				{
+					id: "2D825B34ABCAF80D"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 16383998
+							clothColor: 16383998
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6E35855B66C7A528"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 2895973
+							clothColor: 12439408
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7DFFAE006399801D"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 13061821
+							clothColor: 13061821
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4938B5C1571417F6"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 16351261
+							clothColor: 16351261
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "316647A60443785D"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 3847130
+							clothColor: 3847130
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "563F4BE895B2E048"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 16701501
+							clothColor: 16701501
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3040FB1994D7E37D"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 8439583
+							clothColor: 8439583
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "471D406FC399B141"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 15961002
+							clothColor: 15961002
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "06D3D80201C14681"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 4673362
+							clothColor: 4673362
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6C0BFDB9D708D746"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 10329495
+							clothColor: 10329495
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "34BAFB53E8F07298"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 1481884
+							clothColor: 1481884
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "781DF7C6C47B50EA"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 8991416
+							clothColor: 8991416
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7D532D4FCA7029C7"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 3949738
+							clothColor: 3949738
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "410C965BAE3A6C5A"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 8606770
+							clothColor: 8606770
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0DACF951790951F0"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 6192150
+							clothColor: 6192150
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "516790EE0E6C69E2"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 11546150
+							clothColor: 11546150
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2E40A8E1026C4097"
+					item: {
+						Count: 1
+						id: "sophisticatedbackpacks:backpack"
+						tag: {
+							borderColor: 1908001
+							clothColor: 1908001
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 14.0d
+			y: -2.0d
+		}
+	]
+	title: " &aOverworld"
+}

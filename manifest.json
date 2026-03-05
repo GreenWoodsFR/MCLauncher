@@ -4502,6 +4502,11 @@
       "path": "configs/ftbquests/quests/chapters/l9ve6nu4s.snbt",
       "sha256": "6da7ad45fe19284a0e50345551273c88fcc616a79d14b5f177b7423efb45bded",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l9ve6nu4s.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/overworld.snbt",
+      "sha256": "58d50f055ecd15628c37c46d599ff5f5670539e43e1755e3ba1215cfe9fa7cfd",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/overworld.snbt"
     }
   ]
 }
