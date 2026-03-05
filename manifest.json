@@ -5147,6 +5147,11 @@
       "path": "configs/jei/blacklist.cfg",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/blacklist.cfg"
+    },
+    {
+      "path": "configs/jei/jei-client.ini",
+      "sha256": "8c5ae3646c07bfd87fe9259333c2df2b7eb2670cd0c64c21f48f69e0a5629a18",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/jei-client.ini"
     }
   ]
 }
