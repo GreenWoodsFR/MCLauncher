@@ -5487,6 +5487,11 @@
       "path": "configs/relics/relics/wool_mitten.yaml",
       "sha256": "2dc50e02a423d5c2b7b926bc03346abd1cba2bba63875b3f51747d88c3e5fd90",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/wool_mitten.yaml"
+    },
+    {
+      "path": "configs/relics/relics/roller_skates.yaml",
+      "sha256": "cf23559b6acead1187cb717a5c6baec8282022e04593cce0dcbf7b048e43f442",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/roller_skates.yaml"
     }
   ]
 }
