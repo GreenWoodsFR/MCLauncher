@@ -5492,6 +5492,11 @@
       "path": "configs/relics/relics/roller_skates.yaml",
       "sha256": "cf23559b6acead1187cb717a5c6baec8282022e04593cce0dcbf7b048e43f442",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/roller_skates.yaml"
+    },
+    {
+      "path": "configs/relics/relics/blazing_flask.yaml",
+      "sha256": "8af42f810a66263852c16f8749376346080a5fecef9488bb3bc12912c08cc1a4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/blazing_flask.yaml"
     }
   ]
 }
