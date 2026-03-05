@@ -4577,6 +4577,11 @@
       "path": "configs/ftbquests/quests/chapters/storage.snbt",
       "sha256": "97da0388f08ab7a4486a0db1a3ad3cc504fd5d5762ce66abe565c72ae859c8f1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/storage.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/flmoon.snbt",
+      "sha256": "6632b6566499428eac2da9d711bfc299c1f464cce16a9260edec1874c510a72a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/flmoon.snbt"
     }
   ]
 }
