@@ -6627,6 +6627,11 @@
       "path": "configs/netheritehorsearmor-common.cfg",
       "sha256": "56e2e39df2adbd97e491d5cd6ba0d210df87f34ba18b3a99ab0173886ca9a4bf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/netheritehorsearmor-common.cfg"
+    },
+    {
+      "path": "configs/notenoughanimations.json",
+      "sha256": "3c6dc51366c1455140068baec32ab6f83d76bac3e4c497ab1f5cc1b0fc09d5ed",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/notenoughanimations.json"
     }
   ]
 }
