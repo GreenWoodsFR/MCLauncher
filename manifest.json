@@ -7447,6 +7447,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/potato.png.mcmeta",
       "sha256": "aeea32df4d4dbb092db11225a82859556b704141abc5a09774a34c69132adbc9",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/potato.png.mcmeta"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/cloud-water.png.mcmeta",
+      "sha256": "e9c800d49d941e58d1c9f114b4564886b0c984369fab42515935497948ea8440",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/cloud-water.png.mcmeta"
     }
   ]
 }
