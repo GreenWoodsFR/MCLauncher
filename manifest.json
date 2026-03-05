@@ -5417,6 +5417,11 @@
       "path": "configs/regions_unexplored/ru-secondary-region.toml",
       "sha256": "77d4b1625ba1754bc129bc47a98186ad1869e86737867dac98cabd8621ed916f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/regions_unexplored/ru-secondary-region.toml"
+    },
+    {
+      "path": "configs/relics/relics/ice_skates.yaml",
+      "sha256": "92400db4163b2cddd59104b0dca35865b9dd9ac30c1b7973aa9e2adce67342ea",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/ice_skates.yaml"
     }
   ]
 }
