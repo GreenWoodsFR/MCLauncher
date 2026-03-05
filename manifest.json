@@ -955,6 +955,16 @@
       "required": true,
       "side": "both",
       "version": "3.11.4"
+    },
+    {
+      "id": "20eed494-5ae0-45d7-a4e9-8088e6dfc904",
+      "name": "EasyAnvils V8.0.2",
+      "filename": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "sha256": "a08b641e6cc1d4867e0878826ac4fb9e55b45907d0fa3429172ecad8cd678ce9",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
