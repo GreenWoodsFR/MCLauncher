@@ -2215,6 +2215,16 @@
       "required": true,
       "side": "both",
       "version": "b1.4"
+    },
+    {
+      "id": "6761d74d-38d7-49ee-979e-ed21612add17",
+      "name": "SmartBrainLib",
+      "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/SmartBrainLib-forge-1.20.1-1.15.jar",
+      "sha256": "665f65f77cc36379a9ae11c09db5d9efa1ad4f8d017edc8f65903ff27cacdb1d",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
