@@ -1575,6 +1575,16 @@
       "required": true,
       "side": "both",
       "version": "1.7.3"
+    },
+    {
+      "id": "59e644ac-a718-4e77-afe5-545062c3c84c",
+      "name": "MutantsZombies",
+      "filename": "MutantsZombies-1.3.2-Forge-mc1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/MutantsZombies-1.3.2-Forge-mc1.20.1.jar",
+      "sha256": "31929d95cc04d55517bdc2c41822a07cc2427c41f0f9c36537dbea5152da56a3",
+      "required": true,
+      "side": "both",
+      "version": "mc1.20.1"
     }
   ],
   "configFiles": []
