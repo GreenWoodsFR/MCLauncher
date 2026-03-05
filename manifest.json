@@ -8087,6 +8087,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/showLightLevels.glsl",
       "sha256": "cc13dd4108eeab4978af73b1816a04155c461a4337656ad82b01241fac82c385",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/showLightLevels.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/darkOutline.glsl",
+      "sha256": "8b503ae007561bf1e8db7cd51c0cdb6dbbfc9449a974dfd824b8dd5e505416a9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/darkOutline.glsl"
     }
   ]
 }
