@@ -5247,6 +5247,11 @@
       "path": "configs/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml",
       "sha256": "7b33480668eb018739e9b8528c82c394645ed3d7025da4b1e4a0b2402eddada4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarysurvivaloverhaul/legendarysurvivaloverhaul-common.toml"
+    },
+    {
+      "path": "configs/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml",
+      "sha256": "08134df36dd2ac108a184eef1b8c3c2577d60ae1f315403e17447093a41f49f3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarysurvivaloverhaul/legendarysurvivaloverhaul-client.toml"
     }
   ]
 }
