@@ -5757,6 +5757,11 @@
       "path": "configs/voicechat/translations.properties",
       "sha256": "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/voicechat/translations.properties"
+    },
+    {
+      "path": "configs/accessories.json5",
+      "sha256": "d459b76d2a92b8770584a407f8bfc6570cc17923e95c32e23d083fe14505e60d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/accessories.json5"
     }
   ]
 }
