@@ -2065,6 +2065,16 @@
       "required": true,
       "side": "both",
       "version": "2.1.29"
+    },
+    {
+      "id": "27c7bec8-9bde-4938-8a22-05a1b57e4392",
+      "name": "Rhino",
+      "filename": "rhino-forge-2001.2.3-build.10.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/rhino-forge-2001.2.3-build.10.jar",
+      "sha256": "fed2211429301bf043864183cab9ab8e92d4cc4dbb9e488ce6c75217c54584a6",
+      "required": true,
+      "side": "both",
+      "version": "build.10"
     }
   ],
   "configFiles": []
