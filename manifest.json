@@ -6632,6 +6632,11 @@
       "path": "configs/notenoughanimations.json",
       "sha256": "3c6dc51366c1455140068baec32ab6f83d76bac3e4c497ab1f5cc1b0fc09d5ed",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/notenoughanimations.json"
+    },
+    {
+      "path": "configs/oculus.properties",
+      "sha256": "fb8410aa0aead9cda75b3feb7f814c8cbca06fa8cfc63eb842da5dc1324e5669",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/oculus.properties"
     }
   ]
 }
