@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/ribbits-forge-1_20_1.toml",
-      "sha256": "a3a347104c669a4847fbcea06cabe3a5fb79c474164137b01074fde0c1e649be",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ribbits-forge-1_20_1.toml"
-    },
-    {
       "path": "configs/ribbits-options.json",
       "sha256": "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ribbits-options.json"
