@@ -5942,6 +5942,11 @@
       "path": "configs/betteradvancements-client.toml",
       "sha256": "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/betteradvancements-client.toml"
+    },
+    {
+      "path": "configs/betterarcheology-common.toml",
+      "sha256": "b2729a5916c5aac214f67337d1d38ee7767e1e14b7f2dcb7b7371a9509829a96",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/betterarcheology-common.toml"
     }
   ]
 }
