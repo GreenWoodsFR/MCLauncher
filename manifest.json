@@ -5047,6 +5047,11 @@
       "path": "configs/ftbquests/quests/reward_tables/amekanismr_dadvanced_loot_boxr.snbt",
       "sha256": "103df81131f264d5bab09fe21ec8ef555a55c873e9dc4e9ed181f7579e755e6b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/amekanismr_dadvanced_loot_boxr.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/de_basic_4.snbt",
+      "sha256": "37ea85ee1625005d25febd172e3c48482ea3ca6a5006c476449ce2e2fa2644af",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/de_basic_4.snbt"
     }
   ]
 }
