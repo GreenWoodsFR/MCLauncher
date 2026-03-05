@@ -1975,6 +1975,16 @@
       "required": true,
       "side": "both",
       "version": "0.5"
+    },
+    {
+      "id": "c80d04a2-c105-4c95-9182-947728dd0503",
+      "name": "Realmrpg Dragon Wyrms 1.0.1 Forge 1.20.1",
+      "filename": "realmrpg_dragon_wyrms_1.0.1_forge_1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/realmrpg_dragon_wyrms_1.0.1_forge_1.20.1.jar",
+      "sha256": "c252a7900f6f518c7344755b4000a33ca2291941204ef849cbdf14626fcc6873",
+      "required": true,
+      "side": "both",
+      "version": "?"
     }
   ],
   "configFiles": []
