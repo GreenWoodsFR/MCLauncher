@@ -195,6 +195,16 @@
       "required": true,
       "side": "both",
       "version": "6.2.0"
+    },
+    {
+      "id": "cc28a13d-59c4-4c6d-8867-285edeb020ca",
+      "name": "Architectury",
+      "filename": "architectury-9.2.14-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/architectury-9.2.14-forge.jar",
+      "sha256": "218b471d0b8a1f6cda14cfc1beb9eeb0df54304500acc6c5613d9b88ec65d9af",
+      "required": true,
+      "side": "both",
+      "version": "9.2.14"
     }
   ],
   "configFiles": []
