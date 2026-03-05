@@ -7887,6 +7887,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/froglights.glsl",
       "sha256": "51a1462574ca6f9d51feb48d47d8ab4764a6633698022d22591ceee016ac05fd",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/froglights.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/lavaEdge.glsl",
+      "sha256": "ccdaa40db6f99982c3890ff528a716c8fc6e3b216e2a909c3e0f8f0aacdffd96",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/lavaEdge.glsl"
     }
   ]
 }
