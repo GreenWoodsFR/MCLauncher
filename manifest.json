@@ -2615,6 +2615,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "90f5d663-e1b9-4f9e-88a7-1812936d1166",
+      "name": "Waystones",
+      "filename": "waystones-forge-1.20.1-14.1.20.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/waystones-forge-1.20.1-14.1.20.jar",
+      "sha256": "5ecc6535596b5954f6293224be6b35805c64f4d4aedc2b9e32d9508dd529cabd",
+      "required": true,
+      "side": "both",
+      "version": "14.1.20"
     }
   ],
   "configFiles": []
