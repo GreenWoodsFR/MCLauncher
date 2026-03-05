@@ -6132,6 +6132,11 @@
       "path": "configs/delightful-common.toml",
       "sha256": "267e21e03590d6125604ad119776ed88a54c4ac4da0aedf36182111246cbed46",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/delightful-common.toml"
+    },
+    {
+      "path": "configs/dragonmounts-client.toml",
+      "sha256": "5246cb51560b7715280b7835d5e76334aca8306daa4b31b11b0599bd67261197",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dragonmounts-client.toml"
     }
   ]
 }
