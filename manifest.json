@@ -3065,6 +3065,16 @@
       "required": true,
       "side": "both",
       "version": "1.20"
+    },
+    {
+      "id": "dc4ad231-b78b-4dcd-91fe-ae98f3ad2cb5",
+      "name": "Legendarycreatures",
+      "filename": "legendarycreatures-1.20.1-1.1.1.4.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/legendarycreatures-1.20.1-1.1.1.4.jar",
+      "sha256": "4ca9ff173a1f01b3af755a3981e9444b29453e27db27d303c1696e850f1adf1a",
+      "required": true,
+      "side": "both",
+      "version": "1.1.1.4"
     }
   ],
   "configFiles": []
