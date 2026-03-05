@@ -2715,6 +2715,16 @@
       "required": true,
       "side": "both",
       "version": "0.0.1.1"
+    },
+    {
+      "id": "0f112791-e188-4948-adca-e30b3a9a275d",
+      "name": "Goblintraders",
+      "filename": "goblintraders-forge-1.20.1-1.11.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/goblintraders-forge-1.20.1-1.11.5.jar",
+      "sha256": "05362605ea68a0b45a12b796a6787f30430bd55e462959f0a43ccd63ca14438a",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
