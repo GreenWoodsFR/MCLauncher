@@ -3175,6 +3175,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.12"
+    },
+    {
+      "id": "ffa2fb8f-3864-47bb-98e2-d05dda158d17",
+      "name": "Letsdo Nethervinery",
+      "filename": "letsdo-nethervinery-forge-1.2.19.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/letsdo-nethervinery-forge-1.2.19.jar",
+      "sha256": "c8d1b795468ecb4a82fbafd3b9134881dbe8e6108b62ba4060922448ab0e0cd4",
+      "required": true,
+      "side": "both",
+      "version": "1.2.19"
     }
   ],
   "configFiles": []
