@@ -6772,6 +6772,11 @@
       "path": "configs/refurbished_furniture.client.toml.bak",
       "sha256": "a3b736aa13a3add55658909416c3ecc350d3b1bbc5e2246cb08f5a33fbe67a57",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/refurbished_furniture.client.toml.bak"
+    },
+    {
+      "path": "configs/refurbished_furniture.server.toml",
+      "sha256": "a072cbe07dbfaefdd7cc424bdd2ba94f4ad9ba3076437319fba27bd748f48a6c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/refurbished_furniture.server.toml"
     }
   ]
 }
