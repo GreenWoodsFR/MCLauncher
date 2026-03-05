@@ -1,0 +1,19 @@
+{
+  "options": {
+    "renderDistance": 12,
+    "simulationDistance": 12,
+    "maxFps": 120,
+    "graphics": "fancy",
+    "smoothLighting": true,
+    "particles": 0,
+    "enableVsync": true,
+    "guiScale": 0,
+    "showSubtitles": false
+  },
+  "servers": [
+    {
+      "name": "Hypixel",
+      "ip": "hypixel.net"
+    }
+  ]
+}
