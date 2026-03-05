@@ -5592,6 +5592,11 @@
       "path": "configs/simplymore/mimicry_attributes.json5",
       "sha256": "ec52c515551cb7d52925bd031b7a693fe6efb5f486eb504a7d146cd12aacf779",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplymore/mimicry_attributes.json5"
+    },
+    {
+      "path": "configs/simplymore/unique_effects.json5",
+      "sha256": "d891f2092cd309fff5bf522af6f7bad6f05beb2b5c7379d39c63d8f568b1d8e9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplymore/unique_effects.json5"
     }
   ]
 }
