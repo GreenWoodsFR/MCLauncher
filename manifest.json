@@ -8682,6 +8682,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world-1/gbuffers_terrain.vsh",
       "sha256": "3bf5337f9eefebbb8757018a6b0d11a76500593c96befc2565df5a0088d929af",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world-1/gbuffers_terrain.vsh"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world-1/gbuffers_armor_glint.vsh",
+      "sha256": "d0b1cf1f394200ed6c99d09b0acfc5c03313abb2e87211b66c379197572b6e36",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world-1/gbuffers_armor_glint.vsh"
     }
   ]
 }
