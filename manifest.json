@@ -4867,6 +4867,11 @@
       "path": "configs/ftbquests/quests/reward_tables/living_loot.snbt",
       "sha256": "2466d3ac93692714ffef6b03e2f90a6069bcd97d765748d0a1c8fa8414acfcc3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/living_loot.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/legendary.snbt",
+      "sha256": "04db9135e8db364b6359d0d2b9bdba72c768bf7f720191255a97c49650e4f5d5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/legendary.snbt"
     }
   ]
 }
