@@ -6852,6 +6852,11 @@
       "path": "configs/smarterfarmers-common.toml",
       "sha256": "32722ba1b3094c0ae26fcb43cd15d35ed8d4a8333529e1350fc4db83c91c9153",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smarterfarmers-common.toml"
+    },
+    {
+      "path": "configs/smoothboot.json",
+      "sha256": "8fb262662f6ee6d6f88256a2b628f7519f3eede1104d6e20a80523ce4a21cad1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smoothboot.json"
     }
   ]
 }
