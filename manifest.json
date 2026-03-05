@@ -2375,6 +2375,16 @@
       "required": true,
       "side": "both",
       "version": "1.1.2"
+    },
+    {
+      "id": "c0735693-4390-4e09-a4f1-33211087b68f",
+      "name": "StarWarsExpansionv2.0.0",
+      "filename": "StarWarsExpansionv2.0.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/StarWarsExpansionv2.0.0.jar",
+      "sha256": "93c72db6e440e17383b784d1a4aa002e4b26bf43231bb7db690c69c22f09c359",
+      "required": true,
+      "side": "both",
+      "version": "?"
     }
   ],
   "configFiles": []
