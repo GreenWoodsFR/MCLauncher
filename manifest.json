@@ -85,6 +85,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "2c823b29-3a31-4625-9c4e-1671726edabd",
+      "name": "Alexscaves Torpedoes",
+      "filename": "alexscaves_torpedoes-1.0.4.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/alexscaves_torpedoes-1.0.4.jar",
+      "sha256": "746084af019a208dde2ca17e8ca8e30e64b4ee69ff4167f4b692aec4e7ad5fcd",
+      "required": true,
+      "side": "both",
+      "version": "1.0.4"
     }
   ],
   "configFiles": []
