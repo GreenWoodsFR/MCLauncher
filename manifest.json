@@ -5212,6 +5212,11 @@
       "path": "configs/legendarycreatures/json/forest_mojo-spawn.json",
       "sha256": "587fcd59411e68906c6123728f7f5c313413748da5245b01a34a7c896d986f0f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarycreatures/json/forest_mojo-spawn.json"
+    },
+    {
+      "path": "configs/legendarycreatures/json/corpse_eater-spawn.json",
+      "sha256": "ebbffa2d02d5551026f5393019b36e916f3f35d6797fbb9fceb84d643b43946e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarycreatures/json/corpse_eater-spawn.json"
     }
   ]
 }
