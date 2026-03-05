@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/watut-item-arm-adjustments.json",
-      "sha256": "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-item-arm-adjustments.json"
-    },
-    {
       "path": "configs/watut-server.toml",
       "sha256": "690202e25181bb7ab70d0cd61cf05fa84d45117764dc3bf3498457dc13309c65",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-server.toml"
