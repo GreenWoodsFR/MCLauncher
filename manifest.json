@@ -1895,6 +1895,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "7c46ca17-6f42-49c7-84ac-4d8ae80eadca",
+      "name": "PuzzlesLib V8.1.33",
+      "filename": "PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/PuzzlesLib-v8.1.33-1.20.1-Forge.jar",
+      "sha256": "f3077a9f817629b8e8929c1951042d1a1adc62d30b72adebd54d2b074a4faf4f",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
