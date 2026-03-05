@@ -6992,6 +6992,11 @@
       "path": "configs/twilightforest-client.toml",
       "sha256": "7df74722394aa6f9b662317ad4840fc9b0a2e11c394ef6da2b3d9eabb62808d3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/twilightforest-client.toml"
+    },
+    {
+      "path": "configs/twilightforest-common.toml",
+      "sha256": "2d8051f2d41dd6ee7b9e6570e84cd18a3e2d013c0890c95c0b66e7ecce0346b8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/twilightforest-common.toml"
     }
   ]
 }
