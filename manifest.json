@@ -4592,6 +4592,11 @@
       "path": "configs/ftbquests/quests/chapters/l5simply_sword.snbt",
       "sha256": "2160611a342d3a9b83a42a54b021e251eca172868dbeb5fa78db9d0f80216f2e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l5simply_sword.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/sorcierre.snbt",
+      "sha256": "d76233a68830f38f44a35a1241f01c09bd2500372fe9688fa6c15760be38f97a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/sorcierre.snbt"
     }
   ]
 }

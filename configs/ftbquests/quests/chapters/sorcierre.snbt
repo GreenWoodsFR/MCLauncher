@@ -1,0 +1,32 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sorcierre"
+	group: "18782192B0F905F8"
+	icon: {
+		Count: 1
+		id: "minecraft:potion"
+		tag: {
+			Potion: "minecraft:night_vision"
+		}
+	}
+	id: "1C7225C04168107F"
+	order_index: 9
+	quest_links: [ ]
+	quests: [{
+		id: "6AAB4A628D080750"
+		rewards: [{
+			id: "08571BF70A84DEFE"
+			type: "xp"
+			xp: 100
+		}]
+		tasks: [{
+			id: "07A617385F837EA7"
+			item: "minecraft:brewing_stand"
+			type: "item"
+		}]
+		x: -0.5d
+		y: 0.0d
+	}]
+	title: " &aSorcier(ère)"
+}
