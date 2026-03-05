@@ -6247,6 +6247,11 @@
       "path": "configs/ends_delight-common.toml",
       "sha256": "f4fc0c0f40bac8b5243141374a6df6eabc993ecd989559ffe8b9fd908bf46982",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ends_delight-common.toml"
+    },
+    {
+      "path": "configs/entity_model_features.json",
+      "sha256": "6f03a2b722d33c2ad810d01a1184f4e788ee3a0c312ea7857bbe13b17880b239",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entity_model_features.json"
     }
   ]
 }
