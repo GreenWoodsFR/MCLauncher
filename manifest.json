@@ -3787,6 +3787,11 @@
       "path": "configs/ars_additions/glyph_recall.toml",
       "sha256": "14af58551488cb7eab8a886be3d272c69ecbbe19dfa81d878d19ec3666780971",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_additions/glyph_recall.toml"
+    },
+    {
+      "path": "configs/ars_additions/glyph_retaliate.toml",
+      "sha256": "12d23893eeba2114ce9c47f8131015dab42d0e9ad2fc507535ee50f15617acf0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_additions/glyph_retaliate.toml"
     }
   ]
 }
