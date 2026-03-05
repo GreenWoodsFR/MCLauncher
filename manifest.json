@@ -3892,6 +3892,11 @@
       "path": "configs/ars_nouveau/glyph_accelerate.toml",
       "sha256": "52088c7f85bfe74de6b1626dfc4a13cd66c841ee3824899e1a21a19cae130349",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_accelerate.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_animate_block.toml",
+      "sha256": "f8bcd050ca15e4cbeab90c16365e177d275c6a988f8586b8a50cb5ac76103b69",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_animate_block.toml"
     }
   ]
 }
