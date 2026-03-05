@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/fairylights-client.toml",
-      "sha256": "cad5874b33ea848d77bd11f0a7d78b2d0ecbb05cad6d4451d702cc357c37d33e",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fairylights-client.toml"
-    },
-    {
       "path": "configs/fairylights-common.toml",
       "sha256": "61078cc778b4049c259a0bc2e1ba809306e39cc90dffd59c6f9855aabacd52e0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fairylights-common.toml"
