@@ -3512,6 +3512,11 @@
       "path": "configs/alexsmobs/hummingbird_spawns.json",
       "sha256": "6aa305d47ca32364d445c04c8a20da36a7ccef97955c27e834d4114604d2785d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/hummingbird_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/spectre_spawns.json",
+      "sha256": "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/spectre_spawns.json"
     }
   ]
 }
