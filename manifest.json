@@ -7107,6 +7107,11 @@
       "path": "kubejs/README.txt",
       "sha256": "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/README.txt"
+    },
+    {
+      "path": "resourcepacks/Aimz - Tiny Crosshair.zip",
+      "sha256": "afa2ac23a71a06d86e647f0feb804033ce06e4cc4d038ffd54459222e5d0dc5c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/resourcepacks/Aimz - Tiny Crosshair.zip"
     }
   ]
 }
