@@ -2345,6 +2345,16 @@
       "required": true,
       "side": "both",
       "version": "3.1.1"
+    },
+    {
+      "id": "ca906b82-21f1-44c8-b458-79def2af8fae",
+      "name": "Spittingimage 5v",
+      "filename": "spittingimage-5v-1.20_1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/spittingimage-5v-1.20_1.20.1.jar",
+      "sha256": "34d9b78680ccaaf1f70f8ef229e0a09de07d94b218f38c0baf8871b9ca8f46d8",
+      "required": true,
+      "side": "both",
+      "version": "1.20_1.20.1"
     }
   ],
   "configFiles": []
