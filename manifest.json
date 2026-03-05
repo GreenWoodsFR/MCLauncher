@@ -5737,6 +5737,11 @@
       "path": "configs/voicechat/voicechat-client.properties",
       "sha256": "52201fd665de8f36478d4ad86e293542e38cec792bedaa1f1a699129aa90ef17",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/voicechat/voicechat-client.properties"
+    },
+    {
+      "path": "configs/voicechat/voicechat-volumes.properties",
+      "sha256": "52bf1465173002e329ef9e2c786fd5e9649a6ea7e11817e56482a3dd30a7275f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/voicechat/voicechat-volumes.properties"
     }
   ]
 }
