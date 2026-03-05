@@ -5267,6 +5267,11 @@
       "path": "configs/mobtimizations/features-customization.toml",
       "sha256": "76dfa266aad5984a159a995ab59355572625e158d1ba077991a14d86f94d9e65",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mobtimizations/features-customization.toml"
+    },
+    {
+      "path": "configs/Obscuria/aquamirae-client.toml",
+      "sha256": "c5913558bc43a17ff28e21853f6be9713f3d0a6416235e11aaedb8a3998bcb4d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Obscuria/aquamirae-client.toml"
     }
   ]
 }
