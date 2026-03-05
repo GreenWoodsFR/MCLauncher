@@ -5397,6 +5397,11 @@
       "path": "configs/realmrpg/quests/monster_hunter.json",
       "sha256": "224d1eed93cfa1748c9d9e5f95ffadbd6eb2f2bbc8b71e05b7fe0e179d2e4250",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/realmrpg/quests/monster_hunter.json"
+    },
+    {
+      "path": "configs/realmrpg/quests/cook.json",
+      "sha256": "d64ad05f29f1e4108f41ac83794aeb69fcd26cf13fb62f7a51ae2508427379c5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/realmrpg/quests/cook.json"
     }
   ]
 }
