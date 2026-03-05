@@ -5682,6 +5682,11 @@
       "path": "configs/the_bumblezone/worldgen.toml",
       "sha256": "86eb795daf1747fbb6afd2cb7c6c08be2168f5c387f09551a61d3aa4856b51bc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/the_bumblezone/worldgen.toml"
+    },
+    {
+      "path": "configs/the_bumblezone/dimension.toml",
+      "sha256": "615c4e4a51c89790a9d3cb86b07c1e2fbaacffce47658e290423b52cd46dcf35",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/the_bumblezone/dimension.toml"
     }
   ]
 }
