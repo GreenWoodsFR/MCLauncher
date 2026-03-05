@@ -5797,6 +5797,11 @@
       "path": "configs/alexscaves-client.toml",
       "sha256": "4c146ba6e12b1bdc2259f9bb8ee48ffc20719b8c506726e1c736eccc99c94758",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves-client.toml"
+    },
+    {
+      "path": "configs/alexscaves-general.toml",
+      "sha256": "232e6e03c16b2d664ffbca9014dc72da2ff952b514d514087288fda1237dbaed",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves-general.toml"
     }
   ]
 }
