@@ -6392,6 +6392,11 @@
       "path": "configs/highlighter-common.toml",
       "sha256": "22b7f87be30b7e3ce6fa3fe1cb588e8b3eae0bfc9ddc390ad346a1d1bbfebb4b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/highlighter-common.toml"
+    },
+    {
+      "path": "configs/hole_filler_mod.toml",
+      "sha256": "0ed61d9dfa8bef14afc67580eeecae6a4f6e6eca2f4b61fefd0dd81c0c720880",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/hole_filler_mod.toml"
     }
   ]
 }
