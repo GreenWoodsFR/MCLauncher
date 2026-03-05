@@ -6952,6 +6952,11 @@
       "path": "configs/tide.toml",
       "sha256": "c69740c31b345aedaf18635f3b475389f2ab4e9f81b1bafbdf92273d1a3dd8ff",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/tide.toml"
+    },
+    {
+      "path": "configs/toastcontrol-common.toml",
+      "sha256": "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/toastcontrol-common.toml"
     }
   ]
 }
