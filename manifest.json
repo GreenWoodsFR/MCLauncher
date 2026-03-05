@@ -2320,7 +2320,7 @@
       "id": "d5ed67a8-b28a-4491-94aa-9c60a3087ac9",
       "name": "Soulbound",
       "filename": "soulbound-forge-1.0.0+1.20.1.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/soulbound-forge-1.0.0%2B1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/soulbound-forge-1.0.0_1.20.1.jar",
       "sha256": "151cec836ac07fab1ad02fa949cba21b60f3bedba9dd1446e9fdbaa7914f198c",
       "required": true,
       "side": "both",
