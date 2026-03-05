@@ -7807,6 +7807,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/autoModdedOres.glsl",
       "sha256": "37e8d7b7eb98d4da7c00d499c796718f6be47c79c2568092f57e1aaa4aca4579",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/autoModdedOres.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl",
+      "sha256": "3ae97b1590ea5ea1b42a3dc62be5d32ad5c8cc0c9c5cdc0c1c2d0770594729ae",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/copperBlock.glsl"
     }
   ]
 }
