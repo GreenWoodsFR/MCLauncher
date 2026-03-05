@@ -4722,6 +4722,11 @@
       "path": "configs/ftbquests/quests/reward_tables/powah_hardened.snbt",
       "sha256": "0a3991ed3313036035237feaf28eeeb3cd0adcb91cba69dc659862350ce1145f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_hardened.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/powah_niotic.snbt",
+      "sha256": "a98d7bec3057be498891b9c2e358d9a965d1ca09b821dbadb5145d4ed500f630",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_niotic.snbt"
     }
   ]
 }
