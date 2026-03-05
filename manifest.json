@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/easyanvils-client.toml",
-      "sha256": "daecf2f4b4f0f6682cfabf68dcb963535f7f4284c671141dd7c7115b0c609ba7",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/easyanvils-client.toml"
-    },
-    {
       "path": "configs/easymagic-client.toml",
       "sha256": "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/easymagic-client.toml"
