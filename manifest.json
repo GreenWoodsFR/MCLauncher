@@ -395,6 +395,16 @@
       "required": true,
       "side": "both",
       "version": "6.0"
+    },
+    {
+      "id": "55975189-5f8e-4aee-b32a-757693de1a51",
+      "name": "BetterGrassify",
+      "filename": "BetterGrassify-1.4.4+forge.1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/BetterGrassify-1.4.4%2Bforge.1.20.1.jar",
+      "sha256": "9b41eb42e6e79c6dd86d09e4ae93ac91cf32737f8fd617c0afcae1df63f3d25f",
+      "required": true,
+      "side": "both",
+      "version": "1.4.4"
     }
   ],
   "configFiles": []
