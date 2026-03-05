@@ -2575,6 +2575,16 @@
       "required": true,
       "side": "both",
       "version": "1.1.2"
+    },
+    {
+      "id": "98f0e5cd-af78-4663-b424-309a32f3b147",
+      "name": "Visuality",
+      "filename": "visuality-forge-2.0.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/visuality-forge-2.0.2.jar",
+      "sha256": "336a9f11f9d55f2d600c56ec1a8dcba93b80534fc749b143096e129c9c9c985d",
+      "required": true,
+      "side": "both",
+      "version": "2.0.2"
     }
   ],
   "configFiles": []
