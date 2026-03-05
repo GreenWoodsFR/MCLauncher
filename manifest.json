@@ -5042,6 +5042,11 @@
       "path": "configs/ftbquests/quests/reward_tables/blood_magic_loot_bag.snbt",
       "sha256": "5c463c77313719016cc46ed9d82aca8c4224a8d2dee2408d517dff451ccf1278",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/blood_magic_loot_bag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/amekanismr_dadvanced_loot_boxr.snbt",
+      "sha256": "103df81131f264d5bab09fe21ec8ef555a55c873e9dc4e9ed181f7579e755e6b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/amekanismr_dadvanced_loot_boxr.snbt"
     }
   ]
 }
