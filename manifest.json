@@ -6032,6 +6032,11 @@
       "path": "configs/chimes-client.toml",
       "sha256": "8b83e415a7e504f06c79a8c1c8f63d479e16019935beef46e4864fb5cf4ba1ba",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chimes-client.toml"
+    },
+    {
+      "path": "configs/chimes-common.toml",
+      "sha256": "c4093536d06ebf10b96ce5a40deb0801bca9678cd89a8d9342a8d93f762b7761",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chimes-common.toml"
     }
   ]
 }
