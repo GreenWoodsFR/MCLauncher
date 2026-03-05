@@ -5122,6 +5122,11 @@
       "path": "configs/jade/plugins.json",
       "sha256": "a24fbab55f6d4391c55baf60839fa97a54ad97457d2b1c62dcde20195fc659a7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jade/plugins.json"
+    },
+    {
+      "path": "configs/jade/jade.json",
+      "sha256": "4624fc2e033829004e59a6269ccc409529d653d7cfa902e8cb3dc570daba14a2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jade/jade.json"
     }
   ]
 }
