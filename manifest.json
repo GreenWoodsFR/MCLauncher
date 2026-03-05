@@ -6562,6 +6562,11 @@
       "path": "configs/modernfix-common.toml",
       "sha256": "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/modernfix-common.toml"
+    },
+    {
+      "path": "configs/modernfix-mixins.properties",
+      "sha256": "3553628f1b539f859fbe7c06e482cfec74ab66b1214bb0f713902f317b6f8fb7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/modernfix-mixins.properties"
     }
   ]
 }
