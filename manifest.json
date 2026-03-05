@@ -4807,6 +4807,11 @@
       "path": "configs/ftbquests/quests/reward_tables/industrial_foregoing_advanced_bag.snbt",
       "sha256": "454d2dbb578812888429532389c58a3edebd02929f485a182204ad0f09e8782b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/industrial_foregoing_advanced_bag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/refined_storage_base_materials.snbt",
+      "sha256": "0710c53349fdda4d2e81b96e0cf8be9ab32415af6bcb9be441b21bdd2e3214d1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/refined_storage_base_materials.snbt"
     }
   ]
 }
