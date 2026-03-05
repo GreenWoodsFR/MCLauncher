@@ -1305,6 +1305,16 @@
       "required": true,
       "side": "both",
       "version": "2001.3.2"
+    },
+    {
+      "id": "08fc8077-48bb-494a-96ab-d61411fd7605",
+      "name": "Ftbquestsfreezefix",
+      "filename": "ftbquestsfreezefix-forge-1.0.0-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/ftbquestsfreezefix-forge-1.0.0-1.20.1.jar",
+      "sha256": "55042027ecfc50c62c178fc8766d2043a6d83bc6aa9b2f0b30eed65c33fc8aca",
+      "required": true,
+      "side": "both",
+      "version": "1.0.0"
     }
   ],
   "configFiles": []
