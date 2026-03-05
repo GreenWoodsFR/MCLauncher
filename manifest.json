@@ -4427,6 +4427,11 @@
       "path": "configs/ftbquests/quests/chapters/ars_nouveau.snbt",
       "sha256": "e95e0d46f98907a9bb0eba54bb61ade7af6e7d42f3bcf135ef47948425259c06",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/ars_nouveau.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/plushies.snbt",
+      "sha256": "6b32fb906df1a8e98bf7a421f736d2edef9c252c2cd16e8d93c18d61773a439c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/plushies.snbt"
     }
   ]
 }
