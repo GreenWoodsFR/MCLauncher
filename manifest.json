@@ -4952,6 +4952,11 @@
       "path": "configs/ftbquests/quests/reward_tables/gt_ev_basic_rewards.snbt",
       "sha256": "0291882a36d003b2256e7967f6746fe3fc6b2fa69eed5aba00472d1ac0070c0d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_ev_basic_rewards.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/pnc_advanced_tier.snbt",
+      "sha256": "2b906f014ba6fd27fed7697ba1771ca43b3e377e18793af42c77575869924c99",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/pnc_advanced_tier.snbt"
     }
   ]
 }
