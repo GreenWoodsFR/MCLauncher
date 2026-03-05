@@ -3432,6 +3432,11 @@
       "path": "configs/alexsmobs/enderiophage_spawns.json",
       "sha256": "846748f4f352dead7fae39221d653713b7cbd775eaf10f80e0dea86f4e9ccb9a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/enderiophage_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/caiman_spawns.json",
+      "sha256": "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/caiman_spawns.json"
     }
   ]
 }
