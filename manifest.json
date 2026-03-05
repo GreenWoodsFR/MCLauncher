@@ -985,6 +985,16 @@
       "required": true,
       "side": "both",
       "version": "2.2.4"
+    },
+    {
+      "id": "95a1ff47-3b98-435e-927d-f309a9859d84",
+      "name": "Elevatorid",
+      "filename": "elevatorid-1.20.1-1.9.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/elevatorid-1.20.1-1.9.1-forge.jar",
+      "sha256": "7487c091bc8e6ae7b83c61471c97258b380fab2a0f421ed84df78f92ba630f75",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
