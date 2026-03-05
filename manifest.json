@@ -8832,6 +8832,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lang/en_US.lang",
       "sha256": "43880fc694afffcc1085968de3eaef544c83513eee3458e84de0d00125f9ee62",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lang/en_US.lang"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lang/zh_CN.lang",
+      "sha256": "b6ed1f167eccde2ffbf18fbde4a7636a23e0b1098b21d18a036e645340161e3f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lang/zh_CN.lang"
     }
   ]
 }
