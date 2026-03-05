@@ -5657,6 +5657,11 @@
       "path": "configs/soulsweapons/soulsweapons.json",
       "sha256": "bae51e4b9ea61fdf0332230ce533921b7b46de5f6a1d29695d3aebd14d9148c4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/soulsweapons/soulsweapons.json"
+    },
+    {
+      "path": "configs/soulsweapons/soulsweapons_chungus_tonic_whitelist.json",
+      "sha256": "774b553576a62a67ff029185fb346fea4eb3770d4b197a8151d141f25c6fe547",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/soulsweapons/soulsweapons_chungus_tonic_whitelist.json"
     }
   ]
 }
