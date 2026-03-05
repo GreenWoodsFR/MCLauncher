@@ -7007,6 +7007,11 @@
       "path": "configs/undergarden-common.toml",
       "sha256": "b95da66dfc4bf280a6cab22d1456479c2ebee05a5ef7ffc196740ec25b23cc01",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/undergarden-common.toml"
+    },
+    {
+      "path": "configs/veinmining-client.toml",
+      "sha256": "751e218122c98263d9de3965fde756ef502d46f582e955f290873923ace2a3d5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/veinmining-client.toml"
     }
   ]
 }
