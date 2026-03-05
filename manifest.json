@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/soulbound-common.toml",
-      "sha256": "288c97a95c4f8feb29173622d6fdc0497c9df2482af79d5e9e1d0f974e64f137",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/soulbound-common.toml"
-    },
-    {
       "path": "configs/spartanshields-common.toml",
       "sha256": "065a53578bc9ffd9501d2783132b222dfb85ab44868d9d262f80ea9566891881",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/spartanshields-common.toml"
