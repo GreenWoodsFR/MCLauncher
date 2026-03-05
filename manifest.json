@@ -3917,6 +3917,11 @@
       "path": "configs/ars_nouveau/glyph_pierce.toml",
       "sha256": "868c9e906cf57c2ec6cd6f73166ab964477085f5a2a0fb0e5c186bdb3ea90bcf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_pierce.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/burst.toml",
+      "sha256": "ab9c0668a4e18f21f0c40cbcf60d7629082edf3c65d9d098b6826e9b8cdd750b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/burst.toml"
     }
   ]
 }
