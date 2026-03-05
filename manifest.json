@@ -5692,6 +5692,11 @@
       "path": "configs/the_bumblezone/client.toml",
       "sha256": "28b6e0a2f7e68cd8ef9d6560156655d9770484b1d5bee59c6843c6564cf46381",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/the_bumblezone/client.toml"
+    },
+    {
+      "path": "configs/villagersplus/villagersplus-3.0-config.json5",
+      "sha256": "a32bb4d92535a1aebbfae239b8518cfd265e151b0976b5517c0ce91cee1a24e8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/villagersplus/villagersplus-3.0-config.json5"
     }
   ]
 }
