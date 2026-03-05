@@ -7152,6 +7152,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/composite2.glsl",
       "sha256": "f6491a2384875ff0d0e5d85feb6e6fc18562a81ba793bb24162b8361968351de",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/composite2.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/prepare.glsl",
+      "sha256": "4eb1781f1f5e2793ac12951dfdd176401cc347007626a044e30b2ab4c6f5a786",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/prepare.glsl"
     }
   ]
 }
