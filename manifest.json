@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/ends_delight-common.toml",
-      "sha256": "f4fc0c0f40bac8b5243141374a6df6eabc993ecd989559ffe8b9fd908bf46982",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ends_delight-common.toml"
-    },
-    {
       "path": "configs/entityculling.json",
       "sha256": "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entityculling.json"
