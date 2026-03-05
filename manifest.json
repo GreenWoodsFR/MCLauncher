@@ -3582,6 +3582,11 @@
       "path": "configs/alexsmobs/laviathan_spawns.json",
       "sha256": "07d0215377f12f1299ec46b6277426c3cf957aa1d310c97fa943cdf5ace8d260",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/laviathan_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/seagull_spawns.json",
+      "sha256": "4dca182ebef46ea0076b8e8066add18f69527cf2f81da83e77e0409127c92dc4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/seagull_spawns.json"
     }
   ]
 }
