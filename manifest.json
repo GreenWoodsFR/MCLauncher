@@ -3537,6 +3537,11 @@
       "path": "configs/alexsmobs/seal_spawns.json",
       "sha256": "ef706c1e2ba0b9356523f8aeb3679303ab98d85c9b761d0e55962e930be4d8e6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/seal_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/comb_jelly_spawns.json",
+      "sha256": "cf9ba87b0d2001543fe09d8f6a4c602c03644643a9bd49d1e9ca0b041ab4dc02",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/comb_jelly_spawns.json"
     }
   ]
 }
