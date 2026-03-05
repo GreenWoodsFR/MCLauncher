@@ -8892,6 +8892,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world0/composite2.fsh",
       "sha256": "32c93f8d57823fe1d4cda9f3aed64e433d9b7737a34abdceb164380d00f9c035",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world0/composite2.fsh"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world0/gbuffers_spidereyes.vsh",
+      "sha256": "6abde0efd48b11a1022128154a4e0d5840e50f1eb684273cd2522cbed3ae0027",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world0/gbuffers_spidereyes.vsh"
     }
   ]
 }
