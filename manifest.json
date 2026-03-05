@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/embeddium-options.json",
-      "sha256": "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/embeddium-options.json"
-    },
-    {
       "path": "configs/emotecraft.json",
       "sha256": "2fa623d32f4875832b34c7464d53a9686701ba0457336e9b008fcf40bd9e3411",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emotecraft.json"
