@@ -3952,6 +3952,11 @@
       "path": "configs/ars_nouveau/glyph_cold_snap.toml",
       "sha256": "6fc3332105a62c079607bf5b60c9f214fb4ebdf5cd927dad278724b5a4ed1927",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_cold_snap.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_wind_shear.toml",
+      "sha256": "47ea4f8ecd77e64f460e238c97cd0658129ae013f5cd57e42e6959791ece3c56",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_wind_shear.toml"
     }
   ]
 }
