@@ -875,6 +875,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "be78116d-b121-4669-bb07-49a824631830",
+      "name": "Darkrtp",
+      "filename": "darkrtp-forge-1.20.1-1.0.9.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/darkrtp-forge-1.20.1-1.0.9.jar",
+      "sha256": "61a3b92ab5abb4eb5d85c7329dc3c670dbbfafa57cd2ffc0083b16c7f175788a",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
