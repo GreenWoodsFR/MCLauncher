@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/moonlight-client.toml",
-      "sha256": "47297d47ca3fa4525d1adbc7234b9b0dc2ee490b87216fe6002e34ff69acac08",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/moonlight-client.toml"
-    },
-    {
       "path": "configs/moonlight-common.toml",
       "sha256": "02cd35fbcc371cf63303ae1264ad9f4613b3f73ace93417af825baf7d3ac7baf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/moonlight-common.toml"
