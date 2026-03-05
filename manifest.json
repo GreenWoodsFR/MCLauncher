@@ -155,6 +155,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "0bbe0941-8ca0-4320-a6b4-5a1dda4085d7",
+      "name": "Appleskin Forge Mc1.20.1",
+      "filename": "appleskin-forge-mc1.20.1-2.5.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/appleskin-forge-mc1.20.1-2.5.1.jar",
+      "sha256": "e12419e43e3babc810af289403c5cd96bd7f09809b389acc6bb2f122b4b2a426",
+      "required": true,
+      "side": "both",
+      "version": "2.5.1"
     }
   ],
   "configFiles": []
