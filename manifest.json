@@ -3872,6 +3872,11 @@
       "path": "configs/ars_nouveau/glyph_freeze.toml",
       "sha256": "7f51de085bd646c15990582256ba9fbbee72b7ba03ccf3b6e84d5b7862c07929",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_freeze.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_conjure_water.toml",
+      "sha256": "4712bdfe6651bda49ddaea74679e1099a500964b3221ed37cdda3f6751f11309",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_conjure_water.toml"
     }
   ]
 }
