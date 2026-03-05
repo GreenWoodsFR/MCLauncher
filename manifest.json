@@ -5662,6 +5662,11 @@
       "path": "configs/soulsweapons/soulsweapons_chungus_tonic_whitelist.json",
       "sha256": "774b553576a62a67ff029185fb346fea4eb3770d4b197a8151d141f25c6fe547",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/soulsweapons/soulsweapons_chungus_tonic_whitelist.json"
+    },
+    {
+      "path": "configs/the_bumblezone/general.toml",
+      "sha256": "29f9f65f245368cf74c888ce26951c7f1b40b4956d053e5797a240b772b58bc9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/the_bumblezone/general.toml"
     }
   ]
 }
