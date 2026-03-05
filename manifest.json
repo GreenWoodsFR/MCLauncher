@@ -6402,6 +6402,11 @@
       "path": "configs/illagerinvasion-server.toml",
       "sha256": "9b6ff439887c2c3f6ae354ee8f5e79f30c628b21bfe050a0ea4d52b434f9b7de",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/illagerinvasion-server.toml"
+    },
+    {
+      "path": "configs/immediatelyfast.json",
+      "sha256": "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/immediatelyfast.json"
     }
   ]
 }
