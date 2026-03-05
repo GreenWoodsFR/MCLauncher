@@ -2255,6 +2255,16 @@
       "required": true,
       "side": "both",
       "version": "3.0.10"
+    },
+    {
+      "id": "0dfca8ef-1b7e-4737-a79a-558f484df441",
+      "name": "Sodiumdynamiclights",
+      "filename": "sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+      "sha256": "dff5325abb58c0c8526dffb80e764188bde045fd02ca6ed5e2bb76f0897d46f4",
+      "required": true,
+      "side": "both",
+      "version": "1.0.10"
     }
   ],
   "configFiles": []
