@@ -7782,6 +7782,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl",
       "sha256": "21b354da19e52f17668ab0df64be181738e80e95df38191dd073bdf8368abf85",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl",
+      "sha256": "d7cf39734cf7c8e562bc3adf9471270610bef5a412689544d488d4d3cedd5103",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl"
     }
   ]
 }
