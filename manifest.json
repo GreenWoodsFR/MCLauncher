@@ -5582,6 +5582,11 @@
       "path": "configs/simplehats/common.toml",
       "sha256": "60fe4644dae4d1f2a720f4ed407bdac5496173a6acb5e74c482fdcefad8c0390",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplehats/common.toml"
+    },
+    {
+      "path": "configs/simplymore/weapon_attributes.json5",
+      "sha256": "778633f57f349ea7d1ea351e2f73f03eeebf1c5a670e5862364e1aa6a5bfeffa",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplymore/weapon_attributes.json5"
     }
   ]
 }
