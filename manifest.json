@@ -3352,6 +3352,11 @@
       "path": "configs/alexsmobs/mimic_octopus_spawns.json",
       "sha256": "9c68a433ab6f75ff9e8d46868480158e4c1f46949779cb0b0d973f7759dbfc2d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/mimic_octopus_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/anaconda_spawns.json",
+      "sha256": "ca961946a7b3c6e9abcb1bb82bbf36e1f9ce01d11769a06a7fbff6351293ff5d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/anaconda_spawns.json"
     }
   ]
 }
