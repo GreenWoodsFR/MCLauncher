@@ -6497,6 +6497,11 @@
       "path": "configs/lootbeams-client.toml",
       "sha256": "d49cae3eb43cbb718bfe42d6b4cbd3bd61364993f95add266e7aa25e1118510b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lootbeams-client.toml"
+    },
+    {
+      "path": "configs/lootr-client.toml",
+      "sha256": "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lootr-client.toml"
     }
   ]
 }
