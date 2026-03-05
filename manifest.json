@@ -5362,6 +5362,11 @@
       "path": "configs/raccompat/relics/vine_ring.yaml",
       "sha256": "6e9ad6521c66b3c8c5f6fb986a0fe4c6f7a2162efec4901ffb095d6bcd6223ca",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/raccompat/relics/vine_ring.yaml"
+    },
+    {
+      "path": "configs/raccompat/relics/desolate_pendant.yaml",
+      "sha256": "411fa9401dc6dc8cd1a9eedadfa44341e652aed4de98c11c06a59cf4a3f2ad6a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/raccompat/relics/desolate_pendant.yaml"
     }
   ]
 }
