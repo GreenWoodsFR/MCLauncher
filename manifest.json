@@ -7627,6 +7627,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/irisMaterials.glsl",
       "sha256": "34786e86d3eb0136439f18301803924590753d07e254b9b482dc214e9c212a1e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/irisMaterials.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/deferredMaterials.glsl",
+      "sha256": "cf9c9e7a6f5ee61fb3bbff2730e71c8af85ae98ec4b7e6e6b965739dc3122bbc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/deferredMaterials.glsl"
     }
   ]
 }
