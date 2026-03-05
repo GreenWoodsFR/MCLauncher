@@ -2015,6 +2015,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.0"
+    },
+    {
+      "id": "7dbd3ebb-b07d-4eb3-ac5a-9fffdf823ba9",
+      "name": "Refurbished Furniture",
+      "filename": "refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/refurbished_furniture-forge-1.20.1-1.0.20.jar",
+      "sha256": "480546202aa21fa07e6b1571f3e3263e5690e9804afb7c35984642bcf473bc6e",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
