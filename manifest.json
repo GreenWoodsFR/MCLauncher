@@ -325,6 +325,16 @@
       "required": true,
       "side": "both",
       "version": "0.4.3"
+    },
+    {
+      "id": "3e24a8b0-7c46-41f6-8f55-91259564097f",
+      "name": "Balm",
+      "filename": "balm-forge-1.20.1-7.3.38-all.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/balm-forge-1.20.1-7.3.38-all.jar",
+      "sha256": "cbe8008218f0f574bc1f78b532cac5f978c33bf36ae2e14805340eab445fdb08",
+      "required": true,
+      "side": "both",
+      "version": "all"
     }
   ],
   "configFiles": []
