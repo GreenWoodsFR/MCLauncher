@@ -6107,6 +6107,11 @@
       "path": "configs/cull-less-leaves.json",
       "sha256": "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cull-less-leaves.json"
+    },
+    {
+      "path": "configs/cupboard.json",
+      "sha256": "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cupboard.json"
     }
   ]
 }
