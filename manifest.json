@@ -6312,6 +6312,11 @@
       "path": "configs/fantasy_weapons.yml",
       "sha256": "ea512f5390dde6ff4d54580bf9ec67b9db6bd50cbafeb54608f4ddc1391782b7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fantasy_weapons.yml"
+    },
+    {
+      "path": "configs/farmersdelight-client.toml",
+      "sha256": "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farmersdelight-client.toml"
     }
   ]
 }
