@@ -3055,6 +3055,16 @@
       "required": true,
       "side": "both",
       "version": "3.16"
+    },
+    {
+      "id": "de847080-f380-42bb-bb2d-9c249d1025e1",
+      "name": "Lazr'S Lib",
+      "filename": "Lazr's Lib-1.20-1.1.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Lazr_s_Lib-1.20-1.1.1.jar",
+      "sha256": "0935a08ae878f498f5423daa3f4c2facd78f1056b770fe1411bd16e2cf57ab3a",
+      "required": true,
+      "side": "both",
+      "version": "1.20"
     }
   ],
   "configFiles": []
