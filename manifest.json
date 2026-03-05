@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/chefsdelight-common.toml",
-      "sha256": "e82c9444a81f9378e1f497c27863f7a774529011453ff0c7c37d6121974629c4",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chefsdelight-common.toml"
-    },
-    {
       "path": "configs/chloride-client.json",
       "sha256": "ed8c75900f5811e00e50f28f736fbe298e1779831fe068c4ca1e6f6dacd8873f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chloride-client.json"
