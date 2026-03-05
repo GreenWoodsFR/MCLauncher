@@ -1805,6 +1805,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "0532c25d-8b8f-46b6-b1e0-4e6774e399a9",
+      "name": "Ping Wheel",
+      "filename": "Ping-Wheel-1.12.1-forge-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Ping-Wheel-1.12.1-forge-1.20.1.jar",
+      "sha256": "71692ad5d2b410ebcfbe3bb6bdf151c40ea75d012c75aff3c6c1a37abf9e8057",
+      "required": true,
+      "side": "both",
+      "version": "1.12.1"
     }
   ],
   "configFiles": []
