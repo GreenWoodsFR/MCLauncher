@@ -1785,6 +1785,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.0"
+    },
+    {
+      "id": "d255be8e-c8b9-4b28-a2e1-3fef869874f8",
+      "name": "Piercingpaxels",
+      "filename": "piercingpaxels-1.0.12.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/piercingpaxels-1.0.12.jar",
+      "sha256": "20af791212ce28e7c9f3a72c11f3a7cdf8c9b94d7c1f60afae99730d7079b050",
+      "required": true,
+      "side": "both",
+      "version": "1.0.12"
     }
   ],
   "configFiles": []
