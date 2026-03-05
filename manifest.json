@@ -4957,6 +4957,11 @@
       "path": "configs/ftbquests/quests/reward_tables/pnc_advanced_tier.snbt",
       "sha256": "2b906f014ba6fd27fed7697ba1771ca43b3e377e18793af42c77575869924c99",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/pnc_advanced_tier.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/rs_random_storage_parts.snbt",
+      "sha256": "b78cbc40a4ebb67a0694e59b1ed3fb5c49d743bd7d4ca30fa1d85f2f4e3c0426",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/rs_random_storage_parts.snbt"
     }
   ]
 }
