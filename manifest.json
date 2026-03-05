@@ -4007,6 +4007,11 @@
       "path": "configs/ars_nouveau/glyph_explosion.toml",
       "sha256": "2672fc425d16af7a3c2caf48e99eb79d39da6d13d56f05b765e72d6c0d6ffc43",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_explosion.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_fell.toml",
+      "sha256": "e77cf7c9b790b2b3b1d2ceb93381270bd71d8067306f917eb93d10d88790b207",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_fell.toml"
     }
   ]
 }
