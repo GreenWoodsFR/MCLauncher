@@ -5167,6 +5167,11 @@
       "path": "configs/jei/ingredient-list-type-sort-order.ini",
       "sha256": "5a6c8729081e8fd7abaf634c9d238cab4700ef4dda04de73873edf4f6c997b3b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/ingredient-list-type-sort-order.ini"
+    },
+    {
+      "path": "configs/l2_configs/l2library-client.toml",
+      "sha256": "da71bf9d1a675fad1036f29c85645d26447726721b4053bc724dae4200deebbc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/l2_configs/l2library-client.toml"
     }
   ]
 }
