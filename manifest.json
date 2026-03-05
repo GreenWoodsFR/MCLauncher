@@ -4667,6 +4667,11 @@
       "path": "configs/ftbquests/quests/chapters/armor_of_the_age.snbt",
       "sha256": "d49e0f36d9e4bbfbdc357115a1843ee37de804fdebb7b73b97314e77434a91fa",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/armor_of_the_age.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/cataclysm.snbt",
+      "sha256": "8d1c034e3110a6fcba50cce13c7bd5087ae6ac1d1002fe9c831524fd8bd7d907",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/cataclysm.snbt"
     }
   ]
 }
