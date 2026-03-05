@@ -3264,11 +3264,6 @@
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entityculling.json"
     },
     {
-      "path": "configs/entity_texture_features.json",
-      "sha256": "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entity_texture_features.json"
-    },
-    {
       "path": "configs/etf_warnings.json",
       "sha256": "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/etf_warnings.json"
