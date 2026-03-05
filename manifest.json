@@ -1405,6 +1405,16 @@
       "required": true,
       "side": "both",
       "version": "mc1.20.1forge"
+    },
+    {
+      "id": "ba85d102-c99f-4c77-9993-a89c9ad94758",
+      "name": "Mcw Mcwpaths",
+      "filename": "mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/mcw-mcwpaths-1.1.1-mc1.20.1forge.jar",
+      "sha256": "9a809897462ca11c1920748b0fdf4555f05ef3650db1bd82016906795d068c9f",
+      "required": true,
+      "side": "both",
+      "version": "mc1.20.1forge"
     }
   ],
   "configFiles": []
