@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/midnightlib.json",
-      "sha256": "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/midnightlib.json"
-    },
-    {
       "path": "configs/mobs_of_mythology.properties",
       "sha256": "32c954f41de5be9d773e0de7a47c03e134204811acc38aa0b88f48f8d8a43012",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mobs_of_mythology.properties"
