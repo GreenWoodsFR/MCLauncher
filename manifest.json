@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/spittingimage-common.toml",
-      "sha256": "eb6833b08e38adce243dbdb4913540a3bd578cda3776a05394e0fe033817b304",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/spittingimage-common.toml"
-    },
-    {
       "path": "configs/supplementaries-client.toml",
       "sha256": "b65c12c50c56a81dd0efe387056cbd9cf9fb4e0c1b652cae8b3f18be13f79d77",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/supplementaries-client.toml"
