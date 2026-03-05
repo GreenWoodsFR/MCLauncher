@@ -4707,6 +4707,11 @@
       "path": "configs/ftbquests/quests/reward_tables/mythic_gt_rewards.snbt",
       "sha256": "3064a096097dfb3c8faa5445903eeec8f481796710307bef2e03e71090d06230",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/mythic_gt_rewards.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/legendary_gt_rewards.snbt",
+      "sha256": "60ad1206a818ad58d5fcec820d7a900e0967cf6911e09e8038b7c75d43ee95b1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/legendary_gt_rewards.snbt"
     }
   ]
 }
