@@ -6752,6 +6752,11 @@
       "path": "configs/questsadditions-client.toml",
       "sha256": "f4893862ac7ec3b94fe59e74b736200f9079235bdc9885743cc0872946be1edc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/questsadditions-client.toml"
+    },
+    {
+      "path": "configs/railways-client.toml",
+      "sha256": "f3e6295841dd104d85bbc1bd529c09c4a3bd4a6d0a7cc859f1aa7f866481a10c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/railways-client.toml"
     }
   ]
 }
