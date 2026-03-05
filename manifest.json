@@ -6712,6 +6712,11 @@
       "path": "configs/polymorph-integrations.toml",
       "sha256": "f09398fbdb8880a2e2a0f234aa6578dd49ada68fecbe899608841f39c430034a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/polymorph-integrations.toml"
+    },
+    {
+      "path": "configs/ponder-client.toml",
+      "sha256": "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ponder-client.toml"
     }
   ]
 }
