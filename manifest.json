@@ -4332,6 +4332,11 @@
       "path": "configs/combatroll/server.json5",
       "sha256": "6c3ec2b2926b78c73dddf0cfedaf483efb7c3fe8a093f557e560ab280a0683f4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/combatroll/server.json5"
+    },
+    {
+      "path": "configs/combatroll/enchantments.json",
+      "sha256": "b807ca9ebe5ca5e45c8367b08cb97a08aa73181b66da4ab7c9f92e02200ca01e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/combatroll/enchantments.json"
     }
   ]
 }
