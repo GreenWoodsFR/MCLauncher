@@ -4557,6 +4557,11 @@
       "path": "configs/ftbquests/quests/chapters/les_ribbits.snbt",
       "sha256": "b9983df0d79b4587f5616bd915fd9e32587a9ba82463f3aefd0c007056a36f8f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/les_ribbits.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/l4cuisinierre.snbt",
+      "sha256": "faa7e8e4c04aa91d14e15f219cbe62ade6157b2cde77066ec0a1741b08f36837",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l4cuisinierre.snbt"
     }
   ]
 }
