@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/lithium.properties",
-      "sha256": "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lithium.properties"
-    },
-    {
       "path": "configs/lootr-client.toml",
       "sha256": "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lootr-client.toml"
