@@ -4422,6 +4422,11 @@
       "path": "configs/ftbquests/quests/chapters/textcelestial_weaponrycolor18f3cf.snbt",
       "sha256": "009ef174df808874396cda5ef03656a37d23dae31cd0334656dbe45e9af47f3c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/textcelestial_weaponrycolor18f3cf.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/ars_nouveau.snbt",
+      "sha256": "e95e0d46f98907a9bb0eba54bb61ade7af6e7d42f3bcf135ef47948425259c06",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/ars_nouveau.snbt"
     }
   ]
 }
