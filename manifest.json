@@ -4117,6 +4117,11 @@
       "path": "configs/ars_nouveau/glyph_dampen.toml",
       "sha256": "1ea4b1f69ba10b222bd2fbbfab419814a92a53a3552c4d59fb4f23817b426c3e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_dampen.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_leap.toml",
+      "sha256": "6f1bede090a76b6380bc766049dc2705d514a0cb6a6d90c2a2a822742d449029",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_leap.toml"
     }
   ]
 }
