@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/advancednetherite-common.toml",
-      "sha256": "74262502043c0b5e1e57d549981efbe4123be357a130f385979a9b6adb70138b",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/advancednetherite-common.toml"
-    },
-    {
       "path": "configs/alexscaves-client.toml",
       "sha256": "4c146ba6e12b1bdc2259f9bb8ee48ffc20719b8c506726e1c736eccc99c94758",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves-client.toml"
