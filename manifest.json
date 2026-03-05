@@ -5932,6 +5932,11 @@
       "path": "configs/BatteryDuration.toml",
       "sha256": "1e08c0c0f08b4be10a9a4cba56b6f13d61f21c16ecf9fe12571895b44880b61e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/BatteryDuration.toml"
+    },
+    {
+      "path": "configs/beachparty.toml",
+      "sha256": "5c808677268b0abe456c152cdac2be0f664e31a52b47b43c1a504048c42df7ec",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/beachparty.toml"
     }
   ]
 }
