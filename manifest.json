@@ -3297,6 +3297,11 @@
       "path": "configs/alexsmobs/hammerhead_shark_spawns.json",
       "sha256": "a5eeb1a3843a12ef4fde1d8a3a5f13161034457c0901d3f938aa71a20e6712f3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/hammerhead_shark_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/gorilla_spawns.json",
+      "sha256": "8c90151f66a632b01e7b8f6998f72618720aae5362c1df0bdd7fefdb13cc20c8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/gorilla_spawns.json"
     }
   ]
 }
