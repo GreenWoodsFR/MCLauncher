@@ -5287,6 +5287,11 @@
       "path": "configs/Obscuria/Data/loot_journal_cover.png",
       "sha256": "c516870f7eabb04f762e581df53a7c7330ec28c68f2245fb07885af71bd37830",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Obscuria/Data/loot_journal_cover.png"
+    },
+    {
+      "path": "configs/Obscuria/Data/aquamirae_cover.png",
+      "sha256": "86bec2df159c61ba721a71c7c951450332e3581ce3c8268611c140558989d5b9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Obscuria/Data/aquamirae_cover.png"
     }
   ]
 }
