@@ -1665,6 +1665,16 @@
       "required": true,
       "side": "both",
       "version": "0.5.0.1"
+    },
+    {
+      "id": "e9bdda52-484c-425f-b3f7-380d03e80bd4",
+      "name": "Oculus Mc1.20.1",
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/oculus-mc1.20.1-1.8.0.jar",
+      "sha256": "0945df0cba0f62b3901dd80c3268e5311b770ece78c78037a45db12ac0425fef",
+      "required": true,
+      "side": "both",
+      "version": "1.8.0"
     }
   ],
   "configFiles": []
