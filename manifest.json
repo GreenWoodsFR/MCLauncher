@@ -4222,6 +4222,11 @@
       "path": "configs/artifacts/relics/plastic_drinking_hat.yaml",
       "sha256": "980f156be2c08ec9ecf6510d1b798883a3c8171cebd7e12db1038c7017c061f7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/plastic_drinking_hat.yaml"
+    },
+    {
+      "path": "configs/artifacts/relics/scarf_of_invisibility.yaml",
+      "sha256": "da1994d32ba38cd2f73fc2ba2c0c553f61bb97181d9931a853e9a174eb297b89",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/scarf_of_invisibility.yaml"
     }
   ]
 }
