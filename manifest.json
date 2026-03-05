@@ -8742,6 +8742,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world-1/gbuffers_skytextured.vsh",
       "sha256": "e780e84bf31a78f15b5b1eaf9fe35279bdc676a85d2ba72fd4bc87958b5abb41",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world-1/gbuffers_skytextured.vsh"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world-1/gbuffers_lightning.fsh",
+      "sha256": "e6fa21b5568df975da4e32723b4ed330b159f173ed403a966a4b3e85ff86adce",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/world-1/gbuffers_lightning.fsh"
     }
   ]
 }
