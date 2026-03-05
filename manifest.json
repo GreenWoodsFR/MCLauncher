@@ -7722,6 +7722,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl",
       "sha256": "b3f524933a1264a0f55f34cc801c15b7b466bf22de5028d35c40f7ebfbc0af54",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/acaciaPlanks.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl",
+      "sha256": "792aa80f50c7429e792e91cc9a26e5871f9ede1214149b0e5a1a98f10e068f4d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/mangrovePlanks.glsl"
     }
   ]
 }
