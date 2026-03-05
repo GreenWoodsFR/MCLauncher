@@ -5402,6 +5402,11 @@
       "path": "configs/realmrpg/quests/cook.json",
       "sha256": "d64ad05f29f1e4108f41ac83794aeb69fcd26cf13fb62f7a51ae2508427379c5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/realmrpg/quests/cook.json"
+    },
+    {
+      "path": "configs/regions_unexplored/ru-primary-region.toml",
+      "sha256": "03a3a59b20d66a1be08da11863340029ea42060a92e413f145eaa5daf9a582d4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/regions_unexplored/ru-primary-region.toml"
     }
   ]
 }
