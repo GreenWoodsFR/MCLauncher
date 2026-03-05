@@ -4857,6 +4857,11 @@
       "path": "configs/ftbquests/quests/reward_tables/powah_nitro.snbt",
       "sha256": "d023db6947dd2120787b33d9993b1a4cce432503442a335aa6b41118e94c02f8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_nitro.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/de_basic.snbt",
+      "sha256": "a947634822364975f3d5fb83918cf81883e586902af93a323d079d913ea36eb7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/de_basic.snbt"
     }
   ]
 }
