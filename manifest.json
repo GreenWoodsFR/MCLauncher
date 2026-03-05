@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/guardvillagers-common.toml",
-      "sha256": "f590abaa906bc47b860a035be2492d028af7ad2042af7e0bebe91dcfc8f3ed62",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/guardvillagers-common.toml"
-    },
-    {
       "path": "configs/hardcorerevival-common.toml",
       "sha256": "a6dfdeca17db611fdcb5401894ce608d61ab730471b9ef14f7b666c497917e5d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/hardcorerevival-common.toml"
