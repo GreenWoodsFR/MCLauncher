@@ -5997,6 +5997,11 @@
       "path": "configs/camera-client.toml",
       "sha256": "d192832f5a2fc4b0ed9b942adfce0ffafd75d5286e45da25aa3bf3c8a30ef3f8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/camera-client.toml"
+    },
+    {
+      "path": "configs/carryon-client.toml",
+      "sha256": "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/carryon-client.toml"
     }
   ]
 }
