@@ -7617,6 +7617,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/translucentMaterials.glsl",
       "sha256": "bdc38b90f3898dfa96a07564da1c0ba2ee4215614886c7b86d2199484f2142d1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/translucentMaterials.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/customMaterials.glsl",
+      "sha256": "7c3d3548476c9d9f681df0ca4d530224ef411cb0f38f52746a0728e835c92c5a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/customMaterials.glsl"
     }
   ]
 }
