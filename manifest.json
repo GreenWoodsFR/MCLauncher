@@ -6867,6 +6867,11 @@
       "path": "configs/snowyspirit-common.toml",
       "sha256": "faa1bfa48578bf46b3bec93857cf782cfd10599bd87c5ac4f3bc287e38ccf6f2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/snowyspirit-common.toml"
+    },
+    {
+      "path": "configs/sodiumdynamiclights-client.toml",
+      "sha256": "64d2ce1b1675f17e0807180b9680ef9c97e4b92ac86962b7cbf27f0db4926eb6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sodiumdynamiclights-client.toml"
     }
   ]
 }
