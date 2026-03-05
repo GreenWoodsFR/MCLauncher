@@ -5717,6 +5717,11 @@
       "path": "configs/visuality/particle_emitters/block_step.json",
       "sha256": "54d4448f6c45ba1ad311f6c35b55b9b800ad4ae664f075707e05cd798b6eab7b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/visuality/particle_emitters/block_step.json"
+    },
+    {
+      "path": "configs/visuality/particle_emitters/entity_armor.json",
+      "sha256": "4fea5a33cd09a91423bf58e9404ded2edd4ba3faff2d41543c5366adab92a73a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/visuality/particle_emitters/entity_armor.json"
     }
   ]
 }
