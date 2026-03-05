@@ -1505,6 +1505,16 @@
       "required": true,
       "side": "both",
       "version": "5.26.2"
+    },
+    {
+      "id": "afed8a94-6fdc-4608-8d6e-10bdbb42a5c7",
+      "name": "Moonlight",
+      "filename": "moonlight-1.20-2.16.28-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/moonlight-1.20-2.16.28-forge.jar",
+      "sha256": "46ee59799b38da7b87b734e4f6f11be886a15cab51cbf78614bb50f9e43b3278",
+      "required": true,
+      "side": "both",
+      "version": "2.16.28"
     }
   ],
   "configFiles": []
