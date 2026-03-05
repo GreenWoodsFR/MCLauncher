@@ -4447,6 +4447,11 @@
       "path": "configs/ftbquests/quests/chapters/labdaveur.snbt",
       "sha256": "67bdbe533189737fcc277f70372ff14a4ca73acdb472d3b5ffefaac3485bc810",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/labdaveur.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/l2bucheronne.snbt",
+      "sha256": "b14c646ae67955fcdbc08a9b3d4149610cedfe2ff72e2b764ac7930d1fd6bd60",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l2bucheronne.snbt"
     }
   ]
 }
