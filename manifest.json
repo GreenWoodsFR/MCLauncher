@@ -1835,6 +1835,16 @@
       "required": true,
       "side": "both",
       "version": "rc1"
+    },
+    {
+      "id": "7adf00ae-012a-4757-9747-928847e4ce7c",
+      "name": "Polymorph",
+      "filename": "polymorph-forge-0.49.10+1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/polymorph-forge-0.49.10%2B1.20.1.jar",
+      "sha256": "cbe63a0a1cb6ae8dbc0e29bb96d149a137cd4e714b295fa49d230994091d157f",
+      "required": true,
+      "side": "both",
+      "version": "0.49.10"
     }
   ],
   "configFiles": []
