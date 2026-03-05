@@ -4702,6 +4702,11 @@
       "path": "configs/ftbquests/quests/reward_tables/flower_petal_loot.snbt",
       "sha256": "7d5ae2c4823f851dcc8b732551f379c1a14bf260f2ba64e4cbcd20aab85b59bb",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/flower_petal_loot.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/mythic_gt_rewards.snbt",
+      "sha256": "3064a096097dfb3c8faa5445903eeec8f481796710307bef2e03e71090d06230",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/mythic_gt_rewards.snbt"
     }
   ]
 }
