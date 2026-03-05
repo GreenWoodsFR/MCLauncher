@@ -1585,6 +1585,16 @@
       "required": true,
       "side": "both",
       "version": "mc1.20.1"
+    },
+    {
+      "id": "bf19c1a3-b01f-48df-9268-0910425f0fad",
+      "name": "MyNethersDelight",
+      "filename": "MyNethersDelight-1.20.1-0.1.8.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/MyNethersDelight-1.20.1-0.1.8.jar",
+      "sha256": "56e93306cbf225b3a4e6868d8dc09305411001c83dafff8df79edc9ef9245231",
+      "required": true,
+      "side": "both",
+      "version": "0.1.8"
     }
   ],
   "configFiles": []
