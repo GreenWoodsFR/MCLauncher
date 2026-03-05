@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/ponder-client.toml",
-      "sha256": "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ponder-client.toml"
-    },
-    {
       "path": "configs/projectile_damage.json",
       "sha256": "8c3eb2a4150a8575e522c02acbdd88f7d6a387e9caf07da4683d6df4b4abac29",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/projectile_damage.json"
