@@ -2245,6 +2245,16 @@
       "required": true,
       "side": "both",
       "version": "0.0.4"
+    },
+    {
+      "id": "663df2ec-733f-444f-aea0-a116066711a0",
+      "name": "Snowyspirit",
+      "filename": "snowyspirit-1.20-3.0.10.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/snowyspirit-1.20-3.0.10.jar",
+      "sha256": "7de7c0b4b397b5675279c9c7bae630e27eb3dc4754ae7a268c59d3f24eb58138",
+      "required": true,
+      "side": "both",
+      "version": "3.0.10"
     }
   ],
   "configFiles": []
