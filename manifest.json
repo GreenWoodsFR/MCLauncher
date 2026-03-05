@@ -7357,6 +7357,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_apple_dragon_death.glsl",
       "sha256": "7200d9dcd6051c24493acb7631acc020c7721aabae789ec731fc1c335aaccd2f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_apple_dragon_death.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_apple_end_crystal.glsl",
+      "sha256": "0e55f5a53c64751b44b2eeecb8ea3f3b8e227a5546e633cbb0d2e428e32f87cf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_apple_end_crystal.glsl"
     }
   ]
 }
