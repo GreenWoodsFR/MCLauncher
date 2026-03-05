@@ -675,6 +675,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "27061d0d-bfc1-4502-b9fc-3dc08141b4fb",
+      "name": "Cloth Config",
+      "filename": "cloth-config-11.1.136-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/cloth-config-11.1.136-forge.jar",
+      "sha256": "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2",
+      "required": true,
+      "side": "both",
+      "version": "11.1.136"
     }
   ],
   "configFiles": []
