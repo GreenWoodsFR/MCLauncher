@@ -1605,6 +1605,16 @@
       "required": true,
       "side": "both",
       "version": "5.0pre2"
+    },
+    {
+      "id": "bf298664-d7ae-478a-8818-35d7e90a9c26",
+      "name": "NaturesCompass",
+      "filename": "NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/NaturesCompass-1.20.1-1.11.2-forge.jar",
+      "sha256": "28e05589c9e4021d9504c9eea387ed4e80adcdcd0626a9623a53754cfa69f7bf",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
