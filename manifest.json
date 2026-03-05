@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/ferritecore-mixin.toml",
-      "sha256": "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ferritecore-mixin.toml"
-    },
-    {
       "path": "configs/firstperson.json",
       "sha256": "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/firstperson.json"
