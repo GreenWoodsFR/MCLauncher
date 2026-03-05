@@ -7072,6 +7072,11 @@
       "path": "kubejs/assets/kubejs/textures/block/example_block.png",
       "sha256": "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/assets/kubejs/textures/block/example_block.png"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/item/example_item.png",
+      "sha256": "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/assets/kubejs/textures/item/example_item.png"
     }
   ]
 }
