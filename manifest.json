@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/terrablender.toml",
-      "sha256": "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/terrablender.toml"
-    },
-    {
       "path": "configs/tide.json",
       "sha256": "2b259a2bb1f149b92507a95b260b0a04b4eef9a2c6e067dad1b93789c2dd3e11",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/tide.json"
