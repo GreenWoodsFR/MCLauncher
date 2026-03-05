@@ -7032,6 +7032,11 @@
       "path": "configs/voicechat-client.toml",
       "sha256": "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/voicechat-client.toml"
+    },
+    {
+      "path": "configs/watut-client.toml",
+      "sha256": "f30aba6a74c4656d7284081651de0fbc5281e1da8daf7535dae43543959f7fdf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-client.toml"
     }
   ]
 }
