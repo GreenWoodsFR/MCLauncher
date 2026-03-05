@@ -3587,6 +3587,11 @@
       "path": "configs/alexsmobs/seagull_spawns.json",
       "sha256": "4dca182ebef46ea0076b8e8066add18f69527cf2f81da83e77e0409127c92dc4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/seagull_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/terrapin_spawns.json",
+      "sha256": "b96f9e44f59f54b67460784fb1fdfa06d053f9ca9abb4fc3b04f222fd65ee958",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/terrapin_spawns.json"
     }
   ]
 }
