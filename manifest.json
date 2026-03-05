@@ -4497,6 +4497,11 @@
       "path": "configs/ftbquests/quests/chapters/the_nether.snbt",
       "sha256": "6bd6415186d84a22bf57174d7d4b1d8617830f2fcf9ab793fd2454c180464ea0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/the_nether.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/l9ve6nu4s.snbt",
+      "sha256": "6da7ad45fe19284a0e50345551273c88fcc616a79d14b5f177b7423efb45bded",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l9ve6nu4s.snbt"
     }
   ]
 }
