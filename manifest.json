@@ -7542,6 +7542,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/netherNoise.glsl",
       "sha256": "bea711f8119c9f9e84eac60e99b4d18925cbb2a5f0ae149778de48f93bbeb89b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/netherNoise.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/overworldBeams.glsl",
+      "sha256": "51ff17484274fa879c34495a93bdc7195b1eb759484e2570f4913655fc7b969b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/overworldBeams.glsl"
     }
   ]
 }
