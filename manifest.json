@@ -6447,6 +6447,11 @@
       "path": "configs/kiwi-client.yaml",
       "sha256": "fcf939cc6b0e0847b035a52b6e1d03510bb5a6a8b3bfabf959b95d1197a6a7a1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/kiwi-client.yaml"
+    },
+    {
+      "path": "configs/kiwi-common.yaml",
+      "sha256": "be8ffd6a4ed69300864736280b44e2b537fef40ee69fcdf8687403d9a13b8014",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/kiwi-common.yaml"
     }
   ]
 }
