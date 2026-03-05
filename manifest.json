@@ -7087,6 +7087,11 @@
       "path": "kubejs/config/common.properties",
       "sha256": "637a99bc1206742705253c2ffdb537c569d20f366ac925c83bdd5a33bcfd4ef2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/config/common.properties"
+    },
+    {
+      "path": "kubejs/config/client.properties",
+      "sha256": "535ccafaefa2d1e6547eb11d1ec042227a76a152d32c89267734112630d2b074",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/config/client.properties"
     }
   ]
 }
