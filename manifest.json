@@ -5902,6 +5902,11 @@
       "path": "configs/azurelib.json",
       "sha256": "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/azurelib.json"
+    },
+    {
+      "path": "configs/badoptimizations.txt",
+      "sha256": "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/badoptimizations.txt"
     }
   ]
 }
