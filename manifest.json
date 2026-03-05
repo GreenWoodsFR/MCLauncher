@@ -5407,6 +5407,11 @@
       "path": "configs/regions_unexplored/ru-primary-region.toml",
       "sha256": "03a3a59b20d66a1be08da11863340029ea42060a92e413f145eaa5daf9a582d4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/regions_unexplored/ru-primary-region.toml"
+    },
+    {
+      "path": "configs/regions_unexplored/ru-common.toml",
+      "sha256": "f172a7acb56bb4a3ce23925f1ef85b6441e47f94956c24e4db4c34bf8366745c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/regions_unexplored/ru-common.toml"
     }
   ]
 }
