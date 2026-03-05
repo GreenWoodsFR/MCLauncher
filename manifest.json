@@ -5722,6 +5722,11 @@
       "path": "configs/visuality/particle_emitters/entity_armor.json",
       "sha256": "4fea5a33cd09a91423bf58e9404ded2edd4ba3faff2d41543c5366adab92a73a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/visuality/particle_emitters/entity_armor.json"
+    },
+    {
+      "path": "configs/voicechat/username-cache.json",
+      "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/voicechat/username-cache.json"
     }
   ]
 }
