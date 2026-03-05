@@ -1295,6 +1295,16 @@
       "required": true,
       "side": "both",
       "version": "2001.1.7"
+    },
+    {
+      "id": "244f6522-3102-4992-9937-4be4f37da166",
+      "name": "Ftb Teams",
+      "filename": "ftb-teams-forge-2001.3.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/ftb-teams-forge-2001.3.2.jar",
+      "sha256": "b1cb4d82ea9f137a87e12a7aaf3329619294b56f7d70337dfd557a76e10b6e07",
+      "required": true,
+      "side": "both",
+      "version": "2001.3.2"
     }
   ],
   "configFiles": []
