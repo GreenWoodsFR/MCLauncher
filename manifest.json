@@ -835,6 +835,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "1b5210c9-dd40-4e37-a859-7738f4a173ce",
+      "name": "CullLessLeaves Reforged",
+      "filename": "CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/CullLessLeaves-Reforged-1.20.1-1.0.5.jar",
+      "sha256": "b91ca5cd028b1c919e28851b984edd61874d44ad8038cdeee87315d2656cb292",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
