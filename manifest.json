@@ -5162,6 +5162,11 @@
       "path": "configs/jei/ingredient-list-mod-sort-order.ini",
       "sha256": "596d48f44992ac4050cb7ad46a81cd1475a3605ab7ececee6f9dd27f5a3ceb97",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/ingredient-list-mod-sort-order.ini"
+    },
+    {
+      "path": "configs/jei/ingredient-list-type-sort-order.ini",
+      "sha256": "5a6c8729081e8fd7abaf634c9d238cab4700ef4dda04de73873edf4f6c997b3b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/ingredient-list-type-sort-order.ini"
     }
   ]
 }
