@@ -2925,6 +2925,16 @@
       "required": true,
       "side": "both",
       "version": "3.1.1"
+    },
+    {
+      "id": "40984f20-ac8b-4556-87a9-666fe9ffb5e5",
+      "name": "Justenoughbreeding",
+      "filename": "justenoughbreeding-forge-1.20-1.20.1-2.5.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/justenoughbreeding-forge-1.20-1.20.1-2.5.0.jar",
+      "sha256": "684a3d8b79d5c13d8ab662e1e9c2e905dfe88db790e8bfd28d47bb6310ec9784",
+      "required": true,
+      "side": "both",
+      "version": "2.5.0"
     }
   ],
   "configFiles": []
