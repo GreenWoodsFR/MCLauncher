@@ -5632,6 +5632,11 @@
       "path": "configs/simplyswords_main/runic_effects.json5",
       "sha256": "07e0a8995b5e2d948a20910b9e3fed8d88733f677d384a5ea78589a9d9981f82",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplyswords_main/runic_effects.json5"
+    },
+    {
+      "path": "configs/simplyswords_main/status_effects.json5",
+      "sha256": "4fa38ac43a2d8f996f7800c9d61235c3800bfd3cae7f6ba2d76093665bec8fb2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplyswords_main/status_effects.json5"
     }
   ]
 }
