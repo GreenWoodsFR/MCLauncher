@@ -5577,6 +5577,11 @@
       "path": "configs/simplehats/client.toml",
       "sha256": "394fbb3127d89c7df83532390a639f3b1913c7473a74eb5ae47d9e8557d3df3d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplehats/client.toml"
+    },
+    {
+      "path": "configs/simplehats/common.toml",
+      "sha256": "60fe4644dae4d1f2a720f4ed407bdac5496173a6acb5e74c482fdcefad8c0390",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplehats/common.toml"
     }
   ]
 }
