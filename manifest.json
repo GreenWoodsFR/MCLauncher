@@ -3367,6 +3367,11 @@
       "path": "configs/alexsmobs/potoo_spawns.json",
       "sha256": "59c5832a40ef0e7212a4d499862f931a5dfcd3ff6d68598153f1274191b0939d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/potoo_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/banana_slug_spawns.json",
+      "sha256": "1d5d0ce4ef42e94f0361c41b4b2402b64e87f0b1b987e1f1b2f6b2ac377211a7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/banana_slug_spawns.json"
     }
   ]
 }
