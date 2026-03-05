@@ -5022,6 +5022,11 @@
       "path": "configs/ftbquests/quests/reward_tables/EssenceBag.snbt",
       "sha256": "73b5db8c044eed70a135d6276820ea2fb5fced4d4100de36899df31c1594889a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/EssenceBag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/0C83C7A93ED80A36.snbt",
+      "sha256": "23b755d24c153ad7eb71f9fb8f3e588c2e35fa1a3278617834babf76c7a630e6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/0C83C7A93ED80A36.snbt"
     }
   ]
 }
