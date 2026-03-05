@@ -6452,6 +6452,11 @@
       "path": "configs/kiwi-common.yaml",
       "sha256": "be8ffd6a4ed69300864736280b44e2b537fef40ee69fcdf8687403d9a13b8014",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/kiwi-common.yaml"
+    },
+    {
+      "path": "configs/knightlib.toml",
+      "sha256": "be84c6ab344e0f0c0cbac1b2bed9d1204e4fca1206797bfc9032624f47f08740",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/knightlib.toml"
     }
   ]
 }
