@@ -8107,6 +8107,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/puddleVoxelization.glsl",
       "sha256": "6d1c2d8836248749914a2f74e6da59f12af8756c2e0eb481c168146146590ea4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/puddleVoxelization.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/distortWorld.glsl",
+      "sha256": "b0d6228206b991755eb9edfdc07609a4fc984233854885cc689ab4fae4b205f7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/distortWorld.glsl"
     }
   ]
 }
