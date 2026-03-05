@@ -4327,6 +4327,11 @@
       "path": "configs/celestisynth/celestisynth-common.toml",
       "sha256": "9f6ad8c0fc68476588475b01ae9990e27921727a80353a9fd9ca25a628da5e55",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/celestisynth/celestisynth-common.toml"
+    },
+    {
+      "path": "configs/combatroll/server.json5",
+      "sha256": "6c3ec2b2926b78c73dddf0cfedaf483efb7c3fe8a093f557e560ab280a0683f4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/combatroll/server.json5"
     }
   ]
 }
