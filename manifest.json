@@ -3887,6 +3887,11 @@
       "path": "configs/ars_nouveau/glyph_summon_vex.toml",
       "sha256": "a91b18c078a3f030756ec73ff847089b7137e3b3bcd75b9f6878fa73a903c782",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_summon_vex.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_accelerate.toml",
+      "sha256": "52088c7f85bfe74de6b1626dfc4a13cd66c841ee3824899e1a21a19cae130349",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_accelerate.toml"
     }
   ]
 }
