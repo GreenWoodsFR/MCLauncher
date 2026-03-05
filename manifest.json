@@ -4717,6 +4717,11 @@
       "path": "configs/ftbquests/quests/reward_tables/legendary_mana_loot.snbt",
       "sha256": "06eeb05540b1b4d55992283fd7a7e5ce443484a61271eee31f6729f2b0c05a03",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/legendary_mana_loot.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/powah_hardened.snbt",
+      "sha256": "0a3991ed3313036035237feaf28eeeb3cd0adcb91cba69dc659862350ce1145f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_hardened.snbt"
     }
   ]
 }
