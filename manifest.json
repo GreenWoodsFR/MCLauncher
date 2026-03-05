@@ -4357,6 +4357,11 @@
       "path": "configs/croptopia/croptopia_v3.conf",
       "sha256": "d0f5472f5b2f124a8d716dbb3c3e09c6ce14400cf528dd6ceb035e85cf5061c1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/croptopia/croptopia_v3.conf"
+    },
+    {
+      "path": "configs/defaultoptions/servers.dat",
+      "sha256": "2d14ce6aa17c1a9ec5bfb4a208c4fa97e4e2061cd0914e985e7d5623e5b48aa0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/defaultoptions/servers.dat"
     }
   ]
 }
