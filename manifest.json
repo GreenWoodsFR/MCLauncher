@@ -815,6 +815,16 @@
       "required": true,
       "side": "both",
       "version": "6.0.8"
+    },
+    {
+      "id": "a43b793d-0ab2-4e8f-aa4b-01f3901c912d",
+      "name": "Creeperoverhaul",
+      "filename": "creeperoverhaul-3.0.2-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/creeperoverhaul-3.0.2-forge.jar",
+      "sha256": "212eb2a2d767f54fbfbac2336c63fe2bd1aae4d827ab358da329a746358b6dd9",
+      "required": true,
+      "side": "both",
+      "version": "3.0.2"
     }
   ],
   "configFiles": []
