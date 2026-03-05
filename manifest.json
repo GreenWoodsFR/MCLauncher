@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/packetfixer.properties",
-      "sha256": "0ec2e2d726755ca22f37188848667042c12fc92ade29ef0adf4b535ad707cc1f",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/packetfixer.properties"
-    },
-    {
       "path": "configs/paraglider-common.toml",
       "sha256": "850ba09e81e04386b1c0c11b91e39fc8ea9a9ffccdb77b4d27dfcb08e09ad175",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paraglider-common.toml"
