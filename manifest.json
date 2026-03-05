@@ -3442,6 +3442,11 @@
       "path": "configs/alexsmobs/catfish_spawns.json",
       "sha256": "3c097d29c1f74807815d4c13e3586a76528ac3c104670ce95852bd3b62f9e16e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/catfish_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/bone_serpent_spawns.json",
+      "sha256": "47eef91378d3d6455a911d58cc3afdbfcdda7fd49968a7921b22620faa8ff672",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/bone_serpent_spawns.json"
     }
   ]
 }
