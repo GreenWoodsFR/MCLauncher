@@ -5087,6 +5087,11 @@
       "path": "configs/ftbquests/quests/reward_tables/Tier5_SeedBag.snbt",
       "sha256": "10634bfb710387437f9d748eb7c6ddef50fabf122ec7e3f36b151417e56b5e25",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/Tier5_SeedBag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/mana_materials.snbt",
+      "sha256": "b5806ba40c95c2a97aa4500bed40770ffac933caa39743e2e5a845364b429127",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/mana_materials.snbt"
     }
   ]
 }
