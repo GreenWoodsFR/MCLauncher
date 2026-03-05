@@ -2705,6 +2705,16 @@
       "required": true,
       "side": "both",
       "version": "4.8.3"
+    },
+    {
+      "id": "e34ba814-adb3-4112-b1b2-7c59760b5838",
+      "name": "GlitchCore",
+      "filename": "GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/GlitchCore-forge-1.20.1-0.0.1.1.jar",
+      "sha256": "e42a8b513da08a910c133caeafad9fc2fcc22fdaaa2eb3e2516e9112a5a0db61",
+      "required": true,
+      "side": "both",
+      "version": "0.0.1.1"
     }
   ],
   "configFiles": []
