@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/twilightforest-common.toml",
-      "sha256": "2d8051f2d41dd6ee7b9e6570e84cd18a3e2d013c0890c95c0b66e7ecce0346b8",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/twilightforest-common.toml"
-    },
-    {
       "path": "configs/vinery.toml",
       "sha256": "fe8acd27cd79406ce57b35ef6c41fe2641faab6ce230e94e17554ca188b77e5f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/vinery.toml"
