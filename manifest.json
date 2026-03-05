@@ -5507,6 +5507,11 @@
       "path": "configs/relics/relics/drowned_belt.yaml",
       "sha256": "b84c6b0e5f89432ac73cd9c294ea44f58927f5f80bc96f71348f5cc824e7f03d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/drowned_belt.yaml"
+    },
+    {
+      "path": "configs/relics/relics/bastion_ring.yaml",
+      "sha256": "78cc299a4c492321823721997f8b90ca5672de63976d267885e084ba5f761ac2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/bastion_ring.yaml"
     }
   ]
 }
