@@ -5992,6 +5992,11 @@
       "path": "configs/calio-common.toml",
       "sha256": "2bd48dad7f48c14b11d2a092bcad062c22d802a0b4ed954907a673b93f3f3295",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/calio-common.toml"
+    },
+    {
+      "path": "configs/camera-client.toml",
+      "sha256": "d192832f5a2fc4b0ed9b942adfce0ffafd75d5286e45da25aa3bf3c8a30ef3f8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/camera-client.toml"
     }
   ]
 }
