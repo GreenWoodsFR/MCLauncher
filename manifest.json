@@ -1330,7 +1330,7 @@
       "id": "d1d774a2-80a4-40f9-8aec-b3dd52753885",
       "name": "Fzzy Config",
       "filename": "fzzy_config-0.7.6+1.20.1+forge.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/fzzy_config-0.7.6%2B1.20.1%2Bforge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/fzzy_config-0.7.6_1.20.1_forge.jar",
       "sha256": "d39cd5d6b23b86468937e306776dc70faba900072c7e359ce9348d8a3c26982e",
       "required": true,
       "side": "both",
