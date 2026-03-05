@@ -4452,6 +4452,11 @@
       "path": "configs/ftbquests/quests/chapters/l2bucheronne.snbt",
       "sha256": "b14c646ae67955fcdbc08a9b3d4149610cedfe2ff72e2b764ac7930d1fd6bd60",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l2bucheronne.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/magicienne.snbt",
+      "sha256": "80896d7a5f6aa639fe2320c21c0ba866b1142626127689d8354f90b4bd693d86",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/magicienne.snbt"
     }
   ]
 }
