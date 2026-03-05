@@ -3877,6 +3877,11 @@
       "path": "configs/ars_nouveau/glyph_conjure_water.toml",
       "sha256": "4712bdfe6651bda49ddaea74679e1099a500964b3221ed37cdda3f6751f11309",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_conjure_water.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_underfoot.toml",
+      "sha256": "9119854cd822782a1f9c05f1e0f060484ff21fe8af2d5cd1cda189b2bed877ef",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_underfoot.toml"
     }
   ]
 }
