@@ -7592,6 +7592,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/fog/mainFog.glsl",
       "sha256": "d25f0c3ca213fca05ec98948c04898322f4b6342059529cc6c7072b0b94a6c7d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/fog/mainFog.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/fog/caveFactor.glsl",
+      "sha256": "48a9870067fdd2b95902fd257208766b846879cb875527f437b8bc5c191e5bf0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/fog/caveFactor.glsl"
     }
   ]
 }
