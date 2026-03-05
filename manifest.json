@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/comforts-server.toml",
-      "sha256": "24702276d0b1d6f7b5e94b4b34cbc5bd426c524a31bc005231324fc1b7976438",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/comforts-server.toml"
-    },
-    {
       "path": "configs/comicsbubbleschat-client.toml",
       "sha256": "aaea689a5d50759ab7024bb15ef253b78cea7694f7b146538fc30f293f267c32",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/comicsbubbleschat-client.toml"
