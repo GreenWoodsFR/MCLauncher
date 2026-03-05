@@ -1195,6 +1195,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.4"
+    },
+    {
+      "id": "48bc5d72-330f-4b1a-919c-afa022404bf0",
+      "name": "Farsight",
+      "filename": "farsight-1.20.1-4.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/farsight-1.20.1-4.5.jar",
+      "sha256": "8347d07ee5bb0898ef32dc4161f065f36cb3c60dcc19cad164a58417af5ffee5",
+      "required": true,
+      "side": "both",
+      "version": "4.5"
     }
   ],
   "configFiles": []
