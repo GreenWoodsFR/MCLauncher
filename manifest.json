@@ -135,6 +135,16 @@
       "required": true,
       "side": "both",
       "version": "4.4.0"
+    },
+    {
+      "id": "5d9998b3-e8c2-47e6-be38-5117eb15b105",
+      "name": "Apotheosis",
+      "filename": "Apotheosis-1.20.1-7.4.8.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Apotheosis-1.20.1-7.4.8.jar",
+      "sha256": "5ed8c17cf62837bb649d1054e3e4fe93c4d9bdec98fe9f332e2637a260da30da",
+      "required": true,
+      "side": "both",
+      "version": "7.4.8"
     }
   ],
   "configFiles": []
