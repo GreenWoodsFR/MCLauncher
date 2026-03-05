@@ -5327,6 +5327,11 @@
       "path": "configs/paxi/resourcepacks/FarmersDelightExcaliburSupport.zip",
       "sha256": "9e252c339896bda0025e5239eda65346d5e027d2caa4b84f9629679a0931c2e4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/FarmersDelightExcaliburSupport.zip"
+    },
+    {
+      "path": "configs/paxi/resourcepacks/Excalibur Amendments 1.1.zip",
+      "sha256": "9a357e79f26a3c2e957667db51dadf79eb6da1d90d2f8961820cebc159a6f59f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/Excalibur Amendments 1.1.zip"
     }
   ]
 }
