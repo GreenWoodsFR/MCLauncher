@@ -3342,6 +3342,11 @@
       "path": "configs/alexsmobs/bald_eagle_spawns.json",
       "sha256": "f8b51a798bfa4b51e0ee8fb78c860ca5b2677583db10584792a0e1548f17d396",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/bald_eagle_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/rattlesnake_spawns.json",
+      "sha256": "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/rattlesnake_spawns.json"
     }
   ]
 }
