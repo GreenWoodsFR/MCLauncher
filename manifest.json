@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/beachparty.toml",
-      "sha256": "5c808677268b0abe456c152cdac2be0f664e31a52b47b43c1a504048c42df7ec",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/beachparty.toml"
-    },
-    {
       "path": "configs/betteradvancements-client.toml",
       "sha256": "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/betteradvancements-client.toml"
