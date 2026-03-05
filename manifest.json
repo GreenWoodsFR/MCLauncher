@@ -905,6 +905,16 @@
       "required": true,
       "side": "both",
       "version": "3.7.8"
+    },
+    {
+      "id": "d35d5eaf-9c2e-4cfa-9ebe-9df626f6fdb0",
+      "name": "DiagonalWindows V8.1.5",
+      "filename": "DiagonalWindows-v8.1.5-1.20.1-Forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/DiagonalWindows-v8.1.5-1.20.1-Forge.jar",
+      "sha256": "8cfc28e4e054b17e1492c86356c97cd5bc29773c1b29e30a5b56de2ed526e329",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
