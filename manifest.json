@@ -3457,6 +3457,11 @@
       "path": "configs/alexsmobs/cachalot_whale_spawns.json",
       "sha256": "fb901f1ea0bce7b9fb51dfaeb565539a3c1a9ee86bafb49caddac7ca1002e296",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/cachalot_whale_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/komodo_dragon_spawns.json",
+      "sha256": "695a3eb4d61a8208cc634871c237b0e6efc980ac668793f4686848e32cda0907",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/komodo_dragon_spawns.json"
     }
   ]
 }
