@@ -6577,6 +6577,11 @@
       "path": "configs/moonlight-common.toml",
       "sha256": "02cd35fbcc371cf63303ae1264ad9f4613b3f73ace93417af825baf7d3ac7baf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/moonlight-common.toml"
+    },
+    {
+      "path": "configs/morevillagers-common.toml",
+      "sha256": "8c01f6e1d4a19cdb19d6e21eee4430b984b988bcfe4ac21b5e9d31fbf1737002",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/morevillagers-common.toml"
     }
   ]
 }
