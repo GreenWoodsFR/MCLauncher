@@ -6982,6 +6982,11 @@
       "path": "configs/treasures_of_the_dead-common.toml",
       "sha256": "605f0e5d32545f04a9a177014c789304c0b2d3b178670242936c74338a11fe15",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/treasures_of_the_dead-common.toml"
+    },
+    {
+      "path": "configs/trender.json",
+      "sha256": "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/trender.json"
     }
   ]
 }
