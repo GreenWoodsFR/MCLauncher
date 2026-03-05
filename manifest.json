@@ -5137,6 +5137,11 @@
       "path": "configs/jei/recipe-category-sort-order.ini",
       "sha256": "9a6fb0503de26ff60ccd3a9fc5924d2d9a0f51ee5e1c70c3104c89a799b9d8a1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/recipe-category-sort-order.ini"
+    },
+    {
+      "path": "configs/jei/jei-colors.ini",
+      "sha256": "5f37aacd70460fdc2631ff45e98e8a2ce4e52d3e9a50917edf40eeed1236952e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jei/jei-colors.ini"
     }
   ]
 }
