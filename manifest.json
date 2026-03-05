@@ -3165,6 +3165,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.4"
+    },
+    {
+      "id": "7b381e0a-e214-47d4-baa6-9a1810cf1528",
+      "name": "Letsdo Herbalbrews",
+      "filename": "letsdo-herbalbrews-forge-1.0.12.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/letsdo-herbalbrews-forge-1.0.12.jar",
+      "sha256": "8cf03776a4a876810a2af9c9f18f73eb5a20f041b0791b6c8b8150b5441b83c1",
+      "required": true,
+      "side": "both",
+      "version": "1.0.12"
     }
   ],
   "configFiles": []
