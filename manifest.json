@@ -6082,6 +6082,11 @@
       "path": "configs/cosmeticarmorreworked-client.toml",
       "sha256": "1f09257bc11babe19b5e78bce02ed7dcade4efab2a9353008bacb96ddd6bd75f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cosmeticarmorreworked-client.toml"
+    },
+    {
+      "path": "configs/cosmeticarmorreworked-common.toml",
+      "sha256": "ad632cac4e88a5138ae60ff7304bb3586eb93e9d3b34f241e5d532c1e5d19e7e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cosmeticarmorreworked-common.toml"
     }
   ]
 }
