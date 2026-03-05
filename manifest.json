@@ -5392,6 +5392,11 @@
       "path": "configs/realmrpg/quests/angler.json",
       "sha256": "574b3bfbfb290dac68201d69a526f442f019ac42c7ebad6574ce321ea9a419e3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/realmrpg/quests/angler.json"
+    },
+    {
+      "path": "configs/realmrpg/quests/monster_hunter.json",
+      "sha256": "224d1eed93cfa1748c9d9e5f95ffadbd6eb2f2bbc8b71e05b7fe0e179d2e4250",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/realmrpg/quests/monster_hunter.json"
     }
   ]
 }
