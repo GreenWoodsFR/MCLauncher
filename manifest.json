@@ -6207,6 +6207,11 @@
       "path": "configs/emi_loot_config.toml",
       "sha256": "2ad5c221f3f039f5c9ab38ff761ea8f77072fbde893c5d8a8073cb24ac96c78c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emi_loot_config.toml"
+    },
+    {
+      "path": "configs/emi.css",
+      "sha256": "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emi.css"
     }
   ]
 }
