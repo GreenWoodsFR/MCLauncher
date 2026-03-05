@@ -5822,6 +5822,11 @@
       "path": "configs/amendments-common.toml",
       "sha256": "abe9e7087af81666dc036639e163941e7083bcc4ea935a83aa85bac75ff4ba6d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/amendments-common.toml"
+    },
+    {
+      "path": "configs/apoli-client.toml",
+      "sha256": "9a260476f00ad4828eebaebe5eb85e556a3f248f0b811c32ff076c625db890bd",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/apoli-client.toml"
     }
   ]
 }
