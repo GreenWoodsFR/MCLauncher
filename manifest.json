@@ -7407,6 +7407,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/lighting/shadowSampling.glsl",
       "sha256": "a0ff42aec6f1d172bea1060d9b2a5979ec24d664ce618714d59d0c0f44f7f948",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/lighting/shadowSampling.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/potato.png",
+      "sha256": "8ca2a7135cf39991387285a32bacef3652ced3901d80f24c2b8b54f10c0a90a4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/potato.png"
     }
   ]
 }
