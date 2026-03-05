@@ -7647,6 +7647,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/terrainMaterials.glsl",
       "sha256": "496a0970e3c66a7dd836e4bc94192c3e7c7c8c73155c81a6a3088aa1ca3ebeab",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialHandling/terrainMaterials.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl",
+      "sha256": "fa34ce773560d31dab23031851a7851b3c50bf80faf5ca22a4863fff5811d151",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl"
     }
   ]
 }
