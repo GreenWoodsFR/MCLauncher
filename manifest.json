@@ -1355,6 +1355,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "89be0775-f119-4b06-a5c3-451f41669a17",
+      "name": "Mastersword",
+      "filename": "mastersword-1.20.1-2.3.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/mastersword-1.20.1-2.3.2.jar",
+      "sha256": "2e017ff65aa1f3a1608a28b6547d0eac6b646c1295f7f9a7aa58749d1eee272d",
+      "required": true,
+      "side": "both",
+      "version": "2.3.2"
     }
   ],
   "configFiles": []
