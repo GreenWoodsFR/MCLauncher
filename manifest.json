@@ -6157,6 +6157,11 @@
       "path": "configs/Dusty Decorations Config.toml",
       "sha256": "6c1d307e3bd6173700ddb173174cd4f6d6ce8226b94a0ef096456636ee98fa81",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Dusty Decorations Config.toml"
+    },
+    {
+      "path": "configs/dynamic_fps.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dynamic_fps.json"
     }
   ]
 }
