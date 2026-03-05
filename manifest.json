@@ -4752,6 +4752,11 @@
       "path": "configs/ftbquests/quests/reward_tables/gt_zpm.snbt",
       "sha256": "db3835cf7cac68ec5e2fa8298b3771930000858df55c124f664f59301f85ed71",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_zpm.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/ae2_basic_rewards.snbt",
+      "sha256": "ce60409edccc2de679b7239646405614300216630e3a3bd64f89fccbfbf05072",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/ae2_basic_rewards.snbt"
     }
   ]
 }
