@@ -2685,6 +2685,16 @@
       "required": true,
       "side": "both",
       "version": "31"
+    },
+    {
+      "id": "a089c9fe-af43-42c5-ad4e-d5176a71e0e7",
+      "name": "Gardens Of The Dead",
+      "filename": "gardens-of-the-dead-forge-4.0.4.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/gardens-of-the-dead-forge-4.0.4.jar",
+      "sha256": "af38f6740678dfae7cbb58eea8c3aa137fcff869a6aba488a6547bd34ed73ab4",
+      "required": true,
+      "side": "both",
+      "version": "4.0.4"
     }
   ],
   "configFiles": []
