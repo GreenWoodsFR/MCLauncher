@@ -2635,6 +2635,16 @@
       "required": true,
       "side": "both",
       "version": "2.1.2"
+    },
+    {
+      "id": "6f4c9f93-4264-48a8-b1be-5a5af639abd9",
+      "name": "WI Zoom",
+      "filename": "WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/WI-Zoom-1.5-MC1.20.1-Forge.jar",
+      "sha256": "76a7b8e701d0ef27b1836a300ebd65b48193d211c0032511c943472fa653d883",
+      "required": true,
+      "side": "both",
+      "version": "MC1.20.1"
     }
   ],
   "configFiles": []
