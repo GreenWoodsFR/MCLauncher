@@ -1740,7 +1740,7 @@
       "id": "1f06779a-96b3-4ed3-99ec-a48cd7dd2e48",
       "name": "Particle Core",
       "filename": "particle_core-0.3.3+1.20.1+forge.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/particle_core-0.3.3%2B1.20.1%2Bforge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/particle_core-0.3.3_1.20.1_forge.jar",
       "sha256": "bd4023e4618333f3e6020a7d6f4db3ae7e8fe41b39a43f47e6a1da4fbd80bc1b",
       "required": true,
       "side": "both",
