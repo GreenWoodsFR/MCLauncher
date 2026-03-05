@@ -3762,6 +3762,11 @@
       "path": "configs/apotheosis/ench.cfg",
       "sha256": "6fbf05e2719f095908f8196a694f6a8f36bc39c7d5e71644b0ea55e025c8b80f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/apotheosis/ench.cfg"
+    },
+    {
+      "path": "configs/apotheosis/village.cfg",
+      "sha256": "e107b59d9f2fc528d7f0f705fc96db903ca897af2151e91a1eb5e8ab2c338996",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/apotheosis/village.cfg"
     }
   ]
 }
