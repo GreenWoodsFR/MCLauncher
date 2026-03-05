@@ -4567,6 +4567,11 @@
       "path": "configs/ftbquests/quests/chapters/sabre_laser.snbt",
       "sha256": "0daef96f7c0156baa2bb4904bb2ecf3a41fd15d38129e44243ebf76a492a333b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/sabre_laser.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/gear_mariums_soulslike_weaponry.snbt",
+      "sha256": "ec70925e78a3b9b6eeda7c98758eebc857965fe6ce608bcb8d825c216f6437c3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/gear_mariums_soulslike_weaponry.snbt"
     }
   ]
 }
