@@ -5707,6 +5707,11 @@
       "path": "configs/visuality/particle_emitters/entity_hit.json",
       "sha256": "db1fe2d772c0ed136c2d1da0c315bc50ba9760032a60253be6f37ce1d7e38ead",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/visuality/particle_emitters/entity_hit.json"
+    },
+    {
+      "path": "configs/visuality/particle_emitters/block_ambient.json",
+      "sha256": "734a10c828571b65d71d2f27ff2d3350603d097e96c5d0dd5f49319fe21b803b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/visuality/particle_emitters/block_ambient.json"
     }
   ]
 }
