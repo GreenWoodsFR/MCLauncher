@@ -1965,6 +1965,16 @@
       "required": true,
       "side": "both",
       "version": "0.1.4"
+    },
+    {
+      "id": "e49f2899-68c7-4d75-ab5c-5b58952ee957",
+      "name": "Rarcompat",
+      "filename": "rarcompat-1.20.1-0.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/rarcompat-1.20.1-0.5.jar",
+      "sha256": "2de2a9cfd21edf676072ca7432ff9acdd28f8e077fcac90a46d3dea8f82bf9f1",
+      "required": true,
+      "side": "both",
+      "version": "0.5"
     }
   ],
   "configFiles": []
