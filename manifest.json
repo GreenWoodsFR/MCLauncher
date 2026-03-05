@@ -6467,6 +6467,11 @@
       "path": "configs/legendary_monsters-common.toml",
       "sha256": "a5faa98783ccb743b38e6db89d37313dac1f942d7dc10c64dee390456dde7a24",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendary_monsters-common.toml"
+    },
+    {
+      "path": "configs/legendarytooltips-common.toml",
+      "sha256": "c51c5a927c1f59d9373c038aea225dc618647ac076a9142d25111c86feaab64e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarytooltips-common.toml"
     }
   ]
 }
