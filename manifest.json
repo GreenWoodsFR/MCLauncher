@@ -5012,6 +5012,11 @@
       "path": "configs/ftbquests/quests/reward_tables/rs_advanced_parts.snbt",
       "sha256": "f91325fe3e7c31ade4502f3d6d22f365999f1aedb0a582fd22046e349942a48d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/rs_advanced_parts.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/ars_nouveau_rewards.snbt",
+      "sha256": "a3640e418ebeaec76235856ebb4c3fbd77e1cfb1957a5380c82f176e20c260cc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/ars_nouveau_rewards.snbt"
     }
   ]
 }
