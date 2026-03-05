@@ -7527,6 +7527,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/clouds/unboundClouds.glsl",
       "sha256": "f3b86677ee58e4e5d06b991dff53120ad29a57b5325984f3757eaf35c667533e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/clouds/unboundClouds.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/enderBeams.glsl",
+      "sha256": "049c12932333b8cb91f69e648983120442f5ba53899a18c4a7d288cb6c845eb6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/enderBeams.glsl"
     }
   ]
 }
