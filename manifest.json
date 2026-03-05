@@ -5517,6 +5517,11 @@
       "path": "configs/relics/relics/magic_mirror.yaml",
       "sha256": "b2f48329c46e363dcf406824d3819de86a4abc9d30e50b8f647738cc2416f06c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/magic_mirror.yaml"
+    },
+    {
+      "path": "configs/relics/relics/spatial_sign.yaml",
+      "sha256": "79e5e1a2d63e4677142d3254c578bb473f1f5b04bf9c13becfbfb56813f44f8e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/spatial_sign.yaml"
     }
   ]
 }
