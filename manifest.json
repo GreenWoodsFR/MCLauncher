@@ -7532,6 +7532,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/enderBeams.glsl",
       "sha256": "049c12932333b8cb91f69e648983120442f5ba53899a18c4a7d288cb6c845eb6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/enderBeams.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/bedrockNoise.glsl",
+      "sha256": "df746259f915598198ce40d4d8849b508f066dd868214530f32897378148ea1e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/bedrockNoise.glsl"
     }
   ]
 }
