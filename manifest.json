@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/majruszsenchantments.json",
-      "sha256": "156be9d53f7f4943b3ab7bc960930054431ff638f23b9eed0a556b0046641c91",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/majruszsenchantments.json"
-    },
-    {
       "path": "configs/mastersword-common.toml",
       "sha256": "d2147471f7f663d414bbf4d358dc30cb1b3aabd17ad609e3786306b7570867ea",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mastersword-common.toml"
