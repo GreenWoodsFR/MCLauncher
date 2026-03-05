@@ -7552,6 +7552,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/endPortalBeam.glsl",
       "sha256": "66e83fa7f3bf1312aad13f58f69a402f0e714f5e157e4c8a94e86f016dff07df",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/endPortalBeam.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/enderStars.glsl",
+      "sha256": "34840a4863097250221bfa143468b638459ece571e010ffade6adc4f192baed5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/enderStars.glsl"
     }
   ]
 }
