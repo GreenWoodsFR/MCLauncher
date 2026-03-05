@@ -1395,6 +1395,16 @@
       "required": true,
       "side": "both",
       "version": "mc1.20.1forge"
+    },
+    {
+      "id": "9e446959-4749-4e47-a5a6-a1c5e9f0b3eb",
+      "name": "Mcw Mcwfences",
+      "filename": "mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+      "sha256": "10deb617769e9674a767a3991af4c46afd081b5de42cee326f71ef2700a14313",
+      "required": true,
+      "side": "both",
+      "version": "mc1.20.1forge"
     }
   ],
   "configFiles": []
