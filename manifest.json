@@ -2745,6 +2745,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "5638b065-b288-47a0-8864-397606e7ae4e",
+      "name": "Hamsters",
+      "filename": "hamsters-forge-1.0.3-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/hamsters-forge-1.0.3-1.20.1.jar",
+      "sha256": "68a81007153fa97e8986306a2e358fcaa8a240d2fe8f30d361acfc43f8f7c51f",
+      "required": true,
+      "side": "both",
+      "version": "1.0.3"
     }
   ],
   "configFiles": []
