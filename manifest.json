@@ -7232,6 +7232,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/gbuffers_damagedblock.glsl",
       "sha256": "cf4681fcd54f267db538d7e1ae7c63edc854553e2ed6d7277c02b0b55372555e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/gbuffers_damagedblock.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/dh_terrain.glsl",
+      "sha256": "6b7470be474977f7ff40279b0ce3379b556938fbaf3f49e016abf993b3044d08",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/dh_terrain.glsl"
     }
   ]
 }
