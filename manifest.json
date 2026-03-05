@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/smoothboot.json",
-      "sha256": "f12faa150cb54f565b8c26a4538650f9fb45d33dc39000b1149548a4670cce37",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smoothboot.json"
-    },
-    {
       "path": "configs/snowyspirit-client.toml",
       "sha256": "4bda1a7c7502f04c769978d18739ca1351d0aa26c1a7ede6c07ba7abd0428d38",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/snowyspirit-client.toml"
