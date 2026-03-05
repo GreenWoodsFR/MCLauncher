@@ -3397,6 +3397,11 @@
       "path": "configs/alexsmobs/guster_spawns.json",
       "sha256": "263974f58a4b48df633648246820681745da9f9e16f30fefe6e07f576251dfb1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/guster_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/murmur.json",
+      "sha256": "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/murmur.json"
     }
   ]
 }
