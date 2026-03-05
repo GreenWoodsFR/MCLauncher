@@ -2975,6 +2975,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "abe38890-1b9c-4d2c-a1c4-afa8a66318e3",
+      "name": "Knightquest",
+      "filename": "knightquest-forge-1.20.1-1.9.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/knightquest-forge-1.20.1-1.9.3.jar",
+      "sha256": "57d0d41ce67c08aed21c9139702c3dbf92c1af9a0ae334fedd7de33d29def7c2",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
