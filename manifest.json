@@ -4622,6 +4622,11 @@
       "path": "configs/ftbquests/quests/chapters/fermierre.snbt",
       "sha256": "a54327025c45510aa18e582553d8403991c26147e9c3196aa5d1445f5fb69224",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/fermierre.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/animalierre.snbt",
+      "sha256": "1067b920b8831b667263d0f3a92b7116419caf86f27749f3a6f7866052bdd285",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/animalierre.snbt"
     }
   ]
 }

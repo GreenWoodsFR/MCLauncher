@@ -1,0 +1,34 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "animalierre"
+	group: "18782192B0F905F8"
+	icon: "naturalist:teddy_bear"
+	id: "457A1D9B0853AD7A"
+	order_index: 16
+	quest_links: [ ]
+	quests: [{
+		id: "002D079D3CEFD0D0"
+		rewards: [
+			{
+				id: "50FEE1FC991B6C03"
+				type: "xp_levels"
+				xp_levels: 2
+			}
+			{
+				id: "444513269AC6CC12"
+				item: "minecraft:lead"
+				type: "item"
+			}
+		]
+		size: 2.0d
+		tasks: [{
+			id: "102011DEADB3DC07"
+			item: "supplementaries:cage"
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: " &9Animalier(ère)"
+}
