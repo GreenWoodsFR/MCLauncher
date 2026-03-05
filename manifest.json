@@ -5547,6 +5547,11 @@
       "path": "configs/relics/relics/horse_flute.yaml",
       "sha256": "03f0644ebcfbe433139f9aaaf004357c87c249eea7bbd38451984a4f5a59e961",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/horse_flute.yaml"
+    },
+    {
+      "path": "configs/relics/relics/chorus_inhibitor.yaml",
+      "sha256": "8d0e4663ac5e07ed77f0d5c68d06dc8710d4981b2e0a9dd4e224f7217e341153",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/chorus_inhibitor.yaml"
     }
   ]
 }
