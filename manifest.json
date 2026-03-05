@@ -1035,6 +1035,16 @@
       "required": true,
       "side": "both",
       "version": "17.1.21"
+    },
+    {
+      "id": "554abdcf-7d0d-4b0a-9c80-1bf2d026e0bc",
+      "name": "Enchantmenttransfer",
+      "filename": "enchantmenttransfer-0.0.6-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/enchantmenttransfer-0.0.6-1.20.1.jar",
+      "sha256": "157a4a4214e7870ad69c19eb77cabf910c002e988c347ba2da2ebbe261b1a3a4",
+      "required": true,
+      "side": "both",
+      "version": "0.0.6"
     }
   ],
   "configFiles": []
