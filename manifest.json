@@ -4682,6 +4682,11 @@
       "path": "configs/ftbquests/quests/chapters/lfgl7atio.snbt",
       "sha256": "188b03988e4d0177c9f990ac21cc047acefbc6a882ed077afdb9af921460d362",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/lfgl7atio.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/apotheosis.snbt",
+      "sha256": "30ad77de3f63ca9b126798aad1dd3bb2bf7cbfcdd3b4ba38238665b0989498f9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/apotheosis.snbt"
     }
   ]
 }
