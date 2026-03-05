@@ -3145,6 +3145,16 @@
       "required": true,
       "side": "both",
       "version": "2.0.3"
+    },
+    {
+      "id": "d824b4b0-5c89-4d28-8787-d05f4b4430de",
+      "name": "Letsdo Brewery",
+      "filename": "letsdo-brewery-forge-1.1.9.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/letsdo-brewery-forge-1.1.9.jar",
+      "sha256": "f889cf1258b6365873b83fb3e533e9a58da4ee381377e55d58f13a4b3cfb4840",
+      "required": true,
+      "side": "both",
+      "version": "1.1.9"
     }
   ],
   "configFiles": []
