@@ -5387,6 +5387,11 @@
       "path": "configs/ramcompat/relics/stink_gland.yaml",
       "sha256": "043b0e43ea08bfde1f8e70fb814b936cb5b3fb5a06f13a92d4a75b00a5f5683b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ramcompat/relics/stink_gland.yaml"
+    },
+    {
+      "path": "configs/realmrpg/quests/angler.json",
+      "sha256": "574b3bfbfb290dac68201d69a526f442f019ac42c7ebad6574ce321ea9a419e3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/realmrpg/quests/angler.json"
     }
   ]
 }
