@@ -5037,6 +5037,11 @@
       "path": "configs/ftbquests/quests/reward_tables/mythic.snbt",
       "sha256": "086d385f450932f9855615347e2438d82cae8b30094900ca6ba271bab1fde01b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/mythic.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/blood_magic_loot_bag.snbt",
+      "sha256": "5c463c77313719016cc46ed9d82aca8c4224a8d2dee2408d517dff451ccf1278",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/blood_magic_loot_bag.snbt"
     }
   ]
 }
