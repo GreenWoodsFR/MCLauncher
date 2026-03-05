@@ -3245,6 +3245,16 @@
       "required": true,
       "side": "both",
       "version": "0.7.35.94"
+    },
+    {
+      "id": "f7bc8521-3df9-4abb-aa06-956750fb2066",
+      "name": "Lunar",
+      "filename": "Lunar-forge-1.20.1-0.2.7.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Lunar-forge-1.20.1-0.2.7.jar",
+      "sha256": "904c336efdfa7c2710f40204776fdb7e1c9acb79a40458858fe7cabce5e94130",
+      "required": true,
+      "side": "both",
+      "version": "0.2.7"
     }
   ],
   "configFiles": []
