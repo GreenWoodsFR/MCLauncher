@@ -3522,6 +3522,11 @@
       "path": "configs/alexsmobs/toucan_spawns.json",
       "sha256": "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/toucan_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/devils_hole_pupfish_spawns.json",
+      "sha256": "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/devils_hole_pupfish_spawns.json"
     }
   ]
 }
