@@ -4517,6 +4517,11 @@
       "path": "configs/ftbquests/quests/chapters/dragons.snbt",
       "sha256": "d6a86f0e12a366048946500ea3b17259d95853968448433136aee5ea51224a34",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/dragons.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/to_the_end.snbt",
+      "sha256": "8b14e71d04addeb1bb4045df9e738af67cb658d73bc676b2db0c7ccdb17ac1a1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/to_the_end.snbt"
     }
   ]
 }

@@ -1,0 +1,520 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "diamond"
+	filename: "to_the_end"
+	group: "5BBB507BE497896B"
+	icon: "minecraft:end_portal_frame"
+	id: "5AAF050CB8F14B0C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"263D24D35E699557"
+				"7F0434CFE9CAEF07"
+				"6AD07DC2ED3C734D"
+				"3DE8FE441A0B051C"
+				"1B9101B42DCED261"
+				"35B7FDB1000EEAF9"
+				"4E969D7F19948E4A"
+				"49EFA88FEABB1195"
+				"2BC3AA0B480C6828"
+				"62536E37C53A9260"
+				"7A601E36B70D975C"
+				"72EFFD1039B48784"
+				"6A9C9E7ADB45F1BE"
+				"6F658E35279100C8"
+				"3239B2CDB852E1C6"
+				"64E302C442B729B8"
+			]
+			dependency_requirement: "one_started"
+			icon: "minecraft:end_portal_frame"
+			id: "45D9C9CD7B2568A0"
+			min_required_dependencies: 1
+			rewards: [{
+				id: "0A7247778B088F39"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			shape: "octagon"
+			size: 1.25d
+			subtitle: "&eEnter The End Portal using twelve of the unique eyes."
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:ender_eye"
+				id: "126F26CCB046CD5D"
+				title: "Entering The End"
+				type: "dimension"
+			}]
+			title: "&dThe End?"
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			id: "4E969D7F19948E4A"
+			optional: true
+			subtitle: "&7Dropped by Elder Guardians (33%)"
+			tasks: [{
+				id: "2B0F03865A9E31B9"
+				item: {
+					Count: 1
+					id: "endrem:guardian_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			id: "2BC3AA0B480C6828"
+			optional: true
+			subtitle: "&7Dropped by Evokers (5%)"
+			tasks: [{
+				id: "5B03491401B0489E"
+				item: {
+					Count: 1
+					id: "endrem:magical_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			id: "3239B2CDB852E1C6"
+			optional: true
+			subtitle: "&7Dropped by the Wither."
+			tasks: [{
+				id: "51D9182AB02AE780"
+				item: {
+					Count: 1
+					id: "endrem:wither_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -4.0d
+		}
+		{
+			id: "6F658E35279100C8"
+			optional: true
+			subtitle: "&7Crafted using the Witch Pupil"
+			tasks: [{
+				id: "3E473BEA23E8C1FE"
+				item: {
+					Count: 1
+					id: "endrem:witch_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.5d
+		}
+		{
+			id: "6A9C9E7ADB45F1BE"
+			optional: true
+			subtitle: "&7Created using an Undead Soul."
+			tasks: [{
+				id: "278B4A1FD0493FD0"
+				item: {
+					Count: 1
+					id: "endrem:undead_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			id: "35B7FDB1000EEAF9"
+			optional: true
+			subtitle: "&7Crafted using acuatic items"
+			tasks: [{
+				id: "788EEC3D5D81C3AF"
+				item: {
+					Count: 1
+					id: "endrem:exotic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			id: "263D24D35E699557"
+			optional: true
+			shape: "diamond"
+			subtitle: "&7Found in Buried Chests"
+			tasks: [{
+				id: "1F9EF219BAB85A92"
+				item: {
+					Count: 1
+					id: "endrem:black_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -4.0d
+		}
+		{
+			id: "7F0434CFE9CAEF07"
+			optional: true
+			subtitle: "&7Found in Igloos."
+			tasks: [{
+				id: "2CC6D9A1017107EB"
+				item: {
+					Count: 1
+					id: "endrem:cold_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+		{
+			id: "6AD07DC2ED3C734D"
+			optional: true
+			shape: "diamond"
+			subtitle: "&7Found in Pillager Outposts"
+			tasks: [{
+				id: "6D325AC3E295E65A"
+				item: {
+					Count: 1
+					id: "endrem:corrupted_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			id: "49EFA88FEABB1195"
+			optional: true
+			subtitle: "&7Found in Mineshafts."
+			tasks: [{
+				id: "25DDD301B747C01E"
+				item: {
+					Count: 1
+					id: "endrem:lost_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.5d
+		}
+		{
+			id: "62536E37C53A9260"
+			optional: true
+			subtitle: "&7Found in Nether Fortresses"
+			tasks: [{
+				id: "1C3BD6942EC2E46D"
+				item: {
+					Count: 1
+					id: "endrem:nether_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "7A601E36B70D975C"
+			optional: true
+			subtitle: "&7Found in Desert Pyramids. "
+			tasks: [{
+				id: "1628A0166F3301FF"
+				item: {
+					Count: 1
+					id: "endrem:old_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			id: "72EFFD1039B48784"
+			optional: true
+			subtitle: "&7Found in Jungle Pyramids"
+			tasks: [{
+				id: "1239D763D441A4BF"
+				item: {
+					Count: 1
+					id: "endrem:rogue_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			description: ["&eOnce the trade is unlocked, it will not have stock until a day passes."]
+			id: "1B9101B42DCED261"
+			optional: true
+			subtitle: "&7Bought from a master Cleric."
+			tasks: [{
+				id: "7B812622B4A52172"
+				item: {
+					Count: 1
+					id: "endrem:evil_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.0d
+		}
+		{
+			id: "3DE8FE441A0B051C"
+			optional: true
+			subtitle: "&7Found in Bastions"
+			tasks: [{
+				id: "04E8914428590507"
+				item: {
+					Count: 1
+					id: "endrem:cursed_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			id: "64E302C442B729B8"
+			optional: true
+			subtitle: "&7Infusable in an Enchanting Table."
+			tasks: [{
+				id: "685E4965B8364BEC"
+				item: {
+					Count: 1
+					id: "endrem:cryptic_eye"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2A51F2BA00FCA9DF"]
+			id: "100CFACDBE552E8C"
+			rewards: [
+				{
+					id: "5C887039A7D24057"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					count: 16
+					id: "1DF2FCB39FA57F26"
+					item: "minecraft:phantom_membrane"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "07A2D00B0CDC7C60"
+				item: {
+					Count: 1
+					id: "minecraft:elytra"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4D36AAFE17F5CD9C"]
+			dependency_requirement: "all_started"
+			icon: "minecraft:dragon_head"
+			id: "2A51F2BA00FCA9DF"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3D6F471031B53771"
+				table_id: 327386274853989853L
+				type: "random"
+			}]
+			subtitle: "Respawned the same way as normal - placing an end crystal on all four cardinal directions on the exit portal's outer rim."
+			tasks: [{
+				entity: "minecraft:ender_dragon"
+				icon: "minecraft:dragon_head"
+				id: "412B85684482E982"
+				title: "Kill The Ender Dragon"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &8&lEnder Dragon"
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			id: "4D36AAFE17F5CD9C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7F2C1C227A8CC557"
+				table_id: 6935663685294125539L
+				type: "choice"
+			}]
+			shape: "hexagon"
+			size: 2.0d
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: "minecraft:end_portal_frame"
+				id: "444AC080F3243355"
+				title: "Enter The End Dimension"
+				type: "dimension"
+			}]
+			title: "Enter &8The End"
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4D36AAFE17F5CD9C"]
+			id: "355ABBA15B609961"
+			rewards: [{
+				id: "130722604E3DE9A7"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Found at the bottom of Ruined Citadels."
+			tasks: [{
+				entity: "cataclysm:ender_guardian"
+				icon: "cataclysm:gauntlet_of_guard"
+				id: "214C6BC2D73A0DC5"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &3Ender Guardian"
+			x: -2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4D36AAFE17F5CD9C"]
+			icon: "alexsmobs:void_worm_eye"
+			id: "43E0AD91C15669D8"
+			rewards: [
+				{
+					id: "560758CF4303B85B"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "227AEA15EF87B7A3"
+					item: "friendsandfoes:totem_of_illusion"
+					type: "item"
+				}
+			]
+			subtitle: "Put the Crimson Mosquito Larva into the Capsid, then throw the Mysterious Lava into the void of The End."
+			tasks: [{
+				entity: "alexsmobs:void_worm"
+				id: "422D753E01DAF391"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Summon and Kill the &9Void Worm"
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4D36AAFE17F5CD9C"]
+			id: "66E7CB465F845A15"
+			rewards: [
+				{
+					id: "52F190738B4D81C2"
+					item: "cataclysm:music_disc_ender_guardian"
+					type: "item"
+				}
+				{
+					id: "23A3E1D1613B5D74"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Found in Ruined Citadels in &5The End &rislands. Locate with an &5Eye of Void"
+			tasks: [{
+				entity: "cataclysm:ender_golem"
+				icon: "cataclysm:void_core"
+				id: "02B05099ED164F8C"
+				type: "kill"
+				value: 1L
+			}]
+			title: "Defeat the &5Ender Golem"
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4D36AAFE17F5CD9C"]
+			id: "36B77024E67E279C"
+			rewards: [
+				{
+					id: "608A75E04FED4206"
+					item: "alexsmobs:capsid"
+					type: "item"
+				}
+				{
+					id: "25D8FBF0CF5434F3"
+					item: "alexsmobs:mosquito_larva"
+					type: "item"
+				}
+			]
+			subtitle: "Use TNT to defeat the boss"
+			tasks: [{
+				id: "7B37F3A22D97E75F"
+				item: "stalwart_dungeons:void_crystal"
+				type: "item"
+			}]
+			title: "Defeat &3The Shelterer &rand obtain a Void Crystal"
+			x: 2.0d
+			y: 4.5d
+		}
+	]
+	title: " &dThe End"
+}
