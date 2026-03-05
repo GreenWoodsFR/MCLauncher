@@ -6007,6 +6007,11 @@
       "path": "configs/carryon-common.toml",
       "sha256": "9c31f7f00ebe4025a6a11ee6257fe672b57866f7ec6206f97656b6cdf095b0b1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/carryon-common.toml"
+    },
+    {
+      "path": "configs/cataclysm.toml",
+      "sha256": "ad96d15492382389f898e78d355a692e6c4cfba5a887bc878694d1fe05862daf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cataclysm.toml"
     }
   ]
 }
