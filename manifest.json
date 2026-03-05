@@ -2885,6 +2885,16 @@
       "required": true,
       "side": "both",
       "version": "2.3.1"
+    },
+    {
+      "id": "25e40242-d753-449c-bf18-3e2c4de07130",
+      "name": "Jade",
+      "filename": "Jade-1.20.1-Forge-11.13.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "sha256": "31949971a7a8d5a5bc95ad9d400cbedfd2d65ffbfb3cea7c0b2fa3b47431a0a5",
+      "required": true,
+      "side": "both",
+      "version": "11.13.2"
     }
   ],
   "configFiles": []
