@@ -5337,6 +5337,11 @@
       "path": "configs/paxi/resourcepacks/EFA_215.4.a.zip",
       "sha256": "b5ce82c1e4ebfe9eb4b07e11eae329511b29f4292ef09e0e617bdca472a4c351",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/EFA_215.4.a.zip"
+    },
+    {
+      "path": "configs/paxi/resourcepacks/Excalibur_V1.20.zip",
+      "sha256": "ccf01766c56ad287071c795452ebdb6a33bf35a74f098d5191475cd479292d49",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/Excalibur_V1.20.zip"
     }
   ]
 }
