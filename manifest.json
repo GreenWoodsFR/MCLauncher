@@ -8057,6 +8057,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/distantLightBokeh.glsl",
       "sha256": "ddca90039ab513c8b2dd9a1b979ee5db46a31f4e23a508631a13ecc081f57598",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/distantLightBokeh.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/endCrystalVoxelization.glsl",
+      "sha256": "d345ca17c7f3353e9e819f56081ba3b2ea9ba731ff541ce466a0529478c601ad",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/endCrystalVoxelization.glsl"
     }
   ]
 }
