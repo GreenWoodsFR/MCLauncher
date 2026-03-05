@@ -3687,6 +3687,11 @@
       "path": "configs/alexsmobs/cosmic_cod_spawns.json",
       "sha256": "aed14e990ed38ee78214b1ea4a15e06bca1b8d098e1e440596be9ab14e4403b8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/cosmic_cod_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/mudskipper_spawns.json",
+      "sha256": "542cca079ae671a6d928737b622b205deebfe2aed5864a01b5048f501aec2753",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/mudskipper_spawns.json"
     }
   ]
 }
