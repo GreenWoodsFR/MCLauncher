@@ -7962,6 +7962,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/paleOakWood.glsl",
       "sha256": "f27e34f37ca42e3f0dad1eac0784a01a9f845c4bdbbe1067fbfd728ce356e703",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/paleOakWood.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/leaves.glsl",
+      "sha256": "d9fec29839cf87628489c9982f63c163d06a5df5a523b0c05569c2b609a1e963",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/leaves.glsl"
     }
   ]
 }
