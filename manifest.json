@@ -5522,6 +5522,11 @@
       "path": "configs/relics/relics/spatial_sign.yaml",
       "sha256": "79e5e1a2d63e4677142d3254c578bb473f1f5b04bf9c13becfbfb56813f44f8e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/spatial_sign.yaml"
+    },
+    {
+      "path": "configs/relics/relics/ice_breaker.yaml",
+      "sha256": "ff60615f0d0f7208f04f9b7f2fc07fe350b2a383eb71b3798df722d6105cb1cf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/ice_breaker.yaml"
     }
   ]
 }
