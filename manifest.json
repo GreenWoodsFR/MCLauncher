@@ -6142,6 +6142,11 @@
       "path": "configs/dragonmounts-common.toml",
       "sha256": "8cc60bc976bd9be2e1f120c7d5bf401c3b88bc3fdb819a56b0bb607843848992",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dragonmounts-common.toml"
+    },
+    {
+      "path": "configs/dummmmmmy-client.toml",
+      "sha256": "7c0c0f60ed26f358ffb427f100e6ce0f216ddd65d6471df23390f55d5336e55c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dummmmmmy-client.toml"
     }
   ]
 }
