@@ -2105,6 +2105,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.2"
+    },
+    {
+      "id": "3c134a3d-c2ad-4e34-b557-d16de3031d5d",
+      "name": "Samurai Dynasty",
+      "filename": "samurai_dynasty-0.0.51-1.20.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/samurai_dynasty-0.0.51-1.20.1-forge.jar",
+      "sha256": "be95a714c1d5b2e577cf2d05c6158782cc484951d08ef0ea17b3c31b80f544df",
+      "required": true,
+      "side": "both",
+      "version": "0.0.51"
     }
   ],
   "configFiles": []
