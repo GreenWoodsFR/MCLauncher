@@ -5112,6 +5112,11 @@
       "path": "configs/jade/sort-order.json",
       "sha256": "dbb2d7925412d15a6c67e7f85983d07b062ba4286426fbe908cbd261760113e9",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jade/sort-order.json"
+    },
+    {
+      "path": "configs/jade/hide-blocks.json",
+      "sha256": "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jade/hide-blocks.json"
     }
   ]
 }
