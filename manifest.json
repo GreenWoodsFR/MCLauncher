@@ -4232,6 +4232,11 @@
       "path": "configs/artifacts/relics/lucky_scarf.yaml",
       "sha256": "db018c88dd5943eec0d100720db1759505939085b8270acad9344879d0d2887e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/lucky_scarf.yaml"
+    },
+    {
+      "path": "configs/artifacts/relics/snorkel.yaml",
+      "sha256": "e288a73aaa1723525a8a2781d7ba77d944476b7455d597053a320cbfdc138491",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/snorkel.yaml"
     }
   ]
 }
