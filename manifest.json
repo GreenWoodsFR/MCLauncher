@@ -2415,6 +2415,16 @@
       "required": true,
       "side": "both",
       "version": "mc1.20"
+    },
+    {
+      "id": "513562d3-9ceb-4c6c-9805-30a9c262a0d0",
+      "name": "Supermartijn642corelib",
+      "filename": "supermartijn642corelib-1.1.20-forge-mc1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/supermartijn642corelib-1.1.20-forge-mc1.20.1.jar",
+      "sha256": "e6f89be4d55352fe078e177e0e3c9db5207b6148a4abc59a1be452456a005ea3",
+      "required": true,
+      "side": "both",
+      "version": "mc1.20.1"
     }
   ],
   "configFiles": []
