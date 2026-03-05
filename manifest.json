@@ -6877,6 +6877,11 @@
       "path": "configs/sophisticatedbackpacks-common.toml",
       "sha256": "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedbackpacks-common.toml"
+    },
+    {
+      "path": "configs/sophisticatedcore-client.toml",
+      "sha256": "3175ac14ac1da55ba706d1f0321c0b5620cd968a381e60323b283778e7b6d9e6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedcore-client.toml"
     }
   ]
 }
