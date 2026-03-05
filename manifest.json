@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/resourceful-config-web.json",
-      "sha256": "350480ae98273611ff9305441d88f4a4f3da22dd6f5879d8358bc17ea02b01aa",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/resourceful-config-web.json"
-    },
-    {
       "path": "configs/ribbits-forge-1_20_1.toml",
       "sha256": "a3a347104c669a4847fbcea06cabe3a5fb79c474164137b01074fde0c1e649be",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ribbits-forge-1_20_1.toml"
