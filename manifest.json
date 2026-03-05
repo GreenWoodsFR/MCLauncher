@@ -7832,6 +7832,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl",
       "sha256": "845256aa330329fcca63eade2954dcfd27fecb93504b2fcf09c4c56986f0ac77",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/lapisBlock.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/anvil.glsl",
+      "sha256": "715c753f609598aa1efc72cea864015196069968c7d315d171408cb067d56a2a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/anvil.glsl"
     }
   ]
 }
