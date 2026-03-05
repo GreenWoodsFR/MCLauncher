@@ -3702,6 +3702,11 @@
       "path": "configs/alexsmobs/mimicube_spawns.json",
       "sha256": "fcace6e8c558df6eb13827f7a2b4a7f43c9fdfd3015331bd7e277329ca034c34",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/mimicube_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/bison_spawns.json",
+      "sha256": "78e726ed002a31f5084a7b49fcce467c5623a046981d6c59d9ed7c4eb6cdbb1e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/bison_spawns.json"
     }
   ]
 }
