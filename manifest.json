@@ -6472,6 +6472,11 @@
       "path": "configs/legendarytooltips-common.toml",
       "sha256": "c51c5a927c1f59d9373c038aea225dc618647ac076a9142d25111c86feaab64e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarytooltips-common.toml"
+    },
+    {
+      "path": "configs/libraryferret_1.properties",
+      "sha256": "72203249e4e85a22aca50142d552ebfbacde7560b119582deb3662e3208cb254",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/libraryferret_1.properties"
     }
   ]
 }
