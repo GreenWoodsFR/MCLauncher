@@ -6322,6 +6322,11 @@
       "path": "configs/farmersdelight-common.toml",
       "sha256": "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farmersdelight-common.toml"
+    },
+    {
+      "path": "configs/farsight.json",
+      "sha256": "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farsight.json"
     }
   ]
 }
