@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/lightsabers-common.toml",
-      "sha256": "ef0ed61c06e442984d6a0fe20e4e9963d0b397ce3ac399e1bc63f8ed5bd6b160",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lightsabers-common.toml"
-    },
-    {
       "path": "configs/lithium.properties",
       "sha256": "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lithium.properties"
