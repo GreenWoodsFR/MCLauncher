@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/fantasy_armor-common.toml",
-      "sha256": "7f72070cd79b91ad4e2da2f0ab211247cb25e925fe60db1bcd728758a2250106",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fantasy_armor-common.toml"
-    },
-    {
       "path": "configs/farmersdelight-client.toml",
       "sha256": "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farmersdelight-client.toml"
