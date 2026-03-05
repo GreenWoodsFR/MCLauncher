@@ -3045,6 +3045,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "d6d244fa-1328-4db8-bc62-681bd1e37af5",
+      "name": "L Enders Cataclysm",
+      "filename": "L_Enders_Cataclysm-3.16.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/L_Enders_Cataclysm-3.16.jar",
+      "sha256": "ac1028f4bfaa2629d80ce3c1f26e28ceec2e6f2aaaac3bb03dd8957856d2e7ca",
+      "required": true,
+      "side": "both",
+      "version": "3.16"
     }
   ],
   "configFiles": []
