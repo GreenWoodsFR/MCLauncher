@@ -4247,6 +4247,11 @@
       "path": "configs/artifacts/relics/villager_hat.yaml",
       "sha256": "017c57e6b74b77391103748bc0de002b414b108223c2ae9624045a81f6384169",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/villager_hat.yaml"
+    },
+    {
+      "path": "configs/artifacts/common.json5",
+      "sha256": "736bec8c910558091bb749ac7adb013822a253a02f1f70637eb193952768d2b1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/common.json5"
     }
   ]
 }
