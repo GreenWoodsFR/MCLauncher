@@ -3264,11 +3264,6 @@
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/arsdelight-common.toml"
     },
     {
-      "path": "configs/ars_additions-common.toml",
-      "sha256": "0f9e3d26d08ece8e030a4007ca2bcdea1cc59902b11adfc494e2bc72bad85c40",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_additions-common.toml"
-    },
-    {
       "path": "configs/ars_nouveau-client.toml",
       "sha256": "7d488ee9338e0cd7e8b592d53613e4195c314df4d760eb35badc6bd98f5155aa",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau-client.toml"
