@@ -5562,6 +5562,11 @@
       "path": "configs/RPG Health System/rpg_hs_config.json",
       "sha256": "17a5b433393a956e5ed2007c1ba57eb321ed56da9ce3f0db007e0c995344ead3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/RPG Health System/rpg_hs_config.json"
+    },
+    {
+      "path": "configs/sereneseasons/seasons.toml",
+      "sha256": "a99d9bf95c4ac420babda5d1fff9e1d51e4d6034f69cc936e62a7f2736f41112",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sereneseasons/seasons.toml"
     }
   ]
 }
