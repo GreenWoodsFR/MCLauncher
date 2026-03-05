@@ -5727,6 +5727,11 @@
       "path": "configs/voicechat/username-cache.json",
       "sha256": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/voicechat/username-cache.json"
+    },
+    {
+      "path": "configs/voicechat/voicechat-server.properties",
+      "sha256": "5f8daa33aee02daac07d65cfdc6edebdb1d0ff94991880caf2ade0618e3f096f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/voicechat/voicechat-server.properties"
     }
   ]
 }
