@@ -65,6 +65,16 @@
       "required": true,
       "side": "both",
       "version": "2.1.7"
+    },
+    {
+      "id": "e47156c2-2dd3-4662-8cfd-43ed4091ab5c",
+      "name": "Advancednetherite",
+      "filename": "advancednetherite-forge-2.1.3-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/advancednetherite-forge-2.1.3-1.20.1.jar",
+      "sha256": "ed5098d62b7af9205b2b326a96fd8c02c99a77c6a35dad641a7ecfaaccaa66ff",
+      "required": true,
+      "side": "both",
+      "version": "2.1.3"
     }
   ],
   "configFiles": []
