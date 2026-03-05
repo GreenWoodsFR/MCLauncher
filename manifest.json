@@ -2585,6 +2585,16 @@
       "required": true,
       "side": "both",
       "version": "2.0.2"
+    },
+    {
+      "id": "e6f15700-b5db-4a76-82d4-9787764a6bf5",
+      "name": "Vminus",
+      "filename": "vminus-3.3.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/vminus-3.3.2.jar",
+      "sha256": "9028afdfcc0de38167e484db87c0a899dc97a70ae7f81b5ec9d2b5fd86519c5a",
+      "required": true,
+      "side": "both",
+      "version": "3.3.2"
     }
   ],
   "configFiles": []
