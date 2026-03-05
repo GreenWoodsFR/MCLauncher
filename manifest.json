@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/inventoryessentials-common.toml",
-      "sha256": "4ce24147be991d8010e9b22d2469f4a5a0ac38ae1946fbc72e2dc6e0061c6a07",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/inventoryessentials-common.toml"
-    },
-    {
       "path": "configs/item_obliterator.json5",
       "sha256": "554edb2ce54ce7f21ebede3d968d04551fc64fe1d4de5bdc30876dd5ebdf96b6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/item_obliterator.json5"
