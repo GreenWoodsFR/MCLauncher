@@ -4197,6 +4197,11 @@
       "path": "configs/ars_nouveau/glyph_firework.toml",
       "sha256": "855caef5eb8da7a171d06dd11d145f8e4c20cbd742dc6ff6eb03e252bd599821",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_firework.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_fangs.toml",
+      "sha256": "3e7bd498be4f9a17787bc2a315e3816da60d552fd181b1ca4d1109280ec3cdb4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_fangs.toml"
     }
   ]
 }
