@@ -5762,6 +5762,11 @@
       "path": "configs/accessories.json5",
       "sha256": "d459b76d2a92b8770584a407f8bfc6570cc17923e95c32e23d083fe14505e60d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/accessories.json5"
+    },
+    {
+      "path": "configs/ad_astra_giselle_addon.ver2.jsonc",
+      "sha256": "2899c558017ff0a6a78862c0e835728883a644f1ecfb1b53f94bb48c4fb0fe38",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra_giselle_addon.ver2.jsonc"
     }
   ]
 }
