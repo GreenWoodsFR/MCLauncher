@@ -1675,6 +1675,16 @@
       "required": true,
       "side": "both",
       "version": "1.8.0"
+    },
+    {
+      "id": "c31136e0-ecc5-4c50-b0ca-8c34e972dae7",
+      "name": "Open Parties And Claims",
+      "filename": "open-parties-and-claims-forge-1.20.1-0.25.10.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/open-parties-and-claims-forge-1.20.1-0.25.10.jar",
+      "sha256": "633b8ff5c39e60e358730e763b6fd1880296dff40be23d106e402abc7e8bbd80",
+      "required": true,
+      "side": "both",
+      "version": "0.25.10"
     }
   ],
   "configFiles": []
