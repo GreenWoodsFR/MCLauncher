@@ -415,6 +415,16 @@
       "required": true,
       "side": "both",
       "version": "18.0.0.592"
+    },
+    {
+      "id": "f0408164-a317-4603-a6ff-c873cb9e48cc",
+      "name": "Bjornlib",
+      "filename": "bjornlib-forge-1.20.1-1.0.20.11.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/bjornlib-forge-1.20.1-1.0.20.11.jar",
+      "sha256": "eacb9ab001f7ebd0a1cb619ed65980894a1c4be18e562dd28441f771499dc49b",
+      "required": true,
+      "side": "both",
+      "version": "1.0.20.11"
     }
   ],
   "configFiles": []
