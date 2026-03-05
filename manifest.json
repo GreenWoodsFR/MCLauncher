@@ -4732,6 +4732,11 @@
       "path": "configs/ftbquests/quests/reward_tables/powah_spirited.snbt",
       "sha256": "29b59c16bfc1d139a3a9c12c02339e40fff22066cf4844a3a92e23e130d9a89d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_spirited.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/powah_orb.snbt",
+      "sha256": "95d88d9675533df16ccdb056c9ceaf265c1a124d269c1f2314e563572d50096b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_orb.snbt"
     }
   ]
 }
