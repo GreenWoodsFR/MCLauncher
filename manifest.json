@@ -6097,6 +6097,11 @@
       "path": "configs/create-common.toml",
       "sha256": "36a4d9f5da68f6801b83ce0c4a1a8805fbeffb0dd997f2d405465d7774522296",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/create-common.toml"
+    },
+    {
+      "path": "configs/creeperoverhaul.jsonc",
+      "sha256": "9d870b28f9a1479f952f258f7f01aebceb17fdc78c23014469c8ac055fad9bbb",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/creeperoverhaul.jsonc"
     }
   ]
 }
