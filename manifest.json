@@ -590,7 +590,7 @@
       "id": "3170ee69-db77-43d5-990a-2cb3bad89c55",
       "name": "Charmofundying",
       "filename": "charmofundying-forge-6.5.0+1.20.1.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/charmofundying-forge-6.5.0%2B1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/charmofundying-forge-6.5.0_1.20.1.jar",
       "sha256": "9e0dc303fe2b96db0707487bff0e1cb1173d4e54367364130655c25f2c219f2f",
       "required": true,
       "side": "both",
