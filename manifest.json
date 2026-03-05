@@ -6977,6 +6977,11 @@
       "path": "configs/trashcans-common.toml",
       "sha256": "9098a40f3445da4e4e330750079d5629abe4632c211c6f8db11bb0dea829e5d8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/trashcans-common.toml"
+    },
+    {
+      "path": "configs/treasures_of_the_dead-common.toml",
+      "sha256": "605f0e5d32545f04a9a177014c789304c0b2d3b178670242936c74338a11fe15",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/treasures_of_the_dead-common.toml"
     }
   ]
 }
