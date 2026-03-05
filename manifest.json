@@ -6822,6 +6822,11 @@
       "path": "configs/sidebar_buttons.json",
       "sha256": "ce7365ee4adaa38d674b7bda5ac8f302a56b3851536dcfa0b2ad1777f68c02c4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sidebar_buttons.json"
+    },
+    {
+      "path": "configs/simplehats-client.toml",
+      "sha256": "6defd38a42d02dac469841cf2f0f279f0af461ecfd16d68eeb9ec4f33c873c47",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplehats-client.toml"
     }
   ]
 }
