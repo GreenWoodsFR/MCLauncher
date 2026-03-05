@@ -5307,6 +5307,11 @@
       "path": "configs/paxi/datapack_load_order.json",
       "sha256": "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/datapack_load_order.json"
+    },
+    {
+      "path": "configs/paxi/resourcepacks/boss-refreshed-v1.4.zip",
+      "sha256": "4a83e6ca3da2f06530ac5c526d7a8326b07642b6b15a41949a007350777342c8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/boss-refreshed-v1.4.zip"
     }
   ]
 }
