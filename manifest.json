@@ -7777,6 +7777,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl",
       "sha256": "31c0446852f3a9eb74b83801fc726ff7242cf72a6c96722ecb34d6ac3891d16d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/entities/glowItemFrame.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl",
+      "sha256": "21b354da19e52f17668ab0df64be181738e80e95df38191dd073bdf8368abf85",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/entities/lightningBolt.glsl"
     }
   ]
 }
