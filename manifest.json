@@ -5867,6 +5867,11 @@
       "path": "configs/ars_nouveau-common.toml",
       "sha256": "057319b3e47540397d68af85904fc79d64492fbb992fb9bd153a9aa86c1ca198",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau-common.toml"
+    },
+    {
+      "path": "configs/ars_nouveau-server.toml",
+      "sha256": "8114e030f41c90caf3a94ba086a1e2a0349d1704e95760b751ecf2c19f2301c5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau-server.toml"
     }
   ]
 }
