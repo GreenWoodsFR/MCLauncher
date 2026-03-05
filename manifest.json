@@ -1065,6 +1065,16 @@
       "required": true,
       "side": "both",
       "version": "2.5.1"
+    },
+    {
+      "id": "b7165121-2898-4be4-b41b-e6f35d924fa6",
+      "name": "Entity Model Features 1.20.1",
+      "filename": "entity_model_features_1.20.1-forge-3.0.12.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/entity_model_features_1.20.1-forge-3.0.12.jar",
+      "sha256": "38e003a60865d48b71fc7dd744411905ca23842799c2452b81c5b79e9c5738c6",
+      "required": true,
+      "side": "both",
+      "version": "3.0.12"
     }
   ],
   "configFiles": []
