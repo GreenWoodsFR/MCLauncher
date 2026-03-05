@@ -7172,6 +7172,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/gbuffers_skytextured.glsl",
       "sha256": "e4f28e337c9ee27317b507c8e9473a97893aa8a735af0b8fcf9d7118c6fa4430",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/gbuffers_skytextured.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/gbuffers_spidereyes.glsl",
+      "sha256": "885fdb5cb37328040930ac65e40bc648d895a34520053cce7b7e8455e2fd50e1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/program/gbuffers_spidereyes.glsl"
     }
   ]
 }
