@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/alexsmobs.toml",
-      "sha256": "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs.toml"
-    },
-    {
       "path": "configs/amendments-client.toml",
       "sha256": "d3da91b22bb5164c828ea6f1e9827949f04fecb593537a8e90e0e6526d141ada",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/amendments-client.toml"
