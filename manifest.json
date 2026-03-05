@@ -335,6 +335,16 @@
       "required": true,
       "side": "both",
       "version": "all"
+    },
+    {
+      "id": "8288150d-bf6a-4afa-b80b-603afbc9e2b1",
+      "name": "BarteringStation V8.0.0",
+      "filename": "BarteringStation-v8.0.0-1.20.1-Forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/BarteringStation-v8.0.0-1.20.1-Forge.jar",
+      "sha256": "b9b3606522e1242364773bcb5a68fa241699cfbebda23d9d976ac671b91e8e59",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
