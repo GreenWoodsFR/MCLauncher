@@ -7967,6 +7967,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/leaves.glsl",
       "sha256": "d9fec29839cf87628489c9982f63c163d06a5df5a523b0c05569c2b609a1e963",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/leaves.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl",
+      "sha256": "53eda3498388c929280007600f2e7bf31911cd59f7d62a9818b4c3873ebea0bc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/emeraldBlock.glsl"
     }
   ]
 }
