@@ -7332,6 +7332,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_apple_acl.glsl",
       "sha256": "f2f01daa7c1f41a770ccec96931d568f781a094a7d5fd0fcf225da3da1941bf1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_apple_acl.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_optifine_portal_beam.glsl",
+      "sha256": "86f4edd91b25b1a891486d0aade5fa153cc515a377affcca3643d32b78234849",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_optifine_portal_beam.glsl"
     }
   ]
 }
