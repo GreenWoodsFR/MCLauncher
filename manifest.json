@@ -5177,6 +5177,11 @@
       "path": "configs/l2_configs/l2library-common.toml",
       "sha256": "1200e86c053c1bc905bfe01a6b69bc09c0ad21feae8ee25c23c48d345672a4f8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/l2_configs/l2library-common.toml"
+    },
+    {
+      "path": "configs/legendarycreatures/legendarycreatures-common.toml",
+      "sha256": "566521576decab1951c049f87535921cde518b96cea27e3499e5b69d75eca22c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarycreatures/legendarycreatures-common.toml"
     }
   ]
 }
