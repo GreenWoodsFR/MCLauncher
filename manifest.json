@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/armoroftheages.json",
-      "sha256": "f2dbf451aeee6ce337c1ccd1b48c0e4ef9683e5b9d9900409559780470429b07",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/armoroftheages.json"
-    },
-    {
       "path": "configs/arsdelight-common.toml",
       "sha256": "32e9131fd4d0bf15c09db2ee529e725b7f5e6b536472836d568cbf0ee200cdd5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/arsdelight-common.toml"
