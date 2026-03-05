@@ -1225,6 +1225,16 @@
       "required": true,
       "side": "both",
       "version": "6.0.1"
+    },
+    {
+      "id": "e5b511e9-2c72-4ac4-8eb6-6717a44f3031",
+      "name": "Firstperson",
+      "filename": "firstperson-forge-2.6.3-mc1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/firstperson-forge-2.6.3-mc1.20.1.jar",
+      "sha256": "406733b87fa23338a45d708e2c53923c476eea49453664f2a3f695561320c331",
+      "required": true,
+      "side": "both",
+      "version": "mc1.20.1"
     }
   ],
   "configFiles": []
