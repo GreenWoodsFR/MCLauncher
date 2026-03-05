@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/knightquest.toml",
-      "sha256": "222f662bb600eaf2cff4e805429137a68c1fea0b592221406c67458975926a3f",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/knightquest.toml"
-    },
-    {
       "path": "configs/legendarytooltips-common.toml",
       "sha256": "c51c5a927c1f59d9373c038aea225dc618647ac076a9142d25111c86feaab64e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarytooltips-common.toml"
