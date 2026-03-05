@@ -4742,6 +4742,11 @@
       "path": "configs/ftbquests/quests/reward_tables/uncommon.snbt",
       "sha256": "9fbca54994a0d80a44773a1df86c54cfd731b282ff5892ee6c2d21b9857ddae1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/uncommon.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/1DB1EEDA7B79672B.snbt",
+      "sha256": "d04efac9a303c32cfb91def245d6b3e5804dfa21ca795aab56a67b8766ad472a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/1DB1EEDA7B79672B.snbt"
     }
   ]
 }
