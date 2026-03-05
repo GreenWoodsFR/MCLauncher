@@ -5377,6 +5377,11 @@
       "path": "configs/ramcompat/relics/tendon_lump.yaml",
       "sha256": "941f8f6e787f983cf2b1a5a38c677a05bb9f3509e3d423e173870b44391120ec",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ramcompat/relics/tendon_lump.yaml"
+    },
+    {
+      "path": "configs/ramcompat/relics/frost_robe.yaml",
+      "sha256": "4f58661a0c2fcd5b0b409edda911574305eeef325447bf09ca6887d8b74fbc72",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ramcompat/relics/frost_robe.yaml"
     }
   ]
 }
