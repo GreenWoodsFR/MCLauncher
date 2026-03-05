@@ -7547,6 +7547,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/overworldBeams.glsl",
       "sha256": "51ff17484274fa879c34495a93bdc7195b1eb759484e2570f4913655fc7b969b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/overworldBeams.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/endPortalBeam.glsl",
+      "sha256": "66e83fa7f3bf1312aad13f58f69a402f0e714f5e157e4c8a94e86f016dff07df",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/endPortalBeam.glsl"
     }
   ]
 }
