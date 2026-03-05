@@ -5002,6 +5002,11 @@
       "path": "configs/ftbquests/quests/reward_tables/netherite_ingots.snbt",
       "sha256": "b6db7583433c08ac75d137b88a820677ffea55a243042022fe4e8b976528bb88",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/netherite_ingots.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/rare.snbt",
+      "sha256": "cb6cee3a75bd963177231cd002bb1585e50c8a470c7aa5f67c2a3540248798e3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/rare.snbt"
     }
   ]
 }
