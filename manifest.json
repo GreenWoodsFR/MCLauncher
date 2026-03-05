@@ -6517,6 +6517,11 @@
       "path": "configs/magnumtorch-server.toml",
       "sha256": "1f65f23de94c2e4054d9dd5167811693e7acba633d6c8480e6e5122a6eb76f19",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/magnumtorch-server.toml"
+    },
+    {
+      "path": "configs/majruszlibrary.json",
+      "sha256": "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/majruszlibrary.json"
     }
   ]
 }
