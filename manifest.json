@@ -7657,6 +7657,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/snowyWorld.glsl",
       "sha256": "d0ef4369b5ad50b1f1d9029a3483b0699f748fb1f050382582be686fc4c54952",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/snowyWorld.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl",
+      "sha256": "313308dc6f7166b99c80ec1c37d89ad1a2fe48ee6f215b6e0ca29ac2381e7126",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl"
     }
   ]
 }
