@@ -4967,6 +4967,11 @@
       "path": "configs/ftbquests/quests/reward_tables/gt_steam_basic_rewards.snbt",
       "sha256": "b35bcde3a2e4eeedd21a0c20667f3b0b1ac56c8fa8d746ee116e466642614ce5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_steam_basic_rewards.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/gt_hv_basic_rewards.snbt",
+      "sha256": "333f6068d5dfb395d18adef4c442981d42a3d3feb9785faae1213e7cae875c0d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_hv_basic_rewards.snbt"
     }
   ]
 }
