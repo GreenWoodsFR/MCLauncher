@@ -6462,6 +6462,11 @@
       "path": "configs/knightquest.toml",
       "sha256": "222f662bb600eaf2cff4e805429137a68c1fea0b592221406c67458975926a3f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/knightquest.toml"
+    },
+    {
+      "path": "configs/legendary_monsters-common.toml",
+      "sha256": "a5faa98783ccb743b38e6db89d37313dac1f942d7dc10c64dee390456dde7a24",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendary_monsters-common.toml"
     }
   ]
 }
