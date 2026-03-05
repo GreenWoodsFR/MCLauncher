@@ -3185,6 +3185,16 @@
       "required": true,
       "side": "both",
       "version": "1.2.19"
+    },
+    {
+      "id": "be28d122-c9ef-4323-9242-e791dbf3562b",
+      "name": "Letsdo Vinery",
+      "filename": "letsdo-vinery-forge-1.4.41.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/letsdo-vinery-forge-1.4.41.jar",
+      "sha256": "5d7e11f6e2218562ce75d60788fdcfc9ccf59e4532757c18bf37759d5fc739ee",
+      "required": true,
+      "side": "both",
+      "version": "1.4.41"
     }
   ],
   "configFiles": []
