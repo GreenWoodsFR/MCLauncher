@@ -7707,6 +7707,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/seasons.glsl",
       "sha256": "b0800a89916e4f04469e95eb71fa2b28ad23191aafadcd70670489b298367118",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/seasons.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl",
+      "sha256": "73a8aa1786562f0e974e46d7e48d4e7306a9fda3076f5ad6a4a91af909f7b880",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/darkOakPlanks.glsl"
     }
   ]
 }
