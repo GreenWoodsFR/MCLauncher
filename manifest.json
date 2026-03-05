@@ -6437,6 +6437,11 @@
       "path": "configs/jeresources-common.toml",
       "sha256": "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jeresources-common.toml"
+    },
+    {
+      "path": "configs/jeresources.toml",
+      "sha256": "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jeresources.toml"
     }
   ]
 }
