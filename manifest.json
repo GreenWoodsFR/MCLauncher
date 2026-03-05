@@ -2765,6 +2765,16 @@
       "required": true,
       "side": "both",
       "version": "3.0.6"
+    },
+    {
+      "id": "0dc9d5b4-0de9-4e8f-8e2a-5de364b39e68",
+      "name": "Hardcorerevival",
+      "filename": "hardcorerevival-forge-1.20.1-12.0.11.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/hardcorerevival-forge-1.20.1-12.0.11.jar",
+      "sha256": "f6b23ac1fad17486c2843cacef2f1d258adafb8d29a6aa85f87b3739ec187ddf",
+      "required": true,
+      "side": "both",
+      "version": "12.0.11"
     }
   ],
   "configFiles": []
