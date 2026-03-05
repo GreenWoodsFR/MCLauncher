@@ -3742,6 +3742,11 @@
       "path": "configs/apotheosis/garden.cfg",
       "sha256": "8dea2945143e4e9e5bb0c6460296ad42a45ad95518d75a9ae36e2645c1f1e2be",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/apotheosis/garden.cfg"
+    },
+    {
+      "path": "configs/apotheosis/enchantments.cfg",
+      "sha256": "1f397bc0d2d6b959be9095d8f5942a32c6e6b69016d555809fa0d614847ce183",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/apotheosis/enchantments.cfg"
     }
   ]
 }
