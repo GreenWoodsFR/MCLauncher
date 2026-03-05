@@ -6912,6 +6912,11 @@
       "path": "configs/spartanshields-common.toml",
       "sha256": "065a53578bc9ffd9501d2783132b222dfb85ab44868d9d262f80ea9566891881",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/spartanshields-common.toml"
+    },
+    {
+      "path": "configs/spartanweaponry-client.toml",
+      "sha256": "952a740c334c82e9140b05eed23565f025ea066658659ae86464c4c9e9efc38e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/spartanweaponry-client.toml"
     }
   ]
 }
