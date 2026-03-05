@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/fml.toml",
-      "sha256": "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fml.toml"
-    },
-    {
       "path": "configs/forge-client.toml",
       "sha256": "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/forge-client.toml"
