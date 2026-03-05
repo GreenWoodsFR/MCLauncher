@@ -5897,6 +5897,11 @@
       "path": "configs/autoleveling-common.toml",
       "sha256": "39c542d46223b99300064dc199e0bfd0e789e1229a4b9b6fa554b6c96d6bbe50",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/autoleveling-common.toml"
+    },
+    {
+      "path": "configs/azurelib.json",
+      "sha256": "9f136b36f13fb0f7d0de277ecf6d933914c7dcc3f646136cd09a68e904659109",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/azurelib.json"
     }
   ]
 }
