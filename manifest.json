@@ -6027,6 +6027,11 @@
       "path": "configs/chefsdelight-common.toml",
       "sha256": "e82c9444a81f9378e1f497c27863f7a774529011453ff0c7c37d6121974629c4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chefsdelight-common.toml"
+    },
+    {
+      "path": "configs/chimes-client.toml",
+      "sha256": "8b83e415a7e504f06c79a8c1c8f63d479e16019935beef46e4864fb5cf4ba1ba",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chimes-client.toml"
     }
   ]
 }
