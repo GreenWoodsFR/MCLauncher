@@ -6997,6 +6997,11 @@
       "path": "configs/twilightforest-common.toml",
       "sha256": "2d8051f2d41dd6ee7b9e6570e84cd18a3e2d013c0890c95c0b66e7ecce0346b8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/twilightforest-common.toml"
+    },
+    {
+      "path": "configs/undergarden-client.toml",
+      "sha256": "9bf3df7a7d80fc63a918bd9715383e995d50821acc2264ca3a0b3af8a0a0d486",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/undergarden-client.toml"
     }
   ]
 }
