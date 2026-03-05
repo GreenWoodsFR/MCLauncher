@@ -635,6 +635,16 @@
       "required": true,
       "side": "both",
       "version": "3.0.7"
+    },
+    {
+      "id": "591979cf-8d1f-429d-a4d0-0d5259a0cb89",
+      "name": "Chloride FORGE Mc1.20.1 V1.7.5",
+      "filename": "chloride-FORGE-mc1.20.1-v1.7.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/chloride-FORGE-mc1.20.1-v1.7.5.jar",
+      "sha256": "ed964374effd0c196b01c0a5ed4f275fccecbc6c1f540bbafe44926ce5bcc4fe",
+      "required": true,
+      "side": "both",
+      "version": "?"
     }
   ],
   "configFiles": []
