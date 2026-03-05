@@ -7127,6 +7127,11 @@
       "path": "resourcepacks/Super RPG Font.zip",
       "sha256": "9b3e971b2a115d66dccf4fae025b38709e30b257180d57c18d0b97e6a5543daf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/resourcepacks/Super RPG Font.zip"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/supportedMods.md",
+      "sha256": "c96b9ada37767a3ffcebe5f41ae2107dda20b80767fc9b3c6173d2b3a851428b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/supportedMods.md"
     }
   ]
 }
