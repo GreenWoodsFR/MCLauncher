@@ -7662,6 +7662,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl",
       "sha256": "313308dc6f7166b99c80ec1c37d89ad1a2fe48ee6f215b6e0ca29ac2381e7126",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/waterProcedureTexture.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/refraction.glsl",
+      "sha256": "60500ebe444353ed0a79ddb9c34a1332342af18f292c9393e5eaf0ca6397820b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/refraction.glsl"
     }
   ]
 }
