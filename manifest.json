@@ -5482,6 +5482,11 @@
       "path": "configs/relics/relics/hunter_belt.yaml",
       "sha256": "bc79e132db585506ba69baf0849a6a5aec9e8bd86951f5f5a2fcab28c9ca761e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/hunter_belt.yaml"
+    },
+    {
+      "path": "configs/relics/relics/wool_mitten.yaml",
+      "sha256": "2dc50e02a423d5c2b7b926bc03346abd1cba2bba63875b3f51747d88c3e5fd90",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/wool_mitten.yaml"
     }
   ]
 }
