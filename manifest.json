@@ -5472,6 +5472,11 @@
       "path": "configs/relics/relics/reflection_necklace.yaml",
       "sha256": "831de8669d3a87ac0c674a564e854ed76d2159831a083942ae5bbd894f372108",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/reflection_necklace.yaml"
+    },
+    {
+      "path": "configs/relics/relics/arrow_quiver.yaml",
+      "sha256": "524af2f5d9f1a57983936ab75d2042e53d49b657e40114d91b946f3ca78f2bf9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/arrow_quiver.yaml"
     }
   ]
 }
