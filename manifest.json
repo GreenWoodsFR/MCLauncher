@@ -4827,6 +4827,11 @@
       "path": "configs/ftbquests/quests/reward_tables/powah_blazing.snbt",
       "sha256": "769c9c65f269b9a0ed77a88de400ad53eea5b142e1b00a76d401f0d2f9e9f909",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_blazing.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/Tier3_Seed Bag.snbt",
+      "sha256": "d765e431a613bc226928e118ef3fa1f9fb93f28dbc9e3f10903b9782e626b55a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/Tier3_Seed Bag.snbt"
     }
   ]
 }
