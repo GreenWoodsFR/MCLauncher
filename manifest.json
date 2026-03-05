@@ -3532,6 +3532,11 @@
       "path": "configs/alexsmobs/cachalot_whale_beached_spawns.json",
       "sha256": "73b8f83ddfa936642b38af1003e3c47eab6f089ad61612ee5181137409038f57",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/cachalot_whale_beached_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/seal_spawns.json",
+      "sha256": "ef706c1e2ba0b9356523f8aeb3679303ab98d85c9b761d0e55962e930be4d8e6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/seal_spawns.json"
     }
   ]
 }
