@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/oculus.properties",
-      "sha256": "aeff9db48e561acb49cfe2638eac390b3fbf7831f9c27ae9ed95c5dbbdd5cd40",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/oculus.properties"
-    },
-    {
       "path": "configs/orcz_config_0.0.6.json",
       "sha256": "e746103f223044dfb858bc3d001013ac22b525bf8c873ac63995841d619ae4f7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/orcz_config_0.0.6.json"
