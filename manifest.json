@@ -5537,6 +5537,11 @@
       "path": "configs/relics/relics/leather_belt.yaml",
       "sha256": "ff08f2a3ffed4ac5b4e3282d4087055a15d58e722a004e9efa6919fc560bb01d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/leather_belt.yaml"
+    },
+    {
+      "path": "configs/relics/relics/midnight_robe.yaml",
+      "sha256": "2dc72fd64caeb846661359085664b578908658104f5674f21ca6c727659eae65",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/midnight_robe.yaml"
     }
   ]
 }
