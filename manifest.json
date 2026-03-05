@@ -8052,6 +8052,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/potato.glsl",
       "sha256": "5312c4f03320b7acd28f6e344fac83beac71e7c5c992ee4c0c605a2702e31c57",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/potato.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/distantLightBokeh.glsl",
+      "sha256": "ddca90039ab513c8b2dd9a1b979ee5db46a31f4e23a508631a13ecc081f57598",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/distantLightBokeh.glsl"
     }
   ]
 }
