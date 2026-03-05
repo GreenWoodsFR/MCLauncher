@@ -465,6 +465,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "7fedd108-0506-4cdc-88bc-ca0e65efa736",
+      "name": "Bookshelf",
+      "filename": "Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Bookshelf-Forge-1.20.1-20.2.15.jar",
+      "sha256": "7980d4a0beed1dcd2c283cf65f3c93f6b0085833f3ac490014979c95f1dfaf67",
+      "required": true,
+      "side": "both",
+      "version": "20.2.15"
     }
   ],
   "configFiles": []
