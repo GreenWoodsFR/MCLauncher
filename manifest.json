@@ -8047,6 +8047,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/lensFlare.glsl",
       "sha256": "842602c11166b423b2efd2749219ad1f4ba64d603f058498c8bf035d629b7422",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/lensFlare.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/potato.glsl",
+      "sha256": "5312c4f03320b7acd28f6e344fac83beac71e7c5c992ee4c0c605a2702e31c57",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/potato.glsl"
     }
   ]
 }
