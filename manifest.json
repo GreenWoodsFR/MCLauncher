@@ -8012,6 +8012,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/overlayNoise.glsl",
       "sha256": "e476b99f14202bbf6122124492de040d348e7964ee48e029c9ea5e9d1d63bfc3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/overlayNoise.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/util/miplevel.glsl",
+      "sha256": "14ae8e22a8a2e1b9a1bdeb659316f9466da458b59ca9d159baca58fb3fd1dae0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/util/miplevel.glsl"
     }
   ]
 }
