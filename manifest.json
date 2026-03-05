@@ -5062,6 +5062,11 @@
       "path": "configs/ftbquests/quests/reward_tables/dragon_rewards.snbt",
       "sha256": "529891b6d8272cd8ef9e3d99665dba51f50e3bd9ae6f243897d2c87eea5c372a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/dragon_rewards.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/Tier1_Seed Bag.snbt",
+      "sha256": "3e795617829212bdbe7023a73a18902401ef149380328148f01fbe946c641480",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/Tier1_Seed Bag.snbt"
     }
   ]
 }
