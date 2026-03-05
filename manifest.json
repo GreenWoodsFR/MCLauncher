@@ -6492,6 +6492,11 @@
       "path": "configs/lithium.properties",
       "sha256": "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lithium.properties"
+    },
+    {
+      "path": "configs/lootbeams-client.toml",
+      "sha256": "d49cae3eb43cbb718bfe42d6b4cbd3bd61364993f95add266e7aa25e1118510b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lootbeams-client.toml"
     }
   ]
 }
