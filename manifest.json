@@ -4272,6 +4272,11 @@
       "path": "configs/biomesoplenty/biome_toggles.json",
       "sha256": "6184168c00c4f45e874e0043304992c67beb5d5306e6150dec4f79dd4dd24b71",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/biomesoplenty/biome_toggles.json"
+    },
+    {
+      "path": "configs/biomesoplenty/generation.toml",
+      "sha256": "9de600b6c85029f74a7549a6f7074065ac55310666c54bebd4c3bf573b0379d7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/biomesoplenty/generation.toml"
     }
   ]
 }
