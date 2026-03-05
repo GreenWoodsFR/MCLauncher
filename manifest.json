@@ -4342,6 +4342,11 @@
       "path": "configs/combatroll/client.json5",
       "sha256": "e9714f119c3862a898e53eab1a4ba6220a2194a5bdf0aea86623042d6cbf57e3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/combatroll/client.json5"
+    },
+    {
+      "path": "configs/combatroll/hud_config.json",
+      "sha256": "dd256182183eda6d42d798798371b748908d54658805ca2b1886bae27c7b4d4c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/combatroll/hud_config.json"
     }
   ]
 }
