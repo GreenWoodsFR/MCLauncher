@@ -1995,6 +1995,16 @@
       "required": true,
       "side": "both",
       "version": "?"
+    },
+    {
+      "id": "8422d4fd-89f6-40b2-b6dd-bdba372f4bd9",
+      "name": "Realmrpg Skeletons",
+      "filename": "realmrpg_skeletons-1.1.0-forge-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/realmrpg_skeletons-1.1.0-forge-1.20.1.jar",
+      "sha256": "5206c8117f3869f6ea894c034f4a18d4def40ef8b0da106eb662ebd4e8ebbf36",
+      "required": true,
+      "side": "both",
+      "version": "1.1.0"
     }
   ],
   "configFiles": []
