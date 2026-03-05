@@ -6127,6 +6127,11 @@
       "path": "configs/defaultoptions-common.toml",
       "sha256": "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/defaultoptions-common.toml"
+    },
+    {
+      "path": "configs/delightful-common.toml",
+      "sha256": "267e21e03590d6125604ad119776ed88a54c4ac4da0aedf36182111246cbed46",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/delightful-common.toml"
     }
   ]
 }
