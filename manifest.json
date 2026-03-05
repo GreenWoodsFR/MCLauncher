@@ -3279,11 +3279,6 @@
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra.jsonc"
     },
     {
-      "path": "configs/ad_astra_giselle_addon.ver2.jsonc",
-      "sha256": "2899c558017ff0a6a78862c0e835728883a644f1ecfb1b53f94bb48c4fb0fe38",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra_giselle_addon.ver2.jsonc"
-    },
-    {
       "path": "configs/alexscaves-client.toml",
       "sha256": "4c146ba6e12b1bdc2259f9bb8ee48ffc20719b8c506726e1c736eccc99c94758",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves-client.toml"
