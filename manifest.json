@@ -8122,6 +8122,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/colors/lightAndAmbientColors.glsl",
       "sha256": "6df106c8ed2bd29888d7af4f27655d26b8f95453caffda5f4b648a09eac5d0ea",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/colors/lightAndAmbientColors.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/colors/skyColors.glsl",
+      "sha256": "2fbf034afd07ce3e0790aca1befb22a71acc07122eb4b0b37831dc6ae2735422",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/colors/skyColors.glsl"
     }
   ]
 }
