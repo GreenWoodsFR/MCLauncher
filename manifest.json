@@ -3357,6 +3357,11 @@
       "path": "configs/alexsmobs/anaconda_spawns.json",
       "sha256": "ca961946a7b3c6e9abcb1bb82bbf36e1f9ce01d11769a06a7fbff6351293ff5d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/anaconda_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/sunbird_spawns.json",
+      "sha256": "7b82ff39e191bd213cd8ecf06ff9a78c4658e6f6b9d8b48a4fcc4017e7268cb5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/sunbird_spawns.json"
     }
   ]
 }
