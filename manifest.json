@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/railways-client.toml",
-      "sha256": "f3e6295841dd104d85bbc1bd529c09c4a3bd4a6d0a7cc859f1aa7f866481a10c",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/railways-client.toml"
-    },
-    {
       "path": "configs/railways-common.toml",
       "sha256": "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/railways-common.toml"
