@@ -1,0 +1,1062 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pcheures"
+	group: "18782192B0F905F8"
+	icon: {
+		Count: 1
+		id: "minecraft:fishing_rod"
+		tag: {
+			Damage: 0
+			modifier: {
+				bobber: { }
+				hook: { }
+				line: { }
+			}
+		}
+	}
+	id: "54C3440DB7E2F8F8"
+	order_index: 15
+	quest_links: [ ]
+	quests: [
+		{
+			id: "5DF31AB2B2A36372"
+			rewards: [
+				{
+					id: "63844855839E24EC"
+					type: "xp"
+					xp: 100
+				}
+				{
+					id: "42A1BC85734BD0E3"
+					item: {
+						Count: 1
+						id: "aquaculture:worm"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5A87F40D2DA28A7C"
+				item: {
+					Count: 1
+					id: "aquaculture:iron_fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["5DF31AB2B2A36372"]
+			id: "3367C18D368E6C7D"
+			rewards: [
+				{
+					id: "13C7082F9D6DBC47"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 2
+					id: "0367E2DE12D0F7AC"
+					item: {
+						Count: 1
+						id: "aquaculture:worm"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "0B4EEDA502618824"
+				item: {
+					Count: 1
+					id: "aquaculture:gold_fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3367C18D368E6C7D"]
+			id: "52879FA5E1F169E4"
+			rewards: [
+				{
+					id: "3F62E01FF2CC47E3"
+					type: "xp"
+					xp: 200
+				}
+				{
+					count: 3
+					id: "3B7A308D337559F8"
+					item: {
+						Count: 1
+						id: "aquaculture:worm"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7444C6C20A761150"
+				item: {
+					Count: 1
+					id: "aquaculture:diamond_fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["52879FA5E1F169E4"]
+			id: "7EF4B37322599B22"
+			rewards: [
+				{
+					id: "4DF505CDE0958C6C"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 4
+					id: "19DD99336470B1C6"
+					item: {
+						Count: 1
+						id: "aquaculture:worm"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "3E721DB35AFF4696"
+				item: {
+					Count: 1
+					id: "aquaculture:neptunium_fishing_rod"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["75F4A578810DBC12"]
+			id: "372366CA7C78601A"
+			rewards: [{
+				id: "07A5086023B92B83"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0A4234D13B823CAB"
+				item: {
+					Count: 1
+					id: "tide:stone_fishing_rod"
+					tag: {
+						Damage: 0
+						modifier: {
+							bobber: { }
+							hook: { }
+							line: { }
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0A4234D13B823CAB"]
+			id: "1E8C829BD7A30E83"
+			rewards: [{
+				id: "3512B983F5ABD734"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				id: "5A88502676F3A457"
+				item: {
+					Count: 1
+					id: "tide:iron_fishing_rod"
+					tag: {
+						Damage: 0
+						modifier: {
+							bobber: { }
+							hook: { }
+							line: { }
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["1E8C829BD7A30E83"]
+			id: "107DC2F33CB0E42D"
+			rewards: [{
+				id: "6623086622987C29"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [{
+				id: "496CD09E627E8A80"
+				item: {
+					Count: 1
+					id: "tide:golden_fishing_rod"
+					tag: {
+						Damage: 0
+						modifier: {
+							bobber: { }
+							hook: { }
+							line: { }
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["107DC2F33CB0E42D"]
+			id: "71C34D30C96EA6DA"
+			rewards: [{
+				id: "3A5608E9EE689151"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				id: "3925A85532909647"
+				item: {
+					Count: 1
+					id: "tide:crystal_fishing_rod"
+					tag: {
+						Damage: 0
+						modifier: {
+							bobber: { }
+							hook: { }
+							line: { }
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["71C34D30C96EA6DA"]
+			id: "131AA502F848EBAD"
+			rewards: [{
+				id: "44F0E9D838497998"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "016A0AEFF9AEFB12"
+				item: {
+					Count: 1
+					id: "tide:diamond_fishing_rod"
+					tag: {
+						Damage: 0
+						modifier: {
+							bobber: { }
+							hook: { }
+							line: { }
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["131AA502F848EBAD"]
+			id: "0EECA1CB693564CF"
+			rewards: [{
+				id: "5E95790F021540A8"
+				type: "xp"
+				xp: 350
+			}]
+			tasks: [{
+				id: "74620A16025A6D9E"
+				item: {
+					Count: 1
+					id: "tide:netherite_fishing_rod"
+					tag: {
+						Damage: 0
+						modifier: {
+							bobber: { }
+							hook: { }
+							line: { }
+						}
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			id: "25CBE04FD7C596D8"
+			rewards: [
+				{
+					id: "576CDFFA50D833AD"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "23AC96FA968299B2"
+					item: "tide:lucky_bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7FAA0A067F55809F"
+				item: "tide:fishing_hook"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["25CBE04FD7C596D8"]
+			id: "7AA73DEE8F7084ED"
+			rewards: [
+				{
+					id: "047BD339578BBEDE"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "7FF3D0F0A0509431"
+					item: "tide:lucky_bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "2C67A7DAFD3EF983"
+				item: "tide:iron_fishing_hook"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["7AA73DEE8F7084ED"]
+			id: "42BD7876CD0930AB"
+			rewards: [
+				{
+					id: "350E1BCA5E7BEE3E"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 5
+					id: "69EE8D6EB9B99114"
+					item: "tide:lucky_bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "37F7717A2EAF7DCA"
+				item: "tide:lavaproof_fishing_hook"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -2.0d
+		}
+		{
+			id: "4AC3E47C969FCC76"
+			rewards: [
+				{
+					id: "6BF2132204DB43A3"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "1369CBCB01800C2B"
+					item: "tide:bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "1995B5200A7EB5F9"
+				item: "tide:iron_fishing_bobber"
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4AC3E47C969FCC76"]
+			id: "4D1A7A1694531A43"
+			rewards: [
+				{
+					id: "4EF6734582445A2D"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "5FE95F314ED5CA13"
+					item: "tide:bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7B980D29FFE7824F"
+				item: "tide:golden_fishing_bobber"
+				type: "item"
+			}]
+			x: 4.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["4D1A7A1694531A43"]
+			id: "19243692DA72AD3E"
+			rewards: [
+				{
+					id: "3557B41ADDED791F"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 5
+					id: "45EDC88EB69B7D23"
+					item: "tide:bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7F02D85374E4410C"
+				item: "tide:diamond_fishing_bobber"
+				type: "item"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["19243692DA72AD3E"]
+			id: "64E84EC8E6E6CAAD"
+			rewards: [
+				{
+					id: "57C1EAEBDBE98115"
+					type: "xp"
+					xp: 300
+				}
+				{
+					count: 10
+					id: "0ACF77A6AED35912"
+					item: "tide:bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6B210358C7F5013B"
+				item: "tide:netherite_fishing_bobber"
+				type: "item"
+			}]
+			x: 6.5d
+			y: -1.0d
+		}
+		{
+			id: "75F4A578810DBC12"
+			rewards: [
+				{
+					id: "00D0537461B5E3B9"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "7CD7E8E60872E61E"
+					item: "tide:fishing_hook"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6DC29C312A99DEED"
+				item: "tide:angler_workshop"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			id: "273C21EE05822F23"
+			rewards: [{
+				id: "775463E476EFA9F4"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					id: "2A933BF56341D031"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "27198E3F6C765BA1"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_suit"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6CCA11C0C4DC80B6"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6F523731F461B555"
+					item: {
+						Count: 1
+						id: "aquamirae:three_bolt_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -3.5d
+		}
+		{
+			id: "1B55D0A5F2F4B7E0"
+			rewards: [{
+				id: "01CD8645FD1374A3"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0891D540496BAA16"
+				item: "aquaculture:iron_hook"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1B55D0A5F2F4B7E0"]
+			id: "2528344213F0CB4B"
+			tasks: [{
+				id: "31D7BDC55ABC1E20"
+				item: "aquaculture:gold_hook"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["2528344213F0CB4B"]
+			id: "1C4E7454C61BF419"
+			tasks: [{
+				id: "132B33FD322A01DB"
+				item: "aquaculture:diamond_hook"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1B55D0A5F2F4B7E0"]
+			id: "26CA003B9019899C"
+			tasks: [{
+				id: "344F06FA7B465386"
+				item: "aquaculture:light_hook"
+				type: "item"
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B55D0A5F2F4B7E0"]
+			id: "3DB372E467A6BC2B"
+			tasks: [{
+				id: "272289D958AABF51"
+				item: "aquaculture:heavy_hook"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B55D0A5F2F4B7E0"]
+			id: "757AE15ABAAF1160"
+			tasks: [{
+				id: "6224702E49D3478E"
+				item: "aquaculture:double_hook"
+				type: "item"
+			}]
+			x: -7.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1B55D0A5F2F4B7E0"]
+			id: "2442BAFACF1E1AA6"
+			tasks: [{
+				id: "4F789D0109638808"
+				item: "aquaculture:redstone_hook"
+				type: "item"
+			}]
+			x: -5.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1B55D0A5F2F4B7E0"]
+			id: "75828287F7439867"
+			tasks: [{
+				id: "457E280E541D124E"
+				item: "aquaculture:note_hook"
+				type: "item"
+			}]
+			x: -6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["1B55D0A5F2F4B7E0"]
+			id: "7FC6A82CA5211354"
+			tasks: [{
+				id: "458C07EDB989ADEE"
+				item: "aquaculture:nether_star_hook"
+				type: "item"
+			}]
+			x: -7.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["4AC3E47C969FCC76"]
+			id: "64ABEE1B9D077195"
+			rewards: [{
+				id: "7984D22155ECC783"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0D59AC08365D2A33"
+				item: "tide:lichen_fishing_bobber"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4AC3E47C969FCC76"]
+			id: "73C6933477941749"
+			rewards: [{
+				id: "780999D58BF67B90"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "66AAF6E63860DECE"
+				item: "tide:heart_fishing_bobber"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4AC3E47C969FCC76"]
+			id: "47AAEE84C3AFA61D"
+			rewards: [{
+				id: "1982FF17BFB35704"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3971C4B073959D83"
+				item: "tide:nautilus_fishing_bobber"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["4AC3E47C969FCC76"]
+			id: "624857BCAC1B0054"
+			rewards: [{
+				id: "200AEEA11394998C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3BF0EA86391FBC33"
+				item: "tide:pearl_fishing_bobber"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.0d
+		}
+		{
+			id: "64D7F3F543467BCB"
+			rewards: [
+				{
+					id: "29CC5798D35CE239"
+					type: "xp"
+					xp: 50
+				}
+				{
+					id: "17902A4DEAC986AE"
+					item: "tide:magnetic_bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "5DC4A2EEFBA41FCC"
+				item: "tide:fishing_line"
+				type: "item"
+			}]
+			x: 4.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["64D7F3F543467BCB"]
+			id: "2624AD055AFD40CC"
+			rewards: [
+				{
+					id: "3F3211A76887E6FD"
+					type: "xp"
+					xp: 100
+				}
+				{
+					count: 3
+					id: "6473E02FC9E4E857"
+					item: "tide:magnetic_bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "7E59AC06C00C10EE"
+				item: "tide:braided_line"
+				type: "item"
+			}]
+			x: 5.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["2624AD055AFD40CC"]
+			id: "1C4D1668FD20C12E"
+			rewards: [
+				{
+					id: "606250A41B505F75"
+					type: "xp"
+					xp: 150
+				}
+				{
+					count: 5
+					id: "217DA27B29354B97"
+					item: "tide:magnetic_bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6361F9E157C7B668"
+				item: "tide:reinforced_line"
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["1C4D1668FD20C12E"]
+			id: "52624DEE2D89899C"
+			rewards: [
+				{
+					id: "5DF88C7FD18CA91B"
+					type: "xp"
+					xp: 200
+				}
+				{
+					count: 10
+					id: "2542D4F8880E6E3E"
+					item: "tide:magnetic_bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "6A65ED372A21848D"
+				item: "tide:fortune_line"
+				type: "item"
+			}]
+			x: 7.0d
+			y: -3.0d
+		}
+		{
+			id: "496AEF86CE47AD2A"
+			rewards: [{
+				id: "0F7F91FAD3E22E35"
+				type: "xp"
+				xp: 500
+			}]
+			tasks: [
+				{
+					id: "383BA3F72DE62B10"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7E6B4A2655099313"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2470FED614CFF90C"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5B77CEDAAF30E346"
+					item: {
+						Count: 1
+						id: "aquamirae:terrible_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -9.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["496AEF86CE47AD2A"]
+			id: "7566773C093E9BD7"
+			rewards: [{
+				id: "001BB5A12B698519"
+				type: "xp"
+				xp: 1000
+			}]
+			tasks: [
+				{
+					id: "038B4DF2B2A9C1EA"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_heaume"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "2946D8CAAD79E759"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_brigantine"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "73FAFCF23B8A39F7"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "32470AE3B4034418"
+					item: {
+						Count: 1
+						id: "aquamirae:abyssal_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -10.0d
+			y: -1.0d
+		}
+		{
+			id: "70E44FC4DAF98E69"
+			rewards: [{
+				id: "2C4795E9ECD6E79B"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [
+				{
+					id: "0A39003E142C1A0B"
+					item: {
+						Count: 1
+						id: "aquaculture:neptunium_helmet"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "01B6A58ED10C4E86"
+					item: {
+						Count: 1
+						id: "aquaculture:neptunium_chestplate"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "63DC45E8DFEC1660"
+					item: {
+						Count: 1
+						id: "aquaculture:neptunium_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "6B982163EF8E0721"
+					item: {
+						Count: 1
+						id: "aquaculture:neptunium_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: -4.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["1C14F9874F1CE834"]
+			id: "0E6FD50DCEA6CDEA"
+			rewards: [
+				{
+					id: "435B48432658B910"
+					type: "xp"
+					xp: 200
+				}
+				{
+					count: 10
+					id: "678FDF7B835FDEB9"
+					item: "tide:lucky_bait"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "4718B4D2A60AF53C"
+				item: "tide:golden_apple_fishing_bobber"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 1.0d
+		}
+		{
+			id: "1C14F9874F1CE834"
+			rewards: [{
+				id: "7BC81E79CAD16AC3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "3AC5C3A95566449E"
+				item: "tide:apple_fishing_bobber"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["0E6FD50DCEA6CDEA"]
+			id: "0ED47533AEFF869C"
+			rewards: [
+				{
+					id: "2496BADA4F8680FD"
+					type: "xp"
+					xp: 300
+				}
+				{
+					id: "0BF3575CE2A32964"
+					item: "minecraft:gold_block"
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "48F05B5FF3EE83DE"
+				item: "tide:enchanted_golden_apple_fishing_bobber"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+	]
+	title: " &3Pécheur(euse)"
+}
