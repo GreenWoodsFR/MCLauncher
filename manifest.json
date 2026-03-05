@@ -4692,6 +4692,11 @@
       "path": "configs/ftbquests/quests/chapters/aquariologiste.snbt",
       "sha256": "934652d10b49da7e40a6396fbcf7e59e91a1a201b4ad43a01bde51e03cd2c404",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/aquariologiste.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/data.snbt",
+      "sha256": "753ee3a1b3f0010c3b1b839be7b1796850603e3924007e3f2e9a7e029bd8bd10",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/data.snbt"
     }
   ]
 }
