@@ -5422,6 +5422,11 @@
       "path": "configs/relics/relics/ice_skates.yaml",
       "sha256": "92400db4163b2cddd59104b0dca35865b9dd9ac30c1b7973aa9e2adce67342ea",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/ice_skates.yaml"
+    },
+    {
+      "path": "configs/relics/relics/elytra_booster.yaml",
+      "sha256": "21de4aa1b35eb1f6845f78ba0352dc4fd388b79e9ea1279f5c7524fd14282f01",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/elytra_booster.yaml"
     }
   ]
 }
