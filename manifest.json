@@ -2475,6 +2475,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.12"
+    },
+    {
+      "id": "4d0f8539-0337-4a15-8e15-2d1c3127a888",
+      "name": "Tide",
+      "filename": "tide-forge-1.20.1-2.0.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/tide-forge-1.20.1-2.0.3.jar",
+      "sha256": "435803ba570e3b3ab7f7e9ecd393ea5b744920073f420b3ce4cd2999089f16ec",
+      "required": true,
+      "side": "both",
+      "version": "2.0.3"
     }
   ],
   "configFiles": []
