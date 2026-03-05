@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/amendments-common.toml",
-      "sha256": "0d4e08dea3a3e63f939173b208f12495f82be861ffaa0df03c26c1871297787a",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/amendments-common.toml"
-    },
-    {
       "path": "configs/appleskin-client.toml",
       "sha256": "b477c8c493b28366a6b282f29f46c9415e3a4a2a23fff6e09331644c435dfd48",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/appleskin-client.toml"
