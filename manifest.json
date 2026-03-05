@@ -3467,6 +3467,11 @@
       "path": "configs/alexsmobs/rhinoceros_spawns.json",
       "sha256": "17a5c3263942410596f91fb0aece138e5115bfabfa2a5913a63406fcb64b42d0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/rhinoceros_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/snow_leopard_spawns.json",
+      "sha256": "fdf546af7c7ff2307d0862c0802450eef1e99554af3a340e7a6af69fa5785ea5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/snow_leopard_spawns.json"
     }
   ]
 }
