@@ -95,6 +95,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.4"
+    },
+    {
+      "id": "4acfc29d-7acc-4a82-9509-8506d5aedc40",
+      "name": "Alexscaves",
+      "filename": "alexscaves-2.0.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/alexscaves-2.0.2.jar",
+      "sha256": "131e205ce3eed384d701b336d8a0d4a671108ed56b6eff6014f0e407db2997f0",
+      "required": true,
+      "side": "both",
+      "version": "2.0.2"
     }
   ],
   "configFiles": []
