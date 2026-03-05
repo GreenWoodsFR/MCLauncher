@@ -885,6 +885,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "30e84bf9-0fe5-494e-b1c0-628afe526e00",
+      "name": "Defaultoptions",
+      "filename": "defaultoptions-forge-1.20.1-18.0.4.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/defaultoptions-forge-1.20.1-18.0.4.jar",
+      "sha256": "88b89d7734a4f5d99e9464fc368428a72e5052c3570865a954cf74ef98a2581b",
+      "required": true,
+      "side": "both",
+      "version": "18.0.4"
     }
   ],
   "configFiles": []
