@@ -3557,6 +3557,11 @@
       "path": "configs/alexsmobs/tusklin_spawns.json",
       "sha256": "9ab4772704660c679ea30dff2db2c1272843e00675e2a7e610adcc6486120c3c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/tusklin_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/stradpole_spawns.json",
+      "sha256": "5ee746cf50b358048a0243e4c45997285cf4a9b736758d388ad730d4ed493900",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/stradpole_spawns.json"
     }
   ]
 }
