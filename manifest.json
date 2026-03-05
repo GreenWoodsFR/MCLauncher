@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/sophisticatedstorage-common.toml",
-      "sha256": "55a7b289f6d2ecb116d39b385fb8a883f8317734dd42f3be16af11380e26c0a3",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedstorage-common.toml"
-    },
-    {
       "path": "configs/soulbound-common.toml",
       "sha256": "288c97a95c4f8feb29173622d6fdc0497c9df2482af79d5e9e1d0f974e64f137",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/soulbound-common.toml"
