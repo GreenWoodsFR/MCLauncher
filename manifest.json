@@ -6667,6 +6667,11 @@
       "path": "configs/parcool-client.toml",
       "sha256": "4e472fb41ba08146e0100fa5326b1f392d6bf60f799db38a63a983a273dc6cf2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/parcool-client.toml"
+    },
+    {
+      "path": "configs/particle_core_config.toml",
+      "sha256": "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/particle_core_config.toml"
     }
   ]
 }
