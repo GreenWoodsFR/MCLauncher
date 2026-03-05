@@ -4647,6 +4647,11 @@
       "path": "configs/ftbquests/quests/chapters/enchanteureuse.snbt",
       "sha256": "9b875b42bc838f0a1cf7c027e922bf111efadf05140a9d34fcc4c0b8b2aeddb4",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/enchanteureuse.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/to_catch_them_all.snbt",
+      "sha256": "42d8d4799fb56caf78dbe165c032b791923d7bdc55c9551633e4de30b7e6952d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/to_catch_them_all.snbt"
     }
   ]
 }
