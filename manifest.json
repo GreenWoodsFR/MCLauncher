@@ -7567,6 +7567,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/volumetricLight.glsl",
       "sha256": "5bd832eb41d64d69bb178248dd690d43471180331e995af659f4d58424bc9136",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/volumetricLight.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/auroraBorealis.glsl",
+      "sha256": "6b8c024dbd8bb180030e15d1cf180420e8da9a19d9c1d4760f460284a430dbc2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/auroraBorealis.glsl"
     }
   ]
 }
