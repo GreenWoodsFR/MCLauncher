@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/pingwheel.json",
-      "sha256": "6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/pingwheel.json"
-    },
-    {
       "path": "configs/pingwheel.server.json",
       "sha256": "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/pingwheel.server.json"
