@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/attributeslib.cfg",
-      "sha256": "fe85b449a9f8e1b5b74799822840aedfb5e2b8e269cbb1503f6d4c12a7a47fe7",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/attributeslib.cfg"
-    },
-    {
       "path": "configs/autoleveling-common.toml",
       "sha256": "39c542d46223b99300064dc199e0bfd0e789e1229a4b9b6fa554b6c96d6bbe50",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/autoleveling-common.toml"
