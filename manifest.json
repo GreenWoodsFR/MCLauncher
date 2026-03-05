@@ -7442,6 +7442,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/cucumber.png",
       "sha256": "93ee6240e35a9749ea939788618b4028610a8b06c4d42d54e36dbf6468979a80",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/cucumber.png"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/potato.png.mcmeta",
+      "sha256": "aeea32df4d4dbb092db11225a82859556b704141abc5a09774a34c69132adbc9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textures/potato.png.mcmeta"
     }
   ]
 }
