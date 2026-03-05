@@ -8112,6 +8112,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/distortWorld.glsl",
       "sha256": "b0d6228206b991755eb9edfdc07609a4fc984233854885cc689ab4fae4b205f7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/distortWorld.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/common.glsl",
+      "sha256": "8038fd166e26db52c31a33467ce18459d5116d85d7519f79eba2aacc4055e2d0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/common.glsl"
     }
   ]
 }
