@@ -6932,6 +6932,11 @@
       "path": "configs/supplementaries-client.toml",
       "sha256": "94d738c21c524bfc596b6a4d06f039a2014cf4fca4daf5fe45de9290547e3d1e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/supplementaries-client.toml"
+    },
+    {
+      "path": "configs/supplementaries-common.toml",
+      "sha256": "6182137b6657b4cb73553907ecec7bb3b93226e693101863e59d53b73687841e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/supplementaries-common.toml"
     }
   ]
 }
