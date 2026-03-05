@@ -5227,6 +5227,11 @@
       "path": "configs/legendarycreatures/json/peacock_spider-spawn.json",
       "sha256": "d49c42731e3424866f3c38160482b881aae81fe9dc17c54f8a7faa98fdf1b804",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarycreatures/json/peacock_spider-spawn.json"
+    },
+    {
+      "path": "configs/legendarycreatures/json/scarecrow-spawn.json",
+      "sha256": "a26ee9ff266c5693c70927a95e1f7e67afa0eafb1a34b48a4f74ce4b2594c92f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarycreatures/json/scarecrow-spawn.json"
     }
   ]
 }
