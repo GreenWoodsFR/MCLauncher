@@ -4812,6 +4812,11 @@
       "path": "configs/ftbquests/quests/reward_tables/refined_storage_base_materials.snbt",
       "sha256": "0710c53349fdda4d2e81b96e0cf8be9ab32415af6bcb9be441b21bdd2e3214d1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/refined_storage_base_materials.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/legendary_gem_bag.snbt",
+      "sha256": "7d8a23aa2abeeb8ed7dbc7c6349fb8405a6f2285478c9177055d003c3703ce63",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/legendary_gem_bag.snbt"
     }
   ]
 }
