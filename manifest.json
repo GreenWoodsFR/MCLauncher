@@ -3412,6 +3412,11 @@
       "path": "configs/alexsmobs/endergrade_spawns.json",
       "sha256": "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/endergrade_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/frilled_shark_spawns.json",
+      "sha256": "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/frilled_shark_spawns.json"
     }
   ]
 }
