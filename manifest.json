@@ -4347,6 +4347,11 @@
       "path": "configs/combatroll/hud_config.json",
       "sha256": "dd256182183eda6d42d798798371b748908d54658805ca2b1886bae27c7b4d4c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/combatroll/hud_config.json"
+    },
+    {
+      "path": "configs/CoroUtil/General.toml",
+      "sha256": "d86beab1176c367beeed3b8fb8a2a8dfbd8a1db7293f067c01bc38c73020e398",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/CoroUtil/General.toml"
     }
   ]
 }
