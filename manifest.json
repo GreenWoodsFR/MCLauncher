@@ -6482,6 +6482,11 @@
       "path": "configs/LightDistance.toml",
       "sha256": "25a3ad505dbf7645fc6a4f35b8f79a5ec007516da817becd5fe7b345825ef68e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/LightDistance.toml"
+    },
+    {
+      "path": "configs/lightsabers-common.toml",
+      "sha256": "da326a13c431b8acfd7fe02e8abba1a29422a5956c288798e4ee002e23d26e7a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lightsabers-common.toml"
     }
   ]
 }
