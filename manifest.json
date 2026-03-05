@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/entityculling.json",
-      "sha256": "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entityculling.json"
-    },
-    {
       "path": "configs/etf_warnings.json",
       "sha256": "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/etf_warnings.json"
