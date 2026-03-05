@@ -6257,6 +6257,11 @@
       "path": "configs/entity_texture_features.json",
       "sha256": "0554c0e7816266477c65c18d2ada9fdddf1c6750787efd329056223ca4a073b2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entity_texture_features.json"
+    },
+    {
+      "path": "configs/entityculling.json",
+      "sha256": "dc7598cff8d5128cabb1757c5e38a9cbf492ac2d195ed403bc47c679b4a1d4dc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entityculling.json"
     }
   ]
 }
