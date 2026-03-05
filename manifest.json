@@ -6477,6 +6477,11 @@
       "path": "configs/libraryferret_1.properties",
       "sha256": "72203249e4e85a22aca50142d552ebfbacde7560b119582deb3662e3208cb254",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/libraryferret_1.properties"
+    },
+    {
+      "path": "configs/LightDistance.toml",
+      "sha256": "25a3ad505dbf7645fc6a4f35b8f79a5ec007516da817becd5fe7b345825ef68e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/LightDistance.toml"
     }
   ]
 }
