@@ -1,0 +1,559 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fermierre"
+	group: "18782192B0F905F8"
+	hide_quest_until_deps_complete: true
+	icon: "minecraft:wheat"
+	id: "584FBF0E43C47B48"
+	order_index: 12
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["144A30BE88323F00"]
+			id: "0233EFCB060E1518"
+			tasks: [{
+				id: "232D741D26E1626F"
+				item: "minecraft:potato"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["144A30BE88323F00"]
+			id: "75F25CEB6045C076"
+			tasks: [{
+				id: "2BC16A178B3B504E"
+				item: "supplementaries:flax_seeds"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -6.5d
+		}
+		{
+			id: "144A30BE88323F00"
+			size: 2.0d
+			tasks: [{
+				id: "5A92F286C6EDF9ED"
+				item: "minecraft:wheat_seeds"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["144A30BE88323F00"]
+			id: "7376FAB12D2E99F5"
+			tasks: [{
+				id: "4BAED1F015BFE491"
+				item: "minecraft:carrot"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6075DF1C255FF518"]
+			id: "1623D3278B45ED52"
+			tasks: [{
+				id: "6645ABD46F5AC52D"
+				item: "minecraft:melon_seeds"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["6075DF1C255FF518"]
+			id: "04634FF2664348C6"
+			tasks: [{
+				id: "75D61BF6785FDF92"
+				item: "minecraft:pumpkin_seeds"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0233EFCB060E1518"]
+			id: "6075DF1C255FF518"
+			tasks: [{
+				id: "652D2CEA5B4D29AD"
+				item: "minecraft:beetroot_seeds"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"0AB8654D2FBCE4E1"
+				"2C34E6890EFE7A96"
+			]
+			id: "5485115FF6782D07"
+			tasks: [{
+				id: "37A63A1ACA185D95"
+				item: "farmersdelight:tomato_seeds"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2920B047FD582965"]
+			id: "2C34E6890EFE7A96"
+			tasks: [{
+				id: "6EFA500A6FDF512F"
+				item: "farmersdelight:cabbage_seeds"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"04634FF2664348C6"
+				"1623D3278B45ED52"
+			]
+			id: "2EA1509ED590BDFD"
+			tasks: [{
+				id: "53140549143D689F"
+				item: { Count: 2, id: "delightful:cantaloupe_seeds" }
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2920B047FD582965"]
+			id: "4C0EF931DAB7AD15"
+			tasks: [{
+				id: "59110F1D90214303"
+				item: "farmersdelight:rice"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2920B047FD582965"]
+			id: "0AB8654D2FBCE4E1"
+			tasks: [{
+				id: "270DE736DA6F8BA3"
+				item: "farmersdelight:onion"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["4FE7B9E5A93F6A4C"]
+			id: "04629570E476FF4B"
+			tasks: [{
+				id: "33DE324FF43810EF"
+				item: "delightful:salmonberry_pips"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2EA1509ED590BDFD"]
+			id: "4FE7B9E5A93F6A4C"
+			tasks: [{
+				id: "3B0EFCE255930045"
+				item: "ecologics:coconut_seedling"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7376FAB12D2E99F5"]
+			id: "3ECD18ED46892EC4"
+			tasks: [{
+				id: "311BDF11BCC9C6B1"
+				item: "minecraft:sweet_berries"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3ECD18ED46892EC4"]
+			id: "3DEDA65056859E4D"
+			tasks: [{
+				id: "134BC3D92CCC12DC"
+				item: "minecraft:glow_berries"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["144A30BE88323F00"]
+			id: "4BE9358B4B24CD9E"
+			tasks: [{
+				id: "2C3BAFF6F59CE8B1"
+				item: "bakery:strawberry_seeds"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["144A30BE88323F00"]
+			id: "54A82F4A4629E248"
+			tasks: [{
+				id: "24CA442E90A17A53"
+				item: "bakery:oat_seeds"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["144A30BE88323F00"]
+			hide_dependent_lines: true
+			id: "55ABC38AB81C13C5"
+			tasks: [{
+				id: "19F477044EF966B3"
+				item: "brewery:corn_seeds"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["144A30BE88323F00"]
+			hide_dependent_lines: true
+			id: "4B86391688A67A3A"
+			tasks: [{
+				id: "061D8C0183789C30"
+				item: "brewery:barley_seeds"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -3.5d
+		}
+		{
+			dependencies: ["144A30BE88323F00"]
+			hide_dependent_lines: true
+			id: "4EF4B04EEAB0B92C"
+			tasks: [{
+				id: "3F256D29CAB6FD2D"
+				item: "brewery:hops_seeds"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["144A30BE88323F00"]
+			id: "40939E2A2D220B55"
+			tasks: [{
+				id: "44F8D99055F9AD72"
+				item: "minecraft:wheat"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["6075DF1C255FF518"]
+			id: "340BEF4B3EDA2E1D"
+			tasks: [{
+				id: "42DFA8BF9C38EC66"
+				item: "minecraft:beetroot"
+				type: "item"
+			}]
+			x: -3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["04634FF2664348C6"]
+			id: "6D08D3597E0FAC8D"
+			tasks: [{
+				id: "4690C6BF149AE60B"
+				item: "minecraft:pumpkin"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["1623D3278B45ED52"]
+			id: "60313995B4F12321"
+			tasks: [{
+				id: "7253EF2445AC532F"
+				item: "minecraft:melon_slice"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["2EA1509ED590BDFD"]
+			id: "303556E52B98CC28"
+			tasks: [{
+				id: "799F10009F89049E"
+				item: "delightful:cantaloupe"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["303556E52B98CC28"]
+			id: "45CE7F02E865ACAE"
+			tasks: [{
+				id: "5DC5556378D4E96D"
+				item: "delightful:cantaloupe_slice"
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["7376FAB12D2E99F5"]
+			id: "2920B047FD582965"
+			tasks: [{
+				id: "13AC0F872A28D93B"
+				item: "farmersdelight:rice_panicle"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["75F25CEB6045C076"]
+			id: "0AED3838CABEA167"
+			tasks: [{
+				id: "7F812A5BD86CDBF9"
+				item: "supplementaries:flax"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -8.5d
+		}
+		{
+			dependencies: ["2C34E6890EFE7A96"]
+			id: "4BAFA4D509E77529"
+			tasks: [{
+				id: "0F8020BB908BA27C"
+				item: "farmersdelight:cabbage"
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["5485115FF6782D07"]
+			id: "0BEE2BB3BB3307A3"
+			tasks: [{
+				id: "346698967BD6843C"
+				item: "farmersdelight:tomato"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0BEE2BB3BB3307A3"]
+			hide_until_deps_complete: true
+			id: "08752A943E659140"
+			rewards: [
+				{
+					count: 16
+					id: "4090D20B6307C657"
+					item: "minecraft:emerald"
+					type: "item"
+				}
+				{
+					id: "4CB6831AB438C700"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			tasks: [{
+				id: "07940BCB73E1D30A"
+				item: "farmersdelight:rotten_tomato"
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["4FE7B9E5A93F6A4C"]
+			id: "22FB5613C6A60A5F"
+			tasks: [{
+				id: "5D810264CD33028B"
+				item: "ecologics:coconut"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["22FB5613C6A60A5F"]
+			id: "2B6458648084510B"
+			tasks: [{
+				id: "3AD3611839710717"
+				item: "ecologics:coconut_slice"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2B6458648084510B"]
+			id: "689A88C050C8588D"
+			tasks: [{
+				id: "22E8811E1C946058"
+				item: "ecologics:coconut_husk"
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["04629570E476FF4B"]
+			id: "0BACFB2425AA642F"
+			tasks: [{
+				id: "66013B3C58BCD61D"
+				item: "delightful:salmonberries"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6D37187EB5C0AC74"]
+			id: "37322613B6A7F9D7"
+			tasks: [{
+				id: "0843D5D5357B34C7"
+				item: "farmersdelight:rich_soil"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["216455041D6D0EDD"]
+			id: "6F9C27B20D40ACCB"
+			tasks: [{
+				id: "410F160524B211A4"
+				item: "mynethersdelight:resurgent_soil"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -14.5d
+		}
+		{
+			dependencies: ["2D7061A566726BA4"]
+			id: "6D37187EB5C0AC74"
+			tasks: [{
+				id: "6922FF671C48A4F1"
+				item: "farmersdelight:organic_compost"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -12.5d
+		}
+		{
+			dependencies: ["2D7061A566726BA4"]
+			id: "216455041D6D0EDD"
+			tasks: [{
+				id: "01095743D32EAE33"
+				item: "mynethersdelight:letios_compost"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -12.5d
+		}
+		{
+			dependencies: [
+				"6F9C27B20D40ACCB"
+				"37322613B6A7F9D7"
+			]
+			id: "4F1486898C67B4F2"
+			tasks: [{
+				id: "6FADB73285D9AF92"
+				item: "supplementaries:planter"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -17.0d
+		}
+		{
+			id: "2D7061A566726BA4"
+			size: 2.0d
+			tasks: [
+				{
+					id: "0C998965FEEE9EE4"
+					item: "minecraft:dirt"
+					type: "item"
+				}
+				{
+					id: "15EC50A0572D45A4"
+					item: {
+						Count: 1
+						id: "minecraft:diamond_hoe"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: -10.5d
+		}
+		{
+			dependencies: ["144A30BE88323F00"]
+			id: "11A153947F15D3E0"
+			tasks: [{
+				id: "60AAC1F48324D826"
+				item: "minecraft:sugar_cane"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["11A153947F15D3E0"]
+			id: "5D3A8956F6AC0241"
+			tasks: [{
+				id: "1DDA2A76BB3CDABD"
+				item: "minecraft:cocoa_beans"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["11A153947F15D3E0"]
+			id: "75A66D94284C7101"
+			tasks: [{
+				id: "261698CBDCC8987D"
+				item: "minecraft:bamboo"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["11A153947F15D3E0"]
+			id: "3BE061B7786BA3ED"
+			tasks: [{
+				id: "263A84183D03B20B"
+				item: "minecraft:cactus"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+	]
+	title: " &2Fermier(ère)"
+}
