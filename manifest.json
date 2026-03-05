@@ -3492,6 +3492,11 @@
       "path": "configs/alexsmobs/tasmanian_devil_spawns.json",
       "sha256": "40c769365424d492a4c17700bb8cfac4c8ce7fac2bc16728f0c4287e3a043130",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/tasmanian_devil_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/soul_vulture_spawns.json",
+      "sha256": "45407796e49769550eef92fd3953daa191c85aaf032fb2be32fe591b0199a172",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/soul_vulture_spawns.json"
     }
   ]
 }
