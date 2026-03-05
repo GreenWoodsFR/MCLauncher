@@ -6547,6 +6547,11 @@
       "path": "configs/mighty_mail.server.toml",
       "sha256": "bf05c012a483ba81a11948e2c30991e6c69bb8515a6b684b9b07d196fd571704",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mighty_mail.server.toml"
+    },
+    {
+      "path": "configs/moblassos-server.toml",
+      "sha256": "16d78d1840e3bd1adc79292bef90856015155057f38d9cd7cce968d59124493a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/moblassos-server.toml"
     }
   ]
 }
