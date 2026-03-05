@@ -445,6 +445,16 @@
       "required": true,
       "side": "both",
       "version": "5.0.1"
+    },
+    {
+      "id": "1e66722f-2c87-40d6-95e9-2243d8d504ea",
+      "name": "Bocchium",
+      "filename": "bocchium-1.20.1-0.0.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/bocchium-1.20.1-0.0.3.jar",
+      "sha256": "8cd971cc5774aed3b02b67810891837adc7e348c8a45be0590d28ea110fdb9fa",
+      "required": true,
+      "side": "both",
+      "version": "0.0.3"
     }
   ],
   "configFiles": []
