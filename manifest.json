@@ -2390,7 +2390,7 @@
       "id": "ae4d0162-aaf0-4c43-9bbb-018beff3d0a3",
       "name": "Steam Rails",
       "filename": "Steam_Rails-1.7.1+forge-mc1.20.1.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Steam_Rails-1.7.1%2Bforge-mc1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Steam_Rails-1.7.1_forge-mc1.20.1.jar",
       "sha256": "3d18f34742aea9285c83cf597b3c324ead96a8af06a3dd24b63973bcf1771266",
       "required": true,
       "side": "both",
