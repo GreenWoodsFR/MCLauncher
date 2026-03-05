@@ -5877,6 +5877,11 @@
       "path": "configs/arsdelight-common.toml",
       "sha256": "32e9131fd4d0bf15c09db2ee529e725b7f5e6b536472836d568cbf0ee200cdd5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/arsdelight-common.toml"
+    },
+    {
+      "path": "configs/astikorcarts-common.toml",
+      "sha256": "675b1722c214c4434db25850d08b9c903f8b3e1a7b9b3eb1e7b5f84351a3ef90",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/astikorcarts-common.toml"
     }
   ]
 }
