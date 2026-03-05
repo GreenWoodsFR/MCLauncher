@@ -495,6 +495,16 @@
       "required": true,
       "side": "both",
       "version": "2.3.4"
+    },
+    {
+      "id": "52ad737c-5317-4d98-8d6d-3c55221038d5",
+      "name": "Butchery",
+      "filename": "butchery-4.7.1-forge-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/butchery-4.7.1-forge-1.20.1.jar",
+      "sha256": "c2ce6757e556016e6f04f8d8db989cff20bb9a69ce07960525c58f6e021f61b9",
+      "required": true,
+      "side": "both",
+      "version": "4.7.1"
     }
   ],
   "configFiles": []
