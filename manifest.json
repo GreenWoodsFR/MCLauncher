@@ -5927,6 +5927,11 @@
       "path": "configs/barteringstation-server.toml",
       "sha256": "05d6fec280c71adee13f88e336ee4ed9a572803337754c939946851fb93dbb9d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/barteringstation-server.toml"
+    },
+    {
+      "path": "configs/BatteryDuration.toml",
+      "sha256": "1e08c0c0f08b4be10a9a4cba56b6f13d61f21c16ecf9fe12571895b44880b61e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/BatteryDuration.toml"
     }
   ]
 }
