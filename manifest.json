@@ -4907,6 +4907,11 @@
       "path": "configs/ftbquests/quests/reward_tables/botania_flowers.snbt",
       "sha256": "190703b5bbf46253a6203989ae7422cc6b60606f36ee162a330d6e20efbf9ae1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/botania_flowers.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/epic_gem_bag.snbt",
+      "sha256": "c696bd3a7a333340f4fbbd3d68c71f11714c49d8ce68eb968ddd6cab29d1b82a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/epic_gem_bag.snbt"
     }
   ]
 }
