@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/Butchery.toml",
-      "sha256": "4d89dd7faea0e7e15f6176dcc5da1486aed28d86ce746ca537ed8491dc643d54",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Butchery.toml"
-    },
-    {
       "path": "configs/camera-client.toml",
       "sha256": "d192832f5a2fc4b0ed9b942adfce0ffafd75d5286e45da25aa3bf3c8a30ef3f8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/camera-client.toml"
