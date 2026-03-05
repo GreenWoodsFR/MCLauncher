@@ -3215,6 +3215,16 @@
       "required": true,
       "side": "both",
       "version": "4.0"
+    },
+    {
+      "id": "6de13125-a0fb-4889-9fd2-d19561cd7ef4",
+      "name": "Lionfishapi",
+      "filename": "lionfishapi-2.4-Fix.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/lionfishapi-2.4-Fix.jar",
+      "sha256": "7f54de417aae331bf39f2847d3029d0976b90b50f217f9b4cc856433d34aee6f",
+      "required": true,
+      "side": "both",
+      "version": "Fix"
     }
   ],
   "configFiles": []
