@@ -6152,6 +6152,11 @@
       "path": "configs/dummmmmmy-common.toml",
       "sha256": "951f25df08b8ba7c1f353d225f503ee103fff7df85eb8570dd68e877b217587a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dummmmmmy-common.toml"
+    },
+    {
+      "path": "configs/Dusty Decorations Config.toml",
+      "sha256": "6c1d307e3bd6173700ddb173174cd4f6d6ce8226b94a0ef096456636ee98fa81",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Dusty Decorations Config.toml"
     }
   ]
 }
