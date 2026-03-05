@@ -3607,6 +3607,11 @@
       "path": "configs/alexsmobs/warped_toad_spawns.json",
       "sha256": "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/warped_toad_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/roadrunner_spawns.json",
+      "sha256": "b8662bb3de9e2e5cc4af3773700fe6446c389980a80f6350f99d51f3fa2cef39",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/roadrunner_spawns.json"
     }
   ]
 }
