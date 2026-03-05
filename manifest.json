@@ -4107,6 +4107,11 @@
       "path": "configs/ars_nouveau/glyph_heal.toml",
       "sha256": "b8994d01e1539bfd3a8cb092654deff8b9c68869d7d33b8094d154fcb479b284",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_heal.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_ignite.toml",
+      "sha256": "23deef7ab7dcf1bceac31fdd3280e02f9c367e4e72e41dff0ce8ddf77f268f75",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_ignite.toml"
     }
   ]
 }
