@@ -5117,6 +5117,11 @@
       "path": "configs/jade/hide-blocks.json",
       "sha256": "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jade/hide-blocks.json"
+    },
+    {
+      "path": "configs/jade/plugins.json",
+      "sha256": "a24fbab55f6d4391c55baf60839fa97a54ad97457d2b1c62dcde20195fc659a7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jade/plugins.json"
     }
   ]
 }
