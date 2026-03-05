@@ -6147,6 +6147,11 @@
       "path": "configs/dummmmmmy-client.toml",
       "sha256": "7c0c0f60ed26f358ffb427f100e6ce0f216ddd65d6471df23390f55d5336e55c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dummmmmmy-client.toml"
+    },
+    {
+      "path": "configs/dummmmmmy-common.toml",
+      "sha256": "951f25df08b8ba7c1f353d225f503ee103fff7df85eb8570dd68e877b217587a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dummmmmmy-common.toml"
     }
   ]
 }
