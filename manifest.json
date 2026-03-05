@@ -555,6 +555,16 @@
       "required": true,
       "side": "both",
       "version": "2.1.2.7"
+    },
+    {
+      "id": "107ba1ff-aaa4-4c0a-959d-f14d692d5c63",
+      "name": "Cave Dweller",
+      "filename": "cave_dweller-1.20.1-1.6.4.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/cave_dweller-1.20.1-1.6.4.jar",
+      "sha256": "2c243cad05887b40841401abdbb6256473ef4a05be65fc076d68dba34a90d8c1",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
