@@ -4492,6 +4492,11 @@
       "path": "configs/ftbquests/quests/chapters/flncampagne_principale.snbt",
       "sha256": "1042396ad61803371f70a262a242a357453c7309e59b76a60e6f99778f229377",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/flncampagne_principale.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/the_nether.snbt",
+      "sha256": "6bd6415186d84a22bf57174d7d4b1d8617830f2fcf9ab793fd2454c180464ea0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/the_nether.snbt"
     }
   ]
 }
