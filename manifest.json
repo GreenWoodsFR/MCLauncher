@@ -6382,6 +6382,11 @@
       "path": "configs/healingcampfire.json5",
       "sha256": "66cb4fa208703d9f68183988cc1d8bec10a9786683775e3c09da618bb59a35ae",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/healingcampfire.json5"
+    },
+    {
+      "path": "configs/herbalbrews.toml",
+      "sha256": "7c4ba324bf4778cd520d4b5ac36a1d475b45265e27f17ff70f8a1d7f53bbebcd",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/herbalbrews.toml"
     }
   ]
 }
