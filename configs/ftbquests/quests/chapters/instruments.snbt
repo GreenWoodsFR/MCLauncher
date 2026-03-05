@@ -1,0 +1,457 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: "pentagon"
+	filename: "instruments"
+	group: "5EC606153AA8CA77"
+	icon: {
+		Count: 1
+		id: "immersive_melodies:lute"
+		tag: { }
+	}
+	id: "0B089BF757AEC9FF"
+	images: [
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 5.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 4.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 2.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -1.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -2.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -3.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -4.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -5.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -6.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -1.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: -0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 0.5d
+		}
+		{
+			height: 1.0d
+			image: "ftblibrary:textures/icons/star.png"
+			rotation: 0.0d
+			width: 1.0d
+			x: -8.5d
+			y: 1.5d
+		}
+	]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "03F5136488B3B2AB"
+			rewards: [{
+				id: "714CD08F9F12C3A5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4F80D9F516DEC3EE"
+				item: {
+					Count: 1
+					id: "immersive_melodies:lute"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "65D438C54299BAA6"
+			rewards: [{
+				id: "7F0F5124F8210510"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0467E2B6CCE0BDEB"
+				item: {
+					Count: 1
+					id: "immersive_melodies:piano"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "432703FEC698C175"
+			rewards: [{
+				id: "43450B26FFF58A91"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0CAC902C4606D711"
+				item: {
+					Count: 1
+					id: "immersive_melodies:trumpet"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "626B075A01365017"
+			rewards: [{
+				id: "33D4180FDDFE2AC0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7F215C202E58ED35"
+				item: {
+					Count: 1
+					id: "immersive_melodies:flute"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.0d
+		}
+		{
+			id: "3D8B02E707FF3C32"
+			tasks: [{
+				id: "5F8F72DC17B5888F"
+				item: {
+					Count: 1
+					id: "immersive_melodies:didgeridoo"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			id: "6ADB2D00BE46DF61"
+			rewards: [{
+				id: "4E6375B126B289C5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2D43292F6D1CD82A"
+				item: {
+					Count: 1
+					id: "immersive_melodies:tiny_drum"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			id: "5F3F75E9C419CFAC"
+			rewards: [{
+				id: "3F014B7DA66A1817"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "185E13C313D95DFD"
+				item: {
+					Count: 1
+					id: "immersive_melodies:vielle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			id: "43524686D7A07231"
+			rewards: [{
+				id: "25848571AC9B31C0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "685B2F9FC54E839D"
+				item: {
+					Count: 1
+					id: "immersive_melodies:triangle"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			id: "669FC3384BB8E1E5"
+			rewards: [{
+				id: "3938944E67704B2C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1AE4A60F6E91D421"
+				item: {
+					Count: 1
+					id: "immersive_melodies:bagpipe"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+	]
+	title: " &6Instruments"
+}

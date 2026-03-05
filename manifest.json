@@ -4472,6 +4472,11 @@
       "path": "configs/ftbquests/quests/chapters/l6buraliste.snbt",
       "sha256": "eb95b88e612a8cc3e7e70167cbb584b5ecefe7fb7e6a627e8f41a34094890d62",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l6buraliste.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/instruments.snbt",
+      "sha256": "80559e144573aea9ff5363d06ab2ef155a3a6e6ab484a2f2c05ed8840449acd3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/instruments.snbt"
     }
   ]
 }
