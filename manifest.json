@@ -5457,6 +5457,11 @@
       "path": "configs/relics/relics/infinity_ham.yaml",
       "sha256": "d8d96d73fa32983adefd3d4d5cf73585237f7fd458108c347689692840a7d186",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/infinity_ham.yaml"
+    },
+    {
+      "path": "configs/relics/relics/aqua_walker.yaml",
+      "sha256": "68e3e439dcb721259e3985ce4515ef5260a166212ba63b569f6b648363090dc2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/aqua_walker.yaml"
     }
   ]
 }
