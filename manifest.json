@@ -4322,6 +4322,11 @@
       "path": "configs/celestisynth/celestisynth-client.toml",
       "sha256": "8242ac7444d684b2d7b906c136a5ea7c027bc30cae86f5863a6547ee5576b2c5",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/celestisynth/celestisynth-client.toml"
+    },
+    {
+      "path": "configs/celestisynth/celestisynth-common.toml",
+      "sha256": "9f6ad8c0fc68476588475b01ae9990e27921727a80353a9fd9ca25a628da5e55",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/celestisynth/celestisynth-common.toml"
     }
   ]
 }
