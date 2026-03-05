@@ -4632,6 +4632,11 @@
       "path": "configs/ftbquests/quests/chapters/the_bumblezone.snbt",
       "sha256": "b95d88441dea99e31301924a0eeb5a0a1af29f315140ad8ca706b4e86b7135d3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/the_bumblezone.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/undergarden.snbt",
+      "sha256": "592ae73a8880d527947c8099ac4d2a8ec343a542b158c5e8f06bd42cf760ded7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/undergarden.snbt"
     }
   ]
 }
