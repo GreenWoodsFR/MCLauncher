@@ -2075,6 +2075,16 @@
       "required": true,
       "side": "both",
       "version": "build.10"
+    },
+    {
+      "id": "82eb4c77-9d81-4101-8f60-497c83e37da4",
+      "name": "Ribbits",
+      "filename": "Ribbits-1.20.1-Forge-3.0.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Ribbits-1.20.1-Forge-3.0.5.jar",
+      "sha256": "e04aa665df7e96844fe8833f29cc343feefac8ad7b949399d7b4a60475123e2b",
+      "required": true,
+      "side": "both",
+      "version": "3.0.5"
     }
   ],
   "configFiles": []
