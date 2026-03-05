@@ -5887,6 +5887,11 @@
       "path": "configs/attributefix.json",
       "sha256": "5291f8d08976f401b549d76a502df2953d5daf17587f1162a7c8ab26566da537",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/attributefix.json"
+    },
+    {
+      "path": "configs/attributeslib.cfg",
+      "sha256": "fe85b449a9f8e1b5b74799822840aedfb5e2b8e269cbb1503f6d4c12a7a47fe7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/attributeslib.cfg"
     }
   ]
 }
