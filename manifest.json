@@ -6682,6 +6682,11 @@
       "path": "configs/patchouli-client.toml",
       "sha256": "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/patchouli-client.toml"
+    },
+    {
+      "path": "configs/pehkui-client.toml",
+      "sha256": "18741b2cf056e7609eac3dabe966569a12a819ab03e083c873c85c27a52929a7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/pehkui-client.toml"
     }
   ]
 }
