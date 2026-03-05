@@ -3317,6 +3317,11 @@
       "path": "configs/alexsmobs/grizzly_bear_spawns.json",
       "sha256": "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/grizzly_bear_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/emu_spawns.json",
+      "sha256": "70e30e058709266e665eb6642df126eeee744d05e63d77344501e78cb4a37851",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/emu_spawns.json"
     }
   ]
 }
