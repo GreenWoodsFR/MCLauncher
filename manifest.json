@@ -3502,6 +3502,11 @@
       "path": "configs/alexsmobs/cockroach_spawns.json",
       "sha256": "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/cockroach_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/skunk_spawns.json",
+      "sha256": "01cc2eb4d92ba30b7301b9325a353cd96c5c7ff263c348795bfb34698cf8f11b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/skunk_spawns.json"
     }
   ]
 }
