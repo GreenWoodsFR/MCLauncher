@@ -2545,6 +2545,16 @@
       "required": true,
       "side": "both",
       "version": "universal"
+    },
+    {
+      "id": "e70611ff-a097-4222-b9d4-9b09f00c8fc3",
+      "name": "Txnilib",
+      "filename": "txnilib-forge-1.0.24-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/txnilib-forge-1.0.24-1.20.1.jar",
+      "sha256": "71ca69345ef763903213e0b0db3c9c07d2a090ad311d1de66c31798a813a9d0e",
+      "required": true,
+      "side": "both",
+      "version": "1.0.24"
     }
   ],
   "configFiles": []
