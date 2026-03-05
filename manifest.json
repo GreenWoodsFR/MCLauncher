@@ -865,6 +865,16 @@
       "required": true,
       "side": "both",
       "version": "5.14.1"
+    },
+    {
+      "id": "76d3c374-dba6-4227-9b61-9ba6b61997a8",
+      "name": "Darkheads",
+      "filename": "darkheads-forge-1.20.1-1.0.6.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/darkheads-forge-1.20.1-1.0.6.jar",
+      "sha256": "a938fcee7da8e3f981ed2c412103b409df8a2be96c505a911159ee6cb598dc8e",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
