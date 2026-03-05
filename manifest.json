@@ -5852,6 +5852,11 @@
       "path": "configs/ars_additions-common.toml",
       "sha256": "0f9e3d26d08ece8e030a4007ca2bcdea1cc59902b11adfc494e2bc72bad85c40",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_additions-common.toml"
+    },
+    {
+      "path": "configs/ars_additions-server.toml",
+      "sha256": "99d620393487af3e1e79640c2a1ff63a7bd2c863983cc2df0b62b729860a8965",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_additions-server.toml"
     }
   ]
 }
