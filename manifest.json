@@ -2235,6 +2235,16 @@
       "required": true,
       "side": "both",
       "version": "2.1.2"
+    },
+    {
+      "id": "69d84af4-89d8-423e-81b5-7f8444a6f338",
+      "name": "Smoothboot(Reloaded) Mc1.20.1",
+      "filename": "smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/smoothboot.reloaded.-mc1.20.1-0.0.4.jar",
+      "sha256": "5a0d2682493ffa7b140a7b81f0d1e70c7536c97969397cf9e718e31391b5b9d5",
+      "required": true,
+      "side": "both",
+      "version": "0.0.4"
     }
   ],
   "configFiles": []
