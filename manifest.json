@@ -5617,6 +5617,11 @@
       "path": "configs/simplyswords_main/weapon_attributes.json5",
       "sha256": "6f794ab26ccec8d189c3e15374cb1ad965acaff5f3dcf0402387218ee02638cb",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplyswords_main/weapon_attributes.json5"
+    },
+    {
+      "path": "configs/simplyswords_main/gem_effects.json5",
+      "sha256": "3e953737dcb4ed50db8605db74df14983300f79f38b6f954ec0a0686ba2d82ea",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplyswords_main/gem_effects.json5"
     }
   ]
 }
