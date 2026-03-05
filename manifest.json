@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/particle_core_disabled_optimizations_v2.json",
-      "sha256": "7189bb61c58cb1030b8ee486e66abf694d257192248b9b3ac4978df2b1366f7d",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/particle_core_disabled_optimizations_v2.json"
-    },
-    {
       "path": "configs/patchouli-client.toml",
       "sha256": "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/patchouli-client.toml"
