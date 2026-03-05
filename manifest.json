@@ -7067,6 +7067,11 @@
       "path": "configs/zeta-common.toml",
       "sha256": "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/zeta-common.toml"
+    },
+    {
+      "path": "kubejs/assets/kubejs/textures/block/example_block.png",
+      "sha256": "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/kubejs/assets/kubejs/textures/block/example_block.png"
     }
   ]
 }
