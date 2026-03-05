@@ -6557,6 +6557,11 @@
       "path": "configs/mobs_of_mythology.properties",
       "sha256": "30588d5a36e0633146adabf9a7ada9144ca03742a8856fd28cc0b7ab37cff2df",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mobs_of_mythology.properties"
+    },
+    {
+      "path": "configs/modernfix-common.toml",
+      "sha256": "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/modernfix-common.toml"
     }
   ]
 }
