@@ -5572,6 +5572,11 @@
       "path": "configs/sereneseasons/fertility.toml",
       "sha256": "c5127ca2ad6134b149b9cfe4761fb52b618d8a90338dfb1e866be1b4ba1f05e6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sereneseasons/fertility.toml"
+    },
+    {
+      "path": "configs/simplehats/client.toml",
+      "sha256": "394fbb3127d89c7df83532390a639f3b1913c7473a74eb5ae47d9e8557d3df3d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplehats/client.toml"
     }
   ]
 }
