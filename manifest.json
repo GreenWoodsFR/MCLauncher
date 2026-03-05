@@ -315,6 +315,16 @@
       "required": true,
       "side": "both",
       "version": "2.4.1"
+    },
+    {
+      "id": "ccad5211-6db9-4c08-a80b-e8881edc9ed0",
+      "name": "Badpackets",
+      "filename": "badpackets-forge-0.4.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/badpackets-forge-0.4.3.jar",
+      "sha256": "b621a8e31727324a6010adbfb84fd4dbb78b3c7d87e5a9aebfb4e3223448f1e3",
+      "required": true,
+      "side": "both",
+      "version": "0.4.3"
     }
   ],
   "configFiles": []
