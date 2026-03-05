@@ -4847,6 +4847,11 @@
       "path": "configs/ftbquests/quests/reward_tables/mekanism.snbt",
       "sha256": "6390b8cd6d9add9d824d2535b47636e0ac1f8eea147e38ca4fac9ed8afd4e07c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/mekanism.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/Tier4_SeedBag.snbt",
+      "sha256": "faf8c21fec76e7f3a2d96608370ee5fd1363e5db777f90608aa2f9c06afa997e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/Tier4_SeedBag.snbt"
     }
   ]
 }
