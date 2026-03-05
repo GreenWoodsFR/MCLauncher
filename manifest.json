@@ -7392,6 +7392,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/lighting/coloredBlocklight.glsl",
       "sha256": "51939c0e378bf05585da7aa2eb3a18f29582395f791e42476f57258b5699871f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/lighting/coloredBlocklight.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/lighting/mainLighting.glsl",
+      "sha256": "db13c184aa2f5b694378344683b1ef96882f54388b90cdee23a40f2fc16ba484",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/lighting/mainLighting.glsl"
     }
   ]
 }
