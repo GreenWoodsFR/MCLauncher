@@ -9232,6 +9232,11 @@
       "path": "shaderpacks/Pastel-Shaders-Universal-v1.200.zip",
       "sha256": "72d100aa877177247a6afce644f05c87fd76b341ae78ca549ab0cfec8e86aad1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/Pastel-Shaders-Universal-v1.200.zip"
+    },
+    {
+      "path": "shaderpacks/Solas Shader V3.3.zip",
+      "sha256": "c06d51c5b4c2047877a4ce25cabed504aef8e9107579b238add202ba4ab14960",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/Solas Shader V3.3.zip"
     }
   ]
 }
