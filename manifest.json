@@ -3195,6 +3195,16 @@
       "required": true,
       "side": "both",
       "version": "1.4.41"
+    },
+    {
+      "id": "51be3427-1b36-4d29-a61d-65c9dabb8591",
+      "name": "Libraryferret",
+      "filename": "libraryferret-forge-1.20.1-4.0.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "sha256": "355f5000b56d6f355338bd494fcdb822f36e29cf9e3c27ebcc7720402a804510",
+      "required": true,
+      "side": "both",
+      "version": "4.0.0"
     }
   ],
   "configFiles": []
