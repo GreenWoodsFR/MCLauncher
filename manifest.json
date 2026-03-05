@@ -7652,6 +7652,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl",
       "sha256": "fa34ce773560d31dab23031851a7851b3c50bf80faf5ca22a4863fff5811d151",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/anisotropicFiltering.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/snowyWorld.glsl",
+      "sha256": "d0ef4369b5ad50b1f1d9029a3483b0699f748fb1f050382582be686fc4c54952",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/snowyWorld.glsl"
     }
   ]
 }
