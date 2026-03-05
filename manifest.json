@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/naturalist.json",
-      "sha256": "022aeb6c92073255d6ad01f0f47eecf574bcb19aa9bc9d8d11eeae1479079226",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/naturalist.json"
-    },
-    {
       "path": "configs/naturescompass-client.toml",
       "sha256": "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/naturescompass-client.toml"
