@@ -4077,6 +4077,11 @@
       "path": "configs/ars_nouveau/glyph_summon_decoy.toml",
       "sha256": "6125773f89b9e0381c4bcefd996215777ada37031aa1c61269fa35594a7294f3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_summon_decoy.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_delay.toml",
+      "sha256": "34ecb52d4bce80ae1629b17d2f35da6e9816b0d2134ff1cf29f9b72ca6b6bcd3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_delay.toml"
     }
   ]
 }
