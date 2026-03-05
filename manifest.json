@@ -4397,6 +4397,11 @@
       "path": "configs/epicknights/general.json5",
       "sha256": "d3dec561a9b4985cb6407bc18bc1d8507e5bd7e6e916de32a0bdae0e8b2998ba",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/epicknights/general.json5"
+    },
+    {
+      "path": "configs/fabric/indigo-renderer.properties",
+      "sha256": "00ed1fc752d57ce27edf3bb0b9633e11e8cca1821205d92fcd170a3205a1dc15",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fabric/indigo-renderer.properties"
     }
   ]
 }
