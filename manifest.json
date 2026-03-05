@@ -3035,6 +3035,16 @@
       "required": true,
       "side": "both",
       "version": "build.16"
+    },
+    {
+      "id": "2ccfddc0-d9d6-4a73-81b6-33998c001280",
+      "name": "Kubejsdelight",
+      "filename": "kubejsdelight-1.20.1-1.1.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/kubejsdelight-1.20.1-1.1.5.jar",
+      "sha256": "33b16742b62209f74d1ce74ab95cc031ec65444951c64ee941fe0267ef344282",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
