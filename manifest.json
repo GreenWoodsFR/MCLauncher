@@ -1135,6 +1135,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "1d8aaa37-0d18-4581-9a17-5b2d5c1e955a",
+      "name": "Fairylights",
+      "filename": "fairylights-7.0.0-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/fairylights-7.0.0-1.20.1.jar",
+      "sha256": "5c68ee27feb4ef10675c883ab67bfa0f1c3e3c0c2193f1c35f43a225d930d9b6",
+      "required": true,
+      "side": "both",
+      "version": "7.0.0"
     }
   ],
   "configFiles": []
