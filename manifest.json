@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/waystones-common.toml",
-      "sha256": "4cf1d13d8827bcdce75acadb1f3ea24732fd6fa6575ec8a261a37b21c481674d",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/waystones-common.toml"
-    },
-    {
       "path": "configs/yacl.json5",
       "sha256": "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/yacl.json5"
