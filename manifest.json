@@ -4897,6 +4897,11 @@
       "path": "configs/ftbquests/quests/reward_tables/perfect_gem_bag.snbt",
       "sha256": "62fa2a3149a27d612ae6d927d20e6e531a21770fbcca4da49bf3294902444866",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/perfect_gem_bag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/gt_uv_basic_rewards.snbt",
+      "sha256": "a31cafb0eb5726238e7c83d90caf6f9dfd5681914cdb66d389259676817b28d1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_uv_basic_rewards.snbt"
     }
   ]
 }
