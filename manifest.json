@@ -5602,6 +5602,11 @@
       "path": "configs/simplymore/loot.json5",
       "sha256": "fcc01575ee0cda54f3b210db26b421c124c2ea7042b1b4227395c2c9a09cb8e7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplymore/loot.json5"
+    },
+    {
+      "path": "configs/simplyswords_extra/backupconfig.json",
+      "sha256": "ec1a9e835b75774dcaf2975096e2ae38ad27c6a93b0606c4b0a2dc93b1a7fc38",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplyswords_extra/backupconfig.json"
     }
   ]
 }
