@@ -175,6 +175,16 @@
       "required": true,
       "side": "both",
       "version": "?"
+    },
+    {
+      "id": "1934d27c-6800-4849-8cea-91e14cb079c8",
+      "name": "Aquaculturedelight",
+      "filename": "aquaculturedelight-1.1.1-forge-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/aquaculturedelight-1.1.1-forge-1.20.1.jar",
+      "sha256": "eae5e753536614fbcf968f3f11cae54779d07e8547199ea5800dbb17617bfeee",
+      "required": true,
+      "side": "both",
+      "version": "1.1.1"
     }
   ],
   "configFiles": []
