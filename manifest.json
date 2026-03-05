@@ -4367,6 +4367,11 @@
       "path": "configs/defaultoptions/keybindings.txt",
       "sha256": "8edde12eab4cd04c0417003569f1a3095f7081ab1b4ca6db62ab99aba665fb3c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/defaultoptions/keybindings.txt"
+    },
+    {
+      "path": "configs/defaultoptions/options.txt",
+      "sha256": "ddc96898bda64ce47b2cebe8b6ec9e6c122b56a3091f17b8cafefaa3767722d7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/defaultoptions/options.txt"
     }
   ]
 }
