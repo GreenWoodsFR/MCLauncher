@@ -1015,6 +1015,16 @@
       "required": true,
       "side": "both",
       "version": "0.3.31"
+    },
+    {
+      "id": "19809ad4-a975-410d-b809-2a4bb6371d03",
+      "name": "Emotecraft For MC1.20.1",
+      "filename": "emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+      "sha256": "ffaac96e37e6fa950080e2eb4aa361aa8b7bd6c4370862f39893ac2d266d7c14",
+      "required": true,
+      "side": "both",
+      "version": "b.build.50"
     }
   ],
   "configFiles": []
