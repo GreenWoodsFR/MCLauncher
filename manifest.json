@@ -6202,6 +6202,11 @@
       "path": "configs/embeddium-options.json",
       "sha256": "0363925ab10d5815329d645701cc84ff6d458c0c26e502aa3bd6d802b51645b0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/embeddium-options.json"
+    },
+    {
+      "path": "configs/emi_loot_config.toml",
+      "sha256": "2ad5c221f3f039f5c9ab38ff761ea8f77072fbde893c5d8a8073cb24ac96c78c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emi_loot_config.toml"
     }
   ]
 }
