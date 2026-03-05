@@ -6362,6 +6362,11 @@
       "path": "configs/goblintraders-entities.toml",
       "sha256": "d9aa2ac6c2ae9d6440cc585c95426a2183d689f5cced7268ed4e80706ccd7dd0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/goblintraders-entities.toml"
+    },
+    {
+      "path": "configs/guardvillagers-client.toml",
+      "sha256": "4160ba1a645a91f3b89c1fd3ed1a42d77007c19aa0183f7f19e080611a9cd449",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/guardvillagers-client.toml"
     }
   ]
 }
