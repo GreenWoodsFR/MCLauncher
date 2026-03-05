@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/libraryferret_1.properties",
-      "sha256": "c2abd581cdbb7949e3bc07acbecfa48b82e1558a962090a6e9dfe48739956c87",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/libraryferret_1.properties"
-    },
-    {
       "path": "configs/lightsabers-common.toml",
       "sha256": "ef0ed61c06e442984d6a0fe20e4e9963d0b397ce3ac399e1bc63f8ed5bd6b160",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lightsabers-common.toml"
