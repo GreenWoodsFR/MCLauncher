@@ -455,6 +455,16 @@
       "required": true,
       "side": "both",
       "version": "0.0.3"
+    },
+    {
+      "id": "4137676e-1111-4484-b47d-a8f700e013dd",
+      "name": "BOMD",
+      "filename": "BOMD-Forge-1.20.1-1.1.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/BOMD-Forge-1.20.1-1.1.1.jar",
+      "sha256": "4530411d4cd1004f3a6ad248c6bda667c364ee4fd345ceb7a20c947ef093e3be",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
