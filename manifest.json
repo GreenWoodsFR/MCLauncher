@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/guardvillagers-client.toml",
-      "sha256": "4160ba1a645a91f3b89c1fd3ed1a42d77007c19aa0183f7f19e080611a9cd449",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/guardvillagers-client.toml"
-    },
-    {
       "path": "configs/guardvillagers-common.toml",
       "sha256": "f590abaa906bc47b860a035be2492d028af7ad2042af7e0bebe91dcfc8f3ed62",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/guardvillagers-common.toml"
