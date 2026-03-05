@@ -6512,6 +6512,11 @@
       "path": "configs/lunar-common.toml",
       "sha256": "977abb09cb83e224cde27a9f2927b8e94a348fd4fcfc42e611a5f4b4bc4f0371",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lunar-common.toml"
+    },
+    {
+      "path": "configs/magnumtorch-server.toml",
+      "sha256": "1f65f23de94c2e4054d9dd5167811693e7acba633d6c8480e6e5122a6eb76f19",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/magnumtorch-server.toml"
     }
   ]
 }
