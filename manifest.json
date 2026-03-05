@@ -3452,6 +3452,11 @@
       "path": "configs/alexsmobs/froststalker_spawns.json",
       "sha256": "2cc43cdc9df3b20cc2eeb75a3c11736558f544571640607d08dec5c0a939c02d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/froststalker_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/cachalot_whale_spawns.json",
+      "sha256": "fb901f1ea0bce7b9fb51dfaeb565539a3c1a9ee86bafb49caddac7ca1002e296",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/cachalot_whale_spawns.json"
     }
   ]
 }
