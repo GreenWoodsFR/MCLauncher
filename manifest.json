@@ -6567,6 +6567,11 @@
       "path": "configs/modernfix-mixins.properties",
       "sha256": "3553628f1b539f859fbe7c06e482cfec74ab66b1214bb0f713902f317b6f8fb7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/modernfix-mixins.properties"
+    },
+    {
+      "path": "configs/moonlight-client.toml",
+      "sha256": "78557fc0d62b4ca3a586371769fa9d553599169513213fc3a8432780a9d514e8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/moonlight-client.toml"
     }
   ]
 }
