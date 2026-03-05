@@ -5847,6 +5847,11 @@
       "path": "configs/armoroftheages.json",
       "sha256": "f2dbf451aeee6ce337c1ccd1b48c0e4ef9683e5b9d9900409559780470429b07",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/armoroftheages.json"
+    },
+    {
+      "path": "configs/ars_additions-common.toml",
+      "sha256": "0f9e3d26d08ece8e030a4007ca2bcdea1cc59902b11adfc494e2bc72bad85c40",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_additions-common.toml"
     }
   ]
 }
