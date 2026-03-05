@@ -6022,6 +6022,11 @@
       "path": "configs/chat_heads.json5",
       "sha256": "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chat_heads.json5"
+    },
+    {
+      "path": "configs/chefsdelight-common.toml",
+      "sha256": "e82c9444a81f9378e1f497c27863f7a774529011453ff0c7c37d6121974629c4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chefsdelight-common.toml"
     }
   ]
 }
