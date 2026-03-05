@@ -3257,11 +3257,5 @@
       "version": "0.2.7"
     }
   ],
-  "configFiles": [
-    {
-      "path": "configs/zeta-common.toml",
-      "sha256": "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/zeta-common.toml"
-    }
-  ]
+  "configFiles": []
 }
