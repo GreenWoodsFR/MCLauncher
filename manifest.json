@@ -6177,6 +6177,11 @@
       "path": "configs/easymagic-client.toml",
       "sha256": "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/easymagic-client.toml"
+    },
+    {
+      "path": "configs/easymagic-server.toml",
+      "sha256": "7dbf42819b121001c76e06c07994c363d316ce110f7b06dd032687f4099d5687",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/easymagic-server.toml"
     }
   ]
 }
