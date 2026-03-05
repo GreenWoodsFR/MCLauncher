@@ -2155,6 +2155,16 @@
       "required": true,
       "side": "both",
       "version": "9.1.0.2"
+    },
+    {
+      "id": "20eac58a-2f5e-44fd-8f39-e264c7644c2f",
+      "name": "ShoulderSurfing",
+      "filename": "ShoulderSurfing-Forge-1.20.1-4.22.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/ShoulderSurfing-Forge-1.20.1-4.22.0.jar",
+      "sha256": "50950dee6c72a2c38c2ec6d13d5ffb8ad7135ee34e00dece1a797812adf1fe3a",
+      "required": true,
+      "side": "both",
+      "version": "4.22.0"
     }
   ],
   "configFiles": []
