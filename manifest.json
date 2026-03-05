@@ -8097,6 +8097,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/pixelation.glsl",
       "sha256": "38d120958efe13e2838f81bc0e7300701e367aa5ff02254e7562757c3e34dbcd",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/pixelation.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/handSway.glsl",
+      "sha256": "f01f277b6afb87f92b1b24e56b163fe153b87f7566deeef213a90632d3d4be8a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/handSway.glsl"
     }
   ]
 }
