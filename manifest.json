@@ -3125,6 +3125,16 @@
       "required": true,
       "side": "both",
       "version": "1.2.15"
+    },
+    {
+      "id": "d78c27e5-0fb1-4d0f-961e-7fcedb1e59a5",
+      "name": "Letsdo Bakery",
+      "filename": "letsdo-bakery-forge-1.1.15.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/letsdo-bakery-forge-1.1.15.jar",
+      "sha256": "a20f1b1cba05c2cf9f12b28fa28649af417fb9a4b330641236bb1b71c63b0e09",
+      "required": true,
+      "side": "both",
+      "version": "1.1.15"
     }
   ],
   "configFiles": []
