@@ -4237,6 +4237,11 @@
       "path": "configs/artifacts/relics/snorkel.yaml",
       "sha256": "e288a73aaa1723525a8a2781d7ba77d944476b7455d597053a320cbfdc138491",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/snorkel.yaml"
+    },
+    {
+      "path": "configs/artifacts/relics/anglers_hat.yaml",
+      "sha256": "9968d01308caaf19580d54b73d0da6f57df704a0c8cf2b31c5b97ef43b12494d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/anglers_hat.yaml"
     }
   ]
 }
