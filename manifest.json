@@ -4067,6 +4067,11 @@
       "path": "configs/ars_nouveau/glyph_hex.toml",
       "sha256": "6f12843a50141377f8ab5cd8f3f14d5f9d0d3044fd182047ef014fdb9ba4925e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_hex.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_summon_steed.toml",
+      "sha256": "4ff5f67515cc5e46fc241c2d12707db4872b99e0894a43b7e3472153b64c20b7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_summon_steed.toml"
     }
   ]
 }
