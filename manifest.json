@@ -2945,6 +2945,16 @@
       "required": true,
       "side": "both",
       "version": "3.0.1"
+    },
+    {
+      "id": "bb9607ca-1681-4091-bc26-8f2633e83707",
+      "name": "JustEnoughResources",
+      "filename": "JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/JustEnoughResources-1.20.1-1.4.0.247.jar",
+      "sha256": "311d3a83db489d27b96cd15deb690ce64c78cffb552c25c3dff85956a14ec09e",
+      "required": true,
+      "side": "both",
+      "version": "1.4.0.247"
     }
   ],
   "configFiles": []
