@@ -4782,6 +4782,11 @@
       "path": "configs/ftbquests/quests/reward_tables/powah_mats.snbt",
       "sha256": "12f7ab0da1a0f836613fc5d85997d2eb367b1066f4868e8c658cd4d90f77f1c9",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_mats.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/epic.snbt",
+      "sha256": "b725e66fd327953d744a28b5db2b60b82c4fbe3a8f756fee5be72c044ceb09bc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/epic.snbt"
     }
   ]
 }
