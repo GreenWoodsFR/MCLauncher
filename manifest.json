@@ -6737,6 +6737,11 @@
       "path": "configs/puzzlesapi-iteminteractions-server.toml",
       "sha256": "86ff328a054a94ad7845364eee53b77273614c13643d9b35bba1b430ed7123f7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/puzzlesapi-iteminteractions-server.toml"
+    },
+    {
+      "path": "configs/puzzlesapi-slotcycling-client.toml",
+      "sha256": "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/puzzlesapi-slotcycling-client.toml"
     }
   ]
 }
