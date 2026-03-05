@@ -6242,6 +6242,11 @@
       "path": "configs/endermanoverhaul.jsonc",
       "sha256": "9502aced0fb4379a4a5e72c484fb155ffcdf80aff96f8f88ed4a0111b42d9003",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/endermanoverhaul.jsonc"
+    },
+    {
+      "path": "configs/ends_delight-common.toml",
+      "sha256": "f4fc0c0f40bac8b5243141374a6df6eabc993ecd989559ffe8b9fd908bf46982",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ends_delight-common.toml"
     }
   ]
 }
