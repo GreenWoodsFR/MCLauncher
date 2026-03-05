@@ -4922,6 +4922,11 @@
       "path": "configs/ftbquests/quests/reward_tables/evilcraft_basic_reward.snbt",
       "sha256": "439283eb34133130dffbf095d7beae699c20d41fafb65cf1190ef91cf1a6037f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/evilcraft_basic_reward.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/gt_luv_rewards.snbt",
+      "sha256": "0a4b526642092c1dc1795e273677f550f7ac00587e7c46d0813727a06e9789d2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_luv_rewards.snbt"
     }
   ]
 }
