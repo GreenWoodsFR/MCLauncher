@@ -3822,6 +3822,11 @@
       "path": "configs/ars_nouveau/glyph_summon_undead.toml",
       "sha256": "a91b18c078a3f030756ec73ff847089b7137e3b3bcd75b9f6878fa73a903c782",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_summon_undead.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_orbit.toml",
+      "sha256": "3929d1f3121d8b4a25b0074e682f20b93d769b9889b7eed98591ecd776b7dc1d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_orbit.toml"
     }
   ]
 }
