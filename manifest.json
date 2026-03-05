@@ -1745,6 +1745,16 @@
       "required": true,
       "side": "both",
       "version": "0.3.3"
+    },
+    {
+      "id": "e097c11a-7aad-4bc0-a3fd-b1d7a85a667f",
+      "name": "Patchouli",
+      "filename": "Patchouli-1.20.1-84.1-FORGE.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Patchouli-1.20.1-84.1-FORGE.jar",
+      "sha256": "9cc38ebb5e29b350222e337b7a5a2ba238c802230a89434ce00e90ee3026d056",
+      "required": true,
+      "side": "both",
+      "version": "84.1"
     }
   ],
   "configFiles": []
