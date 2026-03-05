@@ -1095,6 +1095,16 @@
       "required": true,
       "side": "both",
       "version": "mc1.20.1"
+    },
+    {
+      "id": "ac58466e-de80-4d15-8193-485dc7a5b2aa",
+      "name": "EpheroLib",
+      "filename": "EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+      "sha256": "8924a015f28348c806e6680addc2d5a8bcaf8439dd51ce48ce3b2f2b0e522407",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
