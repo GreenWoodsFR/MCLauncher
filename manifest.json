@@ -2725,6 +2725,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "eb7aca2d-8272-4bc4-a758-85a871952c89",
+      "name": "Gpumemleakfix",
+      "filename": "gpumemleakfix-1.20.1-1.8.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/gpumemleakfix-1.20.1-1.8.jar",
+      "sha256": "a7019442f1b07b1a4a875fe404d04d162905cc7fd42e0b3c843aefc7b39efc46",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
