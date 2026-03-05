@@ -4757,6 +4757,11 @@
       "path": "configs/ftbquests/quests/reward_tables/ae2_basic_rewards.snbt",
       "sha256": "ce60409edccc2de679b7239646405614300216630e3a3bd64f89fccbfbf05072",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/ae2_basic_rewards.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/pnc_pcb_tier.snbt",
+      "sha256": "033f6e6c1e543e4d1869f5e4f26fff6287cab87f943a7cedb0d08ede9d5e574c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/pnc_pcb_tier.snbt"
     }
   ]
 }
