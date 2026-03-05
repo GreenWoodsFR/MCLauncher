@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/bocchium-client.toml",
-      "sha256": "370a54a12bcaf2d51c042af862de924e9d89bfb3051337b824171ff3f54ece5b",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bocchium-client.toml"
-    },
-    {
       "path": "configs/bosses_of_mass_destruction.json5",
       "sha256": "a4522dbaee6d5d4532a3b55906a2a2740424be53ec215c70fbb8931165e81121",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bosses_of_mass_destruction.json5"
