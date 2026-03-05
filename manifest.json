@@ -6747,6 +6747,11 @@
       "path": "configs/quark-common.toml",
       "sha256": "fedbbde3fe40c39afe3628c07d6ca35c40c8626a715d47a6048c34748b44f606",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/quark-common.toml"
+    },
+    {
+      "path": "configs/questsadditions-client.toml",
+      "sha256": "f4893862ac7ec3b94fe59e74b736200f9079235bdc9885743cc0872946be1edc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/questsadditions-client.toml"
     }
   ]
 }
