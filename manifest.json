@@ -975,6 +975,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "82110d03-0bbe-41e4-a954-794f1f786cd9",
+      "name": "Ecologics",
+      "filename": "ecologics-forge-1.20.1-2.2.4.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/ecologics-forge-1.20.1-2.2.4.jar",
+      "sha256": "14a343f50e59f4478a95b886b2b6da01b4f802680574ed7a2a209808250c43b1",
+      "required": true,
+      "side": "both",
+      "version": "2.2.4"
     }
   ],
   "configFiles": []
