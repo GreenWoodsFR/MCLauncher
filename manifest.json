@@ -5312,6 +5312,11 @@
       "path": "configs/paxi/resourcepacks/boss-refreshed-v1.4.zip",
       "sha256": "4a83e6ca3da2f06530ac5c526d7a8326b07642b6b15a41949a007350777342c8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/boss-refreshed-v1.4.zip"
+    },
+    {
+      "path": "configs/paxi/resourcepacks/[1.4.1] Enhanced Boss Bars.zip",
+      "sha256": "6a51e84dc7d0213a694d188ae27420e64e04fc547f5e4176a6cab5597b7ee6fe",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/[1.4.1] Enhanced Boss Bars.zip"
     }
   ]
 }
