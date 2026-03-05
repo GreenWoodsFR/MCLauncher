@@ -5302,6 +5302,11 @@
       "path": "configs/paxi/resourcepack_load_order.json",
       "sha256": "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepack_load_order.json"
+    },
+    {
+      "path": "configs/paxi/datapack_load_order.json",
+      "sha256": "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/datapack_load_order.json"
     }
   ]
 }
