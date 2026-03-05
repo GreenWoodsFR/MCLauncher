@@ -7742,6 +7742,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl",
       "sha256": "20272f35522fa1bc217570eb26de3b5657192aa81f36dda1853adcd09881603f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/birchPlanks.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl",
+      "sha256": "7076a532bc30d7408d7f26f54df07de895aca29c74fb69c77d9d98d0c6e3c0e1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/crimsonPlanks.glsl"
     }
   ]
 }
