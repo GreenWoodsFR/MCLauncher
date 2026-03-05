@@ -6037,6 +6037,11 @@
       "path": "configs/chimes-common.toml",
       "sha256": "c4093536d06ebf10b96ce5a40deb0801bca9678cd89a8d9342a8d93f762b7761",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chimes-common.toml"
+    },
+    {
+      "path": "configs/chloride-client.json",
+      "sha256": "ed8c75900f5811e00e50f28f736fbe298e1779831fe068c4ca1e6f6dacd8873f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chloride-client.json"
     }
   ]
 }
