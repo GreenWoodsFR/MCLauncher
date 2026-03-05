@@ -5512,6 +5512,11 @@
       "path": "configs/relics/relics/bastion_ring.yaml",
       "sha256": "78cc299a4c492321823721997f8b90ca5672de63976d267885e084ba5f761ac2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/bastion_ring.yaml"
+    },
+    {
+      "path": "configs/relics/relics/magic_mirror.yaml",
+      "sha256": "b2f48329c46e363dcf406824d3819de86a4abc9d30e50b8f647738cc2416f06c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/magic_mirror.yaml"
     }
   ]
 }
