@@ -8072,6 +8072,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/voxelization.glsl",
       "sha256": "e31d2f49da3f9f2e071cf9eb0944e2f5f9c051bffbe8bdb2237600087c4ce436",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/voxelization.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/worldOutline.glsl",
+      "sha256": "5d2d480e66552f723126018d84097462d93d03088d414f455721aab715424786",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/worldOutline.glsl"
     }
   ]
 }
