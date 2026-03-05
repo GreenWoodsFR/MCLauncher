@@ -4887,6 +4887,11 @@
       "path": "configs/ftbquests/quests/reward_tables/twilight_forest_loot_bag.snbt",
       "sha256": "148c57d04921ba39d20f3d04d15cff4f736c221264f3e37d98de0a35ef4f26c9",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/twilight_forest_loot_bag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/pnc_plastic_tier.snbt",
+      "sha256": "10a101f8c48cf2526f8742138946115e42c8aff26a757b79d4f3bde7f327ddd2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/pnc_plastic_tier.snbt"
     }
   ]
 }
