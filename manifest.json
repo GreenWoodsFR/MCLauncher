@@ -3105,6 +3105,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "482a0c31-f3c3-4533-b3fa-89b5eab80513",
+      "name": "Legionary",
+      "filename": "legionary-1.0.1-forge-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/legionary-1.0.1-forge-1.20.1.jar",
+      "sha256": "4709228e66c951687a0f69e633a80dce317520e3ef47a08f281305521f248a7a",
+      "required": true,
+      "side": "both",
+      "version": "1.0.1"
     }
   ],
   "configFiles": []
