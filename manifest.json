@@ -915,6 +915,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "ae12c7c3-2b9b-4251-ad8c-b397473b900a",
+      "name": "Dimensionalsycnfixes",
+      "filename": "dimensionalsycnfixes-1.20.1-0.0.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/dimensionalsycnfixes-1.20.1-0.0.1.jar",
+      "sha256": "b84db403ae5ecfee0886ed00ecff221bfe01de2f39dad47b8d470516abdaac15",
+      "required": true,
+      "side": "both",
+      "version": "0.0.1"
     }
   ],
   "configFiles": []
