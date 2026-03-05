@@ -845,6 +845,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "89bccb25-d8e0-49bb-93dc-0fe4b2eed710",
+      "name": "Cupboard",
+      "filename": "cupboard-1.20.1-3.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/cupboard-1.20.1-3.0.jar",
+      "sha256": "b3a6022e9648581d79098c65861691743e789be67e329b34b56eba4c4b982764",
+      "required": true,
+      "side": "both",
+      "version": "3.0"
     }
   ],
   "configFiles": []
