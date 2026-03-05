@@ -6412,6 +6412,11 @@
       "path": "configs/immersive_aircraft.json",
       "sha256": "126bf93c76ee071685685cf3523ecb60dd7fc648d6eb5fae70ad697681757e48",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/immersive_aircraft.json"
+    },
+    {
+      "path": "configs/immersive_melodies.json",
+      "sha256": "e5b5b37136438a45f042be10b07ac7632a4c5a63f39e55208be9cacefbab648a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/immersive_melodies.json"
     }
   ]
 }
