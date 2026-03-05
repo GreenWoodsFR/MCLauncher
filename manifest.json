@@ -2805,6 +2805,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1_forge"
+    },
+    {
+      "id": "7b6a94c9-685c-4b6f-95eb-5e1c24caef66",
+      "name": "Iceberg",
+      "filename": "Iceberg-1.20.1-forge-1.1.25.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Iceberg-1.20.1-forge-1.1.25.jar",
+      "sha256": "91ad6b459e0c7a16a9f3dc90230248a696600ceec6646aa23263559b8648dbc3",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
