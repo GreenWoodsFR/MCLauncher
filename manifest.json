@@ -1755,6 +1755,16 @@
       "required": true,
       "side": "both",
       "version": "84.1"
+    },
+    {
+      "id": "dd3b720f-2ea6-43d4-a3a8-bacceaa84ebb",
+      "name": "Paxi",
+      "filename": "Paxi-1.20-Forge-4.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Paxi-1.20-Forge-4.0.jar",
+      "sha256": "dd18dd9696d099137b170076676e8411e3d8385af15941f68472f21167266f1a",
+      "required": true,
+      "side": "both",
+      "version": "4.0"
     }
   ],
   "configFiles": []
