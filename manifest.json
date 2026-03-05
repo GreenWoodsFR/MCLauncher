@@ -5277,6 +5277,11 @@
       "path": "configs/Obscuria/aquamirae-common.toml",
       "sha256": "fe135b7cc515c930335ff2e2a279f2f5b50851746e13bc2aded629abc38e04d0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Obscuria/aquamirae-common.toml"
+    },
+    {
+      "path": "configs/Obscuria/obscure-api-client.toml",
+      "sha256": "90b60c01677fe0899e1b1fbf0deb8aba975f3540a0abb979a1c9aa7760930fe2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Obscuria/obscure-api-client.toml"
     }
   ]
 }
