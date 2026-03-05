@@ -4267,6 +4267,11 @@
       "path": "configs/bettercombat/client.json5",
       "sha256": "8b11818b19f97decfcb119cce4038bfe28e83fbf3d2173a5472df678fce1a842",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bettercombat/client.json5"
+    },
+    {
+      "path": "configs/biomesoplenty/biome_toggles.json",
+      "sha256": "6184168c00c4f45e874e0043304992c67beb5d5306e6150dec4f79dd4dd24b71",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/biomesoplenty/biome_toggles.json"
     }
   ]
 }
