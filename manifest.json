@@ -4512,6 +4512,11 @@
       "path": "configs/ftbquests/quests/chapters/vigneron.snbt",
       "sha256": "da1acfc36a7ffbda12f1ad137e266c5d202d941cb68d9089e5f4cbaebd13f272",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/vigneron.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/dragons.snbt",
+      "sha256": "d6a86f0e12a366048946500ea3b17259d95853968448433136aee5ea51224a34",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/dragons.snbt"
     }
   ]
 }
