@@ -1565,6 +1565,16 @@
       "required": true,
       "side": "both",
       "version": "2.25.1"
+    },
+    {
+      "id": "3001b62c-383b-43e1-9801-752f3cb4132d",
+      "name": "Mowziesmobs",
+      "filename": "mowziesmobs-1.7.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/mowziesmobs-1.7.3.jar",
+      "sha256": "4d54374808bb4c91dc2660d67a2558dd4a79eb56ae4eeeec4e4d7446973cb0ba",
+      "required": true,
+      "side": "both",
+      "version": "1.7.3"
     }
   ],
   "configFiles": []
