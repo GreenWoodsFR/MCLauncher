@@ -6597,6 +6597,11 @@
       "path": "configs/mowziesmobs-common.toml",
       "sha256": "57247631f0428b515892290ce00491bd77f9813020be8aa57881be0df32ec75d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mowziesmobs-common.toml"
+    },
+    {
+      "path": "configs/naturalist.json",
+      "sha256": "022aeb6c92073255d6ad01f0f47eecf574bcb19aa9bc9d8d11eeae1479079226",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/naturalist.json"
     }
   ]
 }
