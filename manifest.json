@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/flywheel-client.toml",
-      "sha256": "91830a62c24898b197ea5a244924e8b9388bd72c50e4ba4e91efa21264168716",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/flywheel-client.toml"
-    },
-    {
       "path": "configs/fml.toml",
       "sha256": "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fml.toml"
