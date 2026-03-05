@@ -4477,6 +4477,11 @@
       "path": "configs/ftbquests/quests/chapters/instruments.snbt",
       "sha256": "80559e144573aea9ff5363d06ab2ef155a3a6e6ab484a2f2c05ed8840449acd3",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/instruments.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/samurai_dynasty.snbt",
+      "sha256": "b1544e331868ff987460a96843ca705ae8f7598c8f0ec442c7deb8b061773045",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/samurai_dynasty.snbt"
     }
   ]
 }

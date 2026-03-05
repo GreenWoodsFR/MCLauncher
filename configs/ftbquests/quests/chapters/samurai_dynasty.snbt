@@ -1,0 +1,499 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "samurai_dynasty"
+	group: "0C887D22E21FDFB7"
+	icon: {
+		Count: 1
+		id: "samurai_dynasty:red_samurai_helmet"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4CFC3649448669F5"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "441D8AC47E16766B"
+			tasks: [{
+				id: "0CE31DF5AA6EE02A"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:iron_ninja_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			id: "58DFA0B8C9795951"
+			tasks: [{
+				id: "60C4796F22BAA3EA"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:iron_ninja_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			id: "1414758B534BDECD"
+			tasks: [{
+				id: "6B27FEFD1DFEBC5C"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:iron_ninja_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.0d
+		}
+		{
+			id: "2C6625AC1FE64635"
+			tasks: [{
+				id: "299FA89A0F8860D1"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:steel_ninja_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "7DE38D5E329240FD"
+			tasks: [{
+				id: "5019ECC2B1493F9F"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:steel_ninja_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+		{
+			id: "3AE4D7B447037EDB"
+			tasks: [{
+				id: "1641AA970FDDDE8F"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:steel_ninja_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "4E7DEFF48E27BDEB"
+			tasks: [{
+				id: "722F07EBD46182F2"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:gold_ninja_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			id: "4623C9952C76EABE"
+			tasks: [{
+				id: "5D47227CD7C0043B"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:gold_ninja_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			id: "48999E5AFDF2B949"
+			tasks: [{
+				id: "5AF4327D2A576A0F"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:gold_ninja_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.0d
+		}
+		{
+			id: "3E58D89DE1A014C4"
+			tasks: [{
+				id: "186B7B0E2CC3AB8E"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:diamond_ninja_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			id: "109EEC9027AA11F0"
+			tasks: [{
+				id: "3001719023DCB46E"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:diamond_ninja_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			id: "3395638733921CAB"
+			tasks: [{
+				id: "36F78818D3C01E27"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:diamond_ninja_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.0d
+		}
+		{
+			id: "34512A6714C292F9"
+			tasks: [{
+				id: "3DF0082EEC03E979"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:netherite_ninja_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			id: "7B8BF20C00C33FBB"
+			tasks: [{
+				id: "4CE5873B5443C174"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:netherite_ninja_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			id: "7C82AAB7F44570FB"
+			tasks: [{
+				id: "256D4EE3438D0656"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:netherite_ninja_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "65C04139FA4D7C9F"
+			tasks: [{
+				id: "4FF104C0EF072E86"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:ninja_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			id: "16B4236EAC34BDF6"
+			tasks: [{
+				id: "63EB15F36F0DC193"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:kimono"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			id: "0E027B739A4EE6D6"
+			tasks: [{
+				id: "4A62B9A3F7DB78E3"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:straw_hat"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			id: "4D3E180B0A9544D3"
+			tasks: [{
+				id: "1AB05DC895332EEE"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:mage_samurai_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "5434D97AB1707B03"
+			tasks: [{
+				id: "1AF10D1C2963817D"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:mage_samurai_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "0330D09FC1ABF668"
+			tasks: [{
+				id: "1145CB8C455B2FBC"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:mage_samurai_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			id: "387C8E1890443E32"
+			tasks: [{
+				id: "219657F293FC6B45"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:mage_samurai_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: -5.0d
+		}
+		{
+			id: "776F847A8595383D"
+			tasks: [{
+				id: "78B7A187E8665B4D"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:sculk_samurai_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -5.0d
+		}
+		{
+			id: "23FFCA60E7E87556"
+			tasks: [{
+				id: "728A98ED14DFF3CE"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:neptunium_samurai_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -4.0d
+		}
+		{
+			id: "1A466198ECB9AB47"
+			tasks: [{
+				id: "290D67622BEADA78"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:neptunium_samurai_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -3.0d
+		}
+		{
+			id: "0D0C13DD52C8A3B0"
+			tasks: [{
+				id: "0295E37BC2DF521D"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:neptunium_samurai_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: -2.0d
+		}
+		{
+			id: "4BCB04C907B2AF79"
+			tasks: [{
+				id: "1B8B2A361B8A2E26"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:sculk_samurai_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "72E7118F6D93226F"
+			tasks: [{
+				id: "1EE1707E09BD3E10"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:sculk_samurai_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "47D4450C4DE8476A"
+			tasks: [{
+				id: "1B32B7CB0F308795"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:sculk_samurai_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			id: "4EB636157C87DB6E"
+			tasks: [{
+				id: "7F9B61291FAD3F9E"
+				item: {
+					Count: 1
+					id: "samurai_dynasty:sculk_samurai_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: -5.0d
+		}
+	]
+	title: " &cSamurai Dynasty"
+}
