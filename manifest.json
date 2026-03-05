@@ -1365,6 +1365,16 @@
       "required": true,
       "side": "both",
       "version": "2.3.2"
+    },
+    {
+      "id": "554017a3-0bc7-4f8b-8b93-3f07af8152d6",
+      "name": "Mcw Bridges",
+      "filename": "mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/mcw-bridges-3.1.2-mc1.20.1forge.jar",
+      "sha256": "95c5aae4e82758d5c0ca2ba61c4cf72e9240e53f68befe8104c68fa9f9b19eed",
+      "required": true,
+      "side": "both",
+      "version": "mc1.20.1forge"
     }
   ],
   "configFiles": []
