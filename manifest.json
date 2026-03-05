@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/astikorcarts-common.toml",
-      "sha256": "675b1722c214c4434db25850d08b9c903f8b3e1a7b9b3eb1e7b5f84351a3ef90",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/astikorcarts-common.toml"
-    },
-    {
       "path": "configs/attributeslib.cfg",
       "sha256": "fe85b449a9f8e1b5b74799822840aedfb5e2b8e269cbb1503f6d4c12a7a47fe7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/attributeslib.cfg"
