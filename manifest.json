@@ -5092,6 +5092,11 @@
       "path": "configs/ftbquests/quests/reward_tables/mana_materials.snbt",
       "sha256": "b5806ba40c95c2a97aa4500bed40770ffac933caa39743e2e5a845364b429127",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/mana_materials.snbt"
+    },
+    {
+      "path": "configs/fzzy_config/keybinds.toml",
+      "sha256": "6405aeb7dbb69bed591c2eb6d6ca5a24dfffb0f01425b6026df4afd3aaf56826",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fzzy_config/keybinds.toml"
     }
   ]
 }
