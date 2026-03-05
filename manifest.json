@@ -6,11 +6,5 @@
   "releaseDate": "2026-03-05T01:21:04.105Z",
   "changelog": "Add a server for testing",
   "mods": [],
-  "configFiles": [
-    {
-      "path": "configs/ad_astra.jsonc",
-      "sha256": "52e9c20de34fd2fd4c0410697538922c8a63591da58117c40c88c681e08f7264",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra.jsonc"
-    }
-  ]
+  "configFiles": []
 }
