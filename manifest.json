@@ -4767,6 +4767,11 @@
       "path": "configs/ftbquests/quests/reward_tables/random_tier_1_glyph.snbt",
       "sha256": "1ff8f9201c83abfcf70f348f8e2d6f61dd1f77d6b74cb97b4d72ae61b0b90bee",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/random_tier_1_glyph.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/refined_storage_parts.snbt",
+      "sha256": "553d0c6c8f1f77aec058ca944361c688f677b4148b2f788c3dce1a8834a7f592",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/refined_storage_parts.snbt"
     }
   ]
 }
