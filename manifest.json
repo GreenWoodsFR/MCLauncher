@@ -7897,6 +7897,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl",
       "sha256": "3b9a37d45eaa261c88939adffde740e3f37dfd4fdc48620c98f91e21bd4f7e86",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/netheriteBlock.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/stone.glsl",
+      "sha256": "28529a13fe927b0c816ccb443ae6fb3a3e7f52f0d1414c35b6d4ac2afa03626f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/stone.glsl"
     }
   ]
 }
