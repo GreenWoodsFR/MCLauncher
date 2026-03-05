@@ -5367,6 +5367,11 @@
       "path": "configs/raccompat/relics/desolate_pendant.yaml",
       "sha256": "411fa9401dc6dc8cd1a9eedadfa44341e652aed4de98c11c06a59cf4a3f2ad6a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/raccompat/relics/desolate_pendant.yaml"
+    },
+    {
+      "path": "configs/raccompat/relics/acid_walker.yaml",
+      "sha256": "f69c9621a3b5a15a971254285f0270fa2cc40338db4ad1c8707dd18a78d8171f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/raccompat/relics/acid_walker.yaml"
     }
   ]
 }
