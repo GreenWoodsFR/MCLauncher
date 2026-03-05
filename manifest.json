@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/creeperoverhaul.jsonc",
-      "sha256": "9d870b28f9a1479f952f258f7f01aebceb17fdc78c23014469c8ac055fad9bbb",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/creeperoverhaul.jsonc"
-    },
-    {
       "path": "configs/cull-less-leaves.json",
       "sha256": "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cull-less-leaves.json"
