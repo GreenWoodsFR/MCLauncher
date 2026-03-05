@@ -3547,6 +3547,11 @@
       "path": "configs/alexsmobs/fly_spawns.json",
       "sha256": "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/fly_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/lobster_spawns.json",
+      "sha256": "bb0c918e8dbd4d003417a1bcabb38b8433d1f9be95fe6f8feef95d30616b49a7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/lobster_spawns.json"
     }
   ]
 }
