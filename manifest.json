@@ -5907,6 +5907,11 @@
       "path": "configs/badoptimizations.txt",
       "sha256": "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/badoptimizations.txt"
+    },
+    {
+      "path": "configs/balm-client.toml",
+      "sha256": "76d9b5b7ec7c755c78d7047cb0e0bf5e318bb375a8fcdf3aef3cd335b2a008bf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/balm-client.toml"
     }
   ]
 }
