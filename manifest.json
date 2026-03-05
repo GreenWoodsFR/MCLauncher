@@ -1185,6 +1185,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "eda0dd7f-255b-4c5a-bfcd-cae78ceb8fda",
+      "name": "FarmersStructures",
+      "filename": "FarmersStructures-1.0.4-1.20.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/FarmersStructures-1.0.4-1.20.jar",
+      "sha256": "f2b928394535398a609ec91858fbc63d2233fa957db83fda3372eefa645d02df",
+      "required": true,
+      "side": "both",
+      "version": "1.0.4"
     }
   ],
   "configFiles": []
