@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/jeresources.toml",
-      "sha256": "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jeresources.toml"
-    },
-    {
       "path": "configs/kiwi-client.yaml",
       "sha256": "a7368041a56ef4a8677971c7aa73991a62d923f4c1d991cfa032b2797e3d557d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/kiwi-client.yaml"
