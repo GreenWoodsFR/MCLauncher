@@ -2660,7 +2660,7 @@
       "id": "dd0098d9-6236-413b-a9ef-c0e1ca65ed7e",
       "name": "Yet Another Config Lib V3",
       "filename": "yet_another_config_lib_v3-3.6.6+1.20.1-forge.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/yet_another_config_lib_v3-3.6.6%2B1.20.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/yet_another_config_lib_v3-3.6.6_1.20.1-forge.jar",
       "sha256": "bd05da3d9df29b914165583f1c6dfd918a138996447ff32c0418329824027a8f",
       "required": true,
       "side": "both",
