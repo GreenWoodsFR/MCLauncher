@@ -7767,6 +7767,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl",
       "sha256": "e00a16f8f594173e6c486e72233e8be876b3c00f847abe063e1d26d1186f89ba",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/planks/warpedPlanks.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl",
+      "sha256": "8fb9152f6b6618d3786a397c82a75800e742e4afb2545aab0be2ec6f8aa2ab02",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/entities/itemFrame.glsl"
     }
   ]
 }
