@@ -2625,6 +2625,16 @@
       "required": true,
       "side": "both",
       "version": "14.1.20"
+    },
+    {
+      "id": "88e63c25-0802-47c3-9da9-f1b7f87960a6",
+      "name": "Whisperwoods",
+      "filename": "whisperwoods-1.20.1-2.1.2-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/whisperwoods-1.20.1-2.1.2-forge.jar",
+      "sha256": "211f99245543494e063ce64a8d4f964a0999df6adb53304d259d97413406358c",
+      "required": true,
+      "side": "both",
+      "version": "2.1.2"
     }
   ],
   "configFiles": []
