@@ -3267,6 +3267,11 @@
       "path": "configs/alexscaves_biome_generation/forlorn_hollows.json",
       "sha256": "5eea375f709ff5d7096b51fdc32b671952e1d2aed9f48c9bd9bc8e50ec2cb7f7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves_biome_generation/forlorn_hollows.json"
+    },
+    {
+      "path": "configs/alexscaves_biome_generation/primordial_caves.json",
+      "sha256": "f0e2da7cf5d77abef1bd270cb7c288e3f57c001005fe41e11d545d948b06474d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves_biome_generation/primordial_caves.json"
     }
   ]
 }
