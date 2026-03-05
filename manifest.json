@@ -6882,6 +6882,11 @@
       "path": "configs/sophisticatedcore-client.toml",
       "sha256": "3175ac14ac1da55ba706d1f0321c0b5620cd968a381e60323b283778e7b6d9e6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedcore-client.toml"
+    },
+    {
+      "path": "configs/sophisticatedcore-common.toml",
+      "sha256": "edb07e2062d0791731f535f2521a8aac393ea864c53d2a300c3de5acb288e12d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedcore-common.toml"
     }
   ]
 }
