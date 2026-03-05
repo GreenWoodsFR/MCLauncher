@@ -3257,5 +3257,1066 @@
       "version": "0.2.7"
     }
   ],
-  "configFiles": []
+  "configFiles": [
+    {
+      "path": "configs/accessories.json5",
+      "sha256": "d459b76d2a92b8770584a407f8bfc6570cc17923e95c32e23d083fe14505e60d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/accessories.json5"
+    },
+    {
+      "path": "configs/advancednetherite-client.toml",
+      "sha256": "228f901e5c0b87acb48dd1f7bfe7c53cf5cc38fa06a59155efb70c59b035dbec",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/advancednetherite-client.toml"
+    },
+    {
+      "path": "configs/advancednetherite-common.toml",
+      "sha256": "74262502043c0b5e1e57d549981efbe4123be357a130f385979a9b6adb70138b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/advancednetherite-common.toml"
+    },
+    {
+      "path": "configs/ad_astra-client.jsonc",
+      "sha256": "eff1be886673bc30e4dde7030f6970915c5c1c648d671f81bae5c941025705b3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra-client.jsonc"
+    },
+    {
+      "path": "configs/ad_astra.jsonc",
+      "sha256": "52e9c20de34fd2fd4c0410697538922c8a63591da58117c40c88c681e08f7264",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra.jsonc"
+    },
+    {
+      "path": "configs/ad_astra_giselle_addon.ver2.jsonc",
+      "sha256": "2899c558017ff0a6a78862c0e835728883a644f1ecfb1b53f94bb48c4fb0fe38",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra_giselle_addon.ver2.jsonc"
+    },
+    {
+      "path": "configs/alexscaves-client.toml",
+      "sha256": "4c146ba6e12b1bdc2259f9bb8ee48ffc20719b8c506726e1c736eccc99c94758",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves-client.toml"
+    },
+    {
+      "path": "configs/alexscaves-general.toml",
+      "sha256": "232e6e03c16b2d664ffbca9014dc72da2ff952b514d514087288fda1237dbaed",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves-general.toml"
+    },
+    {
+      "path": "configs/alexsmobs.toml",
+      "sha256": "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs.toml"
+    },
+    {
+      "path": "configs/amendments-client.toml",
+      "sha256": "d3da91b22bb5164c828ea6f1e9827949f04fecb593537a8e90e0e6526d141ada",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/amendments-client.toml"
+    },
+    {
+      "path": "configs/amendments-common.toml",
+      "sha256": "0d4e08dea3a3e63f939173b208f12495f82be861ffaa0df03c26c1871297787a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/amendments-common.toml"
+    },
+    {
+      "path": "configs/appleskin-client.toml",
+      "sha256": "b477c8c493b28366a6b282f29f46c9415e3a4a2a23fff6e09331644c435dfd48",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/appleskin-client.toml"
+    },
+    {
+      "path": "configs/armoroftheages.json",
+      "sha256": "f2dbf451aeee6ce337c1ccd1b48c0e4ef9683e5b9d9900409559780470429b07",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/armoroftheages.json"
+    },
+    {
+      "path": "configs/arsdelight-common.toml",
+      "sha256": "32e9131fd4d0bf15c09db2ee529e725b7f5e6b536472836d568cbf0ee200cdd5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/arsdelight-common.toml"
+    },
+    {
+      "path": "configs/ars_additions-common.toml",
+      "sha256": "0f9e3d26d08ece8e030a4007ca2bcdea1cc59902b11adfc494e2bc72bad85c40",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_additions-common.toml"
+    },
+    {
+      "path": "configs/ars_nouveau-client.toml",
+      "sha256": "7d488ee9338e0cd7e8b592d53613e4195c314df4d760eb35badc6bd98f5155aa",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau-client.toml"
+    },
+    {
+      "path": "configs/ars_nouveau-common.toml",
+      "sha256": "057319b3e47540397d68af85904fc79d64492fbb992fb9bd153a9aa86c1ca198",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau-common.toml"
+    },
+    {
+      "path": "configs/astikorcarts-common.toml",
+      "sha256": "675b1722c214c4434db25850d08b9c903f8b3e1a7b9b3eb1e7b5f84351a3ef90",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/astikorcarts-common.toml"
+    },
+    {
+      "path": "configs/attributeslib.cfg",
+      "sha256": "fe85b449a9f8e1b5b74799822840aedfb5e2b8e269cbb1503f6d4c12a7a47fe7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/attributeslib.cfg"
+    },
+    {
+      "path": "configs/autoleveling-common.toml",
+      "sha256": "39c542d46223b99300064dc199e0bfd0e789e1229a4b9b6fa554b6c96d6bbe50",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/autoleveling-common.toml"
+    },
+    {
+      "path": "configs/azurelib.json",
+      "sha256": "0e16b69d8ff953294280e955969f24aa49d2dd19cbc8eeab166715a7dd969e43",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/azurelib.json"
+    },
+    {
+      "path": "configs/badoptimizations.txt",
+      "sha256": "cae5ba66971b2f61e0b523c5aeb8b8d4fa806f0bea8a1709860e4fea94426ac9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/badoptimizations.txt"
+    },
+    {
+      "path": "configs/barteringstation-client.toml",
+      "sha256": "284ee1c6a5a7bdce7cccb40f818c89f66c51c95d45fc81201c537715c9e5becb",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/barteringstation-client.toml"
+    },
+    {
+      "path": "configs/beachparty.toml",
+      "sha256": "5c808677268b0abe456c152cdac2be0f664e31a52b47b43c1a504048c42df7ec",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/beachparty.toml"
+    },
+    {
+      "path": "configs/betteradvancements-client.toml",
+      "sha256": "2c5eba79cde20bd1658a43dc0527e5d45b2e462d2f065e228527eee8513446be",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/betteradvancements-client.toml"
+    },
+    {
+      "path": "configs/betterarcheology-common.toml",
+      "sha256": "b2729a5916c5aac214f67337d1d38ee7767e1e14b7f2dcb7b7371a9509829a96",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/betterarcheology-common.toml"
+    },
+    {
+      "path": "configs/betterfpsdist.json",
+      "sha256": "7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/betterfpsdist.json"
+    },
+    {
+      "path": "configs/bettergrass.json5",
+      "sha256": "7f2edb6c63c513d0ff5f6b216da7cc1394da4f07c192ceab805bc3ead56cc798",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bettergrass.json5"
+    },
+    {
+      "path": "configs/blueprint-client.toml",
+      "sha256": "89ef9f568d793018db983b9f944e85876a4cebd408f8f4d2182b3c38fa44ef7e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/blueprint-client.toml"
+    },
+    {
+      "path": "configs/blueprint-common.toml",
+      "sha256": "468c5e98de57915c1fbc04f24934723184bfaff4d08f666ed8a8b4bdce894a25",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/blueprint-common.toml"
+    },
+    {
+      "path": "configs/bocchium-client.toml",
+      "sha256": "370a54a12bcaf2d51c042af862de924e9d89bfb3051337b824171ff3f54ece5b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bocchium-client.toml"
+    },
+    {
+      "path": "configs/bosses_of_mass_destruction.json5",
+      "sha256": "a4522dbaee6d5d4532a3b55906a2a2740424be53ec215c70fbb8931165e81121",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bosses_of_mass_destruction.json5"
+    },
+    {
+      "path": "configs/Butchery.toml",
+      "sha256": "4d89dd7faea0e7e15f6176dcc5da1486aed28d86ce746ca537ed8491dc643d54",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Butchery.toml"
+    },
+    {
+      "path": "configs/camera-client.toml",
+      "sha256": "d192832f5a2fc4b0ed9b942adfce0ffafd75d5286e45da25aa3bf3c8a30ef3f8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/camera-client.toml"
+    },
+    {
+      "path": "configs/carryon-client.toml",
+      "sha256": "eb247bd22d2ae144c4cb1a2f24862e6aeb1467167d36112258ad36b6da0597db",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/carryon-client.toml"
+    },
+    {
+      "path": "configs/carryon-common.toml",
+      "sha256": "9c31f7f00ebe4025a6a11ee6257fe672b57866f7ec6206f97656b6cdf095b0b1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/carryon-common.toml"
+    },
+    {
+      "path": "configs/cataclysm.toml",
+      "sha256": "17df889cad289cb39df627c11bf1cc827f64705d231275d94817163128ac29b8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cataclysm.toml"
+    },
+    {
+      "path": "configs/charmofundying-server.toml",
+      "sha256": "e4c5841a10d5024f4ee31cf46b201233a385aaf9badf314d9ebded3feb12d356",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/charmofundying-server.toml"
+    },
+    {
+      "path": "configs/chat_heads.json5",
+      "sha256": "e198750061411cf7fca624e38b894ca104ca2cf2c2940da0409ce4240dcc2503",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chat_heads.json5"
+    },
+    {
+      "path": "configs/chefsdelight-common.toml",
+      "sha256": "e82c9444a81f9378e1f497c27863f7a774529011453ff0c7c37d6121974629c4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chefsdelight-common.toml"
+    },
+    {
+      "path": "configs/chloride-client.json",
+      "sha256": "ed8c75900f5811e00e50f28f736fbe298e1779831fe068c4ca1e6f6dacd8873f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/chloride-client.json"
+    },
+    {
+      "path": "configs/citadel-common.toml",
+      "sha256": "3fcd8013137a86c00953d4be1e56945b84b87594be722bbf3b3be8d752e2577f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/citadel-common.toml"
+    },
+    {
+      "path": "configs/collective.json5",
+      "sha256": "b6243b955bf123f86c947510d9f8f3a4b5f7b8fe3775d834f458d60a3223847f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/collective.json5"
+    },
+    {
+      "path": "configs/comforts-server.toml",
+      "sha256": "24702276d0b1d6f7b5e94b4b34cbc5bd426c524a31bc005231324fc1b7976438",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/comforts-server.toml"
+    },
+    {
+      "path": "configs/comicsbubbleschat-client.toml",
+      "sha256": "aaea689a5d50759ab7024bb15ef253b78cea7694f7b146538fc30f293f267c32",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/comicsbubbleschat-client.toml"
+    },
+    {
+      "path": "configs/configapi-client.cfg",
+      "sha256": "14e1e1b3f37969610c80777f3e2c6d4cd351757257f709ed6bb0e92a6822a403",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/configapi-client.cfg"
+    },
+    {
+      "path": "configs/configapi-common.cfg",
+      "sha256": "47b3bc6ae4c5d9acb7180aae1e572cd8094e377f9d66d1d79c85cc5aa6f8dc19",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/configapi-common.cfg"
+    },
+    {
+      "path": "configs/configured-client.toml",
+      "sha256": "0b2537ac36e57824caf66e589bb532f0801b99d02ac08545739af3709bf84e10",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/configured-client.toml"
+    },
+    {
+      "path": "configs/cosmeticarmorreworked-client.toml",
+      "sha256": "1f09257bc11babe19b5e78bce02ed7dcade4efab2a9353008bacb96ddd6bd75f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cosmeticarmorreworked-client.toml"
+    },
+    {
+      "path": "configs/cosmeticarmorreworked-common.toml",
+      "sha256": "ad632cac4e88a5138ae60ff7304bb3586eb93e9d3b34f241e5d532c1e5d19e7e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cosmeticarmorreworked-common.toml"
+    },
+    {
+      "path": "configs/create-client.toml",
+      "sha256": "7c40bc004ba478b13d0c99c2b644e50cf3a1d2d60d9b40df15822da8d8ad710c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/create-client.toml"
+    },
+    {
+      "path": "configs/create-common.toml",
+      "sha256": "36a4d9f5da68f6801b83ce0c4a1a8805fbeffb0dd997f2d405465d7774522296",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/create-common.toml"
+    },
+    {
+      "path": "configs/creeperoverhaul.jsonc",
+      "sha256": "9d870b28f9a1479f952f258f7f01aebceb17fdc78c23014469c8ac055fad9bbb",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/creeperoverhaul.jsonc"
+    },
+    {
+      "path": "configs/cull-less-leaves.json",
+      "sha256": "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cull-less-leaves.json"
+    },
+    {
+      "path": "configs/cupboard.json",
+      "sha256": "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cupboard.json"
+    },
+    {
+      "path": "configs/curios-client.toml",
+      "sha256": "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/curios-client.toml"
+    },
+    {
+      "path": "configs/curios-common.toml",
+      "sha256": "5fe808869d46a4b80e1191fbe40f40a4d63987beda0eaeb2d89b909a990ea2ea",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/curios-common.toml"
+    },
+    {
+      "path": "configs/defaultoptions-common.toml",
+      "sha256": "3c6307abe209aeab5c7ae65e011e1460d59826bde479b284c297f876cbb07355",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/defaultoptions-common.toml"
+    },
+    {
+      "path": "configs/delightful-common.toml",
+      "sha256": "fbbfd0e432a04d5da02ff6bf28cad4ab768b2dd1779130feee6acb6bebda41f9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/delightful-common.toml"
+    },
+    {
+      "path": "configs/dummmmmmy-client.toml",
+      "sha256": "c93c6b60b9a04fcddf56f72c4063d504f438dcf1e4da5d51feb06f2e4e6abead",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dummmmmmy-client.toml"
+    },
+    {
+      "path": "configs/dummmmmmy-common.toml",
+      "sha256": "951f25df08b8ba7c1f353d225f503ee103fff7df85eb8570dd68e877b217587a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dummmmmmy-common.toml"
+    },
+    {
+      "path": "configs/Dusty Decorations Config.toml",
+      "sha256": "6c1d307e3bd6173700ddb173174cd4f6d6ce8226b94a0ef096456636ee98fa81",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Dusty Decorations Config.toml"
+    },
+    {
+      "path": "configs/dynamic_fps.json",
+      "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dynamic_fps.json"
+    },
+    {
+      "path": "configs/easyanvils-client.toml",
+      "sha256": "daecf2f4b4f0f6682cfabf68dcb963535f7f4284c671141dd7c7115b0c609ba7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/easyanvils-client.toml"
+    },
+    {
+      "path": "configs/easymagic-client.toml",
+      "sha256": "187085002566bc0ad0bd0262459f92716261ae66c3b96147096a5a4ef7a25abf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/easymagic-client.toml"
+    },
+    {
+      "path": "configs/ecologics-common.toml",
+      "sha256": "7bb311976775a0d5a703fbeabfadc2f27adb0a610f1568f1e8e402f5ff4bd5fb",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ecologics-common.toml"
+    },
+    {
+      "path": "configs/embeddium-fingerprint.json",
+      "sha256": "368786b71c9dce9eac53561defae23f17134af2ff5170c93e96e5ee331ad1173",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/embeddium-fingerprint.json"
+    },
+    {
+      "path": "configs/embeddium-mixins.properties",
+      "sha256": "09ff183e061d93b79514bc171bf9118497578757e7a5c45946039487656e2619",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/embeddium-mixins.properties"
+    },
+    {
+      "path": "configs/embeddium-options.json",
+      "sha256": "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/embeddium-options.json"
+    },
+    {
+      "path": "configs/emotecraft.json",
+      "sha256": "2fa623d32f4875832b34c7464d53a9686701ba0457336e9b008fcf40bd9e3411",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emotecraft.json"
+    },
+    {
+      "path": "configs/emotecraft_emote_map.json",
+      "sha256": "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emotecraft_emote_map.json"
+    },
+    {
+      "path": "configs/enchantmenttransfer-common.toml",
+      "sha256": "7416d8a278c94ba928b4f5a3fb9f88f26222c84cf240c44f3843f1746284c817",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/enchantmenttransfer-common.toml"
+    },
+    {
+      "path": "configs/enchdesc.json",
+      "sha256": "69e1df6089b71c3c2fe2c7cf6760937094fd22434111f527229a9fcea3f90bc5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/enchdesc.json"
+    },
+    {
+      "path": "configs/endermanoverhaul-client.jsonc",
+      "sha256": "5d9315a8ce308b193ca880f5a782879c0f117861b08ccb38baed6d049e29b26a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/endermanoverhaul-client.jsonc"
+    },
+    {
+      "path": "configs/endermanoverhaul.jsonc",
+      "sha256": "9502aced0fb4379a4a5e72c484fb155ffcdf80aff96f8f88ed4a0111b42d9003",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/endermanoverhaul.jsonc"
+    },
+    {
+      "path": "configs/ends_delight-common.toml",
+      "sha256": "f4fc0c0f40bac8b5243141374a6df6eabc993ecd989559ffe8b9fd908bf46982",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ends_delight-common.toml"
+    },
+    {
+      "path": "configs/entityculling.json",
+      "sha256": "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entityculling.json"
+    },
+    {
+      "path": "configs/entity_model_features.json",
+      "sha256": "5ba15e6be08f7af62d0776ce1a570033d53e1be14fb5d573f22a6f7c76c8a52f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entity_model_features.json"
+    },
+    {
+      "path": "configs/entity_texture_features.json",
+      "sha256": "d8d72a9ac49bbe45921f1ace5a22c30b65802c5e70829343cf7acfd25f79b8dc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/entity_texture_features.json"
+    },
+    {
+      "path": "configs/etf_warnings.json",
+      "sha256": "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/etf_warnings.json"
+    },
+    {
+      "path": "configs/explorerscompass-client.toml",
+      "sha256": "eaaa7a0af68a2b00a557d5df97191c80c996042cc33cc53eccd14e78431bff28",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/explorerscompass-client.toml"
+    },
+    {
+      "path": "configs/explorerscompass-common.toml",
+      "sha256": "1646a67e28d5353d25354d7242ab099d147897e8e0a6f7f99a4bf4c7ae224462",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/explorerscompass-common.toml"
+    },
+    {
+      "path": "configs/fairylights-client.toml",
+      "sha256": "cad5874b33ea848d77bd11f0a7d78b2d0ecbb05cad6d4451d702cc357c37d33e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fairylights-client.toml"
+    },
+    {
+      "path": "configs/fairylights-common.toml",
+      "sha256": "61078cc778b4049c259a0bc2e1ba809306e39cc90dffd59c6f9855aabacd52e0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fairylights-common.toml"
+    },
+    {
+      "path": "configs/fallingleaves-client.toml",
+      "sha256": "2cd017af6632239398b694fadf8191d6073cf39585549876cc682843f521ecb3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fallingleaves-client.toml"
+    },
+    {
+      "path": "configs/fantasy_armor-armor_attributes.toml",
+      "sha256": "c506e01ccf4e53b8b993caad3cb2bcf577370e0d29488dfad551330cff650d8f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fantasy_armor-armor_attributes.toml"
+    },
+    {
+      "path": "configs/fantasy_armor-armor_effects.toml",
+      "sha256": "0c323f86f4f1ee682c5ded144a339c23ab4b3b6eaf6992b18c81f999bcfae581",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fantasy_armor-armor_effects.toml"
+    },
+    {
+      "path": "configs/fantasy_armor-common.toml",
+      "sha256": "7f72070cd79b91ad4e2da2f0ab211247cb25e925fe60db1bcd728758a2250106",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fantasy_armor-common.toml"
+    },
+    {
+      "path": "configs/farmersdelight-client.toml",
+      "sha256": "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farmersdelight-client.toml"
+    },
+    {
+      "path": "configs/farmersdelight-common.toml",
+      "sha256": "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farmersdelight-common.toml"
+    },
+    {
+      "path": "configs/farsight.json",
+      "sha256": "98a9f53e1e21247108a90e80b9cf4141fd7b432e219a262672ffedd5730afbab",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farsight.json"
+    },
+    {
+      "path": "configs/ferritecore-mixin.toml",
+      "sha256": "c164439c632aa7c95c07edec5cfef74b8e2d5671a8445a781deeb4de7ad0c8b6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ferritecore-mixin.toml"
+    },
+    {
+      "path": "configs/firstperson.json",
+      "sha256": "6d9d8a3708ccf453fb710f4e10591cedd4d1767acde97c7da7bbc2cd2c4d4101",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/firstperson.json"
+    },
+    {
+      "path": "configs/flerovium.json",
+      "sha256": "f8f7b6978ff358427c0e3ca886513abe22cbb782bdda63b1634fa6d304098ca6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/flerovium.json"
+    },
+    {
+      "path": "configs/flywheel-client.toml",
+      "sha256": "91830a62c24898b197ea5a244924e8b9388bd72c50e4ba4e91efa21264168716",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/flywheel-client.toml"
+    },
+    {
+      "path": "configs/fml.toml",
+      "sha256": "eb6e8b8eda9682889a83d55262ef96cf37153d58fe7f0fa5d5cb1da5d9f7dd9b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fml.toml"
+    },
+    {
+      "path": "configs/forge-client.toml",
+      "sha256": "0b1b3c45343435184c9dde3149b38afcdb97953e287686ecda54385f53ebcddc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/forge-client.toml"
+    },
+    {
+      "path": "configs/goblintraders-entities.toml",
+      "sha256": "0115a9877f8367e80a169d91a745cd4b8049cb0cd39e27ec86329c9efe7632de",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/goblintraders-entities.toml"
+    },
+    {
+      "path": "configs/guardvillagers-client.toml",
+      "sha256": "4160ba1a645a91f3b89c1fd3ed1a42d77007c19aa0183f7f19e080611a9cd449",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/guardvillagers-client.toml"
+    },
+    {
+      "path": "configs/guardvillagers-common.toml",
+      "sha256": "f590abaa906bc47b860a035be2492d028af7ad2042af7e0bebe91dcfc8f3ed62",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/guardvillagers-common.toml"
+    },
+    {
+      "path": "configs/hardcorerevival-common.toml",
+      "sha256": "a6dfdeca17db611fdcb5401894ce608d61ab730471b9ef14f7b666c497917e5d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/hardcorerevival-common.toml"
+    },
+    {
+      "path": "configs/healingcampfire.json5",
+      "sha256": "66cb4fa208703d9f68183988cc1d8bec10a9786683775e3c09da618bb59a35ae",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/healingcampfire.json5"
+    },
+    {
+      "path": "configs/herbalbrews.toml",
+      "sha256": "7c4ba324bf4778cd520d4b5ac36a1d475b45265e27f17ff70f8a1d7f53bbebcd",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/herbalbrews.toml"
+    },
+    {
+      "path": "configs/highlighter-common.toml",
+      "sha256": "22b7f87be30b7e3ce6fa3fe1cb588e8b3eae0bfc9ddc390ad346a1d1bbfebb4b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/highlighter-common.toml"
+    },
+    {
+      "path": "configs/hole_filler_mod.toml",
+      "sha256": "0ed61d9dfa8bef14afc67580eeecae6a4f6e6eca2f4b61fefd0dd81c0c720880",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/hole_filler_mod.toml"
+    },
+    {
+      "path": "configs/immediatelyfast.json",
+      "sha256": "f2b7f219198f0a911d04b09f545f2c1256e8d114951443924878dc10963e16aa",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/immediatelyfast.json"
+    },
+    {
+      "path": "configs/immersive_aircraft.json",
+      "sha256": "7e934f3c7ff3beaeb73d7242b68467fc62b779827c9cd3a79736fe79c93d4aec",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/immersive_aircraft.json"
+    },
+    {
+      "path": "configs/inventoryessentials-common.toml",
+      "sha256": "4ce24147be991d8010e9b22d2469f4a5a0ac38ae1946fbc72e2dc6e0061c6a07",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/inventoryessentials-common.toml"
+    },
+    {
+      "path": "configs/item_obliterator.json5",
+      "sha256": "554edb2ce54ce7f21ebede3d968d04551fc64fe1d4de5bdc30876dd5ebdf96b6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/item_obliterator.json5"
+    },
+    {
+      "path": "configs/jeresources-common.toml",
+      "sha256": "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jeresources-common.toml"
+    },
+    {
+      "path": "configs/jeresources.toml",
+      "sha256": "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jeresources.toml"
+    },
+    {
+      "path": "configs/kiwi-client.yaml",
+      "sha256": "a7368041a56ef4a8677971c7aa73991a62d923f4c1d991cfa032b2797e3d557d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/kiwi-client.yaml"
+    },
+    {
+      "path": "configs/kiwi-common.yaml",
+      "sha256": "be8ffd6a4ed69300864736280b44e2b537fef40ee69fcdf8687403d9a13b8014",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/kiwi-common.yaml"
+    },
+    {
+      "path": "configs/knightlib.toml",
+      "sha256": "be84c6ab344e0f0c0cbac1b2bed9d1204e4fca1206797bfc9032624f47f08740",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/knightlib.toml"
+    },
+    {
+      "path": "configs/knightquest.toml",
+      "sha256": "222f662bb600eaf2cff4e805429137a68c1fea0b592221406c67458975926a3f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/knightquest.toml"
+    },
+    {
+      "path": "configs/legendarytooltips-common.toml",
+      "sha256": "c51c5a927c1f59d9373c038aea225dc618647ac076a9142d25111c86feaab64e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarytooltips-common.toml"
+    },
+    {
+      "path": "configs/legendary_monsters-common.toml",
+      "sha256": "e7008a15fdba0b0e6b632e7ebe8a320e10c66bd5874ba3e55cf853abe9c89274",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendary_monsters-common.toml"
+    },
+    {
+      "path": "configs/libraryferret_1.properties",
+      "sha256": "c2abd581cdbb7949e3bc07acbecfa48b82e1558a962090a6e9dfe48739956c87",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/libraryferret_1.properties"
+    },
+    {
+      "path": "configs/lightsabers-common.toml",
+      "sha256": "ef0ed61c06e442984d6a0fe20e4e9963d0b397ce3ac399e1bc63f8ed5bd6b160",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lightsabers-common.toml"
+    },
+    {
+      "path": "configs/lithium.properties",
+      "sha256": "b87ee52fdc722ce1497e7ff55fdbd0660fc9df40c8f2f8167465cab55a388f0d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lithium.properties"
+    },
+    {
+      "path": "configs/lootr-client.toml",
+      "sha256": "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lootr-client.toml"
+    },
+    {
+      "path": "configs/lootr-common.toml",
+      "sha256": "8608b427ee774c20c04cdcd9044269bacd87d74c28497ca6c784a25286d4200f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lootr-common.toml"
+    },
+    {
+      "path": "configs/lunar-common.toml",
+      "sha256": "977abb09cb83e224cde27a9f2927b8e94a348fd4fcfc42e611a5f4b4bc4f0371",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lunar-common.toml"
+    },
+    {
+      "path": "configs/majruszlibrary.json",
+      "sha256": "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/majruszlibrary.json"
+    },
+    {
+      "path": "configs/majruszsenchantments.json",
+      "sha256": "156be9d53f7f4943b3ab7bc960930054431ff638f23b9eed0a556b0046641c91",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/majruszsenchantments.json"
+    },
+    {
+      "path": "configs/mastersword-common.toml",
+      "sha256": "d2147471f7f663d414bbf4d358dc30cb1b3aabd17ad609e3786306b7570867ea",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mastersword-common.toml"
+    },
+    {
+      "path": "configs/mermod-client.toml",
+      "sha256": "0559bc4522661cd02c7957cf6364a4b5bacc73eef4a42d99d57fb93303679bf1",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mermod-client.toml"
+    },
+    {
+      "path": "configs/midnightlib.json",
+      "sha256": "9bcdd9f5ae6c9fecc3a0dfee7507bf17c56702f14e40db9cdde90148f1d3b387",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/midnightlib.json"
+    },
+    {
+      "path": "configs/mobs_of_mythology.properties",
+      "sha256": "32c954f41de5be9d773e0de7a47c03e134204811acc38aa0b88f48f8d8a43012",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mobs_of_mythology.properties"
+    },
+    {
+      "path": "configs/modernfix-common.toml",
+      "sha256": "fad9aea710ec3508eab562cd8f2b5f8e2dda6ee1c5fb1fe818f90ce253017f66",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/modernfix-common.toml"
+    },
+    {
+      "path": "configs/modernfix-mixins.properties",
+      "sha256": "3553628f1b539f859fbe7c06e482cfec74ab66b1214bb0f713902f317b6f8fb7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/modernfix-mixins.properties"
+    },
+    {
+      "path": "configs/moonlight-client.toml",
+      "sha256": "47297d47ca3fa4525d1adbc7234b9b0dc2ee490b87216fe6002e34ff69acac08",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/moonlight-client.toml"
+    },
+    {
+      "path": "configs/moonlight-common.toml",
+      "sha256": "02cd35fbcc371cf63303ae1264ad9f4613b3f73ace93417af825baf7d3ac7baf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/moonlight-common.toml"
+    },
+    {
+      "path": "configs/morevillagers-common.toml",
+      "sha256": "8c01f6e1d4a19cdb19d6e21eee4430b984b988bcfe4ac21b5e9d31fbf1737002",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/morevillagers-common.toml"
+    },
+    {
+      "path": "configs/MouseTweaks.cfg",
+      "sha256": "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/MouseTweaks.cfg"
+    },
+    {
+      "path": "configs/mowziesmobs-client.toml",
+      "sha256": "b2ed15f55eb1b57f7e1b4a81b99edd02d98d9000d319d72d73caae13e5fc4cc4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mowziesmobs-client.toml"
+    },
+    {
+      "path": "configs/mowziesmobs-common.toml",
+      "sha256": "57247631f0428b515892290ce00491bd77f9813020be8aa57881be0df32ec75d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/mowziesmobs-common.toml"
+    },
+    {
+      "path": "configs/naturalist.json",
+      "sha256": "022aeb6c92073255d6ad01f0f47eecf574bcb19aa9bc9d8d11eeae1479079226",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/naturalist.json"
+    },
+    {
+      "path": "configs/naturescompass-client.toml",
+      "sha256": "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/naturescompass-client.toml"
+    },
+    {
+      "path": "configs/naturescompass-common.toml",
+      "sha256": "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/naturescompass-common.toml"
+    },
+    {
+      "path": "configs/necronomicon.json5",
+      "sha256": "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/necronomicon.json5"
+    },
+    {
+      "path": "configs/netheritehorsearmor-client.cfg",
+      "sha256": "c8d348244a9ca62a31bd47c18dad0768efee81042cc50e0d8bc0bc11f2403314",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/netheritehorsearmor-client.cfg"
+    },
+    {
+      "path": "configs/netheritehorsearmor-common.cfg",
+      "sha256": "56e2e39df2adbd97e491d5cd6ba0d210df87f34ba18b3a99ab0173886ca9a4bf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/netheritehorsearmor-common.cfg"
+    },
+    {
+      "path": "configs/notenoughanimations.json",
+      "sha256": "c04f4e87ff6c1e4b31d718d16580e0d82dbaa01e1f6556349eadbf1ef9297d71",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/notenoughanimations.json"
+    },
+    {
+      "path": "configs/oculus.properties",
+      "sha256": "aeff9db48e561acb49cfe2638eac390b3fbf7831f9c27ae9ed95c5dbbdd5cd40",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/oculus.properties"
+    },
+    {
+      "path": "configs/orcz_config_0.0.6.json",
+      "sha256": "e746103f223044dfb858bc3d001013ac22b525bf8c873ac63995841d619ae4f7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/orcz_config_0.0.6.json"
+    },
+    {
+      "path": "configs/packetfixer.properties",
+      "sha256": "0ec2e2d726755ca22f37188848667042c12fc92ade29ef0adf4b535ad707cc1f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/packetfixer.properties"
+    },
+    {
+      "path": "configs/paraglider-common.toml",
+      "sha256": "850ba09e81e04386b1c0c11b91e39fc8ea9a9ffccdb77b4d27dfcb08e09ad175",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paraglider-common.toml"
+    },
+    {
+      "path": "configs/paraglider-player-states.toml",
+      "sha256": "f03ca80b3b1a49e60044f2378da0090388e6c6ff2f8738c2798881922c2c468b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paraglider-player-states.toml"
+    },
+    {
+      "path": "configs/parcool-client.toml",
+      "sha256": "b7dd143a8d63e440a7edc15e8b3544aabd54a273bc024ee8e23bec7f57ddf6bc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/parcool-client.toml"
+    },
+    {
+      "path": "configs/particle_core_config.toml",
+      "sha256": "9f21aae26ba31a4fd9bab85c4bb4e37d10ac408aff9feed91ad6acdf1e269634",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/particle_core_config.toml"
+    },
+    {
+      "path": "configs/particle_core_disabled_optimizations_v2.json",
+      "sha256": "7189bb61c58cb1030b8ee486e66abf694d257192248b9b3ac4978df2b1366f7d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/particle_core_disabled_optimizations_v2.json"
+    },
+    {
+      "path": "configs/patchouli-client.toml",
+      "sha256": "d289f4c7540e3e24bcf6bbf3f5a2aaaf87ccf58027d2213e40497fc627422068",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/patchouli-client.toml"
+    },
+    {
+      "path": "configs/piggyback.toml",
+      "sha256": "194ada47b209c03eb48329db2058c478b478e9eb59ee3a2277d2dabaf1d1de0a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/piggyback.toml"
+    },
+    {
+      "path": "configs/pingwheel.json",
+      "sha256": "6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/pingwheel.json"
+    },
+    {
+      "path": "configs/pingwheel.server.json",
+      "sha256": "821d5d12d0c096996c82d1a65349ac803adffcc25b89420a146c727fb92b381a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/pingwheel.server.json"
+    },
+    {
+      "path": "configs/polymorph-integrations.toml",
+      "sha256": "f09398fbdb8880a2e2a0f234aa6578dd49ada68fecbe899608841f39c430034a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/polymorph-integrations.toml"
+    },
+    {
+      "path": "configs/ponder-client.toml",
+      "sha256": "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ponder-client.toml"
+    },
+    {
+      "path": "configs/projectile_damage.json",
+      "sha256": "8c3eb2a4150a8575e522c02acbdd88f7d6a387e9caf07da4683d6df4b4abac29",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/projectile_damage.json"
+    },
+    {
+      "path": "configs/proplacer-client.toml",
+      "sha256": "a683f213808528e56d7be8f100024b5098cfddefc8a8fdf67e126763ef5df5f3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/proplacer-client.toml"
+    },
+    {
+      "path": "configs/puzzlesapi-iteminteractions-client.toml",
+      "sha256": "a6aaff33ecabcd21bd315e1f8167716faa333d64e5dc166b270a26274c5cbdd0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/puzzlesapi-iteminteractions-client.toml"
+    },
+    {
+      "path": "configs/puzzlesapi-slotcycling-client.toml",
+      "sha256": "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/puzzlesapi-slotcycling-client.toml"
+    },
+    {
+      "path": "configs/quark-common.toml",
+      "sha256": "fedbbde3fe40c39afe3628c07d6ca35c40c8626a715d47a6048c34748b44f606",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/quark-common.toml"
+    },
+    {
+      "path": "configs/questsadditions-client.toml",
+      "sha256": "f4893862ac7ec3b94fe59e74b736200f9079235bdc9885743cc0872946be1edc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/questsadditions-client.toml"
+    },
+    {
+      "path": "configs/railways-client.toml",
+      "sha256": "f3e6295841dd104d85bbc1bd529c09c4a3bd4a6d0a7cc859f1aa7f866481a10c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/railways-client.toml"
+    },
+    {
+      "path": "configs/railways-common.toml",
+      "sha256": "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/railways-common.toml"
+    },
+    {
+      "path": "configs/refurbished_furniture.client.toml",
+      "sha256": "307a6898be11ced6553f0f17a173787a4227a246c1028f663541e87669fbec47",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/refurbished_furniture.client.toml"
+    },
+    {
+      "path": "configs/relics.yaml",
+      "sha256": "4411078ac8d2107482e0f717576b1d9e1fa6c0938d11135a2541f4d8c2518278",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics.yaml"
+    },
+    {
+      "path": "configs/resourceful-config-web.json",
+      "sha256": "350480ae98273611ff9305441d88f4a4f3da22dd6f5879d8358bc17ea02b01aa",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/resourceful-config-web.json"
+    },
+    {
+      "path": "configs/ribbits-forge-1_20_1.toml",
+      "sha256": "a3a347104c669a4847fbcea06cabe3a5fb79c474164137b01074fde0c1e649be",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ribbits-forge-1_20_1.toml"
+    },
+    {
+      "path": "configs/ribbits-options.json",
+      "sha256": "671ee75b5333f98d3a9b92fcfcc79c7df7a6b4c0e5cda025a7b449ab79562b2b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ribbits-options.json"
+    },
+    {
+      "path": "configs/saturn-optimizations.toml",
+      "sha256": "47019e25dcb00d2d1da22d725095dc39bcbbf10cdfb8429d8d5a97b231a272b3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/saturn-optimizations.toml"
+    },
+    {
+      "path": "configs/securitycraft-client.toml",
+      "sha256": "d4c6dce4d488153852ae794ba4a7639a5b26553249ff7c58199ace93752df6f0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/securitycraft-client.toml"
+    },
+    {
+      "path": "configs/shouldersurfing-client.toml",
+      "sha256": "0baf3ab1888a9068b326241610c7f8100d2221785d20053715e9b12be53959df",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/shouldersurfing-client.toml"
+    },
+    {
+      "path": "configs/simplehats.json",
+      "sha256": "ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplehats.json"
+    },
+    {
+      "path": "configs/smallships-client.toml",
+      "sha256": "2055d621b5cb01a3a0cc7134bb97d8109f56152938131f7c31bf27b28c264f9b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smallships-client.toml"
+    },
+    {
+      "path": "configs/smallships-common.toml",
+      "sha256": "0c89c2c56094816dcad1d0693cb52dbb61720797d8b2b0e2d25f9937a464de56",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smallships-common.toml"
+    },
+    {
+      "path": "configs/smarterfarmers-common.toml",
+      "sha256": "32722ba1b3094c0ae26fcb43cd15d35ed8d4a8333529e1350fc4db83c91c9153",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smarterfarmers-common.toml"
+    },
+    {
+      "path": "configs/smoothboot.json",
+      "sha256": "f12faa150cb54f565b8c26a4538650f9fb45d33dc39000b1149548a4670cce37",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smoothboot.json"
+    },
+    {
+      "path": "configs/snowyspirit-client.toml",
+      "sha256": "4bda1a7c7502f04c769978d18739ca1351d0aa26c1a7ede6c07ba7abd0428d38",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/snowyspirit-client.toml"
+    },
+    {
+      "path": "configs/snowyspirit-common.toml",
+      "sha256": "faa1bfa48578bf46b3bec93857cf782cfd10599bd87c5ac4f3bc287e38ccf6f2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/snowyspirit-common.toml"
+    },
+    {
+      "path": "configs/sodiumdynamiclights-client.toml",
+      "sha256": "64d2ce1b1675f17e0807180b9680ef9c97e4b92ac86962b7cbf27f0db4926eb6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sodiumdynamiclights-client.toml"
+    },
+    {
+      "path": "configs/sophisticatedbackpacks-common.toml",
+      "sha256": "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedbackpacks-common.toml"
+    },
+    {
+      "path": "configs/sophisticatedcore-client.toml",
+      "sha256": "3175ac14ac1da55ba706d1f0321c0b5620cd968a381e60323b283778e7b6d9e6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedcore-client.toml"
+    },
+    {
+      "path": "configs/sophisticatedcore-common.toml",
+      "sha256": "18efac1c1eb33f4179f79688d461624bfa4496887bf2d9bc01bd0946e948a529",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedcore-common.toml"
+    },
+    {
+      "path": "configs/sophisticatedstorage-client.toml",
+      "sha256": "86630c911ef13831fe61e44e88dcc2a38c3ed7d2cf198da405fcd5e8bec6bafa",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedstorage-client.toml"
+    },
+    {
+      "path": "configs/sophisticatedstorage-common.toml",
+      "sha256": "55a7b289f6d2ecb116d39b385fb8a883f8317734dd42f3be16af11380e26c0a3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedstorage-common.toml"
+    },
+    {
+      "path": "configs/soulbound-common.toml",
+      "sha256": "288c97a95c4f8feb29173622d6fdc0497c9df2482af79d5e9e1d0f974e64f137",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/soulbound-common.toml"
+    },
+    {
+      "path": "configs/spartanshields-common.toml",
+      "sha256": "065a53578bc9ffd9501d2783132b222dfb85ab44868d9d262f80ea9566891881",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/spartanshields-common.toml"
+    },
+    {
+      "path": "configs/spittingimage-common.toml",
+      "sha256": "eb6833b08e38adce243dbdb4913540a3bd578cda3776a05394e0fe033817b304",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/spittingimage-common.toml"
+    },
+    {
+      "path": "configs/supplementaries-client.toml",
+      "sha256": "b65c12c50c56a81dd0efe387056cbd9cf9fb4e0c1b652cae8b3f18be13f79d77",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/supplementaries-client.toml"
+    },
+    {
+      "path": "configs/supplementaries-common.toml",
+      "sha256": "9ed462caa26997b2a2b7918bc4b7f39067b8b382bf888c2141b4321809e36161",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/supplementaries-common.toml"
+    },
+    {
+      "path": "configs/terrablender.toml",
+      "sha256": "59d79e8bc4a42e678196a7164e5841a9803f8684f1b52b9944ce554c9f353691",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/terrablender.toml"
+    },
+    {
+      "path": "configs/tide.json",
+      "sha256": "2b259a2bb1f149b92507a95b260b0a04b4eef9a2c6e067dad1b93789c2dd3e11",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/tide.json"
+    },
+    {
+      "path": "configs/toastcontrol-common.toml",
+      "sha256": "b0976505b1e84813c804b645fe0988fc1fc68bd1e0350db6cbc3fa2698d77587",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/toastcontrol-common.toml"
+    },
+    {
+      "path": "configs/toolbelt-client.toml",
+      "sha256": "dfe8d07c832c05d517cf5bb50798c7678fc529ed4a4bc41367314abf9b40bc5f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/toolbelt-client.toml"
+    },
+    {
+      "path": "configs/toolbelt-common.toml",
+      "sha256": "b2e66325535b673063f023e6b99d9ba072a202ef3823b0543f446e0730ec62b9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/toolbelt-common.toml"
+    },
+    {
+      "path": "configs/transition.json",
+      "sha256": "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/transition.json"
+    },
+    {
+      "path": "configs/trashcans-common.toml",
+      "sha256": "9098a40f3445da4e4e330750079d5629abe4632c211c6f8db11bb0dea829e5d8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/trashcans-common.toml"
+    },
+    {
+      "path": "configs/treasures_of_the_dead-common.toml",
+      "sha256": "605f0e5d32545f04a9a177014c789304c0b2d3b178670242936c74338a11fe15",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/treasures_of_the_dead-common.toml"
+    },
+    {
+      "path": "configs/trender.json",
+      "sha256": "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/trender.json"
+    },
+    {
+      "path": "configs/twilightforest-client.toml",
+      "sha256": "7df74722394aa6f9b662317ad4840fc9b0a2e11c394ef6da2b3d9eabb62808d3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/twilightforest-client.toml"
+    },
+    {
+      "path": "configs/twilightforest-common.toml",
+      "sha256": "2d8051f2d41dd6ee7b9e6570e84cd18a3e2d013c0890c95c0b66e7ecce0346b8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/twilightforest-common.toml"
+    },
+    {
+      "path": "configs/vinery.toml",
+      "sha256": "fe8acd27cd79406ce57b35ef6c41fe2641faab6ce230e94e17554ca188b77e5f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/vinery.toml"
+    },
+    {
+      "path": "configs/voicechat-client.toml",
+      "sha256": "24a7b91377e08d0d8bc2805793c8150d473241aa816cbaa6fca9d254aa537ca5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/voicechat-client.toml"
+    },
+    {
+      "path": "configs/watut-client.toml",
+      "sha256": "f30aba6a74c4656d7284081651de0fbc5281e1da8daf7535dae43543959f7fdf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-client.toml"
+    },
+    {
+      "path": "configs/watut-common.toml",
+      "sha256": "17a113c1bf3c30dca221ee72b7285cf1cee3aea24fd5a48d82c47398e2eaa726",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-common.toml"
+    },
+    {
+      "path": "configs/watut-item-arm-adjustments.json",
+      "sha256": "543e09f71cda1d97d238ac4150e43e50868cf781027c88d68fc714f261d88982",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-item-arm-adjustments.json"
+    },
+    {
+      "path": "configs/watut-server.toml",
+      "sha256": "690202e25181bb7ab70d0cd61cf05fa84d45117764dc3bf3498457dc13309c65",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/watut-server.toml"
+    },
+    {
+      "path": "configs/waystones-common.toml",
+      "sha256": "4cf1d13d8827bcdce75acadb1f3ea24732fd6fa6575ec8a261a37b21c481674d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/waystones-common.toml"
+    },
+    {
+      "path": "configs/yacl.json5",
+      "sha256": "d26a63d3cdf326412ba86dcc2781060bc53ed6c74ac7808e65325452e264e820",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/yacl.json5"
+    },
+    {
+      "path": "configs/zeta-common.toml",
+      "sha256": "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/zeta-common.toml"
+    }
+  ]
 }

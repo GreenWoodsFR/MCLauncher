@@ -1,0 +1,11 @@
+
+["Spitting Image"]
+	#How much damage the spit deals (default: 1.0)
+	#Range: 0.0 ~ 3.4028234663852886E38
+	spitDamage = 1.0
+	#Enables/Disables the player spit model
+	spitModel = true
+	#Cooldown in ticks between spitting (20 ticks = 1 second)
+	#Range: 1 ~ 2147483646
+	spitCooldown = 3
+
