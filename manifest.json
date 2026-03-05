@@ -1920,7 +1920,7 @@
       "id": "25afc795-288c-41c6-846e-40513c3c8613",
       "name": "Quest Kill Task",
       "filename": "Quest Kill Task-0.2.0+1.20.1-forge.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Quest.Kill.Task-0.2.0%2B1.20.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Quest_Kill_Task-0.2.0_1.20.1-forge.jar",
       "sha256": "a8e38b9655e9ae44895de3a58615bb42cf210655cd149f293b1a36df9b863556",
       "required": true,
       "side": "both",
