@@ -5587,6 +5587,11 @@
       "path": "configs/simplymore/weapon_attributes.json5",
       "sha256": "778633f57f349ea7d1ea351e2f73f03eeebf1c5a670e5862364e1aa6a5bfeffa",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplymore/weapon_attributes.json5"
+    },
+    {
+      "path": "configs/simplymore/mimicry_attributes.json5",
+      "sha256": "ec52c515551cb7d52925bd031b7a693fe6efb5f486eb504a7d146cd12aacf779",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplymore/mimicry_attributes.json5"
     }
   ]
 }
