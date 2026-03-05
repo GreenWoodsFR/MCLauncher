@@ -3302,6 +3302,11 @@
       "path": "configs/alexsmobs/gorilla_spawns.json",
       "sha256": "8c90151f66a632b01e7b8f6998f72618720aae5362c1df0bdd7fefdb13cc20c8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/gorilla_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/void_worm_spawns.json",
+      "sha256": "6712a2d6165ed52b7d251a8fc4cbfb6c1f834210a8bda82b55440402fd2d3273",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/void_worm_spawns.json"
     }
   ]
 }
