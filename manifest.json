@@ -4882,6 +4882,11 @@
       "path": "configs/ftbquests/quests/reward_tables/gt_uhv_basic_rewards.snbt",
       "sha256": "cf0086fc322b7badb68b8bb9ecf6acbc68af1a319992e47a461549e2d1be055c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_uhv_basic_rewards.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/twilight_forest_loot_bag.snbt",
+      "sha256": "148c57d04921ba39d20f3d04d15cff4f736c221264f3e37d98de0a35ef4f26c9",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/twilight_forest_loot_bag.snbt"
     }
   ]
 }
