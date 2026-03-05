@@ -6742,6 +6742,11 @@
       "path": "configs/puzzlesapi-slotcycling-client.toml",
       "sha256": "480697ae74306cdcd17eed12a34795b7856f00d183d06ce69fd0fbf046c54c2e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/puzzlesapi-slotcycling-client.toml"
+    },
+    {
+      "path": "configs/quark-common.toml",
+      "sha256": "fedbbde3fe40c39afe3628c07d6ca35c40c8626a715d47a6048c34748b44f606",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/quark-common.toml"
     }
   ]
 }
