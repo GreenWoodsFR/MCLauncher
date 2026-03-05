@@ -5182,6 +5182,11 @@
       "path": "configs/legendarycreatures/legendarycreatures-common.toml",
       "sha256": "566521576decab1951c049f87535921cde518b96cea27e3499e5b69d75eca22c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarycreatures/legendarycreatures-common.toml"
+    },
+    {
+      "path": "configs/legendarycreatures/json/bullfrog-spawn.json",
+      "sha256": "d49c42731e3424866f3c38160482b881aae81fe9dc17c54f8a7faa98fdf1b804",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/legendarycreatures/json/bullfrog-spawn.json"
     }
   ]
 }
