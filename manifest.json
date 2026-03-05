@@ -5332,6 +5332,11 @@
       "path": "configs/paxi/resourcepacks/Excalibur Amendments 1.1.zip",
       "sha256": "9a357e79f26a3c2e957667db51dadf79eb6da1d90d2f8961820cebc159a6f59f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/Excalibur Amendments 1.1.zip"
+    },
+    {
+      "path": "configs/paxi/resourcepacks/EFA_215.4.a.zip",
+      "sha256": "b5ce82c1e4ebfe9eb4b07e11eae329511b29f4292ef09e0e617bdca472a4c351",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepacks/EFA_215.4.a.zip"
     }
   ]
 }
