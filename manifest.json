@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/proplacer-client.toml",
-      "sha256": "a683f213808528e56d7be8f100024b5098cfddefc8a8fdf67e126763ef5df5f3",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/proplacer-client.toml"
-    },
-    {
       "path": "configs/puzzlesapi-iteminteractions-client.toml",
       "sha256": "a6aaff33ecabcd21bd315e1f8167716faa333d64e5dc166b270a26274c5cbdd0",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/puzzlesapi-iteminteractions-client.toml"
