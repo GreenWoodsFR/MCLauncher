@@ -2695,6 +2695,16 @@
       "required": true,
       "side": "both",
       "version": "4.0.4"
+    },
+    {
+      "id": "0f6cde56-8e6d-4f1a-9ec2-b7da20a493d4",
+      "name": "Geckolib",
+      "filename": "geckolib-forge-1.20.1-4.8.3.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/geckolib-forge-1.20.1-4.8.3.jar",
+      "sha256": "8b90e11871a58b63816e99c529e6c932bc88e6beb3fec97ad618e22217df3250",
+      "required": true,
+      "side": "both",
+      "version": "4.8.3"
     }
   ],
   "configFiles": []
