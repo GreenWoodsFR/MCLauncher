@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/appleskin-client.toml",
-      "sha256": "b477c8c493b28366a6b282f29f46c9415e3a4a2a23fff6e09331644c435dfd48",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/appleskin-client.toml"
-    },
-    {
       "path": "configs/armoroftheages.json",
       "sha256": "f2dbf451aeee6ce337c1ccd1b48c0e4ef9683e5b9d9900409559780470429b07",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/armoroftheages.json"
