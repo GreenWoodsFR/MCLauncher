@@ -3527,6 +3527,11 @@
       "path": "configs/alexsmobs/devils_hole_pupfish_spawns.json",
       "sha256": "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/devils_hole_pupfish_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/cachalot_whale_beached_spawns.json",
+      "sha256": "73b8f83ddfa936642b38af1003e3c47eab6f089ad61612ee5181137409038f57",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/cachalot_whale_beached_spawns.json"
     }
   ]
 }
