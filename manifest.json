@@ -4432,6 +4432,11 @@
       "path": "configs/ftbquests/quests/chapters/plushies.snbt",
       "sha256": "6b32fb906df1a8e98bf7a421f736d2edef9c252c2cd16e8d93c18d61773a439c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/plushies.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/8lingnieurse.snbt",
+      "sha256": "ced79c2535c2faa9a672f051c212152cb25fce299e6c8cde9ab6600a0aa8cb0b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/8lingnieurse.snbt"
     }
   ]
 }
