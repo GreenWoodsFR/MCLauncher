@@ -4772,6 +4772,11 @@
       "path": "configs/ftbquests/quests/reward_tables/refined_storage_parts.snbt",
       "sha256": "553d0c6c8f1f77aec058ca944361c688f677b4148b2f788c3dce1a8834a7f592",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/refined_storage_parts.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/pnc_basic_tier.snbt",
+      "sha256": "f4344a9a12a6695b8e9d75f7cee66cf39ead9a6d15f60cee3dc87d9dd1d5d457",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/pnc_basic_tier.snbt"
     }
   ]
 }
