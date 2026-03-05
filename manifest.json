@@ -520,7 +520,7 @@
       "id": "c97fa142-70d8-48e9-afb4-e6c34d996115",
       "name": "Caelus",
       "filename": "caelus-forge-3.2.0+1.20.1.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/caelus-forge-3.2.0%2B1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/caelus-forge-3.2.0_1.20.1.jar",
       "sha256": "37495445e79df8b30a3a038a0051f3c8aa8447f91a9d0aa0d20baef69dda9368",
       "required": true,
       "side": "both",
