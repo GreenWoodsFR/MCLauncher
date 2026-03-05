@@ -3927,6 +3927,11 @@
       "path": "configs/ars_nouveau/glyph_blink.toml",
       "sha256": "27036cc3eda610ad1d0748ddfb9096ed137efcd62c38de082513ffc8f1bb98a7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_blink.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_grow.toml",
+      "sha256": "b2c9014df9d1d87246d465839f6ba19c59ce400a1b83e19212b35b0b88b6a0f7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_grow.toml"
     }
   ]
 }
