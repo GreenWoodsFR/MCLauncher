@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/cupboard.json",
-      "sha256": "08bda8a4a20d302cb97d06bf11c4991e152a3a9e04c17302ea3b42aa77e6b028",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cupboard.json"
-    },
-    {
       "path": "configs/curios-client.toml",
       "sha256": "ebc96c813d601e9c61b6929a8490e71fa990dc64918c19e1f9937bb275510abc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/curios-client.toml"
