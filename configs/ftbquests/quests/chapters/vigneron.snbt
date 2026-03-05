@@ -1,0 +1,1104 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vigneron"
+	group: "18782192B0F905F8"
+	hide_quest_until_deps_complete: true
+	icon: "vinery:red_grapejuice"
+	id: "3534DDB257D9D378"
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1B9878DDA64F8BD5"
+			rewards: [{
+				id: "441A3BD8D294BD7A"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "220EFEB384F64D14"
+				item: "vinery:cherry"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.0d
+		}
+		{
+			id: "324AA28118D76AC7"
+			rewards: [{
+				id: "073FDEE07D85733F"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "23435113441D401D"
+				item: "vinery:red_grape"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 1.5d
+		}
+		{
+			id: "094AA863C0A8640B"
+			rewards: [{
+				id: "7BF1C4FFBFCED2FB"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "6CAE4E40AC743313"
+				item: "vinery:white_grape"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			id: "7EAA4A451403E0F8"
+			rewards: [{
+				id: "74037B0F0470608D"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "07C98D209BFA03FF"
+				item: "vinery:savanna_grapes_red"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			id: "5D14EB6C859FBD8C"
+			rewards: [{
+				id: "6F992C210B1AAF75"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "610AC107E9F5AA02"
+				item: "vinery:savanna_grapes_white"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			id: "0A156E4988DF9DAD"
+			rewards: [{
+				id: "36FCEEDD6AD2C5BD"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "48657481476A28BC"
+				item: "vinery:taiga_grapes_red"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			id: "1938D3E57C6A3229"
+			rewards: [{
+				id: "603B899E0A7783E5"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "52D26ADCEBF39F9F"
+				item: "vinery:taiga_grapes_white"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			id: "69689D8EC78DA47A"
+			rewards: [{
+				id: "64B60C84B3C6E734"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "21AF0F3A5D2518D9"
+				item: "vinery:jungle_grapes_red"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			id: "4BB0802EF8F9E116"
+			rewards: [{
+				id: "788B2D9F26F8FDAC"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "07E790E21D881CB2"
+				item: "vinery:jungle_grapes_white"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			id: "40A440AF6033DDED"
+			rewards: [{
+				id: "2B2DDB88CA0BE90C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "08E1D9090DD25495"
+				item: "vinery:grapevine_pot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["40A440AF6033DDED"]
+			id: "4FBC4A22C77C444A"
+			rewards: [{
+				id: "4F7DD73A0E3AA0DB"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "01C115CEF1B4D366"
+				item: "vinery:fermentation_barrel"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			id: "1EA9375E822DF1BF"
+			rewards: [{
+				id: "7C42008FEBA8FD19"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1E19645385129DF7"
+				item: "vinery:apple_press"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 5.5d
+		}
+		{
+			id: "60C16AB93A5FABAC"
+			rewards: [{
+				id: "1E53A7A24A45CC4B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5A041DBB0DC3C867"
+				item: "vinery:red_grapejuice"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["60C16AB93A5FABAC"]
+			id: "3B8532E492191EF8"
+			rewards: [{
+				id: "2AC1A141985F0E29"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1B5AD09589B7DDAF"
+				item: "vinery:red_taiga_grapejuice"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["60C16AB93A5FABAC"]
+			id: "6F57A492484F3CD1"
+			rewards: [{
+				id: "64BEFD4F462CE54E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "13112D00C0AD86F5"
+				item: "vinery:red_jungle_grapejuice"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["60C16AB93A5FABAC"]
+			id: "377B87A718F4460F"
+			rewards: [{
+				id: "0CB4C190626C5F6B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4886F54EBF943F89"
+				item: "vinery:red_savanna_grapejuice"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -5.5d
+		}
+		{
+			id: "3E318920D208CBCC"
+			rewards: [{
+				id: "48507D8B0EC9D7A1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "29A288A41B26577E"
+				item: "vinery:white_grapejuice"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3E318920D208CBCC"]
+			id: "72D8ABFA4CA97502"
+			rewards: [{
+				id: "42F41452418C464D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1608A8A307208B5A"
+				item: "vinery:white_taiga_grapejuice"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["3E318920D208CBCC"]
+			id: "4C566A64FFFE527C"
+			rewards: [{
+				id: "00AE35465DB112E0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2F1F0EDC10813ACD"
+				item: "vinery:white_jungle_grapejuice"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["3E318920D208CBCC"]
+			id: "5F1EB8363827DE30"
+			rewards: [{
+				id: "5986EF46B48C1E6A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "7DEDE57573B4F4F0"
+				item: "vinery:white_savanna_grapejuice"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -5.5d
+		}
+		{
+			id: "19979F542EB61E65"
+			rewards: [{
+				id: "3437C350816B2D8D"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "38A0B9A72EE2759C"
+				item: {
+					Count: 1
+					id: "vinery:mead"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -6.5d
+		}
+		{
+			id: "1F872EDF49A59AB1"
+			rewards: [{
+				id: "5B7EFD35FBDA1DEB"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "0DA9213830B3F30F"
+				item: {
+					Count: 1
+					id: "vinery:noir_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -6.5d
+		}
+		{
+			id: "4B598179123F956C"
+			rewards: [{
+				id: "28E5823EEDF9AA87"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "0FC3433C4A81615F"
+				item: {
+					Count: 1
+					id: "vinery:red_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -6.5d
+		}
+		{
+			id: "339604FB62D8381D"
+			rewards: [{
+				id: "2239BF9454422C6D"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "2B134E404E8F1A99"
+				item: {
+					Count: 1
+					id: "vinery:strad_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: -7.5d
+		}
+		{
+			id: "1CA3862A122BA3C6"
+			rewards: [{
+				id: "04BA4F31E88F5564"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "7A1E552C68D1A332"
+				item: {
+					Count: 1
+					id: "vinery:jellie_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: -7.5d
+		}
+		{
+			id: "32DB4C90AE62F5AF"
+			rewards: [{
+				id: "32C4063455081052"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "1339E37FAC667419"
+				item: {
+					Count: 1
+					id: "vinery:bottle_mojang_noir"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -8.5d
+		}
+		{
+			id: "196AAC9F4BE80AF0"
+			rewards: [{
+				id: "326952AE181BC0E7"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "63F0B3461C5990FE"
+				item: "vinery:wine_bottle"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			id: "7AA997326C5CA345"
+			rewards: [{
+				id: "035FA54B034D1C0E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "508B04FD1B1F6677"
+				item: "vinery:apple_juice"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 6.5d
+		}
+		{
+			id: "1E091675FF2587B4"
+			rewards: [{
+				id: "5856C01BBD833B53"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1AFD6F87E4D9DD05"
+				item: {
+					Count: 1
+					id: "vinery:apple_cider"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 7.5d
+		}
+		{
+			id: "7491EBC2BBDA832F"
+			rewards: [{
+				id: "726FF60BE46CBA06"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3071C2584EE1BD99"
+				item: {
+					Count: 1
+					id: "vinery:apple_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			id: "34C11B1E64E0E483"
+			rewards: [{
+				id: "7AA6FFBC2D104A32"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "46D44CDDECAD38CD"
+				item: {
+					Count: 1
+					id: "vinery:mellohi_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 8.5d
+		}
+		{
+			id: "147775D65852B8E5"
+			rewards: [{
+				id: "4C635EA9E858A310"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "40155DA19B6AAFF9"
+				item: {
+					Count: 1
+					id: "vinery:glowing_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			id: "123DD9EA3477D2E5"
+			tasks: [{
+				id: "4A36DFBF10863D95"
+				item: {
+					Count: 1
+					id: "vinery:solaris_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 8.0d
+		}
+		{
+			id: "43C9C07AF330CDFF"
+			rewards: [{
+				id: "31B21AD00788F755"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "086D19F2F21754BC"
+				item: {
+					Count: 1
+					id: "vinery:kelp_cider"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 9.5d
+		}
+		{
+			id: "1728C30FB20FEA0E"
+			rewards: [{
+				id: "00CAB50A7238D1F0"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "266E2BE078DBCE8A"
+				item: {
+					Count: 1
+					id: "vinery:jellie_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "020AAB16CEFB766F"
+			rewards: [{
+				id: "4DA782E74D6F3D27"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "613F4D9080E34E54"
+				item: {
+					Count: 1
+					id: "vinery:cherry_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			id: "12831C07BA00B597"
+			rewards: [{
+				id: "6119A5AEAC8DFB00"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "09793DEEA7AB8878"
+				item: {
+					Count: 1
+					id: "vinery:lilitu_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			id: "373C293F5C334710"
+			rewards: [{
+				id: "0A81D5949D8E2A24"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "48F39F5757182062"
+				item: {
+					Count: 1
+					id: "vinery:jo_special_mixture"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			id: "3C3F1407547AE6E2"
+			rewards: [{
+				id: "523733154850B623"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "2A5388B69D49EFEB"
+				item: {
+					Count: 1
+					id: "vinery:chenet_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			id: "0B948254854F9733"
+			rewards: [{
+				id: "3620208C6E6C22AD"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "4F083B73A0B3BBF8"
+				item: {
+					Count: 1
+					id: "vinery:stal_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 2.5d
+		}
+		{
+			id: "1DCFE6BF1793BD28"
+			rewards: [{
+				id: "254E32E546EBEC23"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "7D29EB0C6195D31A"
+				item: {
+					Count: 1
+					id: "vinery:magnetic_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -5.0d
+			y: 3.5d
+		}
+		{
+			id: "6F7B48D9351D5FFA"
+			rewards: [{
+				id: "300203FEAE98654D"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "25C20FC9611D1A06"
+				item: {
+					Count: 1
+					id: "vinery:villagers_fright"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 4.5d
+		}
+		{
+			id: "60221313E6ACCEF7"
+			rewards: [{
+				id: "7B95429771A3CB7F"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "7A526C650493861D"
+				item: {
+					Count: 1
+					id: "vinery:chorus_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			id: "496112C73868A9DD"
+			rewards: [{
+				id: "52B8157408CF0445"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "1E37DACFB0B3C2CB"
+					item: {
+						Count: 1
+						id: "vinery:straw_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "55076729C3297EEE"
+					item: {
+						Count: 1
+						id: "vinery:winemaker_apron"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "0004EAF7ED373644"
+					item: {
+						Count: 1
+						id: "vinery:winemaker_leggings"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "215D95CE5C312113"
+					item: {
+						Count: 1
+						id: "vinery:winemaker_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			id: "4799E6BECC16960A"
+			rewards: [{
+				id: "4152BA6E38443730"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "4B3227C4609A7AB0"
+				item: {
+					Count: 1
+					id: "vinery:aegis_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 2.5d
+		}
+		{
+			id: "1CDECED22F243C85"
+			rewards: [{
+				id: "1239A40CDE831D08"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "7973EB8C6695F626"
+				item: {
+					Count: 1
+					id: "vinery:eiswein"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.5d
+		}
+		{
+			id: "104FABDA43BD70AC"
+			rewards: [{
+				id: "0B58390B81DDC439"
+				type: "xp_levels"
+				xp_levels: 8
+			}]
+			tasks: [{
+				id: "220824796EC66F0C"
+				item: {
+					Count: 1
+					id: "vinery:clark_wine"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["40A440AF6033DDED"]
+			id: "4E2BCA97BF9B3146"
+			rewards: [{
+				id: "6DF58D7727B579C0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6850479D61647D6A"
+				item: "vinery:grapevine_stem"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["40A440AF6033DDED"]
+			id: "54290FDC0F16CB02"
+			rewards: [{
+				id: "08676CD7A66A06E0"
+				type: "xp"
+				xp: 200
+			}]
+			tasks: [
+				{
+					id: "559C247E72AFE7EB"
+					item: "vinery:oak_wine_rack_small"
+					type: "item"
+				}
+				{
+					id: "270651CF476CD1B2"
+					item: "vinery:oak_wine_rack_big"
+					type: "item"
+				}
+				{
+					id: "57FD9452900EC545"
+					item: "vinery:oak_wine_rack_mid"
+					type: "item"
+				}
+			]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			id: "7BD46A24A65C857A"
+			rewards: [{
+				id: "016CDC98A136CCA7"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3F96786AAD37579A"
+				item: "nethervinery:crimson_grape"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.5d
+		}
+		{
+			id: "6E011D85154B34DC"
+			rewards: [{
+				id: "58BE532D321CEBA5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "51902C9D6C7E81D7"
+				item: "nethervinery:warped_grape"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["7BD46A24A65C857A"]
+			id: "37911D27D8143DC8"
+			rewards: [{
+				id: "4FFCA21E9BF19B98"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2098905B35E44B44"
+				item: "nethervinery:crimson_grapejuice"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6E011D85154B34DC"]
+			id: "0F6AD93844C462F4"
+			rewards: [{
+				id: "73BFFF3EA80C469E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "76B925C9E38EC8E6"
+				item: "nethervinery:warped_grapejuice"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["37911D27D8143DC8"]
+			id: "3B36235982257200"
+			rewards: [{
+				id: "0937BD236048D9EA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "386B30391DA3B4A9"
+				item: {
+					Count: 1
+					id: "nethervinery:blazewine_pinot"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["37911D27D8143DC8"]
+			id: "4EEC13EA9F9CBA4F"
+			rewards: [{
+				id: "6390D6BEA454ED17"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2AC0DF1A2305A4BE"
+				item: {
+					Count: 1
+					id: "nethervinery:netherite_nectar"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["0F6AD93844C462F4"]
+			id: "459798971F66913C"
+			rewards: [{
+				id: "4A9EF37CA70A450D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "710B37446DE2EB1E"
+				item: {
+					Count: 1
+					id: "nethervinery:ghastly_grenache"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0F6AD93844C462F4"]
+			id: "32C99E81D2872E49"
+			rewards: [{
+				id: "6F62E68ABD31DCF9"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0C2EEF87585B3A48"
+				item: {
+					Count: 1
+					id: "nethervinery:nether_fizz"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0F6AD93844C462F4"]
+			id: "10A1558C53E23FF5"
+			rewards: [{
+				id: "03AF57FE6FA9C9B5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5BC37D8646D3169F"
+				item: {
+					Count: 1
+					id: "nethervinery:improved_nether_fizz"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 6.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["37911D27D8143DC8"]
+			id: "778770C8B2BFCBA1"
+			rewards: [{
+				id: "16FBE67DF507CBC5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "61D1513C2E00A89C"
+				item: {
+					Count: 1
+					id: "nethervinery:lava_fizz"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["37911D27D8143DC8"]
+			id: "2644480791C895CB"
+			rewards: [{
+				id: "4A396DCBC5F6803B"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "60723731A7C94BEB"
+				item: {
+					Count: 1
+					id: "nethervinery:improved_lava_fizz"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 5.0d
+			y: 1.5d
+		}
+	]
+	title: " &5Vigneron(ne)"
+}
