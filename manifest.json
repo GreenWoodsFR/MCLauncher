@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/majruszlibrary.json",
-      "sha256": "cb33d48e8c3d60d977d6957a29baad2b219b447cdf2c7bcb3f9cb93961df4c50",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/majruszlibrary.json"
-    },
-    {
       "path": "configs/majruszsenchantments.json",
       "sha256": "156be9d53f7f4943b3ab7bc960930054431ff638f23b9eed0a556b0046641c91",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/majruszsenchantments.json"
