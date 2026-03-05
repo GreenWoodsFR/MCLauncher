@@ -4242,6 +4242,11 @@
       "path": "configs/artifacts/relics/anglers_hat.yaml",
       "sha256": "9968d01308caaf19580d54b73d0da6f57df704a0c8cf2b31c5b97ef43b12494d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/anglers_hat.yaml"
+    },
+    {
+      "path": "configs/artifacts/relics/villager_hat.yaml",
+      "sha256": "017c57e6b74b77391103748bc0de002b414b108223c2ae9624045a81f6384169",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/artifacts/relics/villager_hat.yaml"
     }
   ]
 }
