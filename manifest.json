@@ -2735,6 +2735,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "6778d9c2-b12c-4f18-bc5e-284eb4177822",
+      "name": "Guardvillagers",
+      "filename": "guardvillagers-1.20.1-1.6.17.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/guardvillagers-1.20.1-1.6.17.jar",
+      "sha256": "3e63e9adb1cd273ce9881593c64b513477ebefeceb6b11f29a09b2237a422ace",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
