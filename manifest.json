@@ -6217,6 +6217,11 @@
       "path": "configs/emotecraft_emote_map.json",
       "sha256": "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emotecraft_emote_map.json"
+    },
+    {
+      "path": "configs/emotecraft.json",
+      "sha256": "55d589c3bdcf335cb32ee831272bf713bfe1c3ca714d9dcfebbb1347bae2430d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emotecraft.json"
     }
   ]
 }
