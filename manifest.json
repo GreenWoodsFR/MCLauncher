@@ -5032,6 +5032,11 @@
       "path": "configs/ftbquests/quests/reward_tables/industrial_foregoing_plastic_bag.snbt",
       "sha256": "931e6f6c94f8e776ac6bd3dcf2d2a44f6f65200fa9ed7f9f0be5fdd79bd33ff6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/industrial_foregoing_plastic_bag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/mythic.snbt",
+      "sha256": "086d385f450932f9855615347e2438d82cae8b30094900ca6ba271bab1fde01b",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/mythic.snbt"
     }
   ]
 }
