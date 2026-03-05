@@ -3732,6 +3732,11 @@
       "path": "configs/alexsmobs/skreecher.json",
       "sha256": "f812e719afb24421c6853dacf4d1f66864305e335cfdf6193613d7c408ecab30",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/skreecher.json"
+    },
+    {
+      "path": "configs/alexsmobs/moose_spawns.json",
+      "sha256": "abac051da2458ec848604b66a6d7889f7c715060bb9706c1d1822155127d096c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/moose_spawns.json"
     }
   ]
 }
