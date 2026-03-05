@@ -2785,6 +2785,16 @@
       "required": true,
       "side": "both",
       "version": "6.2"
+    },
+    {
+      "id": "ed684364-5cc1-4e87-91e9-f945674b0065",
+      "name": "Highlighter",
+      "filename": "Highlighter-1.20.1-forge-1.1.9.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Highlighter-1.20.1-forge-1.1.9.jar",
+      "sha256": "8389c409257541c06789cd2287725d3df173168d9a0ebb9ff44c9b319e8b8026",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
