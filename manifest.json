@@ -3602,6 +3602,11 @@
       "path": "configs/alexsmobs/skelewag_spawns.json",
       "sha256": "86aad88d05c283679e85900cab1bf3977d496849005ac068a14e40b93db35aa2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/skelewag_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/warped_toad_spawns.json",
+      "sha256": "72126b26d7f3ae03b80df97dd103e0cec87d10829e86ac8b08da23abc7b318d8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/warped_toad_spawns.json"
     }
   ]
 }
