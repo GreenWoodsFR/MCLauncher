@@ -5452,6 +5452,11 @@
       "path": "configs/relics/relics/amphibian_boot.yaml",
       "sha256": "39b8a55d06987657fc8ef15c6c85ba048544c1b05396312b5f2753d583f3738e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/amphibian_boot.yaml"
+    },
+    {
+      "path": "configs/relics/relics/infinity_ham.yaml",
+      "sha256": "d8d96d73fa32983adefd3d4d5cf73585237f7fd458108c347689692840a7d186",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/infinity_ham.yaml"
     }
   ]
 }
