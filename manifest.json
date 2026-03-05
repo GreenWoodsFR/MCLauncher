@@ -2845,6 +2845,16 @@
       "required": true,
       "side": "both",
       "version": "1.4.0"
+    },
+    {
+      "id": "204191b4-d5ab-4dbe-abc2-c662e4105b24",
+      "name": "Immersive Melodies",
+      "filename": "immersive_melodies-0.6.0+1.20.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/immersive_melodies-0.6.0_1.20.1-forge.jar",
+      "sha256": "7625e0cf725b4316a61a30bc2fd3a50c80f29001502e3fd90852e573263d937a",
+      "required": true,
+      "side": "both",
+      "version": "0.6.0"
     }
   ],
   "configFiles": []
