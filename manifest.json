@@ -1,10 +1,10 @@
 {
-  "modpackVersion": "0.4.1",
+  "modpackVersion": "0.4.2",
   "mcVersion": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.0",
-  "releaseDate": "2026-03-05T18:52:08.852Z",
-  "changelog": "Add the greenwoods server in the default list",
+  "releaseDate": "2026-03-05T21:05:17.205Z",
+  "changelog": "Added some game config",
   "mods": [
     {
       "id": "0fec24e5-f040-447f-a0e8-4d224a280f17",
