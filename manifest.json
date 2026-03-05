@@ -2225,6 +2225,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "354b1d11-14b7-4de9-aab5-5184e1536d07",
+      "name": "Smarterfarmers",
+      "filename": "smarterfarmers-1.20-2.1.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/smarterfarmers-1.20-2.1.2.jar",
+      "sha256": "9ee74cd1cd339529bbc15b1c2eef1a89094fa76678e04939f45477bf15d6e58a",
+      "required": true,
+      "side": "both",
+      "version": "2.1.2"
     }
   ],
   "configFiles": []
