@@ -4652,6 +4652,11 @@
       "path": "configs/ftbquests/quests/chapters/to_catch_them_all.snbt",
       "sha256": "42d8d4799fb56caf78dbe165c032b791923d7bdc55c9551633e4de30b7e6952d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/to_catch_them_all.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/lcmer6cury.snbt",
+      "sha256": "4af425592600fcf5c7a7f1ed38a09840b94a5acf9437043f156437b3306e1954",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/lcmer6cury.snbt"
     }
   ]
 }
