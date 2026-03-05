@@ -6907,6 +6907,11 @@
       "path": "configs/soulsweapons.json",
       "sha256": "2a244e200a4f996161fb022255273da51227aedbb8e42f31ba7734638863c061",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/soulsweapons.json"
+    },
+    {
+      "path": "configs/spartanshields-common.toml",
+      "sha256": "065a53578bc9ffd9501d2783132b222dfb85ab44868d9d262f80ea9566891881",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/spartanshields-common.toml"
     }
   ]
 }
