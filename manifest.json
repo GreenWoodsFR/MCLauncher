@@ -7667,6 +7667,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/refraction.glsl",
       "sha256": "60500ebe444353ed0a79ddb9c34a1332342af18f292c9393e5eaf0ca6397820b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/refraction.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/reflections.glsl",
+      "sha256": "6065aa24b78dbcf783857c3af5356b831fc02e7ccd3378f03ab4145962beae98",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/reflections.glsl"
     }
   ]
 }
