@@ -6872,6 +6872,11 @@
       "path": "configs/sodiumdynamiclights-client.toml",
       "sha256": "64d2ce1b1675f17e0807180b9680ef9c97e4b92ac86962b7cbf27f0db4926eb6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sodiumdynamiclights-client.toml"
+    },
+    {
+      "path": "configs/sophisticatedbackpacks-common.toml",
+      "sha256": "6674ec92f625296aa8accc93d71fdf1eecfc8050111c5ae7b6d9a94b4fe14506",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sophisticatedbackpacks-common.toml"
     }
   ]
 }
