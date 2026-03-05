@@ -1445,6 +1445,16 @@
       "required": true,
       "side": "both",
       "version": "1.17"
+    },
+    {
+      "id": "2aa7ff1e-6be6-432c-ac6d-70a421fc8fd3",
+      "name": "Mermod",
+      "filename": "mermod-forge-1.20.1-3.0.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/mermod-forge-1.20.1-3.0.1.jar",
+      "sha256": "f9d95f76f8a4dae730682c3b0b8bca5c06e28e62dbbf555c4e0bf603319e7761",
+      "required": true,
+      "side": "both",
+      "version": "3.0.1"
     }
   ],
   "configFiles": []
