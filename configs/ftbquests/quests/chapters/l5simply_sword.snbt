@@ -1,0 +1,2050 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "l5simply_sword"
+	group: "0C887D22E21FDFB7"
+	hide_quest_until_deps_complete: true
+	icon: {
+		Count: 1
+		id: "simplyswords:awakened_lichblade"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4CFD7E366FEC3664"
+	images: [{
+		height: 1.5d
+		image: "simplyswords:item/twisted_blade"
+		rotation: 0.0d
+		width: 1.5d
+		x: 19.0d
+		y: -18.0d
+	}]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "7AF9D49FE81B052A"
+			tasks: [{
+				id: "34308D463ED9F3B1"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "7C97BC040B1BFDE1"
+			tasks: [{
+				id: "67C6947220FA4E83"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_twinblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "5971922CD0228771"
+			tasks: [{
+				id: "432701F11CBEF998"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_rapier"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "575E3CD7A6DAFF03"
+			tasks: [{
+				id: "2367FE9090B0F67B"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "3E83EE8CC675356B"
+			tasks: [{
+				id: "5321D6995663E2CE"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_sai"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "02043359E0DDED65"
+			tasks: [{
+				id: "626DBE77079984B0"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "51036A14F98F9A9D"
+			tasks: [{
+				id: "7071EAAF1C0E7024"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_glaive"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "3EA51161DC51D2DC"
+			tasks: [{
+				id: "5A3F910D7F8CBAD7"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_warglaive"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "054D2FABDCD5E604"
+			tasks: [{
+				id: "2BD4A72965D5A63E"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_cutlass"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "277D5EAEF1CE048D"
+			tasks: [{
+				id: "3AFFD673D63129DA"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_backhand_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "6A94F37516FB5CF1"
+			tasks: [{
+				id: "3210AF7175A51998"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_grandsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "4452CE5343E521CA"
+			tasks: [{
+				id: "58A7C0D8E04A57DC"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_great_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "75FE62B34E7959A1"
+			tasks: [{
+				id: "3D37A0EEEE43E61B"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_halberd"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "643B60B8CCEA3081"
+			tasks: [{
+				id: "0CF27A5FBB756A2E"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "154E162163BE9398"
+			tasks: [{
+				id: "182129CF9EC4121B"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_chakram"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 21.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "237A5292EDBD1708"
+			tasks: [{
+				id: "67252E6CAC56C807"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_greataxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 23.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "5E3DAC40C3C4F978"
+			tasks: [{
+				id: "10D14FCBAA89F961"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_greathammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 24.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "5620DC5BEA5BD3BB"
+			tasks: [{
+				id: "0FB54C0DE1062D6A"
+				item: {
+					Count: 1
+					id: "simplyswords:diamond_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 26.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "5215DBE099940EF3"
+			tasks: [{
+				id: "10C13459801036EF"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_deer_horns"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 27.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "4AD1DAB09BF6CAD4"
+			tasks: [{
+				id: "78E931E96CE9899F"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_great_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 29.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "0258A79917D91B8D"
+			tasks: [{
+				id: "1A9D60FD8C90F0C6"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_quarterstaff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 30.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "4F040D6F6761651A"
+			tasks: [{
+				id: "0F4F68A16ECB00BD"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_pernach"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 32.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "4C4180E5BB0675E0"
+			tasks: [{
+				id: "27E6D0F67A94AEE1"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 33.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "30A2845FE91DDF0C"
+			tasks: [{
+				id: "29A122809044DADE"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_khopesh"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 35.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			id: "1EC6C0A68036D21A"
+			tasks: [{
+				id: "5471B0EC367E3DB5"
+				item: {
+					Count: 1
+					id: "simplymore:diamond_lance"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 36.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7AF9D49FE81B052A"]
+			id: "177DDD1DADB10350"
+			tasks: [{
+				id: "4DB7C9A346D4530F"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["7C97BC040B1BFDE1"]
+			id: "5521AF9FFEBBE07C"
+			tasks: [{
+				id: "4E3159A8FAD84FD7"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_twinblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5971922CD0228771"]
+			id: "4A01150522517D74"
+			tasks: [{
+				id: "195D556BBF90AB4D"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_rapier"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["575E3CD7A6DAFF03"]
+			id: "1A1F1EF9B0723BDC"
+			tasks: [{
+				id: "23E96A01CF8B8258"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3E83EE8CC675356B"]
+			id: "6C1624374A6F7F30"
+			tasks: [{
+				id: "27AA3C0F02EE674B"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_sai"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["02043359E0DDED65"]
+			id: "4EBA90C15E34A824"
+			tasks: [{
+				id: "100ACC263F272F56"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["51036A14F98F9A9D"]
+			id: "524C8EBCBCABD880"
+			tasks: [{
+				id: "13D48E887DC285AB"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_glaive"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3EA51161DC51D2DC"]
+			id: "7CC5F0653708A0D1"
+			tasks: [{
+				id: "510ABEFF77A945E8"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_warglaive"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["054D2FABDCD5E604"]
+			id: "7E4B90716F84CD34"
+			tasks: [{
+				id: "4BC38FBEA2733E63"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_cutlass"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["277D5EAEF1CE048D"]
+			id: "749FDB3991DE3774"
+			tasks: [{
+				id: "35E9134E7D54AB09"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_backhand_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6A94F37516FB5CF1"]
+			id: "55DEAC3941DF2557"
+			tasks: [{
+				id: "7AF89E963A6D697A"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_grandsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4452CE5343E521CA"]
+			id: "2CC587084502BDCC"
+			tasks: [{
+				id: "10EEBB25D5665397"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_great_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["75FE62B34E7959A1"]
+			id: "47C43BB19F77DEC9"
+			tasks: [{
+				id: "2462830A21278E6F"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_halberd"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["643B60B8CCEA3081"]
+			id: "53F4E43B7779DA4B"
+			tasks: [{
+				id: "3164A915E8311D17"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 20.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["154E162163BE9398"]
+			id: "6A1D8CE2ECB77743"
+			tasks: [{
+				id: "470BFA67B07BE8EA"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_chakram"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 21.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["237A5292EDBD1708"]
+			id: "000923041A4A2A85"
+			tasks: [{
+				id: "381BC0CB8B33E520"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_greataxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 23.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5E3DAC40C3C4F978"]
+			id: "23CCBBA4B5BC36C5"
+			tasks: [{
+				id: "7CC0BC836A314098"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_greathammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 24.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5620DC5BEA5BD3BB"]
+			id: "0390AF361FD78DC4"
+			tasks: [{
+				id: "5CD46A5262A7C9D9"
+				item: {
+					Count: 1
+					id: "simplyswords:netherite_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 26.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["5215DBE099940EF3"]
+			id: "2547108DFFB61C61"
+			tasks: [{
+				id: "62B7B66732319F5D"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_deer_horns"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 27.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4AD1DAB09BF6CAD4"]
+			id: "2E618F1A4624FD7E"
+			tasks: [{
+				id: "16A747B01442856D"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_great_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 29.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["0258A79917D91B8D"]
+			id: "39BBDCF3A44870E8"
+			tasks: [{
+				id: "4613A75CAE37B5BE"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_quarterstaff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 30.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4F040D6F6761651A"]
+			id: "12BA0224FF1B2FC3"
+			tasks: [{
+				id: "660956E135E82A00"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_pernach"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 32.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4C4180E5BB0675E0"]
+			id: "0D5253090D76E2D6"
+			tasks: [{
+				id: "25158D2A876995C7"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 33.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["30A2845FE91DDF0C"]
+			id: "29AF5BF505E837E2"
+			tasks: [{
+				id: "4377011D5F37A286"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_khopesh"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 35.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1EC6C0A68036D21A"]
+			id: "649A4559A6B40FD3"
+			tasks: [{
+				id: "0BD280DEAEF801A8"
+				item: {
+					Count: 1
+					id: "simplymore:netherite_lance"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 36.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["177DDD1DADB10350"]
+			id: "46B09FE3F6F08EAD"
+			tasks: [{
+				id: "3E06872AA22550C1"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["5521AF9FFEBBE07C"]
+			id: "76855651D6A7BE35"
+			tasks: [{
+				id: "585D3DB236D0AAFA"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_twinblade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4A01150522517D74"]
+			id: "7C61611855122F5F"
+			tasks: [{
+				id: "485A512CF8A08DFF"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_rapier"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1A1F1EF9B0723BDC"]
+			id: "58796849E10D3986"
+			tasks: [{
+				id: "7AEE4C8CEEFDBF7A"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6C1624374A6F7F30"]
+			id: "2CDF442990FC61E3"
+			tasks: [{
+				id: "169EDF719140593E"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_sai"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4EBA90C15E34A824"]
+			id: "25C965D7DE09532F"
+			tasks: [{
+				id: "6EB885880CE9B0EF"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["524C8EBCBCABD880"]
+			id: "7799ECA60966EA90"
+			tasks: [{
+				id: "767A44D1EC853536"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_glaive"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7E4B90716F84CD34"]
+			id: "0CD4067668928409"
+			tasks: [{
+				id: "2936C9A0A94EB7E8"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_cutlass"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 12.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0390AF361FD78DC4"]
+			id: "36E80C0A1B29E7BC"
+			tasks: [{
+				id: "0FD256918F765D1B"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_claymore"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 26.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["7CC5F0653708A0D1"]
+			id: "43D149EABD0FB285"
+			tasks: [{
+				id: "471EA03A0E5C3BD4"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_warglaive"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 10.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["749FDB3991DE3774"]
+			id: "758F3D75CB305B79"
+			tasks: [{
+				id: "6DD941CBD1530E6D"
+				item: {
+					Count: 1
+					id: "simplymore:runic_backhand_blade"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 13.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["55DEAC3941DF2557"]
+			id: "559001B07C597B23"
+			tasks: [{
+				id: "30366102B749D8A7"
+				item: {
+					Count: 1
+					id: "simplymore:runic_grandsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 15.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2CC587084502BDCC"]
+			id: "6CFDF73768A412CB"
+			tasks: [{
+				id: "546FFC3A45ABF065"
+				item: {
+					Count: 1
+					id: "simplymore:runic_great_katana"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 16.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["47C43BB19F77DEC9"]
+			id: "07B5B3731E2386A1"
+			tasks: [{
+				id: "43E07C681140187B"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_halberd"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["53F4E43B7779DA4B"]
+			id: "18CFED8012231F92"
+			tasks: [{
+				id: "28BB564FD9412B89"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_scythe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 20.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["6A1D8CE2ECB77743"]
+			id: "58F59EC8D02C7BCF"
+			tasks: [{
+				id: "1970157B90CCAB78"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_chakram"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 21.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["000923041A4A2A85"]
+			id: "08EE0B5195AB9370"
+			tasks: [{
+				id: "6FE6CB7CEEFCFE45"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_greataxe"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 23.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["23CCBBA4B5BC36C5"]
+			id: "5CCF6A54CFAFD1ED"
+			tasks: [{
+				id: "296E3A3CD7638D3C"
+				item: {
+					Count: 1
+					id: "simplyswords:runic_greathammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 24.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2547108DFFB61C61"]
+			id: "2B9A789810AB465B"
+			tasks: [{
+				id: "67435F9C7DDEE9C2"
+				item: {
+					Count: 1
+					id: "simplymore:runic_deer_horns"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 27.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["2E618F1A4624FD7E"]
+			id: "6C789B0C33BEE418"
+			tasks: [{
+				id: "575B8A35EE475DEB"
+				item: {
+					Count: 1
+					id: "simplymore:runic_great_spear"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 29.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["39BBDCF3A44870E8"]
+			id: "1CE1DB2ED512FE5D"
+			tasks: [{
+				id: "4E09DCA14AA7E7F1"
+				item: {
+					Count: 1
+					id: "simplymore:runic_quarterstaff"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 30.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12BA0224FF1B2FC3"]
+			id: "2E21CCE396833D5A"
+			tasks: [{
+				id: "139460F20EE5635B"
+				item: {
+					Count: 1
+					id: "simplymore:runic_pernach"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 32.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0D5253090D76E2D6"]
+			id: "705A201FCFF8CC8E"
+			tasks: [{
+				id: "2DD047AE8B11CC57"
+				item: {
+					Count: 1
+					id: "simplymore:runic_dagger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 33.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["29AF5BF505E837E2"]
+			id: "49AC09A01982228C"
+			tasks: [{
+				id: "1922D283E4190B97"
+				item: {
+					Count: 1
+					id: "simplymore:runic_khopesh"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 35.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["649A4559A6B40FD3"]
+			id: "7FDAAF369D68CC46"
+			tasks: [{
+				id: "01C5C2AA7C160CD4"
+				item: {
+					Count: 1
+					id: "simplymore:runic_lance"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 36.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"&6&lSimply Swords&r offers over &a&l15&r weapons types for the player to utilize."
+				""
+				"It also has the unique featureset of &b&n&lRunic Powers&r, which can be given to weapons via &n&bsockets&r!"
+			]
+			icon: {
+				Count: 1
+				id: "patchouli:guide_book"
+				tag: {
+					"patchouli:book": "simplyswords:runic_grimoire"
+				}
+			}
+			id: "0F426527B63F854D"
+			rewards: [
+				{
+					id: "4990EA6F31E34290"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 3
+					id: "6FE0BF1D6A5156CE"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "5E12586E60A353E5"
+					item: "minecraft:soul_sand"
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			subtitle: "One of Many Sockets!"
+			tasks: [
+				{
+					id: "6461B5E43F7DF63E"
+					title: "&d&lSimply Swords!"
+					type: "checkmark"
+				}
+				{
+					id: "6DB4A88379161C44"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+			]
+			x: 19.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["0F426527B63F854D"]
+			description: ["This will be the first step in &bdiscovering sockets&r and &9runic powers&r!"]
+			id: "574677AD427E33FB"
+			rewards: [{
+				id: "4614B78F16F62367"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			subtitle: "Unique Indeed."
+			tasks: [{
+				id: "0D8720163BD20211"
+				item: {
+					Count: 1
+					id: "itemfilters:tag"
+					tag: {
+						value: "simplyswords:uniques"
+					}
+				}
+				title: "Obtain a &6Unique&r Weapon."
+				type: "item"
+			}]
+			x: 19.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["574677AD427E33FB"]
+			description: [
+				"&c&lEmpowered Remnants&r are created by melting down unique weapons."
+				""
+				"They are used in the creation of &9&lRunefused Gems&r, and &6&lNetherfused Gems&r."
+			]
+			id: "5AA2A1E358A18B4E"
+			rewards: [
+				{
+					id: "484700ADEF26CFD9"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					id: "5BF39C352371EC2D"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					count: 4
+					id: "3AD57D6DAA2392B8"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+			]
+			subtitle: "A Pain to Make..."
+			tasks: [{
+				id: "5DF612576542C997"
+				item: "simplyswords:empowered_remnant"
+				type: "item"
+			}]
+			x: 19.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["5AA2A1E358A18B4E"]
+			description: [
+				"In order to make it, combine a &cEmpowered Remnant&r with a &6Netherite Ingot&r in a Smithing Table."
+				""
+				"Click to identify which power you have rolled."
+			]
+			id: "47EBDA6516061205"
+			rewards: [
+				{
+					id: "5B95526DD588D574"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					count: 2
+					id: "00F0A6CDD2E3D77C"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+				{
+					id: "09E4171B6A7E42EB"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Made with Ash."
+			tasks: [{
+				id: "1F673D38D2BBDA24"
+				item: {
+					Count: 1
+					id: "simplyswords:netherfused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 20.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["5AA2A1E358A18B4E"]
+			description: [
+				"To make it, combine a &bRunic Tablet&r with a &cEmpowered Remnant&r in a Smithing Table."
+				""
+				"Click to identify which power you have rolled."
+			]
+			id: "3E5207641E8653DC"
+			rewards: [
+				{
+					id: "0B046175AB1496F5"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					count: 5
+					id: "7E8172D545591CF2"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+				{
+					id: "123D0FDCADF578A5"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Made with &klol&r"
+			tasks: [{
+				id: "5C78E6FA3E4F93CB"
+				item: {
+					Count: 1
+					id: "simplyswords:runefused_gem"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: 18.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["771507AA08194DE6"]
+			id: "498F2AE0D31869F5"
+			rewards: [
+				{
+					count: 3
+					id: "6EDDBA000BF169D6"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "6132DBF8560F08F4"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+				{
+					id: "078C810D710BC5A9"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Sharp and Cold to the Touch!"
+			tasks: [
+				{
+					id: "160CA89905A2A539"
+					item: {
+						Count: 1
+						id: "simplyswords:frostfall"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "68AC2EDC4090A9EC"
+					item: {
+						Count: 1
+						id: "simplyswords:icewhisper"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "515E3D929FD2B507"
+					item: {
+						Count: 1
+						id: "simplyswords:arcanethyst"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&d&n&lCrystalline Thrust."
+			x: 17.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["771507AA08194DE6"]
+			id: "123C703D6049E87A"
+			rewards: [
+				{
+					id: "30860BB894D93405"
+					item: {
+						Count: 1
+						id: "minecraft:lingering_potion"
+						tag: {
+							Potion: "minecraft:long_poison"
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "15C06B39E5F6380A"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					id: "2660FECCE50B6789"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+			]
+			subtitle: "Smells Awful in the Heat."
+			tasks: [{
+				id: "4B5E527B4C808313"
+				item: {
+					Count: 1
+					id: "simplyswords:toxic_longsword"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 17.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["771507AA08194DE6"]
+			id: "5B27AA1CCE537327"
+			rewards: [
+				{
+					count: 3
+					id: "453DD074D7E9068B"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "29BE710AE7221493"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+				{
+					id: "45A8A5308D96050F"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "4084E23C5A3D5F45"
+					item: {
+						Count: 1
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "minecraft:extended_fire_resistance"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "Burning Hot."
+			tasks: [
+				{
+					id: "25E1716F6BED844C"
+					item: {
+						Count: 1
+						id: "simplyswords:brimstone_claymore"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "500FFB155670A2FF"
+					item: {
+						Count: 1
+						id: "simplyswords:emberblade"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "41D22B752B03E087"
+					item: {
+						Count: 1
+						id: "simplyswords:molten_edge"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&6&n&lFirey Depths..."
+			x: 17.5d
+			y: -12.0d
+		}
+		{
+			dependencies: [
+				"47EBDA6516061205"
+				"3E5207641E8653DC"
+			]
+			description: [""]
+			icon: "simplyswords:empowered_remnant"
+			id: "771507AA08194DE6"
+			rewards: [
+				{
+					count: 5
+					id: "6D591FC77216444F"
+					item: "minecraft:golden_apple"
+					type: "item"
+				}
+				{
+					id: "7DB2BBD0F8B74E53"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Collect the Rest of the Uniques!"
+			tasks: [{
+				id: "673BEC88D5083E14"
+				title: "Collect Them All!"
+				type: "checkmark"
+			}]
+			title: "&l&bRunic Overload..."
+			x: 19.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["771507AA08194DE6"]
+			id: "0AD5B94945CAFEA5"
+			rewards: [
+				{
+					count: 4
+					id: "515015C4CAFCC8AC"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "74309BC4878251AA"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+				{
+					id: "191E898B3CC7B7CA"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+			]
+			subtitle: "Don't Doze Off!"
+			tasks: [
+				{
+					id: "40DF72334515BC94"
+					item: {
+						Count: 1
+						id: "simplyswords:watcher_claymore"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "686651C9E831A57C"
+					item: {
+						Count: 1
+						id: "simplyswords:watching_warglaive"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "417154DBE628ABFB"
+					item: {
+						Count: 1
+						id: "simplyswords:soulrender"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7F660EA57A5763F5"
+					item: {
+						Count: 1
+						id: "simplyswords:soulstealer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&n&b&lSoulscapade!"
+			x: 20.5d
+			y: -12.0d
+		}
+		{
+			dependencies: ["771507AA08194DE6"]
+			id: "27B045439DB314E7"
+			rewards: [
+				{
+					id: "2F26C125769F6427"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					id: "71583AAFB44BE803"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+				{
+					id: "29B2ACA54FE67117"
+					item: {
+						Count: 1
+						id: "minecraft:splash_potion"
+						tag: {
+							Potion: "minecraft:strong_warding"
+						}
+					}
+					type: "item"
+				}
+			]
+			subtitle: "A Magical STING!"
+			tasks: [{
+				id: "068033145A55BB5F"
+				item: {
+					Count: 1
+					id: "simplyswords:shadowsting"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 21.0d
+			y: -11.0d
+		}
+		{
+			dependencies: ["771507AA08194DE6"]
+			description: [""]
+			id: "6B432D872586D91D"
+			rewards: [
+				{
+					count: 3
+					id: "3979DE74450E5C93"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "4CF86E1EA3BF8D37"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+				{
+					id: "4849AF6911FF02F2"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Quite the Shock."
+			tasks: [
+				{
+					id: "7732EAA92E6455BA"
+					item: {
+						Count: 1
+						id: "simplyswords:stormbringer"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "3FD56B75FF607307"
+					item: {
+						Count: 1
+						id: "simplyswords:thunderbrand"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "4F9D18F59CA26A5C"
+					item: {
+						Count: 1
+						id: "simplyswords:storms_edge"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			title: "&n&b&lHigh Potential!"
+			x: 20.5d
+			y: -10.0d
+		}
+		{
+			dependencies: ["771507AA08194DE6"]
+			id: "1A59D35015E0BB3F"
+			rewards: [{
+				id: "60CB3191CAB85C48"
+				item: "simplyswords:empowered_remnant"
+				type: "item"
+			}]
+			subtitle: "Dormant Power Lies Beneath..."
+			tasks: [{
+				id: "0F8DD51E27AD3B4A"
+				item: {
+					Count: 1
+					id: "simplyswords:dormant_relic"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 19.0d
+			y: -13.0d
+		}
+		{
+			dependencies: ["1A59D35015E0BB3F"]
+			id: "1E65DAC37F8D34F9"
+			rewards: [
+				{
+					count: 4
+					id: "0E71C79F09F1D234"
+					item: "minecraft:gold_ingot"
+					type: "item"
+				}
+				{
+					id: "4A1A3317D2320B18"
+					item: "simplyswords:runic_tablet"
+					type: "item"
+				}
+				{
+					id: "4D4664097A94E786"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "All Mighty!"
+			tasks: [{
+				id: "70287F102D2FE077"
+				item: {
+					Count: 1
+					id: "simplyswords:righteous_relic"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 18.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["1A59D35015E0BB3F"]
+			id: "10710081934A30C6"
+			rewards: [
+				{
+					id: "63937C3288DE0667"
+					item: "minecraft:ender_eye"
+					type: "item"
+				}
+				{
+					id: "24410DEACDE6303C"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					id: "1F3F63D864A2579F"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			subtitle: "Tainted and Twisted."
+			tasks: [{
+				id: "7B79D2A0339B4CFC"
+				item: {
+					Count: 1
+					id: "simplyswords:tainted_relic"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 20.0d
+			y: -14.0d
+		}
+		{
+			dependencies: ["10710081934A30C6"]
+			id: "3B253027B3A56099"
+			rewards: [
+				{
+					id: "1599BEFB22AC6BA5"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					count: 3
+					id: "0C97AA455652678D"
+					item: "minecraft:ender_eye"
+					type: "item"
+				}
+				{
+					id: "61DC296EEFD8DFFA"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "1BAB7350E1D7E652"
+					item: "prominent:molten_remnant"
+					type: "item"
+				}
+			]
+			subtitle: "Death Awaits."
+			tasks: [{
+				id: "31C29D8D28776CF2"
+				item: {
+					Count: 1
+					id: "simplyswords:harbinger"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 20.5d
+			y: -15.5d
+		}
+		{
+			dependencies: ["1E65DAC37F8D34F9"]
+			id: "3B50D775CE678833"
+			rewards: [
+				{
+					id: "270A0151325730F0"
+					item: "minecraft:dragon_breath"
+					type: "item"
+				}
+				{
+					id: "196792A0E772FEA1"
+					item: "simplyswords:empowered_remnant"
+					type: "item"
+				}
+				{
+					id: "35CBCEA6D5519A6D"
+					type: "xp_levels"
+					xp_levels: 10
+				}
+				{
+					id: "08666B06A2472292"
+					item: "prominent:molten_remnant"
+					type: "item"
+				}
+			]
+			subtitle: "Pure Light."
+			tasks: [{
+				id: "1CECDA302A1F41AE"
+				item: {
+					Count: 1
+					id: "simplyswords:sunfire"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 17.5d
+			y: -15.5d
+		}
+	]
+	title: " &5Simply Sword"
+}

@@ -4587,6 +4587,11 @@
       "path": "configs/ftbquests/quests/chapters/fantasy_armor.snbt",
       "sha256": "11139f69cead5515ec1360e80386f168d6a170ca927f138df4b3e4f9bda39814",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/fantasy_armor.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/l5simply_sword.snbt",
+      "sha256": "2160611a342d3a9b83a42a54b021e251eca172868dbeb5fa78db9d0f80216f2e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/l5simply_sword.snbt"
     }
   ]
 }
