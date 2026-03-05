@@ -6377,6 +6377,11 @@
       "path": "configs/hardcorerevival-common.toml",
       "sha256": "370e053126503316a51a18b6e3e7c0d010e2155f29a32bb8b0d3d50febc35862",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/hardcorerevival-common.toml"
+    },
+    {
+      "path": "configs/healingcampfire.json5",
+      "sha256": "66cb4fa208703d9f68183988cc1d8bec10a9786683775e3c09da618bb59a35ae",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/healingcampfire.json5"
     }
   ]
 }
