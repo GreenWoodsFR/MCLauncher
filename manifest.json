@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/ecologics-common.toml",
-      "sha256": "7bb311976775a0d5a703fbeabfadc2f27adb0a610f1568f1e8e402f5ff4bd5fb",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ecologics-common.toml"
-    },
-    {
       "path": "configs/embeddium-fingerprint.json",
       "sha256": "368786b71c9dce9eac53561defae23f17134af2ff5170c93e96e5ee331ad1173",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/embeddium-fingerprint.json"
