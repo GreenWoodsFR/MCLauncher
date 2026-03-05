@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/piggyback.toml",
-      "sha256": "194ada47b209c03eb48329db2058c478b478e9eb59ee3a2277d2dabaf1d1de0a",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/piggyback.toml"
-    },
-    {
       "path": "configs/pingwheel.json",
       "sha256": "6878009a9f7ca2309feb78f6884556493b6752232f7f87e12901dbb6946ab5ea",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/pingwheel.json"
