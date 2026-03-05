@@ -6162,6 +6162,11 @@
       "path": "configs/dynamic_fps.json",
       "sha256": "ca3d163bab055381827226140568f3bef7eaac187cebd76878e0b63e9e442356",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/dynamic_fps.json"
+    },
+    {
+      "path": "configs/easyanvils-client.toml",
+      "sha256": "daecf2f4b4f0f6682cfabf68dcb963535f7f4284c671141dd7c7115b0c609ba7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/easyanvils-client.toml"
     }
   ]
 }
