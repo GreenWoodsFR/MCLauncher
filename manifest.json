@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/lootr-client.toml",
-      "sha256": "4e37c085446f2a5be3a3cc4765ffc9657e71473245574c3e398c64fef07615a0",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lootr-client.toml"
-    },
-    {
       "path": "configs/lootr-common.toml",
       "sha256": "8608b427ee774c20c04cdcd9044269bacd87d74c28497ca6c784a25286d4200f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/lootr-common.toml"
