@@ -3652,6 +3652,11 @@
       "path": "configs/alexsmobs/giant_squid_spawns.json",
       "sha256": "7e7b175c33aed22c3d2cd31e215c6243e3790b07a3664b42d130a8f3b897489f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/giant_squid_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/crocodile_spawns.json",
+      "sha256": "a73d36d1b5dd75eb20f6143193b991e942f4ef4cef725835b66ec01197d7074f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/crocodile_spawns.json"
     }
   ]
 }
