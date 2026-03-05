@@ -5552,6 +5552,11 @@
       "path": "configs/relics/relics/chorus_inhibitor.yaml",
       "sha256": "8d0e4663ac5e07ed77f0d5c68d06dc8710d4981b2e0a9dd4e224f7217e341153",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/chorus_inhibitor.yaml"
+    },
+    {
+      "path": "configs/relics/relics/magma_walker.yaml",
+      "sha256": "91495c617e65d40cb38610f300374d6ddce426a4cb32f7731280a493fb1fd105",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/magma_walker.yaml"
     }
   ]
 }
