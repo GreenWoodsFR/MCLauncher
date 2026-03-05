@@ -6762,6 +6762,11 @@
       "path": "configs/railways-common.toml",
       "sha256": "1f660c8bd0c374799862392ef7a56253544f5adaf653e59386cd1eb34f94fa2f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/railways-common.toml"
+    },
+    {
+      "path": "configs/refurbished_furniture.client.toml",
+      "sha256": "3dd9e3f6c0659cd3adfb342870e0ea39233fd744ffb07a29f09fd96fbfbe3bed",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/refurbished_furniture.client.toml"
     }
   ]
 }
