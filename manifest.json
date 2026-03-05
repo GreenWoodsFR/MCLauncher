@@ -4457,6 +4457,11 @@
       "path": "configs/ftbquests/quests/chapters/magicienne.snbt",
       "sha256": "80896d7a5f6aa639fe2320c21c0ba866b1142626127689d8354f90b4bd693d86",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/magicienne.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/decoration.snbt",
+      "sha256": "a7c1d856294a2ec2ae3fca75a39248ea0869af1747f2c0e22eb2edb4a6c1d086",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/decoration.snbt"
     }
   ]
 }
