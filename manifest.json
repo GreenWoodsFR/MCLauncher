@@ -3782,6 +3782,11 @@
       "path": "configs/apotheosis/apotheosis.cfg",
       "sha256": "9665f22f77597b42cf5adc02e351253525fd76dd45b885f258dafbb038a24e26",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/apotheosis/apotheosis.cfg"
+    },
+    {
+      "path": "configs/ars_additions/glyph_recall.toml",
+      "sha256": "14af58551488cb7eab8a886be3d272c69ecbbe19dfa81d878d19ec3666780971",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_additions/glyph_recall.toml"
     }
   ]
 }
