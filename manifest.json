@@ -8062,6 +8062,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/endCrystalVoxelization.glsl",
       "sha256": "d345ca17c7f3353e9e819f56081ba3b2ea9ba731ff541ce466a0529478c601ad",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/endCrystalVoxelization.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/shockwave.glsl",
+      "sha256": "f2696d6150fe6474130b76e992896a7376ac4c25e7a7ade5edded8d99e7699cc",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/misc/shockwave.glsl"
     }
   ]
 }
