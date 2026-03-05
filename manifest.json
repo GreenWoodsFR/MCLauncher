@@ -950,7 +950,7 @@
       "id": "ed910eb7-107f-4e42-be7d-ab10158bd4ec",
       "name": "Dynamic Fps",
       "filename": "dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/dynamic-fps-3.11.4%2Bminecraft-1.20.0-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/dynamic-fps-3.11.4_minecraft-1.20.0-forge.jar",
       "sha256": "b0ecdf3a0619208441062ceeebce79256223ac4e341844a09a6859170d671920",
       "required": true,
       "side": "both",
