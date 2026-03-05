@@ -7702,6 +7702,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/connectedGlass.glsl",
       "sha256": "103652261f2ebb7a25b810fe3d3190b646726a4645401f72c5e134fa0a3468db",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/connectedGlass.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/seasons.glsl",
+      "sha256": "b0800a89916e4f04469e95eb71fa2b28ad23191aafadcd70670489b298367118",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/seasons.glsl"
     }
   ]
 }
