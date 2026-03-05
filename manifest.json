@@ -6277,6 +6277,11 @@
       "path": "configs/explorerscompass-common.toml",
       "sha256": "1646a67e28d5353d25354d7242ab099d147897e8e0a6f7f99a4bf4c7ae224462",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/explorerscompass-common.toml"
+    },
+    {
+      "path": "configs/fairylights-client.toml",
+      "sha256": "cad5874b33ea848d77bd11f0a7d78b2d0ecbb05cad6d4451d702cc357c37d33e",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/fairylights-client.toml"
     }
   ]
 }
