@@ -1,0 +1,430 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "netherite_advanced"
+	group: "0C887D22E21FDFB7"
+	hide_quest_until_deps_complete: true
+	icon: "advancednetherite:netherite_diamond_ingot"
+	id: "538C78A7D6C84BBD"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "65520B5A9E229627"
+			rewards: [{
+				id: "062DBE42E47B7C10"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			size: 2.0d
+			tasks: [{
+				id: "4BCE289E66B15CB2"
+				item: "advancednetherite:netherite_iron_ingot"
+				type: "item"
+			}]
+			x: -2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["65520B5A9E229627"]
+			id: "6F8AAA75EB1D9E3F"
+			rewards: [{
+				id: "067F8EEF2F9FD976"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "0479D2B3E92E1380"
+				item: "advancednetherite:netherite_gold_ingot"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6F8AAA75EB1D9E3F"]
+			id: "588357D4E8E8DE1B"
+			rewards: [{
+				id: "73B070DC9ED3AF78"
+				type: "xp_levels"
+				xp_levels: 15
+			}]
+			tasks: [{
+				id: "6CAE756C2AA324A5"
+				item: "advancednetherite:netherite_emerald_ingot"
+				type: "item"
+			}]
+			x: 0.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["588357D4E8E8DE1B"]
+			id: "005C6F4791BA712B"
+			rewards: [{
+				id: "3CDA4898691884B6"
+				type: "xp_levels"
+				xp_levels: 20
+			}]
+			tasks: [{
+				id: "39C73FAE99A3A384"
+				item: "advancednetherite:netherite_diamond_ingot"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["65520B5A9E229627"]
+			id: "639DCD15246A2D73"
+			rewards: [{
+				id: "547A9BD4509EBBF3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "193BEBCD512B87DD"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_iron_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["65520B5A9E229627"]
+			id: "5BE86EB6B714540C"
+			rewards: [{
+				id: "62CE581C800757EF"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4F277178169F168F"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_iron_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["65520B5A9E229627"]
+			id: "5ED730C7A0EB23A0"
+			rewards: [{
+				id: "71B0FCD3AA6C128D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "555CFDF789D2135D"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_iron_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["65520B5A9E229627"]
+			id: "58A2C474B8D96A24"
+			rewards: [{
+				id: "33A90B48C0BE1E96"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4FC41A9D95617385"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_iron_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["6F8AAA75EB1D9E3F"]
+			id: "465ACFDA3CD09481"
+			rewards: [{
+				id: "2FEB12DBE66A5F24"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6B7AFA8C5C4F357A"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_gold_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["588357D4E8E8DE1B"]
+			id: "4C91DADD467979C4"
+			rewards: [{
+				id: "45CBB6A9BD24A421"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3421E94AED955DE4"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_emerald_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["005C6F4791BA712B"]
+			id: "33A5265997970BF3"
+			rewards: [{
+				id: "70C855BBEC76E92D"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "6EFDA440F0C02862"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_helmet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["6F8AAA75EB1D9E3F"]
+			id: "1A6FA2FE3A9C0AD1"
+			rewards: [{
+				id: "79272A1B7FF2D262"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4F93D860DC17C6B2"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_gold_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["6F8AAA75EB1D9E3F"]
+			id: "27F5AA5E336CEBD1"
+			rewards: [{
+				id: "11307D56ADEA8458"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1EEAFB3AA536E17C"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_gold_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["6F8AAA75EB1D9E3F"]
+			id: "457DF7C1A9C618F0"
+			rewards: [{
+				id: "071C9DBA34AF4507"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2CAB8A2AD13E765A"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_gold_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["588357D4E8E8DE1B"]
+			id: "0C041734815ED7D6"
+			rewards: [{
+				id: "125B8545B59CC296"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3141B54ACAC5FE0B"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_emerald_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["588357D4E8E8DE1B"]
+			id: "77A3EEBA35BE191F"
+			rewards: [{
+				id: "0F7353DFB53CAC69"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0C58E5B508ADBD6A"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_emerald_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["588357D4E8E8DE1B"]
+			id: "4EE9BA19235B513C"
+			rewards: [{
+				id: "50FBA7A05751DD13"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3995E4328636433A"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_emerald_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["005C6F4791BA712B"]
+			id: "70A4C5A2CD0B204B"
+			rewards: [{
+				id: "5C4B2EA59DAEE049"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "4A824DF4676AE721"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_chestplate"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["005C6F4791BA712B"]
+			id: "3D751872EBBD1357"
+			rewards: [{
+				id: "372D13BCEB109180"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "451EA26F79B6BF6C"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_leggings"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["005C6F4791BA712B"]
+			id: "0B10CED64CA9F1BE"
+			rewards: [{
+				id: "64E7367A20268169"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "5C3FD6A3C600F09D"
+				item: {
+					Count: 1
+					id: "advancednetherite:netherite_diamond_boots"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.5d
+		}
+	]
+	title: " &bNetherite Advanced"
+}
