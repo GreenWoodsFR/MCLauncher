@@ -4547,6 +4547,11 @@
       "path": "configs/ftbquests/quests/chapters/bounty_board.snbt",
       "sha256": "345d6325bf33e7b4ec6da75a17695880cdb1d469af5fba22e142c99fc7de1780",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/bounty_board.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/the_twilight_forest.snbt",
+      "sha256": "156d790847280c1a6889b53f2e4dca2a9c18e75ed1320199be35053115f1e7b3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/the_twilight_forest.snbt"
     }
   ]
 }
