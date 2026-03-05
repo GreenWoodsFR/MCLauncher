@@ -5072,6 +5072,11 @@
       "path": "configs/ftbquests/quests/reward_tables/gt_iv_basic_rewards.snbt",
       "sha256": "97fcd35097be34e19c84f07d6edebc204b8c383cedb0dabdf654db42ab7dc9ea",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_iv_basic_rewards.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/de_basic_2.snbt",
+      "sha256": "91dd8d3a5d2f0d2f10e5cfe5d82fa1bb304c42f31da7d7e0bb9b26b0281b5451",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/de_basic_2.snbt"
     }
   ]
 }
