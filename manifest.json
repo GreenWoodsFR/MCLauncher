@@ -4987,6 +4987,11 @@
       "path": "configs/ftbquests/quests/reward_tables/atm9_books.snbt",
       "sha256": "53e20adb61690fc1c3edd9ea23e84b5f9102001bee39e72f9845e825f5188494",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/atm9_books.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/gt_lv_basic_rewards.snbt",
+      "sha256": "2cbd3eba545dcdacf62cd0c1097a6d5e0daccbf261370797f2f88362f34d1747",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_lv_basic_rewards.snbt"
     }
   ]
 }
