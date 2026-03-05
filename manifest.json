@@ -3572,6 +3572,11 @@
       "path": "configs/alexsmobs/capuchin_monkey_spawns.json",
       "sha256": "83b68d395236771ae9276f48b2988cfa9eb65e14dc41531b37a6b4e77c64859a",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/capuchin_monkey_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/mantis_shrimp_spawns.json",
+      "sha256": "4f6099fe4d9f99530f9f0f9bae7e55c0713506efdc47da69d227ae62137647e4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/mantis_shrimp_spawns.json"
     }
   ]
 }
