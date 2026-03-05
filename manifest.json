@@ -4087,6 +4087,11 @@
       "path": "configs/ars_nouveau/glyph_touch.toml",
       "sha256": "653abbdb27e1223f42f67617c575335990007ecf5c47abb293b86227b41923f6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_touch.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_pickup.toml",
+      "sha256": "a00b12536e97c3b601004c8f750d37c01165d16b5d86edd753daa43f040cd6e6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_pickup.toml"
     }
   ]
 }
