@@ -7492,6 +7492,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/stars.glsl",
       "sha256": "57dd77f36a421962b5ec1fbe57b80737e7987b46ec276a71079b1dfcdcb50974",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/stars.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/rainbow.glsl",
+      "sha256": "648536bc6c511a8f4486cdadff9a3be604b5e50f0817003cb2009037860b0c34",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/atmospherics/rainbow.glsl"
     }
   ]
 }
