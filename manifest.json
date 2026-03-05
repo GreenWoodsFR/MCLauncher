@@ -3402,6 +3402,11 @@
       "path": "configs/alexsmobs/murmur.json",
       "sha256": "973b8ebc19fa04e02b050f28359ee6bffbae93367f49ecac10892f4a2c1dad7d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/murmur.json"
+    },
+    {
+      "path": "configs/alexsmobs/dropbear_spawns.json",
+      "sha256": "0fa8f72e4c73805727577a343758cfd39377cbdadebb88b6b2343183053e16cb",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/dropbear_spawns.json"
     }
   ]
 }
