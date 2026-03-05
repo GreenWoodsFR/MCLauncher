@@ -3542,6 +3542,11 @@
       "path": "configs/alexsmobs/comb_jelly_spawns.json",
       "sha256": "cf9ba87b0d2001543fe09d8f6a4c602c03644643a9bd49d1e9ca0b041ab4dc02",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/comb_jelly_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/fly_spawns.json",
+      "sha256": "e7855fa7d73f4d3af77f47ddd70b4fcbab7862302d004b4ddae9dddc75c4e402",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/fly_spawns.json"
     }
   ]
 }
