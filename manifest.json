@@ -3269,11 +3269,6 @@
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/advancednetherite-common.toml"
     },
     {
-      "path": "configs/ad_astra.jsonc",
-      "sha256": "52e9c20de34fd2fd4c0410697538922c8a63591da58117c40c88c681e08f7264",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ad_astra.jsonc"
-    },
-    {
       "path": "configs/alexscaves-client.toml",
       "sha256": "4c146ba6e12b1bdc2259f9bb8ee48ffc20719b8c506726e1c736eccc99c94758",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves-client.toml"
