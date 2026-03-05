@@ -3497,6 +3497,11 @@
       "path": "configs/alexsmobs/soul_vulture_spawns.json",
       "sha256": "45407796e49769550eef92fd3953daa191c85aaf032fb2be32fe591b0199a172",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/soul_vulture_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/cockroach_spawns.json",
+      "sha256": "97a67afb52f1398f2c55e2a74001e5b893394e28d3f0eb00695f049bdd19f204",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/cockroach_spawns.json"
     }
   ]
 }
