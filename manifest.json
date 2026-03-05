@@ -4417,6 +4417,11 @@
       "path": "configs/ftbquests/quests/chapters/pcheures.snbt",
       "sha256": "773ea17c608141852a62d6cd6cbe2996af5b37d34389adf757f13c5714cc934b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/pcheures.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/textcelestial_weaponrycolor18f3cf.snbt",
+      "sha256": "009ef174df808874396cda5ef03656a37d23dae31cd0334656dbe45e9af47f3c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/textcelestial_weaponrycolor18f3cf.snbt"
     }
   ]
 }
