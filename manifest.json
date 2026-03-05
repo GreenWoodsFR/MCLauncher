@@ -3667,6 +3667,11 @@
       "path": "configs/alexsmobs/farseer.json",
       "sha256": "c245528d844458d8ac416572ee0df7575bb23d58beb07367d4cd55c66fec9000",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/farseer.json"
+    },
+    {
+      "path": "configs/alexsmobs/rain_frog_spawns.json",
+      "sha256": "c4b2ef89d9ad5c4dffcebb51209837da430b166c5767c1a38d90911c4445b124",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/rain_frog_spawns.json"
     }
   ]
 }
