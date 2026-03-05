@@ -2955,6 +2955,16 @@
       "required": true,
       "side": "both",
       "version": "1.4.0.247"
+    },
+    {
+      "id": "a7ea7bb4-54cb-43db-8107-02f5af8de3c3",
+      "name": "Kiwi",
+      "filename": "Kiwi-1.20.1-Forge-11.10.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/Kiwi-1.20.1-Forge-11.10.1.jar",
+      "sha256": "35ab17f83a79846c878aa37cd4871fe138c808ceef5e678e42dda2f351db1219",
+      "required": true,
+      "side": "both",
+      "version": "11.10.1"
     }
   ],
   "configFiles": []
