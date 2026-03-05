@@ -2025,6 +2025,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "0f55ab7c-8bc4-4743-8298-3c8496d7fbe1",
+      "name": "RegionsUnexploredForge",
+      "filename": "RegionsUnexploredForge-0.5.6+1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/RegionsUnexploredForge-0.5.6%2B1.20.1.jar",
+      "sha256": "5ba96a83d12c0e2eb3b22c0fa11262ff6d49ba8d2ebd03e1c59ab47ea7dcc2c6",
+      "required": true,
+      "side": "both",
+      "version": "0.5.6"
     }
   ],
   "configFiles": []
