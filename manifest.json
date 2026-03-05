@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/betterfpsdist.json",
-      "sha256": "7410aa05bb28180a3d5389fe955affffa7e7842e330385d042eb78e7a73db017",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/betterfpsdist.json"
-    },
-    {
       "path": "configs/bettergrass.json5",
       "sha256": "7f2edb6c63c513d0ff5f6b216da7cc1394da4f07c192ceab805bc3ead56cc798",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/bettergrass.json5"
