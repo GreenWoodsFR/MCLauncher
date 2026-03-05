@@ -5792,6 +5792,11 @@
       "path": "configs/airhop-server.toml",
       "sha256": "a9e9c9dab5c917e5a9c8519951769de4555c55cf41b362921c016ef8d1709a04",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/airhop-server.toml"
+    },
+    {
+      "path": "configs/alexscaves-client.toml",
+      "sha256": "4c146ba6e12b1bdc2259f9bb8ee48ffc20719b8c506726e1c736eccc99c94758",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexscaves-client.toml"
     }
   ]
 }
