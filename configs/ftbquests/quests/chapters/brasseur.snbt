@@ -1,0 +1,463 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "brasseur"
+	group: "18782192B0F905F8"
+	hide_quest_until_deps_complete: true
+	icon: "brewery:beer_wheat"
+	id: "0E153B08CF87CEDE"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			id: "457ABD5BCF801F0F"
+			rewards: [{
+				id: "04D648796F51CECB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "1A45549D5259543B"
+				item: "brewery:hops"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			id: "7141052328DBA2D3"
+			rewards: [{
+				id: "442FF43CE975B68D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "15C591D1DC9A90D0"
+				item: "brewery:barley"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			id: "6130A33FACE4DC66"
+			rewards: [{
+				id: "76E482392D81E2A7"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4D0C9F4E849A8E29"
+				item: "brewery:corn"
+				type: "item"
+			}]
+			x: 4.0d
+			y: 1.0d
+		}
+		{
+			id: "63743D67A0040047"
+			rewards: [{
+				id: "7A3A5D12EF99B9B1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3FFA1020E8856092"
+				item: "brewery:barrel_main"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+		{
+			id: "6DF312D76A5E8C99"
+			rewards: [{
+				id: "4D68ED28AD535B55"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "675B9AC62C3580A6"
+				item: "brewery:silo_wood"
+				type: "item"
+			}]
+			x: 2.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6DF312D76A5E8C99"]
+			id: "03F56FA4B258FAA8"
+			rewards: [{
+				id: "24839BEEEB8896F2"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "54C060F465947322"
+				item: "brewery:silo_copper"
+				type: "item"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+		{
+			id: "4FBFB8A8D1AA4E99"
+			rewards: [{
+				id: "306AA5A67D3F989E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "619D80D68179CA71"
+				item: "brewery:rope"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.5d
+		}
+		{
+			id: "1CDF868DD92CC900"
+			rewards: [{
+				id: "30E7521398AF7FCC"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "04FD1A5E07C19F51"
+				item: "brewery:beer_mug"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["1CDF868DD92CC900"]
+			id: "09FD9CB09E70833F"
+			rewards: [{
+				id: "0526831066E11006"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3471ED0BEF0A6589"
+				item: "brewery:beer_wheat"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1CDF868DD92CC900"]
+			id: "27E7AD3C5C5CD8F9"
+			rewards: [{
+				id: "3BE097C45BF370C3"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2FAA3CE44BA113E3"
+				item: "brewery:beer_barley"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1CDF868DD92CC900"]
+			id: "0B5EFA9F87532778"
+			rewards: [{
+				id: "71BA228663263FA2"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "57027A76A964283D"
+				item: "brewery:beer_hops"
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["1CDF868DD92CC900"]
+			id: "71D6FF8AFA63786D"
+			rewards: [{
+				id: "2D67507E96EBF6F1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "0ABB9F00D8DA593D"
+				item: "brewery:beer_haley"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+		{
+			id: "3E962F2D9DD9F3E9"
+			rewards: [{
+				id: "04E71827AB9EC63F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "22E013D39C6FF559"
+				item: "brewery:wooden_brewingstation"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["3E962F2D9DD9F3E9"]
+			id: "477118C1CBA949A6"
+			rewards: [{
+				id: "5F21F580D2BB4033"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "50CBFC932D6841A4"
+				item: "brewery:copper_brewingstation"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["477118C1CBA949A6"]
+			id: "35B84ADD8B7E4861"
+			rewards: [{
+				id: "06432EDAD60A44B5"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "3AB1ADC697A4099A"
+				item: "brewery:netherite_brewingstation"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			id: "289F756A7CB7006A"
+			rewards: [{
+				id: "124E857165DFDF3E"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "6CC93FBFA41D3824"
+				item: "brewery:breathalyzer"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			id: "2C543BCE50A1C198"
+			rewards: [{
+				id: "4D983C74CDEEF7E0"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "742F8BA2019AE710"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_hat"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "13C71D1E6B8246D6"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_regalia"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "1C5A630D3CB8EEBF"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_trousers"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "5226132F2770EA36"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_boots"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			id: "616D3E0BF1F2B858"
+			rewards: [{
+				id: "2A6A70A76DDE4E6A"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [
+				{
+					id: "021ECDBE918DDB81"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_hat_red"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "23DC8F22B03CE8B5"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_dress"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "7AA11160461692FD"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_blouse"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+				{
+					id: "027BFE6C9878E3B2"
+					item: {
+						Count: 1
+						id: "brewery:brewfest_shoes"
+						tag: {
+							Damage: 0
+						}
+					}
+					type: "item"
+				}
+			]
+			x: 5.5d
+			y: 1.5d
+		}
+		{
+			id: "7FD51D35C19C58E8"
+			rewards: [{
+				id: "0A1812B080E6B808"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "7B07BE2085378DE4"
+				item: "brewery:whiskey_jojannik"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 1.0d
+		}
+		{
+			id: "276C85D0625BDADE"
+			rewards: [{
+				id: "072698EF2083D5AF"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "69DA312FA7273C94"
+				item: "brewery:whiskey_lilitusinglemalt"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 1.5d
+		}
+		{
+			id: "66E183553422DEB9"
+			rewards: [{
+				id: "24773892F2460DF1"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "1B364B46FA9F573D"
+				item: "brewery:whiskey_cristelwalker"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 0.5d
+		}
+		{
+			id: "23710B24C66AAF22"
+			rewards: [{
+				id: "053F8E860B57B2E1"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "4552D0FA3CA6C055"
+				item: "brewery:whiskey_maggoallan"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 0.5d
+		}
+		{
+			id: "664AD8BE8753E361"
+			rewards: [{
+				id: "0F17520C5102665F"
+				type: "xp_levels"
+				xp_levels: 10
+			}]
+			tasks: [{
+				id: "74F0E348D72EFDB6"
+				item: "brewery:whiskey_carrasconlabel"
+				type: "item"
+			}]
+			x: -4.5d
+			y: 1.5d
+		}
+		{
+			id: "28E269E3E45B387E"
+			rewards: [{
+				id: "4AC5C5663AF0287C"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2166505033E13B77"
+				item: "brewery:bar_counter"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -3.5d
+		}
+	]
+	title: " &eBrasseur(e)"
+}

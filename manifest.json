@@ -4657,6 +4657,11 @@
       "path": "configs/ftbquests/quests/chapters/lcmer6cury.snbt",
       "sha256": "4af425592600fcf5c7a7f1ed38a09840b94a5acf9437043f156437b3306e1954",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/lcmer6cury.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/brasseur.snbt",
+      "sha256": "2f69817365e55641cc25f15b572bf80f85880ffac8fbfe25678f2d18471c16c3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/brasseur.snbt"
     }
   ]
 }
