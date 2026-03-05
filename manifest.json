@@ -165,6 +165,16 @@
       "required": true,
       "side": "both",
       "version": "2.5.1"
+    },
+    {
+      "id": "c9784563-3fd0-4401-8dbd-f87d0b888fd6",
+      "name": "Aquacombat 1.2",
+      "filename": "aquacombat 1.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/aquacombat.1.2.jar",
+      "sha256": "a5cfb145dcb3eb32f1d9f77db09e886fdb89aea0a6790fe3bccf1a17d6c748f5",
+      "required": true,
+      "side": "both",
+      "version": "?"
     }
   ],
   "configFiles": []
