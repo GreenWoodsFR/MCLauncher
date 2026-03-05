@@ -4012,6 +4012,11 @@
       "path": "configs/ars_nouveau/glyph_fell.toml",
       "sha256": "e77cf7c9b790b2b3b1d2ceb93381270bd71d8067306f917eb93d10d88790b207",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_fell.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_evaporate.toml",
+      "sha256": "da87677cf58a2bcf988f9ba7f53a16a69c90f9c3410e3f9e91f8cc5835df42ba",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_evaporate.toml"
     }
   ]
 }
