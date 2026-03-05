@@ -4052,6 +4052,11 @@
       "path": "configs/ars_nouveau/wololo.toml",
       "sha256": "978214f42431cd238adc4e732695e23beaf46a07b5d50f66ea92de38f3e38458",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/wololo.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_infuse.toml",
+      "sha256": "e67196fd1af79cf7952eeaa60d2a6153f3e76165b66e97fc66958242faa0db1c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_infuse.toml"
     }
   ]
 }
