@@ -5102,6 +5102,11 @@
       "path": "configs/graveyard/the-graveyard-3.0-config.json5",
       "sha256": "d3c4b80ecc098946480ef5186657c671520a2d0592d30ad4b49a4ec2ae40aada",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/graveyard/the-graveyard-3.0-config.json5"
+    },
+    {
+      "path": "configs/jade/hide-entities.json",
+      "sha256": "22b4560c3dc05da35a70bb6611da0ce04cff295ab8c663afd58e725c396a24b3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/jade/hide-entities.json"
     }
   ]
 }
