@@ -3264,11 +3264,6 @@
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emotecraft.json"
     },
     {
-      "path": "configs/emotecraft_emote_map.json",
-      "sha256": "0ce5a209870e0673c14f68d4581de2cefc67a3c37aa7071c943b711a69835775",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/emotecraft_emote_map.json"
-    },
-    {
       "path": "configs/enchantmenttransfer-common.toml",
       "sha256": "7416d8a278c94ba928b4f5a3fb9f88f26222c84cf240c44f3843f1746284c817",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/enchantmenttransfer-common.toml"
