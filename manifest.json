@@ -6617,6 +6617,11 @@
       "path": "configs/necronomicon.json5",
       "sha256": "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/necronomicon.json5"
+    },
+    {
+      "path": "configs/netheritehorsearmor-client.cfg",
+      "sha256": "c8d348244a9ca62a31bd47c18dad0768efee81042cc50e0d8bc0bc11f2403314",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/netheritehorsearmor-client.cfg"
     }
   ]
 }
