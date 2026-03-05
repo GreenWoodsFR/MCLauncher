@@ -6317,6 +6317,11 @@
       "path": "configs/farmersdelight-client.toml",
       "sha256": "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farmersdelight-client.toml"
+    },
+    {
+      "path": "configs/farmersdelight-common.toml",
+      "sha256": "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/farmersdelight-common.toml"
     }
   ]
 }
