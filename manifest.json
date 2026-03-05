@@ -4852,6 +4852,11 @@
       "path": "configs/ftbquests/quests/reward_tables/Tier4_SeedBag.snbt",
       "sha256": "faf8c21fec76e7f3a2d96608370ee5fd1363e5db777f90608aa2f9c06afa997e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/Tier4_SeedBag.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/powah_nitro.snbt",
+      "sha256": "d023db6947dd2120787b33d9993b1a4cce432503442a335aa6b41118e94c02f8",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/powah_nitro.snbt"
     }
   ]
 }
