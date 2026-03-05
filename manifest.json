@@ -6272,6 +6272,11 @@
       "path": "configs/explorerscompass-client.toml",
       "sha256": "eaaa7a0af68a2b00a557d5df97191c80c996042cc33cc53eccd14e78431bff28",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/explorerscompass-client.toml"
+    },
+    {
+      "path": "configs/explorerscompass-common.toml",
+      "sha256": "1646a67e28d5353d25354d7242ab099d147897e8e0a6f7f99a4bf4c7ae224462",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/explorerscompass-common.toml"
     }
   ]
 }
