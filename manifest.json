@@ -5807,6 +5807,11 @@
       "path": "configs/alexsmobs.toml",
       "sha256": "7c01df704a66653df7793e4c6a856815be283106df03765f196c89bd962d463c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs.toml"
+    },
+    {
+      "path": "configs/ambientsounds-client.json",
+      "sha256": "d002319f21f057d57ab1e6a018877d57e687b2e3cd6a5479164ec66d98cd0f78",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ambientsounds-client.json"
     }
   ]
 }
