@@ -1425,6 +1425,16 @@
       "required": true,
       "side": "both",
       "version": "mc1.20.1forge"
+    },
+    {
+      "id": "f9534b13-e2bb-4840-91c3-4e50222d85e5",
+      "name": "Meme Sleep Sound",
+      "filename": "meme_sleep_sound-1.0.0-forge-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/meme_sleep_sound-1.0.0-forge-1.20.1.jar",
+      "sha256": "3a30f05dfb8b3a9eb96bfe219248bd832b48ecb633389be2c95e50a4f4938cd4",
+      "required": true,
+      "side": "both",
+      "version": "1.0.0"
     }
   ],
   "configFiles": []
