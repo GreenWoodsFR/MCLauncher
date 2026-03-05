@@ -7117,6 +7117,11 @@
       "path": "resourcepacks/CaveDweller_SoundOverhaul.zip",
       "sha256": "1c67b122105fef07d67d4cf1ff3d5ca6526710fb6c2de528b874101810ba2ef8",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/resourcepacks/CaveDweller_SoundOverhaul.zip"
+    },
+    {
+      "path": "resourcepacks/Quark Programmer Art.zip",
+      "sha256": "41cb720cf256a12ea247b2f38068b363aa5b1675470c4b5aa66850701a78bc4d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/resourcepacks/Quark Programmer Art.zip"
     }
   ]
 }
