@@ -4627,6 +4627,11 @@
       "path": "configs/ftbquests/quests/chapters/animalierre.snbt",
       "sha256": "1067b920b8831b667263d0f3a92b7116419caf86f27749f3a6f7866052bdd285",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/animalierre.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/the_bumblezone.snbt",
+      "sha256": "b95d88441dea99e31301924a0eeb5a0a1af29f315140ad8ca706b4e86b7135d3",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/the_bumblezone.snbt"
     }
   ]
 }
