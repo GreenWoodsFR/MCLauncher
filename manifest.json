@@ -55,6 +55,16 @@
       "required": true,
       "side": "both",
       "version": "6.20"
+    },
+    {
+      "id": "02e7e4be-c40c-4d87-b1e6-ca0817f98798",
+      "name": "Additional Lights",
+      "filename": "additional_lights-1.20.1-2.1.7.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/additional_lights-1.20.1-2.1.7.jar",
+      "sha256": "9f11e3341e4bb6a90b3fae2b947bac4513ab9df913e5dfb53fe223f3e1f621a1",
+      "required": true,
+      "side": "both",
+      "version": "2.1.7"
     }
   ],
   "configFiles": []
