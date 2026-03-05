@@ -3407,6 +3407,11 @@
       "path": "configs/alexsmobs/dropbear_spawns.json",
       "sha256": "0fa8f72e4c73805727577a343758cfd39377cbdadebb88b6b2343183053e16cb",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/dropbear_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/endergrade_spawns.json",
+      "sha256": "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/endergrade_spawns.json"
     }
   ]
 }
