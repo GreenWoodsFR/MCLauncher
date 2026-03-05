@@ -1,0 +1,925 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "armor_of_the_age"
+	group: "0C887D22E21FDFB7"
+	hide_quest_until_deps_complete: true
+	icon: {
+		Count: 1
+		id: "armoroftheages:anubis_armor_head"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "5896B241841696BA"
+	images: [{
+		height: 1.0d
+		image: "ftblibrary:textures/icons/star.png"
+		rotation: 0.0d
+		width: 1.0d
+		x: 0.0d
+		y: 4.5d
+	}]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "07E5EC476ECA80C0"
+			rewards: [{
+				id: "4674C228D738BC1F"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			shape: "diamond"
+			size: 2.0d
+			tasks: [{
+				id: "2B63D7E47BCAD2B8"
+				item: "armoroftheages:bamboo_hat"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["2AB3650631654855"]
+			id: "27A55E683A90C264"
+			rewards: [{
+				id: "265D99A9B043D30D"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "5C6FE8BB44CB8927"
+				item: {
+					Count: 1
+					id: "armoroftheages:anubis_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2AB3650631654855"]
+			id: "084746A1AD57183C"
+			rewards: [{
+				id: "25B36D20CF02EF4E"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "18A3BCCF64034C1C"
+				item: {
+					Count: 1
+					id: "armoroftheages:anubis_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["2AB3650631654855"]
+			id: "45067578EE2022F1"
+			rewards: [{
+				id: "25D74D92D8DDD838"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "575B5BD16D734D16"
+				item: {
+					Count: 1
+					id: "armoroftheages:anubis_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["2AB3650631654855"]
+			id: "73E48F7812D177D1"
+			rewards: [{
+				id: "231B280CDB9A6BF4"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "36E0529320D9E23C"
+				item: {
+					Count: 1
+					id: "armoroftheages:anubis_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 9.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "2BA9FA0BDC9242C8"
+			rewards: [{
+				id: "3ADCA488B3ED6889"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "009EFECD7FEB3E18"
+				item: {
+					Count: 1
+					id: "armoroftheages:centurion_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "081E7F8819B476F6"
+			rewards: [{
+				id: "473B77185FE9243A"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "31D388DA56A17F48"
+				item: {
+					Count: 1
+					id: "armoroftheages:centurion_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "3665DE3B40E90648"
+			rewards: [{
+				id: "3A0F7018C839ABFB"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "16D08581BAB6E058"
+				item: {
+					Count: 1
+					id: "armoroftheages:centurion_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "1A0B899E626F9EF3"
+			rewards: [{
+				id: "6CAE01C5D4FFF1F0"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "43CD35FF5C1D7596"
+				item: {
+					Count: 1
+					id: "armoroftheages:centurion_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "609DCB9CDB581095"
+			rewards: [{
+				id: "7F9C600EA20AFBBD"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "68763E0FEADA0B16"
+				item: {
+					Count: 1
+					id: "armoroftheages:exalted_aurum_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "781719D465185B4C"
+			rewards: [{
+				id: "5CB9222CFD9AA881"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "30B3FFAF5AC5F5B0"
+				item: {
+					Count: 1
+					id: "armoroftheages:holy_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "6AE70416A0C3E833"
+			rewards: [{
+				id: "4E8BA984D23EFE09"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "2B654AB1F3D0B868"
+				item: {
+					Count: 1
+					id: "armoroftheages:holy_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "622E0E089EA1A5E7"
+			rewards: [{
+				id: "31A424149C109DC1"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "42B69D51904DB89F"
+				item: {
+					Count: 1
+					id: "armoroftheages:holy_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "43E3C61E3AC94BEA"
+			rewards: [{
+				id: "68BFCF55FADAF3BA"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "6D2E20C673996DAE"
+				item: {
+					Count: 1
+					id: "armoroftheages:holy_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "13CBA2C9595D75FB"
+			rewards: [{
+				id: "6D2F218D3DC30355"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "74E9912822F10A73"
+				item: {
+					Count: 1
+					id: "armoroftheages:exalted_aurum_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "3E6C1AF8D3CF7A01"
+			rewards: [{
+				id: "2C8E10DC33D6B69A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "242CF84E8A67808E"
+				item: {
+					Count: 1
+					id: "armoroftheages:exalted_aurum_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "4A3F1ADDC4D27010"
+			rewards: [{
+				id: "1AD1E3EB53049723"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "301413F9610C903D"
+				item: {
+					Count: 1
+					id: "armoroftheages:exalted_aurum_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "13C55CCD43FAE8EE"
+			rewards: [{
+				id: "0D89FE62CDA509D0"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "47EF6E597F8FF4F8"
+				item: {
+					Count: 1
+					id: "armoroftheages:quetzalcoatl_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "1617121C3846FC13"
+			rewards: [{
+				id: "7FB771D7289C5939"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "790D25C963B94C49"
+				item: {
+					Count: 1
+					id: "armoroftheages:quetzalcoatl_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "5A6A337EFB0F6603"
+			rewards: [{
+				id: "57F901E820B36D6F"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "6C5B403B924C3569"
+				item: {
+					Count: 1
+					id: "armoroftheages:quetzalcoatl_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "01D0FD78C5B63AB0"
+			rewards: [{
+				id: "62590530F2455FE3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2EBD4DEC64EDABA4"
+				item: {
+					Count: 1
+					id: "armoroftheages:quetzalcoatl_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 2.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "44E8115A248E876A"
+			rewards: [{
+				id: "637005C12EF33021"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2E539F34532A8303"
+				item: {
+					Count: 1
+					id: "armoroftheages:raijin_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "50440D046986E67D"
+			rewards: [{
+				id: "251B16FFD86CC394"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4F1D47552C45A852"
+				item: {
+					Count: 1
+					id: "armoroftheages:raijin_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "17DA9ECD778B44AA"
+			rewards: [{
+				id: "45FE354C386F2DE5"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7A8E307544CB7B1F"
+				item: {
+					Count: 1
+					id: "armoroftheages:raijin_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "090854B78470E04D"
+			rewards: [{
+				id: "4CA7848EA350FEC4"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "485F99FABF652FD9"
+				item: {
+					Count: 1
+					id: "armoroftheages:raijin_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "4704D3F721F53CDD"
+			rewards: [{
+				id: "26754EEC9117C301"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "18A3428E09E2BBE4"
+				item: {
+					Count: 1
+					id: "armoroftheages:o_yoroi_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "6A8F3C853C2BC2CD"
+			rewards: [{
+				id: "48A6078EED7DCE7A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "68660FF10DAD2074"
+				item: {
+					Count: 1
+					id: "armoroftheages:o_yoroi_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "7900C4C9797E884A"
+			rewards: [{
+				id: "3057A9B607899703"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "15C330372F586AF9"
+				item: {
+					Count: 1
+					id: "armoroftheages:o_yoroi_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "3F83A3BB0B8D2812"
+			rewards: [{
+				id: "6924A43AF553DF24"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "361658566E2C9307"
+				item: {
+					Count: 1
+					id: "armoroftheages:o_yoroi_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "15CB50028D2C84A3"
+			rewards: [{
+				id: "6D33D2C9FEE96701"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "42869A8649290915"
+				item: {
+					Count: 1
+					id: "armoroftheages:iron_plate_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "758D16707ED5B483"
+			rewards: [{
+				id: "08D592A5C6A0F532"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5C185225400FF646"
+				item: {
+					Count: 1
+					id: "armoroftheages:iron_plate_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "2D5170549C5D4FDC"
+			rewards: [{
+				id: "44830F06B89BF7FF"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5798647A1FE202D9"
+				item: {
+					Count: 1
+					id: "armoroftheages:iron_plate_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "1739E612B306D7EF"
+			rewards: [{
+				id: "4A086C75375D877E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "027215FA3224F4FA"
+				item: {
+					Count: 1
+					id: "armoroftheages:iron_plate_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "223DB779680E505C"
+			rewards: [{
+				id: "2016C7AFC6CB4281"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4283CE7E95BA8AF5"
+				item: {
+					Count: 1
+					id: "armoroftheages:japanese_light_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "1B58A401CD168DD3"
+			rewards: [{
+				id: "1FFAC9EA3F011919"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "30EBF67B2D6247C4"
+				item: {
+					Count: 1
+					id: "armoroftheages:pharaoh_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 5.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "37D1DDB96E4C3351"
+			rewards: [{
+				id: "2A7A1D2ED900526E"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "372C2C402B13D5CC"
+				item: {
+					Count: 1
+					id: "armoroftheages:pharaoh_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "642A318517C795F7"
+			rewards: [{
+				id: "5057DC0A9C543FE9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "2BA53465A83875FF"
+				item: {
+					Count: 1
+					id: "armoroftheages:pharaoh_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "2AB3650631654855"
+			rewards: [{
+				id: "483E359FBF48B0E3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "478083013116AF1B"
+				item: {
+					Count: 1
+					id: "armoroftheages:pharaoh_armor_head"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "325DC48C3608C70A"
+			rewards: [{
+				id: "063CADF9EDCACB06"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1D8F264986F999B8"
+				item: {
+					Count: 1
+					id: "armoroftheages:japanese_light_armor_chest"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "511A34D1BB941C4A"
+			rewards: [{
+				id: "4C7E5E9482EA939A"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0F45AEBA2F82EFE7"
+				item: {
+					Count: 1
+					id: "armoroftheages:japanese_light_armor_legs"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["07E5EC476ECA80C0"]
+			id: "5D7DDD88B0AEB9E2"
+			rewards: [{
+				id: "5E08372B134E5769"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "5683E5B97EE50DE1"
+				item: {
+					Count: 1
+					id: "armoroftheages:japanese_light_armor_feet"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: 5.5d
+		}
+	]
+	title: " &6Armor of the Age"
+}
