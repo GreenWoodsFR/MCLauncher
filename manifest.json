@@ -3997,6 +3997,11 @@
       "path": "configs/ars_nouveau/glyph_summon_wolves.toml",
       "sha256": "c6d0a464799d05dc8b746e977f94772fa30ea1586e97ae5c30375144176d370d",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_summon_wolves.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/reset.toml",
+      "sha256": "7a9ab213f4738c55f96488d9fa5a90ee87344f2dcfc571a403c6f26b5fc19aa4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/reset.toml"
     }
   ]
 }
