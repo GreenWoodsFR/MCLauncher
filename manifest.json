@@ -7787,6 +7787,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl",
       "sha256": "d7cf39734cf7c8e562bc3adf9471270610bef5a412689544d488d4d3cedd5103",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/cryingObsidian.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl",
+      "sha256": "dd6a14c31787c541af567bdc0a8975f03800f080787d4d3f4bb0a146ab92a653",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/specificMaterials/terrain/quartzBlock.glsl"
     }
   ]
 }
