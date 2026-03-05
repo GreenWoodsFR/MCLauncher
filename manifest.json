@@ -1625,6 +1625,16 @@
       "required": true,
       "side": "both",
       "version": "1.6.0"
+    },
+    {
+      "id": "c8203a5b-fa03-4720-b92b-bceb2419788e",
+      "name": "NetheriteHorseArmor CJ Forge Mc",
+      "filename": "NetheriteHorseArmor-CJ-forge-mc-1.20-1.5.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/NetheriteHorseArmor-CJ-forge-mc-1.20-1.5.0.jar",
+      "sha256": "71dd7c69453c3357053474a1702b12aca5264c64da4051b407c9e32f0ad697e8",
+      "required": true,
+      "side": "both",
+      "version": "1.20"
     }
   ],
   "configFiles": []
