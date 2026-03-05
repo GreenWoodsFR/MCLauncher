@@ -3205,6 +3205,16 @@
       "required": true,
       "side": "both",
       "version": "4.0.0"
+    },
+    {
+      "id": "d11d4695-9c5e-4fe3-ab54-0e4997876277",
+      "name": "Lightsabers",
+      "filename": "lightsabers-1.20.1-4.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/lightsabers-1.20.1-4.0.jar",
+      "sha256": "971878756209f51f8df524f84855d76a0c03ea4f9115902c93f74778091815d6",
+      "required": true,
+      "side": "both",
+      "version": "4.0"
     }
   ],
   "configFiles": []
