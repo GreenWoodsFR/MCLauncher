@@ -4277,6 +4277,11 @@
       "path": "configs/biomesoplenty/generation.toml",
       "sha256": "9de600b6c85029f74a7549a6f7074065ac55310666c54bebd4c3bf573b0379d7",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/biomesoplenty/generation.toml"
+    },
+    {
+      "path": "configs/cataclysm/coral_golem_spawns.json",
+      "sha256": "e4802daebcc713c2e5991703ba9a142462a6023507bfa6fff155868a27bd30b7",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cataclysm/coral_golem_spawns.json"
     }
   ]
 }
