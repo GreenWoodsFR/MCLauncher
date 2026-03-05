@@ -5462,6 +5462,11 @@
       "path": "configs/relics/relics/aqua_walker.yaml",
       "sha256": "68e3e439dcb721259e3985ce4515ef5260a166212ba63b569f6b648363090dc2",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/aqua_walker.yaml"
+    },
+    {
+      "path": "configs/relics/relics/enders_hand.yaml",
+      "sha256": "0e64ec0885a1286814d49af57c791a9b4369382c53a33350828ec8057de2ff1c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/relics/relics/enders_hand.yaml"
     }
   ]
 }
