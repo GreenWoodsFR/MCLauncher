@@ -4877,6 +4877,11 @@
       "path": "configs/ftbquests/quests/reward_tables/Rune_loot.snbt",
       "sha256": "e5b9b95ce407fdad130ba09ac5d40df22aaea459990feb0ee2cb6cb1519c07ed",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/Rune_loot.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/reward_tables/gt_uhv_basic_rewards.snbt",
+      "sha256": "cf0086fc322b7badb68b8bb9ecf6acbc68af1a319992e47a461549e2d1be055c",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/reward_tables/gt_uhv_basic_rewards.snbt"
     }
   ]
 }
