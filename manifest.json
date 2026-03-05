@@ -6582,6 +6582,11 @@
       "path": "configs/morevillagers-common.toml",
       "sha256": "8c01f6e1d4a19cdb19d6e21eee4430b984b988bcfe4ac21b5e9d31fbf1737002",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/morevillagers-common.toml"
+    },
+    {
+      "path": "configs/MouseTweaks.cfg",
+      "sha256": "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/MouseTweaks.cfg"
     }
   ]
 }
