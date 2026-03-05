@@ -5297,6 +5297,11 @@
       "path": "configs/Obscuria/Data/obscure_api_cover.png",
       "sha256": "ecd943698913173d1513b8a300072557304e9c262eb8eaa012ba0a357a6a5ad1",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/Obscuria/Data/obscure_api_cover.png"
+    },
+    {
+      "path": "configs/paxi/resourcepack_load_order.json",
+      "sha256": "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/paxi/resourcepack_load_order.json"
     }
   ]
 }
