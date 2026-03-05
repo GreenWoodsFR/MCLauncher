@@ -1795,6 +1795,16 @@
       "required": true,
       "side": "both",
       "version": "1.0.12"
+    },
+    {
+      "id": "e56f6130-a4bf-4abf-8c73-bb46333e4523",
+      "name": "Piggyback",
+      "filename": "piggyback-forge-1.20.1-1.1.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/piggyback-forge-1.20.1-1.1.1.jar",
+      "sha256": "cccd3842698c8a57951edada3cca8221d560f987362363ec855ba4338f4873b7",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
