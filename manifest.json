@@ -995,6 +995,16 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "5a091f52-a7d5-4349-8f58-13d317139a2c",
+      "name": "Elytraslot",
+      "filename": "elytraslot-forge-6.4.4+1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/elytraslot-forge-6.4.4%2B1.20.1.jar",
+      "sha256": "f96c26e7ac9e2dade0aa04f71b9f8708a2b7af92b9cc691103ae32c62764e6ab",
+      "required": true,
+      "side": "both",
+      "version": "6.4.4"
     }
   ],
   "configFiles": []
