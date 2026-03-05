@@ -665,6 +665,16 @@
       "required": true,
       "side": "both",
       "version": "2.6.3"
+    },
+    {
+      "id": "7b7d19db-631e-4469-add1-c8da29ebaf47",
+      "name": "Clientcrafting",
+      "filename": "clientcrafting-1.20.1-1.9.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/clientcrafting-1.20.1-1.9.jar",
+      "sha256": "65b590a441d14b94b609267e7bab531748acc9c59fb1c17d3789d540042fab24",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
