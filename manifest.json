@@ -6422,6 +6422,11 @@
       "path": "configs/immersive_paintings.json",
       "sha256": "65503c4720dd1017227041ee6ce26650a75a123af7331d66c5fac0a2cdace94c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/immersive_paintings.json"
+    },
+    {
+      "path": "configs/inventoryessentials-common.toml",
+      "sha256": "838a37cf019186a0260a696cfbf7b05bd752808b4178e8d4608a22f096d237e6",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/inventoryessentials-common.toml"
     }
   ]
 }
