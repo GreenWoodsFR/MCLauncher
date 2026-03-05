@@ -595,6 +595,16 @@
       "required": true,
       "side": "both",
       "version": "6.5.0"
+    },
+    {
+      "id": "e9e9e4a8-3491-4893-8c98-33965341bb8f",
+      "name": "Chat Heads",
+      "filename": "chat_heads-0.15.0-forge-1.20.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/chat_heads-0.15.0-forge-1.20.jar",
+      "sha256": "d35e37f89c72dcdff90b9067c240aca75125ffd4232cfbe60bc096046d833a2d",
+      "required": true,
+      "side": "both",
+      "version": "0.15.0"
     }
   ],
   "configFiles": []
