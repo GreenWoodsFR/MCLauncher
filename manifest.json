@@ -6012,6 +6012,11 @@
       "path": "configs/cataclysm.toml",
       "sha256": "ad96d15492382389f898e78d355a692e6c4cfba5a887bc878694d1fe05862daf",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/cataclysm.toml"
+    },
+    {
+      "path": "configs/charmofundying-server.toml",
+      "sha256": "e4c5841a10d5024f4ee31cf46b201233a385aaf9badf314d9ebded3feb12d356",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/charmofundying-server.toml"
     }
   ]
 }
