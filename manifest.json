@@ -4377,6 +4377,11 @@
       "path": "configs/epicknights/armor.json5",
       "sha256": "d28a099ea43780b7257110adc0adc82d172d1cfc297cd2cb2dc7298889e93984",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/epicknights/armor.json5"
+    },
+    {
+      "path": "configs/epicknights/shields.json5",
+      "sha256": "0813a37c333b5eeee253735f382e0a957d0349f6969b864202d0b995f7624a7a",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/epicknights/shields.json5"
     }
   ]
 }
