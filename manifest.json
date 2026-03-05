@@ -7682,6 +7682,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/pomEffects.glsl",
       "sha256": "3fe1a6bb86216c74d9e7869ab2fda8f1b13d0d3b4ffbb8fb3900a57bdfdcefdc",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/pomEffects.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/coatedTextures.glsl",
+      "sha256": "6a30d68ac942ed244ea166369e49c4f745bb28c02c59941a0eeaeb4dc4b5a6d0",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/coatedTextures.glsl"
     }
   ]
 }
