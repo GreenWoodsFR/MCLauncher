@@ -2355,6 +2355,16 @@
       "required": true,
       "side": "both",
       "version": "1.20_1.20.1"
+    },
+    {
+      "id": "dfa1efbb-c7bf-433b-9b9f-3da3296324ef",
+      "name": "Stalwart Dungeons",
+      "filename": "stalwart-dungeons-1.20.1-1.2.8.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/stalwart-dungeons-1.20.1-1.2.8.jar",
+      "sha256": "c0b967220e751629da248151a30d8d21f9cf3afc6c92da0aa8bd838a05f8fd7a",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": []
