@@ -7367,6 +7367,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_shadowdistance_acl.glsl",
       "sha256": "e991cd46e496e27311a4df7b2526d51431680f89b8bec95311d9d34979ef6860",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/error_shadowdistance_acl.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/all_error_messages.glsl",
+      "sha256": "003928960c2f7e95dfa6d7627468b829b2e0f35caa7dc80a43bb86489960f8a5",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/textRendering/all_error_messages.glsl"
     }
   ]
 }
