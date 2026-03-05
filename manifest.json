@@ -3259,11 +3259,6 @@
   ],
   "configFiles": [
     {
-      "path": "configs/simplehats.json",
-      "sha256": "ef023c7f0d6c273b463f595c62145afab8f3b65b43b0b3304e3da5e9355cb5dc",
-      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/simplehats.json"
-    },
-    {
       "path": "configs/smallships-client.toml",
       "sha256": "2055d621b5cb01a3a0cc7134bb97d8109f56152938131f7c31bf27b28c264f9b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smallships-client.toml"
