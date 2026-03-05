@@ -6342,6 +6342,11 @@
       "path": "configs/flerovium.json",
       "sha256": "f8f7b6978ff358427c0e3ca886513abe22cbb782bdda63b1634fa6d304098ca6",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/flerovium.json"
+    },
+    {
+      "path": "configs/flywheel-client.toml",
+      "sha256": "91830a62c24898b197ea5a244924e8b9388bd72c50e4ba4e91efa21264168716",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/flywheel-client.toml"
     }
   ]
 }
