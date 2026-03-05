@@ -4407,6 +4407,11 @@
       "path": "configs/ftbquests/quests/chapter_groups.snbt",
       "sha256": "af4b5778e2af9b1908ff1ecbf0d106ace0d232110531199f31a4b5a8289c7075",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapter_groups.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/seven_deadly_sins.snbt",
+      "sha256": "95bd29686fc12cb101ba5132f82e1d1a5e83748be8213070beff342d328bc80d",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/seven_deadly_sins.snbt"
     }
   ]
 }
