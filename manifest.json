@@ -1515,6 +1515,16 @@
       "required": true,
       "side": "both",
       "version": "2.16.28"
+    },
+    {
+      "id": "fc323131-0b92-4501-a27e-785f480aa041",
+      "name": "Moredragoneggs",
+      "filename": "moredragoneggs-4.0.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/moredragoneggs-4.0.jar",
+      "sha256": "c79c5fae0cfbe21ce7aa6ff0290d0615207e6fce131dadd48b73f283ff909706",
+      "required": true,
+      "side": "both",
+      "version": "4.0"
     }
   ],
   "configFiles": []
