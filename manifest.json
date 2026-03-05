@@ -4672,6 +4672,11 @@
       "path": "configs/ftbquests/quests/chapters/cataclysm.snbt",
       "sha256": "8d1c034e3110a6fcba50cce13c7bd5087ae6ac1d1002fe9c831524fd8bd7d907",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/cataclysm.snbt"
+    },
+    {
+      "path": "configs/ftbquests/quests/chapters/labotaniste.snbt",
+      "sha256": "7f333c9d9e0505362038660a5a6704888bea1b8acb523bbba06308899d5b9682",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ftbquests/quests/chapters/labotaniste.snbt"
     }
   ]
 }

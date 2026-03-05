@@ -1,0 +1,12 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "labotaniste"
+	group: "18782192B0F905F8"
+	icon: "netherexp:soul_torchflower"
+	id: "27DCD7F550D00E17"
+	order_index: 10
+	quest_links: [ ]
+	quests: [ ]
+	title: " &aBotaniste"
+}
