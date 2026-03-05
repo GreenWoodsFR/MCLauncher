@@ -3312,6 +3312,11 @@
       "path": "configs/alexsmobs/gelada_monkey_spawns.json",
       "sha256": "cdd0380bfa9b754856150966a042f807ac48d2f9409f4f2b543be19e87f4c41f",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/gelada_monkey_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/grizzly_bear_spawns.json",
+      "sha256": "7d1f784ab378e1e851e73dbb6f81866420c1328d25f754546d82c417bf304644",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/grizzly_bear_spawns.json"
     }
   ]
 }
