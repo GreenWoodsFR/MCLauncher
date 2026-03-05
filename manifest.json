@@ -7002,6 +7002,11 @@
       "path": "configs/undergarden-client.toml",
       "sha256": "9bf3df7a7d80fc63a918bd9715383e995d50821acc2264ca3a0b3af8a0a0d486",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/undergarden-client.toml"
+    },
+    {
+      "path": "configs/undergarden-common.toml",
+      "sha256": "b95da66dfc4bf280a6cab22d1456479c2ebee05a5ef7ffc196740ec25b23cc01",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/undergarden-common.toml"
     }
   ]
 }
