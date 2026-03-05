@@ -7697,6 +7697,11 @@
       "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/customEmission.glsl",
       "sha256": "a145cfc6d4f35e921888c295a558d90280c07f1de3a31c9c94995f7da6d6c853",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/customEmission.glsl"
+    },
+    {
+      "path": "shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/connectedGlass.glsl",
+      "sha256": "103652261f2ebb7a25b810fe3d3190b646726a4645401f72c5e134fa0a3468db",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/shaderpacks/ComplementaryReimagined_r5.4 + EuphoriaPatches_1.5.2/shaders/lib/materials/materialMethods/connectedGlass.glsl"
     }
   ]
 }
