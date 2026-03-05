@@ -1155,6 +1155,16 @@
       "required": true,
       "side": "both",
       "version": "2.1.2"
+    },
+    {
+      "id": "2e8c234a-4249-4f9a-8c07-933df7d5c41a",
+      "name": "Fantasy Armor",
+      "filename": "fantasy_armor-forge-1.2-1.20.1.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/fantasy_armor-forge-1.2-1.20.1.jar",
+      "sha256": "c954e9055be18bf14eb6c3bb14329fc49cd73787fa45f45dadf36462f200275f",
+      "required": true,
+      "side": "both",
+      "version": "1.2"
     }
   ],
   "configFiles": []
