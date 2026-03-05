@@ -4387,6 +4387,11 @@
       "path": "configs/epicknights/mobs_equipment.json5",
       "sha256": "35bf1bc34160e9a890814f08e0e9a69c3d7e21bf6991ace6548ef759e4cd8524",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/epicknights/mobs_equipment.json5"
+    },
+    {
+      "path": "configs/epicknights/weapons.json5",
+      "sha256": "b43c53a07ffe8ce99c3237549c5927932ad151836f3c4032a95d6ec7592ddb29",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/epicknights/weapons.json5"
     }
   ]
 }
