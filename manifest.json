@@ -3517,6 +3517,11 @@
       "path": "configs/alexsmobs/spectre_spawns.json",
       "sha256": "ca6e68bd3e74eb9cedcdbae4c82f594c4e85bdd54e1d0e35344a3febb9672980",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/spectre_spawns.json"
+    },
+    {
+      "path": "configs/alexsmobs/toucan_spawns.json",
+      "sha256": "f65e31155b2f2e033bed66dc5ec2ce7f6962be3389369ff800b69dfdecb5d990",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/alexsmobs/toucan_spawns.json"
     }
   ]
 }
