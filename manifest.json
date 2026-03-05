@@ -3757,6 +3757,11 @@
       "path": "configs/apotheosis/potion.cfg",
       "sha256": "eb5ccfa9af9f8723d9012193f4fd623373038dc323b30262f6d9ab3e2286853c",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/apotheosis/potion.cfg"
+    },
+    {
+      "path": "configs/apotheosis/ench.cfg",
+      "sha256": "6fbf05e2719f095908f8196a694f6a8f36bc39c7d5e71644b0ea55e025c8b80f",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/apotheosis/ench.cfg"
     }
   ]
 }
