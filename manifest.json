@@ -6817,6 +6817,11 @@
       "path": "configs/shouldersurfing-client.toml",
       "sha256": "5017d61e7bb1a5bedf5ae4c65bb1adf0e53a2d8880d3ed24574db0e449885d2e",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/shouldersurfing-client.toml"
+    },
+    {
+      "path": "configs/sidebar_buttons.json",
+      "sha256": "ce7365ee4adaa38d674b7bda5ac8f302a56b3851536dcfa0b2ad1777f68c02c4",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/sidebar_buttons.json"
     }
   ]
 }
