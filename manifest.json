@@ -3882,6 +3882,11 @@
       "path": "configs/ars_nouveau/glyph_underfoot.toml",
       "sha256": "9119854cd822782a1f9c05f1e0f060484ff21fe8af2d5cd1cda189b2bed877ef",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_underfoot.toml"
+    },
+    {
+      "path": "configs/ars_nouveau/glyph_summon_vex.toml",
+      "sha256": "a91b18c078a3f030756ec73ff847089b7137e3b3bcd75b9f6878fa73a903c782",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/ars_nouveau/glyph_summon_vex.toml"
     }
   ]
 }
