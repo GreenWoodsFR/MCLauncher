@@ -3235,6 +3235,16 @@
       "required": true,
       "side": "both",
       "version": "2.13.1"
+    },
+    {
+      "id": "dadf214c-14fe-426d-b74d-42dbda07725d",
+      "name": "Lootr",
+      "filename": "lootr-forge-1.20-0.7.35.94.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/lootr-forge-1.20-0.7.35.94.jar",
+      "sha256": "01200ee5889e6bcc3c5fa8f32b7b49a4bd58e653699eeb655c6f2dd314e3ce51",
+      "required": true,
+      "side": "both",
+      "version": "0.7.35.94"
     }
   ],
   "configFiles": []
