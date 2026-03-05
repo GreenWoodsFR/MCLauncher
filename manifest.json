@@ -6842,6 +6842,11 @@
       "path": "configs/smallships-client.toml",
       "sha256": "2055d621b5cb01a3a0cc7134bb97d8109f56152938131f7c31bf27b28c264f9b",
       "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smallships-client.toml"
+    },
+    {
+      "path": "configs/smallships-common.toml",
+      "sha256": "0c89c2c56094816dcad1d0693cb52dbb61720797d8b2b0e2d25f9937a464de56",
+      "downloadUrl": "https://raw.githubusercontent.com/GreenWoodsFR/MCLauncher/main/configs/smallships-common.toml"
     }
   ]
 }
