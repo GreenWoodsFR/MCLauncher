@@ -275,6 +275,16 @@
       "required": true,
       "side": "both",
       "version": "3.1.2"
+    },
+    {
+      "id": "41763bf2-d60c-4eaf-bb46-cc357b2ea5c7",
+      "name": "AttributeFix",
+      "filename": "AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/AttributeFix-Forge-1.20.1-21.0.5.jar",
+      "sha256": "43ccfd91c1a24d1b3c9d3ccf2dd6a86e9f0c2ba442b111a2238fbff3cf88af11",
+      "required": true,
+      "side": "both",
+      "version": "21.0.5"
     }
   ],
   "configFiles": []
