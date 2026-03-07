@@ -3255,6 +3255,26 @@
       "required": true,
       "side": "both",
       "version": "1.20.1"
+    },
+    {
+      "id": "fa7cefa6-5cbd-4dc2-926e-c31e9d9b11bd",
+      "name": "Jupiter",
+      "filename": "jupiter-2.3.6-1.20.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.5.3-mods/jupiter-2.3.6-1.20.1-forge.jar",
+      "sha256": "e26e58181f89ae13285bfc34c2f571261b9aadfac77771dd5f3e96af53fe4084",
+      "required": true,
+      "side": "both",
+      "version": "2.3.6"
+    },
+    {
+      "id": "15b8da9e-8dc5-4787-954b-4c35f659466e",
+      "name": "Uranus",
+      "filename": "uranus-2.2.6-1.20.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.5.3-mods/uranus-2.2.6-1.20.1-forge.jar",
+      "sha256": "76df2fb59ba1aaae8f7f8000dea17c22596aa1ba22f4a009670da5dcdc7f5cd8",
+      "required": true,
+      "side": "both",
+      "version": "2.2.6"
     }
   ],
   "configFiles": [
