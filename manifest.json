@@ -3245,6 +3245,16 @@
       "required": true,
       "side": "both",
       "version": "1.2.5"
+    },
+    {
+      "id": "6b36d8ee-9a0f-42ef-9dd8-f9fbe28032fd",
+      "name": "Camera",
+      "filename": "camera-forge-1.20.1-1.0.20.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.5.2-mods/camera-forge-1.20.1-1.0.20.jar",
+      "sha256": "593f3a9c0baf09d7baf8f9ec44b882716c43fbf11d5cbff607c9f7fa3ec9aeb8",
+      "required": true,
+      "side": "both",
+      "version": "1.20.1"
     }
   ],
   "configFiles": [
