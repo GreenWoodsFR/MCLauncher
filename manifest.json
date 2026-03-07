@@ -3235,6 +3235,16 @@
       "required": true,
       "side": "both",
       "version": "0.2.7"
+    },
+    {
+      "id": "445b81f0-f108-40db-800e-1dfca8ca8e9b",
+      "name": "IceAndFireCE",
+      "filename": "IceAndFireCE-1.2.5-1.20.1-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.5.2-mods/IceAndFireCE-1.2.5-1.20.1-forge.jar",
+      "sha256": "203a5339a6c1bc1d544a1e4ca584f7c0035a1f76028e7a6668ad87a4818314ee",
+      "required": true,
+      "side": "both",
+      "version": "1.2.5"
     }
   ],
   "configFiles": [
