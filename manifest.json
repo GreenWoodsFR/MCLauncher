@@ -1,10 +1,10 @@
 {
-  "modpackVersion": "0.5.5",
+  "modpackVersion": "0.5.6",
   "mcVersion": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.10",
-  "releaseDate": "2026-03-07T15:59:27.074Z",
-  "changelog": "Added Spark mod to profile the client and server",
+  "releaseDate": "2026-03-07T23:46:19.628Z",
+  "changelog": "Remove Starlight and added Hari Chunk",
   "mods": [
     {
       "id": "0fec24e5-f040-447f-a0e8-4d224a280f17",
