@@ -1,10 +1,10 @@
 {
-  "modpackVersion": "0.5.2",
+  "modpackVersion": "0.5.3",
   "mcVersion": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.10",
-  "releaseDate": "2026-03-07T14:40:54.481Z",
-  "changelog": "Remove Camera mod causing game crash",
+  "releaseDate": "2026-03-07T15:08:01.850Z",
+  "changelog": "Added Camera and Ice and Fire mod",
   "mods": [
     {
       "id": "0fec24e5-f040-447f-a0e8-4d224a280f17",
