@@ -1,10 +1,10 @@
 {
-  "modpackVersion": "0.5.4",
+  "modpackVersion": "0.5.5",
   "mcVersion": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.10",
-  "releaseDate": "2026-03-07T15:13:28.991Z",
-  "changelog": "Added Uranus and Jupiter mods dependencies for Ice and Fire",
+  "releaseDate": "2026-03-07T15:59:27.074Z",
+  "changelog": "Added Spark mod to profile the client and server",
   "mods": [
     {
       "id": "0fec24e5-f040-447f-a0e8-4d224a280f17",
