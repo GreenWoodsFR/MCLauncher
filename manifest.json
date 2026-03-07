@@ -3285,6 +3285,16 @@
       "required": true,
       "side": "both",
       "version": "1.10.53"
+    },
+    {
+      "id": "c67068a8-0193-445e-adf5-3cbe14adadd6",
+      "name": "Harichunk Mc1.20.1",
+      "filename": "harichunk-mc1.20.1-1.0.2.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.5.5-mods/harichunk-mc1.20.1-1.0.2.jar",
+      "sha256": "a8112262d13b47287448b895b554a82ce1b761421ad1dd12f343f59516a3e22c",
+      "required": true,
+      "side": "both",
+      "version": "1.0.2"
     }
   ],
   "configFiles": [
