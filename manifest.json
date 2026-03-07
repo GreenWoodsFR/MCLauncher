@@ -3275,6 +3275,16 @@
       "required": true,
       "side": "both",
       "version": "2.2.6"
+    },
+    {
+      "id": "de9cb302-2769-4acd-b8f3-0ef759017ca4",
+      "name": "Spark",
+      "filename": "spark-1.10.53-forge.jar",
+      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.5.4-mods/spark-1.10.53-forge.jar",
+      "sha256": "eba275ba9bb0cb5b542913c3138c6eeff6a752898266d63d125d185f26ac99ed",
+      "required": true,
+      "side": "both",
+      "version": "1.10.53"
     }
   ],
   "configFiles": [
