@@ -527,16 +527,6 @@
       "version": "3.2.0"
     },
     {
-      "id": "8ff199ac-25e2-42b9-b077-8db3eb944e62",
-      "name": "Camera",
-      "filename": "camera-forge-1.20.1-1.0.20.jar",
-      "url": "https://github.com/GreenWoodsFR/MCLauncher/releases/download/v0.3.2-mods/camera-forge-1.20.1-1.0.20.jar",
-      "sha256": "593f3a9c0baf09d7baf8f9ec44b882716c43fbf11d5cbff607c9f7fa3ec9aeb8",
-      "required": true,
-      "side": "both",
-      "version": "1.20.1"
-    },
-    {
       "id": "014d5010-2520-43e1-a899-4563cfb04530",
       "name": "Cardinal Sins 1.0.3",
       "filename": "Cardinal Sins 1.0.3.jar",
