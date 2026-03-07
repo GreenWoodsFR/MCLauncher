@@ -1,10 +1,10 @@
 {
-  "modpackVersion": "0.5.0",
+  "modpackVersion": "0.5.1",
   "mcVersion": "1.20.1",
   "loader": "forge",
   "loaderVersion": "47.4.10",
-  "releaseDate": "2026-03-05T22:41:46.996Z",
-  "changelog": "Added KubeJS, resource packs and shaders pack",
+  "releaseDate": "2026-03-07T12:56:51.422Z",
+  "changelog": "Updating Forge version to 47.4.10 instead of the 47.4.0",
   "mods": [
     {
       "id": "0fec24e5-f040-447f-a0e8-4d224a280f17",
